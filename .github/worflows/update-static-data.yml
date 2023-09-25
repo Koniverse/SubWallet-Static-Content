@@ -1,0 +1,24 @@
+name: Update Static Data
+on:
+  workflow_dispatch:
+
+jobs:
+  master:
+    runs-on: ubuntu-22.04
+    name: Update Static Data
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Update data
+        run: |
+          yarn install --immutable | grep -v 'YN0013'
+          yarn update:dapps
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Scheduler
+          author_email: scheduler@github.io
+          message: 'Update Static Data'

@@ -2,7 +2,7 @@ import {gql, GraphQLClient} from "graphql-request";
 import * as fs from "fs";
 
 const STRAPI_TOKEN = process.env.STRAPI_TOKEN;
-const SAVE_PATH = '../data/dapps/list.json';
+const SAVE_PATH = 'data/dapps/list.json';
 
 const graphQLClient = new GraphQLClient('https://content.subwallet.app/graphql', {
     headers: {

@@ -14,5 +14,8 @@
     "install": "^0.13.0",
     "node-fetch": "^3.3.2",
     "npm": "^10.1.0"
+  },
+  "scripts": {
+    "update:dapps": "node scripts/fetch-dapps.mjs"
   }
 }
