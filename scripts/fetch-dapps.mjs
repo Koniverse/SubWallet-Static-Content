@@ -13,7 +13,7 @@ const graphQLClient = new GraphQLClient('https://content.subwallet.app/graphql',
 const query = gql`
 # Write your query or mutation here
 query {
-  dapps {
+  dapps(sort: "id:ASC") {
     data {
       id
       attributes {
