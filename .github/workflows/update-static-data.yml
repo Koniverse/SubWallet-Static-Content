@@ -13,6 +13,8 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GH_AUTOMATION_TOKEN }}
       - name: Update data
+        env:
+          STRAPI_TOKEN: ${{ secrets.STRAPI_TOKEN }}
         run: |
           yarn install --immutable | grep -v 'YN0013'
           yarn update:dapps
