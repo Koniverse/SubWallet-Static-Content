@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Dotinsights",
+    "subtitle": "Polkadot & Kusama Ecosystem Map",
+    "url": "https://dotinsights.subwallet.app/",
+    "categories": [
+      "data",
+      "utilities"
+    ],
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
+    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Dotinsights 1",
+    "subtitle": "Polkadot & Kusama Ecosystem Map",
+    "url": "https://dotinsights.subwallet1.app/",
+    "categories": [
+      "data",
+      "utilities"
+    ],
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
+    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Dotinsights 2",
+    "subtitle": "Polkadot & Kusama Ecosystem Map",
+    "url": "https://dotinsights.subwallet2.app/",
+    "categories": [
+      "data",
+      "utilities"
+    ],
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
+    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Dotinsights 3",
+    "subtitle": "Polkadot & Kusama Ecosystem Map",
+    "url": "https://dotinsights.subwallet3.app/",
+    "categories": [
+      "data",
+      "utilities"
+    ],
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
+    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+  }
+]
