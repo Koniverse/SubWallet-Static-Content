@@ -13,25 +13,32 @@ const graphQLClient = new GraphQLClient('https://content.subwallet.app/graphql',
 const query = gql`
 # Write your query or mutation here
 query {
-  dapps(sort: "id:ASC") {
+  dapps(sort: "id:ASC" pagination: { limit: -1 }) {
     data {
       id
       attributes {
         title
         subtitle
-        url
-        categories
-        chains 
-        is_evm
-        is_substrate
-        icon {
+        description
+        preview_image {
           data {
             attributes {
               url
             }
           }
         }
-        preview_image {
+        is_featured
+        chains {
+          data {
+            attributes {
+              slug
+            }
+          }
+        }
+        is_evm
+        is_substrate
+        categories
+        icon {
           data {
             attributes {
               url
@@ -52,8 +59,10 @@ const main = async () => {
             title: dapp.attributes.title,
             subtitle: dapp.attributes.subtitle,
             url: dapp.attributes.url,
+            description: dapp.description,
             categories: dapp.attributes.categories,
-            chains: dapp.attributes.chains,
+            chains: dapp.attributes.chains.map(c => c.data.attributes.slug),
+            is_featured: dapp.is_featured,
             is_evm: dapp.attributes.is_evm,
             is_substrate: dapp.attributes.is_substrate,
             icon: dapp.attributes.icon.data.attributes.url,
