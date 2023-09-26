@@ -1,17 +1,13 @@
 [
   {
     "id": "1",
-    "title": "DotinsightsX",
-    "subtitle": "Polkadot & Kusama Ecosystem Map",
-    "url": "https://dotinsights.subwallet.app/",
+    "title": "ACE",
+    "subtitle": "TURING-STAGING Network",
     "categories": [
-      "data",
       "utilities"
     ],
-    "chains": [
-      "polkadot",
-      "kusama"
-    ],
+    "chains": [],
+    "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
@@ -19,17 +15,13 @@
   },
   {
     "id": "2",
-    "title": "Dotinsights x 1",
-    "subtitle": "Polkadot & Kusama Ecosystem Map",
-    "url": "https://dotinsights.subwallet.app",
+    "title": "ArtZero.io",
+    "subtitle": "NFT Marketplace for Aleph Zero Blockchain",
     "categories": [
-      "data",
-      "utilities"
+      "defi"
     ],
-    "chains": [
-      "polkadot",
-      "kusama"
-    ],
+    "chains": [],
+    "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
@@ -37,17 +29,13 @@
   },
   {
     "id": "3",
-    "title": "Dotinsights 2",
-    "subtitle": "Polkadot & Kusama Ecosystem Map",
-    "url": "https://dotinsights.subwallet2.app/",
+    "title": "1inch",
+    "subtitle": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
     "categories": [
-      "data",
-      "utilities"
+      "defi"
     ],
-    "chains": [
-      "polkadot",
-      "kusama"
-    ],
+    "chains": [],
+    "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
@@ -55,20 +43,1317 @@
   },
   {
     "id": "4",
-    "title": "Dotinsights 3",
-    "subtitle": "Polkadot & Kusama Ecosystem Map",
-    "url": "https://dotinsights.subwallet3.app/",
+    "title": "Aave",
+    "subtitle": "Open Source Liquidity Protocol",
     "categories": [
-      "data",
-      "utilities"
+      "defi"
     ],
-    "chains": [
-      "polkadot",
-      "kusama"
-    ],
+    "chains": [],
+    "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
     "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+  },
+  {
+    "id": "5",
+    "title": "ArthSwap",
+    "subtitle": "ArthSwap",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "6",
+    "title": "Basilisk Snek Swap",
+    "subtitle": "Basilisk Snek Swap",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "7",
+    "title": "Beamswap",
+    "subtitle": "Beamswap",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "8",
+    "title": "Bounce",
+    "subtitle": "Bounce",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "9",
+    "title": "Cask",
+    "subtitle": "Cask",
+    "categories": [
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "10",
+    "title": "Cosmize Experience",
+    "subtitle": "Cosmize Experience",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "11",
+    "title": "DAM",
+    "subtitle": "DAM",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "12",
+    "title": "Equilibrium",
+    "subtitle": "Equilibrium",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "13",
+    "title": "FiDi",
+    "subtitle": "FiDi",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "14",
+    "title": "GM! Say it back",
+    "subtitle": "GM! Say it back",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "15",
+    "title": "Impossible Finance",
+    "subtitle": "Impossible Finance",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "16",
+    "title": "MoonFit",
+    "subtitle": "Web3 & NFT Lifestyle App",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "17",
+    "title": "Multichain",
+    "subtitle": "Multichain",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "18",
+    "title": "Parallel Finance App",
+    "subtitle": "Parallel Finance App",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "19",
+    "title": "Phala App",
+    "subtitle": "Phala App",
+    "categories": [
+      "defi",
+      "staking"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "20",
+    "title": "Polkasafe",
+    "subtitle": "Polkasafe",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "21",
+    "title": "PrivaDEX",
+    "subtitle": "PrivaDEX",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "22",
+    "title": "Sirius Finance",
+    "subtitle": "Sirius Finance",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "23",
+    "title": "Solarbeam",
+    "subtitle": "Solarbeam",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "24",
+    "title": "Solarflare",
+    "subtitle": "Solarflare",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "25",
+    "title": "Stellaswap",
+    "subtitle": "Stellaswap",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "26",
+    "title": "Subsocial App",
+    "subtitle": "Subsocial App",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "27",
+    "title": "TAIGA",
+    "subtitle": "TAIGA",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "28",
+    "title": "Uniswap Interface",
+    "subtitle": "Uniswap Interface",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "29",
+    "title": "Zeitgeist",
+    "subtitle": "Zeitgeist",
+    "categories": [
+      "nft",
+      "utilities"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "30",
+    "title": "Acala Platform",
+    "subtitle": "Acala Platform",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "31",
+    "title": "Darwinia App",
+    "subtitle": "Darwinia App",
+    "categories": [
+      "staking"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "32",
+    "title": "Karura Platform",
+    "subtitle": "Karura Platform",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "33",
+    "title": "Litmus App",
+    "subtitle": "Litmus App",
+    "categories": [
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "34",
+    "title": "Moonbeam",
+    "subtitle": "Moonbeam",
+    "categories": [
+      "staking",
+      "crowdloans",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "35",
+    "title": "Moonriver",
+    "subtitle": "Moonriver",
+    "categories": [
+      "staking",
+      "crowdloans",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "36",
+    "title": "ArtZero.io",
+    "subtitle": "NFT Marketplace for Astar Network Blockchain",
+    "categories": [
+      "nft"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "37",
+    "title": "Astar Web3 Domains",
+    "subtitle": "Astar Web3 Domains",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "38",
+    "title": "Bifrost App",
+    "subtitle": "Bifrost App",
+    "categories": [
+      "defi",
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "39",
+    "title": "Bluez",
+    "subtitle": "Bluez",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "40",
+    "title": "Blur",
+    "subtitle": "NFT Marketplace for Pro Traders",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "41",
+    "title": "cBridge",
+    "subtitle": "The Best Crypto & Binance Bridge",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "42",
+    "title": "Centrifuge Rewards Claim",
+    "subtitle": "Centrifuge Rewards Claim",
+    "categories": [
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "43",
+    "title": "Chainlist",
+    "subtitle": "Chainlist",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "44",
+    "title": "Huckleberry Finance",
+    "subtitle": "Huckleberry Finance",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "45",
+    "title": "Subwallet connect",
+    "subtitle": "Subwallet connect",
+    "categories": [
+      "test"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "46",
+    "title": "Interlay Rewards Claim",
+    "subtitle": "Interlay Rewards Claim",
+    "categories": [
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "47",
+    "title": "Parallel Rewards Claim",
+    "subtitle": "Parallel Rewards Claim",
+    "categories": [
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "48",
+    "title": "Curve",
+    "subtitle": "Curve",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "49",
+    "title": "Damned Pirates Society",
+    "subtitle": "Damned Pirates Society",
+    "categories": [
+      "nft",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "50",
+    "title": "Robonomics",
+    "subtitle": "Robonomics",
+    "categories": [
+      "staking"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "51",
+    "title": "DappRadar",
+    "subtitle": "DappRadar",
+    "categories": [
+      "utilities"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "52",
+    "title": "Zenlink",
+    "subtitle": "Zenlink",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "53",
+    "title": "Acala Rewards Claim",
+    "subtitle": "Acala Rewards Claim",
+    "categories": [
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "54",
+    "title": "dotinsights",
+    "subtitle": "Polkadot & Kusama Ecosystem Map",
+    "categories": [
+      "data",
+      "utilities"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "55",
+    "title": "Dotmarketcap",
+    "subtitle": "Dotmarketcap",
+    "categories": [
+      "utilities"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "56",
+    "title": "Mandala",
+    "subtitle": "Mandala",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "57",
+    "title": "Raffle & Claim Rewards",
+    "subtitle": "Raffle & Claim Rewards",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "58",
+    "title": "EVRLOOT",
+    "subtitle": "EVRLOOT",
+    "categories": [
+      "nft"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "59",
+    "title": "HydraDX",
+    "subtitle": "Polkadot's Multi-Headed Liquidity Monster",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "60",
+    "title": "InkWhale.net",
+    "subtitle": "Staking and Yield Farming Platform on Aleph Zero",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "61",
+    "title": "a0.inkwhale.net",
+    "subtitle": "Staking and Yield Farming Platform on Aleph Zero",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "62",
+    "title": "Kanaria",
+    "subtitle": "Kanaria",
+    "categories": [
+      "nft"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "63",
+    "title": "Kintsugi Hub",
+    "subtitle": "Kintsugi Hub",
+    "categories": [
+      "staking",
+      "defi",
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "64",
+    "title": "KodaDot",
+    "subtitle": "KodaDot",
+    "categories": [
+      "nft"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "65",
+    "title": "Bit.Country Pioneer Rewards Claim",
+    "subtitle": "Bit.Country Pioneer Rewards Claim",
+    "categories": [
+      "crowdloans"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "66",
+    "title": "Kusama Lido",
+    "subtitle": "Kusama Lido",
+    "categories": [
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "67",
+    "title": "Liquid Staking for Digital Tokens",
+    "subtitle": "Liquid Staking for Digital Tokens",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "68",
+    "title": "YieldBay",
+    "subtitle": "YieldBay",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "69",
+    "title": "Moonsama",
+    "subtitle": "Moonsama",
+    "categories": [
+      "nft",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "70",
+    "title": "AzeroPunks",
+    "subtitle": "AzeroPunks",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "71",
+    "title": "Moonbeam Curve",
+    "subtitle": "Moonbeam Curve",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "72",
+    "title": "Huckleberry Finance",
+    "subtitle": "Huckleberry Finance",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "73",
+    "title": "Moon Web3 identity",
+    "subtitle": "Moon Web3 identity",
+    "categories": [
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "74",
+    "title": "Moonwell",
+    "subtitle": "Moonwell",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "75",
+    "title": "Notifi",
+    "subtitle": "Notifi",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "76",
+    "title": "Panorama Swap",
+    "subtitle": "Panorama Swap",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "77",
+    "title": "Bit.Country Pioneer Metaverse",
+    "subtitle": "Bit.Country Pioneer Metaverse",
+    "categories": [
+      "nft",
+      "staking"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "78",
+    "title": "Spacers NFT Pods Sale",
+    "subtitle": "Spacers NFT Pods Sale",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "79",
+    "title": "Polkadot.js",
+    "subtitle": "Polkadot.js",
+    "categories": [
+      "utilities"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "80",
+    "title": "Polkadot Lido",
+    "subtitle": "Polkadot Lido",
+    "categories": [
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "81",
+    "title": "Polkassembly",
+    "subtitle": "Polkassembly",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "82",
+    "title": "Polkaswap",
+    "subtitle": "Polkaswap",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "83",
+    "title": "PolkaVerse u2013 Polkadot's Premier Social Network",
+    "subtitle": "PolkaVerse u2013 Polkadot's Premier Social Network",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "84",
+    "title": "Polkawatch",
+    "subtitle": "Polkawatch",
+    "categories": [
+      "staking"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "85",
+    "title": "Astar DApp Hub",
+    "subtitle": "Astar DApp Hub",
+    "categories": [
+      "defi",
+      "staking",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "86",
+    "title": "Evolution Land. Columbus",
+    "subtitle": "Evolution Land. Columbus",
+    "categories": [
+      "nft",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "87",
+    "title": "Secret Stash",
+    "subtitle": "Ternoa Marketplace",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "88",
+    "title": "Singular",
+    "subtitle": "Singular",
+    "categories": [
+      "test"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "89",
+    "title": "Singular 2.0",
+    "subtitle": "Singular 2.0",
+    "categories": [
+      "nft"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "90",
+    "title": "Singular",
+    "subtitle": "Singular",
+    "categories": [
+      "nft"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "91",
+    "title": "Kanaria Skybreach",
+    "subtitle": "Kanaria Skybreach",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "92",
+    "title": "Polkadot Staking Dashboard",
+    "subtitle": "Polkadot Staking Dashboard",
+    "categories": [
+      "staking"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "93",
+    "title": "Sub ID: Substrate Addresses, Balances, Crowdloans and NFTs",
+    "subtitle": "Sub ID: Substrate Addresses, Balances, Crowdloans and NFTs",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "94",
+    "title": "Utopia & TF Alpha",
+    "subtitle": "Utopia & TF Alpha",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "95",
+    "title": "TofuNFT",
+    "subtitle": "TofuNFT",
+    "categories": [
+      "nft",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "96",
+    "title": "Verse DEX",
+    "subtitle": "Bitcoin.comu00e2u20acu2122s official decentralized exchange",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "97",
+    "title": "Avault",
+    "subtitle": "Avault",
+    "categories": [
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "98",
+    "title": "Bananaswap",
+    "subtitle": "Bananaswap",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "99",
+    "title": "Braindex",
+    "subtitle": "Smart Dex Aggregator",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "100",
+    "title": "Gear Technologies",
+    "subtitle": "Crypto. Smarter",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "101",
+    "title": "HashKey DID",
+    "subtitle": "HashKey DID",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "102",
+    "title": "Mangata",
+    "subtitle": "The DEX of the future",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "103",
+    "title": "Portal Token Bridge",
+    "subtitle": "Portal Token Bridge",
+    "categories": [
+      "defi"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "104",
+    "title": "Subsquare",
+    "subtitle": "Subsquare",
+    "categories": [
+      "community"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "105",
+    "title": "XDAO",
+    "subtitle": "XDAO",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "106",
+    "title": "HEAL-Ⅲ",
+    "subtitle": "Health to Earn",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "107",
+    "title": "Oxalus",
+    "subtitle": "NFT Social Commerce Platform",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "108",
+    "title": "Birdeye",
+    "subtitle": "Birdeye",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
+  },
+  {
+    "id": "109",
+    "title": "AZERO.ID",
+    "subtitle": "Domain Service on Aleph Zero",
+    "categories": [
+      "utilities"
+    ],
+    "chains": [],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null
   }
 ]
