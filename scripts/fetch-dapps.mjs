@@ -61,12 +61,12 @@ const main = async () => {
             url: dapp.attributes.url,
             description: dapp.description,
             categories: dapp.attributes.categories,
-            chains: dapp.attributes.chains.map(c => c.data.attributes.slug),
-            is_featured: dapp.is_featured,
+            chains: dapp.attributes.chains.data.map(c => c.data.attributes.slug),
+            is_featured: dapp.attributes.is_featured,
             is_evm: dapp.attributes.is_evm,
             is_substrate: dapp.attributes.is_substrate,
-            icon: dapp.attributes.icon.data.attributes.url,
-            preview_image: dapp.attributes.preview_image.data.attributes.url
+            icon: dapp.attributes.icon?.data?.attributes?.url,
+            preview_image: dapp.attributes.preview_image?.data?.attributes?.url
         }
     });
 
