@@ -674,7 +674,7 @@
       "utilities"
     ],
     "chains": [],
-    "is_featured": null,
+    "is_featured": true,
     "is_evm": null,
     "is_substrate": null
   },
