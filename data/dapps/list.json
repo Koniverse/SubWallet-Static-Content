@@ -136,7 +136,7 @@
   {
     "id": "9",
     "title": "Cask",
-    "subtitle": "Cask",
+    "subtitle": "Recurring money flows and automation for Web3",
     "url": "https://app.cask.fi",
     "categories": [
       "evm"
@@ -302,19 +302,6 @@
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/polkasafe_2ed7baa407.png"
-  },
-  {
-    "id": "21",
-    "title": "PrivaDEX",
-    "subtitle": "PrivaDEX",
-    "url": "https://app.privadex.xyz/",
-    "categories": [
-      "defi"
-    ],
-    "chains": [],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null
   },
   {
     "id": "22",
@@ -627,10 +614,10 @@
   {
     "id": "43",
     "title": "Chainlist",
-    "subtitle": "Chainlist",
+    "subtitle": "RPCs list for EVM networks",
     "url": "https://chainlist.org/",
     "categories": [
-      "defi"
+      "data"
     ],
     "chains": [],
     "is_featured": null,
@@ -655,8 +642,8 @@
   },
   {
     "id": "45",
-    "title": "Subwallet connect",
-    "subtitle": "Subwallet connect",
+    "title": "SubWallet connect",
+    "subtitle": "SubWallet connect",
     "url": "https://connect.subwallet.app/#/",
     "categories": [
       "test"
