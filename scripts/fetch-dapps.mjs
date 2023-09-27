@@ -61,7 +61,7 @@ const main = async () => {
             url: dapp.attributes.url,
             description: dapp.description,
             categories: dapp.attributes.categories,
-            chains: dapp.attributes.chains.data.map(c => c.data.attributes.slug),
+            chains: dapp.attributes.chains.data.map(c => c.attributes.slug),
             is_featured: dapp.attributes.is_featured,
             is_evm: dapp.attributes.is_evm,
             is_substrate: dapp.attributes.is_substrate,
