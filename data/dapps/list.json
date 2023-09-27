@@ -2,17 +2,19 @@
   {
     "id": "1",
     "title": "ACE",
-    "subtitle": "TURING-STAGING Network",
+    "subtitle": null,
     "url": "https://ace.web3go.xyz/#/",
     "categories": [
       "utilities"
     ],
-    "chains": [],
+    "chains": [
+      "turingStaging",
+      "turing"
+    ],
     "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
-    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+    "icon": "https://media-resources.subwallet.app//1/ace_b5d012e7e8.png"
   },
   {
     "id": "2",
@@ -20,14 +22,15 @@
     "subtitle": "NFT Marketplace for Aleph Zero Blockchain",
     "url": "https://a0.artzero.io",
     "categories": [
-      "defi"
+      "nft"
     ],
-    "chains": [],
+    "chains": [
+      "aleph"
+    ],
     "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
-    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+    "icon": "https://media-resources.subwallet.app//1/artzero_63774d40c3.png"
   },
   {
     "id": "3",
@@ -37,12 +40,13 @@
     "categories": [
       "defi"
     ],
-    "chains": [],
+    "chains": [
+      "ethereum"
+    ],
     "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
-    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+    "icon": "https://media-resources.subwallet.app//3/1inch_689ac3fdae.png"
   },
   {
     "id": "4",
@@ -52,68 +56,82 @@
     "categories": [
       "defi"
     ],
-    "chains": [],
+    "chains": [
+      "ethereum"
+    ],
     "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/dotinsights_6551939606.png",
-    "preview_image": "https://media-resources.subwallet.app/preview_dotinsights_62a4833e7d.jpg"
+    "icon": "https://media-resources.subwallet.app//1/aave_28364b7b66.png"
   },
   {
     "id": "5",
     "title": "ArthSwap",
-    "subtitle": "ArthSwap",
+    "subtitle": "DEX on the Astar Network",
     "url": "https://app.arthswap.org/#/swap",
     "categories": [
       "defi",
       "staking",
       "evm"
     ],
-    "chains": [],
+    "chains": [
+      "astarEvm",
+      "shibuyaEvm"
+    ],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/arthswap_fb8a7c7543.png"
   },
   {
     "id": "6",
     "title": "Basilisk Snek Swap",
-    "subtitle": "Basilisk Snek Swap",
+    "subtitle": "AMM for the Kusama ecosystem",
     "url": "https://app.basilisk.cloud/#/trade",
     "categories": [
       "defi"
     ],
-    "chains": [],
+    "chains": [
+      "basilisk"
+    ],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/basilisk_5c8a4b00d8.png"
   },
   {
     "id": "7",
     "title": "Beamswap",
-    "subtitle": "Beamswap",
+    "subtitle": "DeFi hub on Moonbeam Network",
     "url": "https://app.beamswap.io/exchange/swap",
     "categories": [
       "defi",
       "staking",
       "evm"
     ],
-    "chains": [],
+    "chains": [
+      "moonbeam"
+    ],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/beamswap_4f441f15a9.png"
   },
   {
     "id": "8",
     "title": "Bounce",
-    "subtitle": "Bounce",
+    "subtitle": "A decentralized auction platform",
     "url": "https://app.bounce.finance/market",
     "categories": [
       "defi"
     ],
-    "chains": [],
+    "chains": [
+      "ethereum"
+    ],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/bounce_finance_d54cfafcf6.png"
   },
   {
     "id": "9",
@@ -126,7 +144,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/cask_protocol_0c34a97c6d.png"
   },
   {
     "id": "10",
@@ -139,7 +158,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/cosmize_f0577fe206.png"
   },
   {
     "id": "11",
@@ -152,7 +172,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dam_finance_aa27bca11b.png"
   },
   {
     "id": "12",
@@ -165,7 +186,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//2/equilibrium_8c9f18b502.png"
   },
   {
     "id": "13",
@@ -178,7 +200,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/fidi_6943c4b18f.png"
   },
   {
     "id": "14",
@@ -191,7 +214,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/gmdie_77f0697e04.png"
   },
   {
     "id": "15",
@@ -205,7 +229,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/impossible_finance_24f0ae28b6.png"
   },
   {
     "id": "16",
@@ -218,7 +243,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/moonfit_215142f555.png"
   },
   {
     "id": "17",
@@ -231,7 +257,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/multichain_65334c02bc.png"
   },
   {
     "id": "18",
@@ -244,7 +271,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/parallel_4a3b2a90fe.png"
   },
   {
     "id": "19",
@@ -258,7 +286,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/phala_network_84a301ea7e.png"
   },
   {
     "id": "20",
@@ -271,7 +300,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkasafe_2ed7baa407.png"
   },
   {
     "id": "21",
@@ -297,7 +327,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/sirius_finance_53dd368822.png"
   },
   {
     "id": "23",
@@ -312,7 +343,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/solarbeam_1130ef70f1.png"
   },
   {
     "id": "24",
@@ -327,7 +359,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/solarflare_47b792ed4c.png"
   },
   {
     "id": "25",
@@ -342,7 +375,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/stellaswap_68aa6c5c5a.png"
   },
   {
     "id": "26",
@@ -355,7 +389,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkaverse_249947ef39.png"
   },
   {
     "id": "27",
@@ -368,7 +403,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/taiga_c899f8fc63.png"
   },
   {
     "id": "28",
@@ -381,7 +417,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/uniswap_3e3c190a2d.png"
   },
   {
     "id": "29",
@@ -395,7 +432,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/zeitgeist_a72652f11c.png"
   },
   {
     "id": "30",
@@ -408,7 +446,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/acala_81b1f3f72b.png"
   },
   {
     "id": "31",
@@ -421,7 +460,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/darwinia_42cb919d98.png"
   },
   {
     "id": "32",
@@ -434,7 +474,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/karura_f0db29b6d2.png"
   },
   {
     "id": "33",
@@ -447,7 +488,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//2/litmus_2e86f51933.png"
   },
   {
     "id": "34",
@@ -462,7 +504,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/moonbeam_network_40889ef4a4.png"
   },
   {
     "id": "35",
@@ -477,20 +520,24 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/moonriver_4c83e2956f.png"
   },
   {
     "id": "36",
     "title": "ArtZero.io",
-    "subtitle": "NFT Marketplace for Astar Network Blockchain",
+    "subtitle": "NFT Marketplace for Astar Network",
     "url": "https://astar.artzero.io/",
     "categories": [
       "nft"
     ],
-    "chains": [],
+    "chains": [
+      "astar"
+    ],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/artzero_63774d40c3.png"
   },
   {
     "id": "37",
@@ -503,7 +550,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/astar_web3_domains_e8bcab148c.png"
   },
   {
     "id": "38",
@@ -517,7 +565,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/bifrost_7bc34a05fc.png"
   },
   {
     "id": "39",
@@ -530,7 +579,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/bluez_d46453790c.png"
   },
   {
     "id": "40",
@@ -557,7 +607,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/celer_cbridge_7529e5082b.png"
   },
   {
     "id": "42",
@@ -570,7 +621,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/centrifuge_7293c743a5.png"
   },
   {
     "id": "43",
@@ -598,7 +650,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/huckleberry_66822bf53d.png"
   },
   {
     "id": "45",
@@ -624,7 +677,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/interlay_909455ece5.png"
   },
   {
     "id": "47",
@@ -637,7 +691,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/parallel_4a3b2a90fe.png"
   },
   {
     "id": "48",
@@ -650,7 +705,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/curve_51fe10f007.png"
   },
   {
     "id": "49",
@@ -664,7 +720,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/the_damned_pirates_society_049a768053.png"
   },
   {
     "id": "50",
@@ -677,7 +734,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/robonomics_efe081dce3.png"
   },
   {
     "id": "51",
@@ -690,7 +748,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dappradar_6941f41339.png"
   },
   {
     "id": "52",
@@ -703,7 +762,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/zenlink_8d9b45ebb4.png"
   },
   {
     "id": "53",
@@ -716,7 +776,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/acala_81b1f3f72b.png"
   },
   {
     "id": "54",
@@ -730,7 +791,8 @@
     "chains": [],
     "is_featured": true,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dotinsights_367a459604.png"
   },
   {
     "id": "55",
@@ -743,7 +805,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/dotmarketcap_006c7e43bd.png"
   },
   {
     "id": "56",
@@ -782,7 +845,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/evrloot_cc25e6e2bb.png"
   },
   {
     "id": "59",
@@ -795,7 +859,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/hydradx_a80c4584de.png"
   },
   {
     "id": "60",
@@ -834,7 +899,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/kanaria_ef0758bdb2.png"
   },
   {
     "id": "63",
@@ -849,7 +915,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/kintsugi_7940790264.png"
   },
   {
     "id": "64",
@@ -862,7 +929,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/kodadot_e5b6996e52.png"
   },
   {
     "id": "65",
@@ -875,7 +943,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/bit_country_pioneer_a3c839ef5d.png"
   },
   {
     "id": "66",
@@ -902,7 +971,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/lido_3a5ab538fc.png"
   },
   {
     "id": "68",
@@ -929,7 +999,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/moonsama_2feb69f976.png"
   },
   {
     "id": "70",
@@ -942,7 +1013,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/azeropunks_d0a5d6332f.png"
   },
   {
     "id": "71",
@@ -956,7 +1028,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/curve_51fe10f007.png"
   },
   {
     "id": "72",
@@ -971,7 +1044,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/huckleberry_66822bf53d.png"
   },
   {
     "id": "73",
@@ -998,7 +1072,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/moonwell_728c173d60.png"
   },
   {
     "id": "75",
@@ -1011,7 +1086,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/notifi_network_6b1c1ddb14.png"
   },
   {
     "id": "76",
@@ -1024,7 +1100,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/panorama_swap_9722c877f4.png"
   },
   {
     "id": "77",
@@ -1038,7 +1115,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/bit_country_continuum_119cfcfbe1.png"
   },
   {
     "id": "78",
@@ -1064,7 +1142,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkadot_js_8bc6183004.png"
   },
   {
     "id": "80",
@@ -1091,7 +1170,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkassembly_f3f87c02b4.png"
   },
   {
     "id": "82",
@@ -1104,7 +1184,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkaswap_1140fc2be0.png"
   },
   {
     "id": "83",
@@ -1117,7 +1198,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkaverse_249947ef39.png"
   },
   {
     "id": "84",
@@ -1130,7 +1212,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/polkawatch_dcb0750aaf.png"
   },
   {
     "id": "85",
@@ -1145,7 +1228,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/astar_network_e410f4950e.png"
   },
   {
     "id": "86",
@@ -1172,7 +1256,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/secret_stash_c170acdef5.png"
   },
   {
     "id": "88",
@@ -1224,7 +1309,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/skybreach_e861461186.png"
   },
   {
     "id": "92",
@@ -1263,7 +1349,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/utopia_tf_alpha_8ba6049451.png"
   },
   {
     "id": "95",
@@ -1277,7 +1364,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/tofunft_9299f7a8d8.png"
   },
   {
     "id": "96",
@@ -1290,7 +1378,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/verse_0dba4f32d5.png"
   },
   {
     "id": "97",
@@ -1303,7 +1392,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/avault_2a1efa87b6.png"
   },
   {
     "id": "98",
@@ -1316,7 +1406,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/bananaswap_27422d000b.png"
   },
   {
     "id": "99",
@@ -1342,7 +1433,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/gear_f9c46a093c.png"
   },
   {
     "id": "101",
@@ -1368,7 +1460,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/mangata_961f9e10f8.png"
   },
   {
     "id": "103",
@@ -1408,7 +1501,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/xdao_0f4ec16256.png"
   },
   {
     "id": "106",
@@ -1422,7 +1516,8 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/heal3_25b4fd9ed8.png"
   },
   {
     "id": "107",
@@ -1463,6 +1558,7 @@
     "chains": [],
     "is_featured": null,
     "is_evm": null,
-    "is_substrate": null
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/azero_domain_e77986a5c1.png"
   }
 ]
