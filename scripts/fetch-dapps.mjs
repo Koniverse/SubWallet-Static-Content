@@ -11,7 +11,6 @@ const graphQLClient = new GraphQLClient('https://content.subwallet.app/graphql',
 });
 
 const query = gql`
-# Write your query or mutation here
 query {
   dapps(sort: "id:ASC" pagination: { limit: -1 }) {
     data {
@@ -27,6 +26,7 @@ query {
             }
           }
         }
+        url
         is_featured
         chains {
           data {
