@@ -12,7 +12,7 @@ const graphQLClient = new GraphQLClient('https://content.subwallet.app/graphql',
 
 const query = gql`
 query {
-  dapps(sort: "id:ASC" pagination: { limit: -1 }) {
+  dapps(sort: "ordinal:ASC" pagination: { limit: -1 }) {
     data {
       id
       attributes {
