@@ -923,17 +923,21 @@
   },
   {
     "id": "65",
-    "title": "Bit.Country Pioneer Rewards Claim",
-    "subtitle": "Bit.Country Pioneer Rewards Claim",
+    "title": "Bit.Country",
+    "subtitle": "Pioneer network Crowdloan",
     "url": "https://ksmcrowdloan.bit.country/reward",
     "categories": [
       "crowdloans"
     ],
-    "chains": [],
-    "is_featured": null,
+    "chains": [
+      "kusama",
+      "pioneer"
+    ],
+    "is_featured": true,
     "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/bit_country_pioneer_a3c839ef5d.png"
+    "is_substrate": true,
+    "icon": "https://media-resources.subwallet.app//1/bit_country_pioneer_a3c839ef5d.png",
+    "preview_image": "https://media-resources.subwallet.app/crowdloan_banner_11e4c68721.png"
   },
   {
     "id": "66",
@@ -1094,18 +1098,21 @@
   },
   {
     "id": "77",
-    "title": "Bit.Country Pioneer Metaverse",
-    "subtitle": "Bit.Country Pioneer Metaverse",
+    "title": "Bit.Country",
+    "subtitle": "Start your own metaverse for your community",
     "url": "https://pioneer.bit.country/",
     "categories": [
       "nft",
       "staking"
     ],
-    "chains": [],
-    "is_featured": null,
+    "chains": [
+      "pioneer"
+    ],
+    "is_featured": true,
     "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//3/bit_country_continuum_119cfcfbe1.png"
+    "is_substrate": true,
+    "icon": "https://media-resources.subwallet.app//3/bit_country_continuum_119cfcfbe1.png",
+    "preview_image": "https://media-resources.subwallet.app//5/bc_social_704220e373.png"
   },
   {
     "id": "78",
