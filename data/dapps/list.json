@@ -27,10 +27,11 @@
     "chains": [
       "aleph"
     ],
-    "is_featured": null,
+    "is_featured": true,
     "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/artzero_63774d40c3.png"
+    "is_substrate": true,
+    "icon": "https://media-resources.subwallet.app//1/artzero_63774d40c3.png",
+    "preview_image": "https://media-resources.subwallet.app//5/artzero_a54179a36e.avif"
   },
   {
     "id": "3",
@@ -769,7 +770,7 @@
   {
     "id": "54",
     "title": "dotinsights",
-    "subtitle": "Polkadot & Kusama Ecosystem Map",
+    "subtitle": "Interactive Polkadot & Kusama Ecosystem Map",
     "url": "https://dotinsights.subwallet.app/",
     "categories": [
       "data",
@@ -777,9 +778,10 @@
     ],
     "chains": [],
     "is_featured": true,
-    "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/dotinsights_367a459604.png"
+    "is_evm": true,
+    "is_substrate": true,
+    "icon": "https://media-resources.subwallet.app//1/dotinsights_367a459604.png",
+    "preview_image": "https://media-resources.subwallet.app//5/dotinsight_1d624aa8ec.jpg"
   },
   {
     "id": "55",
@@ -1247,43 +1249,24 @@
     "icon": "https://media-resources.subwallet.app//1/secret_stash_c170acdef5.png"
   },
   {
-    "id": "88",
-    "title": "Singular",
-    "subtitle": "Singular",
-    "url": "https://singular-rmrk2-dev.vercel.app/",
-    "categories": [
-      "test"
-    ],
-    "chains": [],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null
-  },
-  {
     "id": "89",
     "title": "Singular 2.0",
-    "subtitle": "Singular 2.0",
+    "subtitle": "the NFT 2.0 Marketplace - the future of NFTs starts here",
     "url": "https://singular.app/",
     "categories": [
       "nft"
     ],
-    "chains": [],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null
-  },
-  {
-    "id": "90",
-    "title": "Singular",
-    "subtitle": "Singular",
-    "url": "https://singular.rmrk.app/",
-    "categories": [
-      "nft"
+    "chains": [
+      "kusama",
+      "statemine",
+      "statemint",
+      "moonbeam"
     ],
-    "chains": [],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null
+    "is_featured": true,
+    "is_evm": true,
+    "is_substrate": true,
+    "icon": "https://media-resources.subwallet.app/singular_e657ed912b.png",
+    "preview_image": "https://media-resources.subwallet.app//5/singular_989e984522.jpg"
   },
   {
     "id": "91",
