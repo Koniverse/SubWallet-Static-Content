@@ -22,7 +22,9 @@
     "subtitle": "By DOTinVietnam",
     "url": "https://nft.dotinvietnam.com/",
     "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
-    "categories": null,
+    "categories": [
+      "nft"
+    ],
     "chains": [
       "kusama"
     ],
