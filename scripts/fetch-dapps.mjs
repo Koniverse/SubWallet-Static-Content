@@ -59,7 +59,7 @@ const main = async () => {
             title: dapp.attributes.title,
             subtitle: dapp.attributes.subtitle,
             url: dapp.attributes.url,
-            description: dapp.description,
+            description: dapp.attributes.description,
             categories: dapp.attributes.categories,
             chains: dapp.attributes.chains.data.map(c => c.attributes.slug),
             is_featured: dapp.attributes.is_featured,
