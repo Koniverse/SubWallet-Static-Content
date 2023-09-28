@@ -4,6 +4,7 @@
     "title": "ACE",
     "subtitle": null,
     "url": "https://ace.web3go.xyz/#/",
+    "description": null,
     "categories": [
       "utilities"
     ],
@@ -21,6 +22,7 @@
     "title": "ArtZero.io",
     "subtitle": "NFT Marketplace for Aleph Zero Blockchain",
     "url": "https://a0.artzero.io",
+    "description": "Discover, create, collect and trade NFTs on Aleph Zero Blockchain with ArtZero.io",
     "categories": [
       "nft"
     ],
@@ -38,6 +40,7 @@
     "title": "1inch",
     "subtitle": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
     "url": "https://app.1inch.io/",
+    "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
     "categories": [
       "defi"
     ],
@@ -54,6 +57,7 @@
     "title": "Aave",
     "subtitle": "Open Source Liquidity Protocol",
     "url": "https://app.aave.com/",
+    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
     "categories": [
       "defi"
     ],
@@ -70,6 +74,7 @@
     "title": "ArthSwap",
     "subtitle": "DEX on the Astar Network",
     "url": "https://app.arthswap.org/#/swap",
+    "description": "With simple UI and high APY design, ArthSwap enables High-Frequency Trade on Astar Network. ArthSwap is a one-stop DeFi protocol that aspires to be the main DEX on the Astar Network. Arthswap's primary products are trading, staking, IDO launchpad, and liquidity farming, with other capabilities to be consistently added.",
     "categories": [
       "defi",
       "staking",
@@ -89,6 +94,7 @@
     "title": "Basilisk Snek Swap",
     "subtitle": "AMM for the Kusama ecosystem",
     "url": "https://app.basilisk.cloud/#/trade",
+    "description": "Snek Swap is an AMM built for the Kusama ecosystem which enables users to trade tokens in a decentralized and permissionless manner. With Snake Swap, users can trade tokens or become a liquidity provider and earn rewards from the generated trading fees.",
     "categories": [
       "defi"
     ],
@@ -105,6 +111,7 @@
     "title": "Beamswap",
     "subtitle": "DeFi hub on Moonbeam Network",
     "url": "https://app.beamswap.io/exchange/swap",
+    "description": "Beamswap is a decentralized exchange (DEX) with an automated market maker (AMM), providing liquidity and peer-to-peer transactions. The DeFi hub provides an array of services and features supporting the DeFi and Web3 spaces, including crypto swaps, staking, and yield farming, and serves as a launch platform for new and exciting projects built on the Moonbeam Network.",
     "categories": [
       "defi",
       "staking",
@@ -123,6 +130,7 @@
     "title": "Bounce",
     "subtitle": "A decentralized auction platform",
     "url": "https://app.bounce.finance/market",
+    "description": "Bounce’s fully decentralized auction platform uses blockchain technology to ensure more transparent, efficient, and accessible auctioning, bidding, and buying processes for Web3 users. ",
     "categories": [
       "defi"
     ],
@@ -139,6 +147,7 @@
     "title": "Cask",
     "subtitle": "Recurring money flows and automation for Web3",
     "url": "https://app.cask.fi",
+    "description": "Cask is a decentralized non-custodial protocol for automating the flow of money in Web3.",
     "categories": [
       "evm"
     ],
@@ -153,6 +162,7 @@
     "title": "Cosmize Experience",
     "subtitle": "Cosmize Experience",
     "url": "https://app.cosmize.io",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -167,6 +177,7 @@
     "title": "DAM",
     "subtitle": "DAM",
     "url": "https://app.dam.finance/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -181,6 +192,7 @@
     "title": "Equilibrium",
     "subtitle": "Equilibrium",
     "url": "https://app.equilibrium.io/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -195,6 +207,7 @@
     "title": "FiDi",
     "subtitle": "FiDi",
     "url": "https://app.fidi.tech/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -209,6 +222,7 @@
     "title": "GM! Say it back",
     "subtitle": "GM! Say it back",
     "url": "https://app.gmordie.com/",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -223,6 +237,7 @@
     "title": "Impossible Finance",
     "subtitle": "Impossible Finance",
     "url": "https://app.impossible.finance/explore",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -238,6 +253,7 @@
     "title": "MoonFit",
     "subtitle": "Web3 & NFT Lifestyle App",
     "url": "https://app.moonfit.xyz/nft-sale",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -252,6 +268,7 @@
     "title": "Multichain",
     "subtitle": "Multichain",
     "url": "https://app.multichain.org/#/router",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -266,6 +283,7 @@
     "title": "Parallel Finance App",
     "subtitle": "Parallel Finance App",
     "url": "https://app.parallel.fi/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -280,6 +298,7 @@
     "title": "Phala App",
     "subtitle": "Phala App",
     "url": "https://app.phala.network/",
+    "description": null,
     "categories": [
       "defi",
       "staking"
@@ -295,6 +314,7 @@
     "title": "Polkasafe",
     "subtitle": "Polkasafe",
     "url": "https://app.polkasafe.xyz/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -309,6 +329,7 @@
     "title": "Sirius Finance",
     "subtitle": "Sirius Finance",
     "url": "https://app.sirius.finance/#/swap",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -323,6 +344,7 @@
     "title": "Solarbeam",
     "subtitle": "Solarbeam",
     "url": "https://app.solarbeam.io/exchange/swap",
+    "description": null,
     "categories": [
       "defi",
       "staking",
@@ -339,6 +361,7 @@
     "title": "Solarflare",
     "subtitle": "Solarflare",
     "url": "https://app.solarflare.io/exchange/swap",
+    "description": null,
     "categories": [
       "defi",
       "staking",
@@ -355,6 +378,7 @@
     "title": "Stellaswap",
     "subtitle": "Stellaswap",
     "url": "https://app.stellaswap.com/exchange/swap",
+    "description": null,
     "categories": [
       "defi",
       "staking",
@@ -371,6 +395,7 @@
     "title": "Subsocial App",
     "subtitle": "Subsocial App",
     "url": "https://app.subsocial.network/",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -385,6 +410,7 @@
     "title": "TAIGA",
     "subtitle": "TAIGA",
     "url": "https://app.taigaprotocol.io/assets",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -399,6 +425,7 @@
     "title": "Uniswap Interface",
     "subtitle": "Uniswap Interface",
     "url": "https://app.uniswap.org/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -413,6 +440,7 @@
     "title": "Zeitgeist",
     "subtitle": "Zeitgeist",
     "url": "https://app.zeitgeist.pm/",
+    "description": null,
     "categories": [
       "nft",
       "utilities"
@@ -428,6 +456,7 @@
     "title": "Acala Platform",
     "subtitle": "Acala Platform",
     "url": "https://apps.acala.network/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -442,6 +471,7 @@
     "title": "Darwinia App",
     "subtitle": "Darwinia App",
     "url": "https://apps.darwinia.network/",
+    "description": null,
     "categories": [
       "staking"
     ],
@@ -456,6 +486,7 @@
     "title": "Karura Platform",
     "subtitle": "Karura Platform",
     "url": "https://apps.karura.network/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -470,6 +501,7 @@
     "title": "Litmus App",
     "subtitle": "Litmus App",
     "url": "https://apps.litentry.com/",
+    "description": null,
     "categories": [
       "crowdloans"
     ],
@@ -484,6 +516,7 @@
     "title": "Moonbeam",
     "subtitle": "Moonbeam",
     "url": "https://apps.moonbeam.network/moonbeam",
+    "description": null,
     "categories": [
       "staking",
       "crowdloans",
@@ -500,6 +533,7 @@
     "title": "Moonriver",
     "subtitle": "Moonriver",
     "url": "https://apps.moonbeam.network/moonriver",
+    "description": null,
     "categories": [
       "staking",
       "crowdloans",
@@ -516,6 +550,7 @@
     "title": "ArtZero.io",
     "subtitle": "NFT Marketplace for Astar Network",
     "url": "https://astar.artzero.io/",
+    "description": "ArtZero is an NFT marketplace built on Astar Network. Get quick and easy access to digital collectibles, explore & trade NFTs from different collections & artists.",
     "categories": [
       "nft"
     ],
@@ -532,6 +567,7 @@
     "title": "Astar Web3 Domains",
     "subtitle": "Astar Web3 Domains",
     "url": "https://astr.domains/buy",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -546,6 +582,7 @@
     "title": "Bifrost App",
     "subtitle": "Bifrost App",
     "url": "https://bifrost.app/",
+    "description": null,
     "categories": [
       "defi",
       "crowdloans"
@@ -561,6 +598,7 @@
     "title": "Bluez",
     "subtitle": "Bluez",
     "url": "https://bluez.app/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -575,6 +613,7 @@
     "title": "Blur",
     "subtitle": "NFT Marketplace for Pro Traders",
     "url": "https://blur.io/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -588,6 +627,7 @@
     "title": "cBridge",
     "subtitle": "The Best Crypto & Binance Bridge",
     "url": "https://cbridge.celer.network/#/transfer",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -603,6 +643,7 @@
     "title": "Centrifuge Rewards Claim",
     "subtitle": "Centrifuge Rewards Claim",
     "url": "https://centrifuge.io/parachain/crowdloan/",
+    "description": null,
     "categories": [
       "crowdloans"
     ],
@@ -617,6 +658,7 @@
     "title": "Chainlist",
     "subtitle": "RPCs list for EVM networks",
     "url": "https://chainlist.org/",
+    "description": "Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.",
     "categories": [
       "data"
     ],
@@ -630,6 +672,7 @@
     "title": "Huckleberry Finance",
     "subtitle": "Huckleberry Finance",
     "url": "https://clover.huckleberry.finance/#/swap",
+    "description": null,
     "categories": [
       "defi",
       "staking",
@@ -646,6 +689,7 @@
     "title": "SubWallet connect",
     "subtitle": "SubWallet connect",
     "url": "https://connect.subwallet.app/#/",
+    "description": null,
     "categories": [
       "test"
     ],
@@ -659,6 +703,7 @@
     "title": "Interlay Rewards Claim",
     "subtitle": "Interlay Rewards Claim",
     "url": "https://crowdloan.interlay.io/",
+    "description": null,
     "categories": [
       "crowdloans"
     ],
@@ -673,6 +718,7 @@
     "title": "Parallel Rewards Claim",
     "subtitle": "Parallel Rewards Claim",
     "url": "https://crowdloan.parallel.fi/",
+    "description": null,
     "categories": [
       "crowdloans"
     ],
@@ -687,6 +733,7 @@
     "title": "Curve",
     "subtitle": "Curve",
     "url": "https://curve.fi/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -701,6 +748,7 @@
     "title": "Damned Pirates Society",
     "subtitle": "Damned Pirates Society",
     "url": "https://damnedpiratessociety.io/",
+    "description": null,
     "categories": [
       "nft",
       "evm"
@@ -716,6 +764,7 @@
     "title": "Robonomics",
     "subtitle": "Robonomics",
     "url": "https://dapp.robonomics.network/#/staking/",
+    "description": null,
     "categories": [
       "staking"
     ],
@@ -730,6 +779,7 @@
     "title": "DappRadar",
     "subtitle": "DappRadar",
     "url": "https://dappradar.com/",
+    "description": null,
     "categories": [
       "utilities"
     ],
@@ -744,6 +794,7 @@
     "title": "Zenlink",
     "subtitle": "Zenlink",
     "url": "https://dex.zenlink.pro/#/swap",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -758,6 +809,7 @@
     "title": "Acala Rewards Claim",
     "subtitle": "Acala Rewards Claim",
     "url": "https://distribution.acala.network/claim/acala",
+    "description": null,
     "categories": [
       "crowdloans"
     ],
@@ -772,6 +824,7 @@
     "title": "dotinsights",
     "subtitle": "Interactive Polkadot & Kusama Ecosystem Map",
     "url": "https://dotinsights.subwallet.app/",
+    "description": "A trusted research hub and data platform of Polkadot & Kusama Ecosystem made by SubWallet",
     "categories": [
       "data",
       "utilities"
@@ -788,6 +841,7 @@
     "title": "Dotmarketcap",
     "subtitle": "Dotmarketcap",
     "url": "https://dotmarketcap.com/",
+    "description": null,
     "categories": [
       "utilities"
     ],
@@ -802,6 +856,7 @@
     "title": "Mandala",
     "subtitle": "Mandala",
     "url": "https://enterthemandala.app/HomePage",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -815,6 +870,7 @@
     "title": "Raffle & Claim Rewards",
     "subtitle": "Raffle & Claim Rewards",
     "url": "https://event.tfalpha.xyz/",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -828,6 +884,7 @@
     "title": "EVRLOOT",
     "subtitle": "EVRLOOT",
     "url": "https://game.evrloot.com/game",
+    "description": null,
     "categories": [
       "nft"
     ],
@@ -842,6 +899,7 @@
     "title": "HydraDX",
     "subtitle": "Polkadot's Multi-Headed Liquidity Monster",
     "url": "https://hydradx.io",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -856,6 +914,7 @@
     "title": "InkWhale.net",
     "subtitle": "Staking and Yield Farming Platform on Aleph Zero",
     "url": "https://inkwhale.net",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -869,6 +928,7 @@
     "title": "a0.inkwhale.net",
     "subtitle": "Staking and Yield Farming Platform on Aleph Zero",
     "url": "https://a0.inkwhale.net",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -882,6 +942,7 @@
     "title": "Kanaria",
     "subtitle": "Kanaria",
     "url": "https://kanaria.rmrk.app/",
+    "description": null,
     "categories": [
       "nft"
     ],
@@ -896,6 +957,7 @@
     "title": "Kintsugi Hub",
     "subtitle": "Kintsugi Hub",
     "url": "https://kintsugi.interlay.io/",
+    "description": null,
     "categories": [
       "staking",
       "defi",
@@ -912,6 +974,7 @@
     "title": "KodaDot",
     "subtitle": "KodaDot",
     "url": "https://kodadot.xyz/",
+    "description": null,
     "categories": [
       "nft"
     ],
@@ -926,6 +989,7 @@
     "title": "Bit.Country",
     "subtitle": "Pioneer network Crowdloan",
     "url": "https://ksmcrowdloan.bit.country/reward",
+    "description": null,
     "categories": [
       "crowdloans"
     ],
@@ -944,6 +1008,7 @@
     "title": "Kusama Lido",
     "subtitle": "Kusama Lido",
     "url": "https://kusama.lido.fi/",
+    "description": null,
     "categories": [
       "staking",
       "evm"
@@ -958,6 +1023,7 @@
     "title": "Liquid Staking for Digital Tokens",
     "subtitle": "Liquid Staking for Digital Tokens",
     "url": "https://lido.fi/#networks",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -972,6 +1038,7 @@
     "title": "YieldBay",
     "subtitle": "YieldBay",
     "url": "https://list.yieldbay.io/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -985,6 +1052,7 @@
     "title": "Moonsama",
     "subtitle": "Moonsama",
     "url": "https://marketplace.moonsama.com/",
+    "description": null,
     "categories": [
       "nft",
       "evm"
@@ -1000,6 +1068,7 @@
     "title": "AzeroPunks",
     "subtitle": "AzeroPunks",
     "url": "https://mint.azeropunks.com/#/welcome",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1014,6 +1083,7 @@
     "title": "Moonbeam Curve",
     "subtitle": "Moonbeam Curve",
     "url": "https://moonbeam.curve.fi/",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -1029,6 +1099,7 @@
     "title": "Huckleberry Finance",
     "subtitle": "Huckleberry Finance",
     "url": "https://moonriver.huckleberry.finance/#/swap",
+    "description": null,
     "categories": [
       "defi",
       "staking",
@@ -1045,6 +1116,7 @@
     "title": "Moon Web3 identity",
     "subtitle": "Moon Web3 identity",
     "url": "https://moons.money/app",
+    "description": null,
     "categories": [
       "evm"
     ],
@@ -1058,6 +1130,7 @@
     "title": "Moonwell",
     "subtitle": "Moonwell",
     "url": "https://moonwell.fi/discover",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -1073,6 +1146,7 @@
     "title": "Notifi",
     "subtitle": "Notifi",
     "url": "https://notifi.network/dashboard",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1087,6 +1161,7 @@
     "title": "Panorama Swap",
     "subtitle": "Panorama Swap",
     "url": "https://panoramaswap.app/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1101,6 +1176,7 @@
     "title": "Bit.Country",
     "subtitle": "Start your own metaverse for your community",
     "url": "https://pioneer.bit.country/",
+    "description": "Bit.Country & Metaverse.Network is a platform & blockchain ecosystem for user-created metaverses, games, and dApps",
     "categories": [
       "nft",
       "staking"
@@ -1119,6 +1195,7 @@
     "title": "Spacers NFT Pods Sale",
     "subtitle": "Spacers NFT Pods Sale",
     "url": "https://pods.spacers.app/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1132,6 +1209,7 @@
     "title": "Polkadot.js",
     "subtitle": "Polkadot.js",
     "url": "https://polkadot.js.org/apps/#",
+    "description": null,
     "categories": [
       "utilities"
     ],
@@ -1146,6 +1224,7 @@
     "title": "Polkadot Lido",
     "subtitle": "Polkadot Lido",
     "url": "https://polkadot.lido.fi/",
+    "description": null,
     "categories": [
       "staking",
       "evm"
@@ -1160,6 +1239,7 @@
     "title": "Polkassembly",
     "subtitle": "Polkassembly",
     "url": "https://polkadot.polkassembly.io/",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -1174,6 +1254,7 @@
     "title": "Polkaswap",
     "subtitle": "Polkaswap",
     "url": "https://polkaswap.io/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1188,6 +1269,7 @@
     "title": "PolkaVerse u2013 Polkadot's Premier Social Network",
     "subtitle": "PolkaVerse u2013 Polkadot's Premier Social Network",
     "url": "https://polkaverse.com/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1202,6 +1284,7 @@
     "title": "Polkawatch",
     "subtitle": "Polkawatch",
     "url": "https://polkawatch.app/",
+    "description": null,
     "categories": [
       "staking"
     ],
@@ -1216,6 +1299,7 @@
     "title": "Astar DApp Hub",
     "subtitle": "Astar DApp Hub",
     "url": "https://portal.astar.network/",
+    "description": null,
     "categories": [
       "defi",
       "staking",
@@ -1232,6 +1316,7 @@
     "title": "Evolution Land. Columbus",
     "subtitle": "Evolution Land. Columbus",
     "url": "https://portal.evolution.land/land/3/market/land",
+    "description": null,
     "categories": [
       "nft",
       "evm"
@@ -1246,6 +1331,7 @@
     "title": "Secret Stash",
     "subtitle": "Ternoa Marketplace",
     "url": "https://secret-stash.io",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1260,6 +1346,7 @@
     "title": "Singular 2.0",
     "subtitle": "the NFT 2.0 Marketplace - the future of NFTs starts here",
     "url": "https://singular.app/",
+    "description": "Discover the future of NFTs on Singular - the NFT 2.0 marketplace. Mint, trade, & experience advanced NFTs with unique capabilities.",
     "categories": [
       "nft"
     ],
@@ -1280,6 +1367,7 @@
     "title": "Kanaria Skybreach",
     "subtitle": "Kanaria Skybreach",
     "url": "https://skybreach.app/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1294,6 +1382,7 @@
     "title": "Polkadot Staking Dashboard",
     "subtitle": "Polkadot Staking Dashboard",
     "url": "https://staking.polkadot.network/dashboard#/overview",
+    "description": null,
     "categories": [
       "staking"
     ],
@@ -1307,6 +1396,7 @@
     "title": "Sub ID: Substrate Addresses, Balances, Crowdloans and NFTs",
     "subtitle": "Sub ID: Substrate Addresses, Balances, Crowdloans and NFTs",
     "url": "https://sub.id/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1320,6 +1410,7 @@
     "title": "Utopia & TF Alpha",
     "subtitle": "Utopia & TF Alpha",
     "url": "https://tfalpha.xyz/",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -1334,6 +1425,7 @@
     "title": "TofuNFT",
     "subtitle": "TofuNFT",
     "url": "https://tofunft.com/",
+    "description": null,
     "categories": [
       "nft",
       "evm"
@@ -1349,6 +1441,7 @@
     "title": "Verse DEX",
     "subtitle": "Bitcoin.comu00e2u20acu2122s official decentralized exchange",
     "url": "https://verse.bitcoin.com/#/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1363,6 +1456,7 @@
     "title": "Avault",
     "subtitle": "Avault",
     "url": "https://www.avault.network/vault",
+    "description": null,
     "categories": [
       "evm"
     ],
@@ -1377,6 +1471,7 @@
     "title": "Bananaswap",
     "subtitle": "Bananaswap",
     "url": "https://www.bananaswap.app/#/swap",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1391,6 +1486,7 @@
     "title": "Braindex",
     "subtitle": "Smart Dex Aggregator",
     "url": "https://www.braindex.io/swap",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1404,6 +1500,7 @@
     "title": "Gear Technologies",
     "subtitle": "Crypto. Smarter",
     "url": "https://www.gear-tech.io/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1418,6 +1515,7 @@
     "title": "HashKey DID",
     "subtitle": "HashKey DID",
     "url": "https://www.hashkey.id/home",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1431,6 +1529,7 @@
     "title": "Mangata",
     "subtitle": "The DEX of the future",
     "url": "https://www.mangata.finance/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1445,6 +1544,7 @@
     "title": "Portal Token Bridge",
     "subtitle": "Portal Token Bridge",
     "url": "https://www.portalbridge.com/",
+    "description": null,
     "categories": [
       "defi"
     ],
@@ -1458,6 +1558,7 @@
     "title": "Subsquare",
     "subtitle": "Subsquare",
     "url": "https://www.subsquare.io/",
+    "description": null,
     "categories": [
       "community"
     ],
@@ -1471,6 +1572,7 @@
     "title": "XDAO",
     "subtitle": "XDAO",
     "url": "https://www.xdao.app/137",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -1486,6 +1588,7 @@
     "title": "HEAL-Ⅲ",
     "subtitle": "Health to Earn",
     "url": "https://heal3.com",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -1501,6 +1604,7 @@
     "title": "Oxalus",
     "subtitle": "NFT Social Commerce Platform",
     "url": "https://oxalus.io",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -1515,6 +1619,7 @@
     "title": "Birdeye",
     "subtitle": "Birdeye",
     "url": "https://birdeye.so",
+    "description": null,
     "categories": [
       "defi",
       "evm"
@@ -1529,6 +1634,7 @@
     "title": "AZERO.ID",
     "subtitle": "Domain Service on Aleph Zero",
     "url": "https://azero.id",
+    "description": null,
     "categories": [
       "utilities"
     ],
