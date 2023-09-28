@@ -1621,7 +1621,7 @@
       "kusama",
       "pioneer"
     ],
-    "is_featured": true,
+    "is_featured": false,
     "is_evm": null,
     "is_substrate": true,
     "icon": "https://media-resources.subwallet.app//1/bit_country_pioneer_a3c839ef5d.png",
