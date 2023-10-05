@@ -38,6 +38,13 @@ query {
         is_evm
         is_substrate
         categories
+        category_rels {
+          data {
+            attributes {
+              slug
+            }
+          }
+        }
         icon {
           data {
             attributes {
@@ -60,8 +67,8 @@ const main = async () => {
             subtitle: dapp.attributes.subtitle,
             url: dapp.attributes.url,
             description: dapp.attributes.description,
-            categories: dapp.attributes.categories,
-            chains: dapp.attributes.chains.data.map(c => c.attributes.slug),
+            categories: dapp.attributes.category_rels.data.map(c => c.attributes.slug) || [],
+            chains: dapp.attributes.chains.data.map(c => c.attributes.slug) || [],
             is_featured: dapp.attributes.is_featured,
             is_evm: dapp.attributes.is_evm,
             is_substrate: dapp.attributes.is_substrate,
