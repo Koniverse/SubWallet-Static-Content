@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "slug": "defi",
+    "name": "Defi",
+    "color": "cyan"
+  },
+  {
+    "id": "2",
+    "slug": "nft",
+    "name": "NFT",
+    "color": "primary"
+  },
+  {
+    "id": "3",
+    "slug": "evm",
+    "name": "EVM",
+    "color": "magenta"
+  },
+  {
+    "id": "4",
+    "slug": "community",
+    "name": "Community",
+    "color": "volcano"
+  },
+  {
+    "id": "5",
+    "slug": "utilities",
+    "name": "Utilities",
+    "color": "orange"
+  },
+  {
+    "id": "6",
+    "slug": "crowdloans",
+    "name": "Crowdloans",
+    "color": "blue"
+  },
+  {
+    "id": "7",
+    "slug": "staking",
+    "name": "Staking",
+    "color": "geekblue"
+  },
+  {
+    "id": "8",
+    "slug": "tooling",
+    "name": "Tooling",
+    "color": "red"
+  },
+  {
+    "id": "9",
+    "slug": "data",
+    "name": "Data",
+    "color": "green"
+  },
+  {
+    "id": "10",
+    "slug": "rwa",
+    "name": "RWA",
+    "color": "purple"
+  },
+  {
+    "id": "11",
+    "slug": "socialfi",
+    "name": "SocialFi",
+    "color": "lime"
+  },
+  {
+    "id": "12",
+    "slug": "governance",
+    "name": "Governance",
+    "color": "magenta"
+  }
+]

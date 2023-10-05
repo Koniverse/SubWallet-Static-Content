@@ -16,6 +16,8 @@
     "npm": "^10.1.0"
   },
   "scripts": {
-    "update:dapps": "node scripts/fetch-dapps.mjs"
+    "update-data": "yarn update:dapps && yarn update:categories",
+    "update:dapps": "node scripts/fetch-dapps.mjs",
+    "update:categories": "node scripts/fetch-categories.mjs"
   }
 }

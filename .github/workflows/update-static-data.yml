@@ -26,7 +26,7 @@ jobs:
           STRAPI_TOKEN: ${{ secrets.STRAPI_TOKEN }}
         run: |
           yarn install --immutable | grep -v 'YN0013'
-          yarn update:dapps
+          yarn update-data
       - name: Deploy to Cloudflare Pages
         id: cloudflare_deployment
         uses: cloudflare/pages-action@v1
