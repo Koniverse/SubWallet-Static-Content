@@ -2,11 +2,14 @@ name: Update Static Data
 on:
   workflow_dispatch:
     inputs:
-        branch:
-          description: 'Branch name'
-          required: true
-          type: string
-          default: main
+      branch:
+        description: 'Branch name'
+        required: true
+        type: string
+        default: main
+  schedule:
+    - cron: '0 0 */3 * *'
+
 
 jobs:
   master:
