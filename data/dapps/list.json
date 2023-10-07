@@ -635,24 +635,6 @@
     "icon": "https://media-resources.subwallet.app//3/verse_0dba4f32d5.png"
   },
   {
-    "id": "99",
-    "title": "Braindex",
-    "subtitle": "Smart Dex Aggregator",
-    "url": "https://www.braindex.io/swap",
-    "description": "BrainDex is a decentralized exchange aggregator and trade optimizer. BrainDex brings together all of the liquidity on integrated networks into a single interface and provides highly optimized swaps using all underlying protocols simultaneously.",
-    "categories": [
-      "defi"
-    ],
-    "chains": [
-      "moonbeam",
-      "moonriver"
-    ],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/braindex_56d1cf273e.png"
-  },
-  {
     "id": "101",
     "title": "HashKey DID",
     "subtitle": "Decentralized identity project in Web3",
@@ -708,6 +690,24 @@
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app/oxalus_c754647674.png"
+  },
+  {
+    "id": "99",
+    "title": "Braindex",
+    "subtitle": "Smart Dex Aggregator",
+    "url": "https://www.braindex.io/swap",
+    "description": "BrainDex is a decentralized exchange aggregator and trade optimizer. BrainDex brings together all of the liquidity on integrated networks into a single interface and provides highly optimized swaps using all underlying protocols simultaneously.",
+    "categories": [
+      "defi"
+    ],
+    "chains": [
+      "moonbeam",
+      "moonriver"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app/braindex_d7a0a1bb85.png"
   },
   {
     "id": "60",
@@ -1066,25 +1066,6 @@
     "icon": "https://media-resources.subwallet.app/wallet_connect_9ed43a1b95.png"
   },
   {
-    "id": "53",
-    "title": "Euphrates dApp",
-    "subtitle": "Boosted Liquid Staking",
-    "url": "https://farm.acala.network/",
-    "description": "Euphrates allows stakers and liquidity providers of LSTs (liquid staking tokens) to earn boosted rewards in ACA as well as participating project tokens with minimum effort.",
-    "categories": [
-      "defi",
-      "staking"
-    ],
-    "chains": [
-      "acala",
-      "acala_evm"
-    ],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/acala_81b1f3f72b.png"
-  },
-  {
     "id": "72",
     "title": "Huckleberry Finance",
     "subtitle": "AMM cross-chain DEX and lending platform",
@@ -1157,6 +1138,25 @@
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/heal3_25b4fd9ed8.png"
+  },
+  {
+    "id": "53",
+    "title": "Euphrates dApp",
+    "subtitle": "Boosted Liquid Staking",
+    "url": "https://farm.acala.network/",
+    "description": "Euphrates allows stakers and liquidity providers of LSTs (liquid staking tokens) to earn boosted rewards in ACA as well as participating project tokens with minimum effort.",
+    "categories": [
+      "defi",
+      "staking"
+    ],
+    "chains": [
+      "acala",
+      "acala_evm"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app/euphrates_48be47211d.png"
   },
   {
     "id": "22",
