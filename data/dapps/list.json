@@ -72,98 +72,73 @@
     "icon": "https://media-resources.subwallet.app/do_Treasury_8f44be68e2.png"
   },
   {
-    "id": "52",
-    "title": "Zenlink",
-    "subtitle": "Cross-chain DEX protocol for building DEX on Polkadot",
-    "url": "https://dex.zenlink.pro/",
-    "description": "Zenlink is the one-stop-shop for trading Polkadot assets, the DEX Composable Hub between all parachains",
-    "categories": [
-      "defi",
-      "evm"
-    ],
-    "chains": [
-      "bifrost",
-      "bifrost_dot",
-      "moonbeam",
-      "moonriver",
-      "astar",
-      "astarEvm"
-    ],
-    "is_featured": null,
+    "id": "113",
+    "title": "Omni Liquid Staking",
+    "subtitle": "Omni-chain liquid staking protocol",
+    "url": "https://omni.ls",
+    "description": "Omni Liquid Staking is the first omni-chain liquid staking protocol developed based on Bifrost SLPx, cross-chain interoperability and consensus security provided by Polkadot XCM, realizing the vision of minting, using, and aggregating the liquidity across chains.",
+    "categories": [],
+    "chains": [],
+    "is_featured": false,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/zenlink_8d9b45ebb4.png"
+    "icon": "https://media-resources.subwallet.app/bifrost_omni_liquid_staking_d2327ebe60.png"
   },
   {
-    "id": "3",
-    "title": "1inch",
-    "subtitle": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
-    "url": "https://app.1inch.io/",
-    "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
-    "categories": [
-      "defi"
-    ],
-    "chains": [
-      "ethereum"
-    ],
-    "is_featured": null,
+    "id": "115",
+    "title": "Blur.io",
+    "subtitle": "NFT Marketplace for Pro Traders",
+    "url": "https://blur.io/",
+    "description": "Sweep NFTs across multiple marketplaces, snipe reveals faster than others, and manage your portfolio with advanced analytics.",
+    "categories": [],
+    "chains": [],
+    "is_featured": false,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//3/1inch_689ac3fdae.png"
+    "icon": "https://media-resources.subwallet.app/blur_io_63364fc278.png"
   },
   {
-    "id": "5",
-    "title": "ArthSwap",
-    "subtitle": "DEX on the Astar Network",
-    "url": "https://app.arthswap.org/#/swap",
-    "description": "With simple UI and high APY design, ArthSwap enables High-Frequency Trade on Astar Network. ArthSwap is a one-stop DeFi protocol that aspires to be the main DEX on the Astar Network. Arthswap's primary products are trading, staking, IDO launchpad, and liquidity farming, with other capabilities to be consistently added.",
-    "categories": [
-      "defi",
-      "evm",
-      "staking"
-    ],
-    "chains": [
-      "astarEvm",
-      "shibuyaEvm"
-    ],
-    "is_featured": null,
+    "id": "116",
+    "title": "Openseas",
+    "subtitle": "Marketplace for crypto collectibles and NFTs",
+    "url": "https://opensea.io/",
+    "description": "The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.",
+    "categories": [],
+    "chains": [],
+    "is_featured": false,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/arthswap_fb8a7c7543.png"
+    "icon": "https://media-resources.subwallet.app/opensea_1688cddd62.png"
   },
   {
-    "id": "8",
-    "title": "Bounce",
-    "subtitle": "A decentralized auction platform",
-    "url": "https://app.bounce.finance/market",
-    "description": "Bounce’s fully decentralized auction platform uses blockchain technology to ensure more transparent, efficient, and accessible auctioning, bidding, and buying processes for Web3 users. ",
-    "categories": [
-      "defi"
-    ],
+    "id": "114",
+    "title": "Jur Society DApp",
+    "subtitle": "Explore and Create Societies",
+    "url": "https://society.jur.io/explore",
+    "description": "Explore and join societies of your interest or create your own.",
+    "categories": [],
     "chains": [
-      "ethereum"
+      "jur_network"
     ],
-    "is_featured": null,
+    "is_featured": false,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/bounce_finance_d54cfafcf6.png"
+    "icon": "https://media-resources.subwallet.app//1/jur_8792d81143.png"
   },
   {
-    "id": "14",
-    "title": "GM! Say it back",
-    "subtitle": "GM! Say it back",
-    "url": "https://app.gmordie.com/",
-    "description": "Burn $FREN to mint and send $GM, but mind the clock on the GMdapp, $GM can only be minted in the morning, $GN can only be minted at night. If you try to mint during the day, you'll burn your $FREN for nothing!",
-    "categories": [
-      "community"
-    ],
+    "id": "112",
+    "title": "Dancebox",
+    "subtitle": "Dancebox - The Testnet of Tanssi Network",
+    "url": "https://apps.tanssi.network/dancebox",
+    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
+    "categories": [],
     "chains": [
-      "gmdie"
+      "dancebox"
     ],
-    "is_featured": null,
+    "is_featured": false,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//3/gmdie_77f0697e04.png"
+    "icon": "https://media-resources.subwallet.app//2/tanssi_2e13dc9c66.png"
   },
   {
     "id": "25",
@@ -1459,21 +1434,22 @@
     "preview_image": "https://media-resources.subwallet.app/astart_portal_83d70dbf1b.jpg"
   },
   {
-    "id": "87",
-    "title": "Secret Stash",
-    "subtitle": "Ternoa Marketplace",
-    "url": "https://secret-stash.io",
-    "description": "The first digital marketplace for Ternoa's crypto collectibles, art and non-fungible tokens (NFT). Buy, sell and discover exclusive digital items.",
+    "id": "75",
+    "title": "Notifi",
+    "subtitle": "Cross-chain communications",
+    "url": "https://notifi.network/dashboard",
+    "description": "Notifi Network is building the future of cross-chain communications. Embed notifications & messaging into your dApps spanning across 9 different blockchains.",
     "categories": [
-      "nft"
+      "defi",
+      "evm"
     ],
     "chains": [
-      "ternoa"
+      "acala"
     ],
     "is_featured": null,
     "is_evm": null,
     "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/secret_stash_c170acdef5.png"
+    "icon": "https://media-resources.subwallet.app//1/notifi_network_6b1c1ddb14.png"
   },
   {
     "id": "104",
@@ -1643,24 +1619,6 @@
     "icon": "https://media-resources.subwallet.app//1/mangata_961f9e10f8.png"
   },
   {
-    "id": "75",
-    "title": "Notifi",
-    "subtitle": "Cross-chain communications",
-    "url": "https://notifi.network/dashboard",
-    "description": "Notifi Network is building the future of cross-chain communications. Embed notifications & messaging into your dApps spanning across 9 different blockchains.",
-    "categories": [
-      "defi",
-      "evm"
-    ],
-    "chains": [
-      "acala"
-    ],
-    "is_featured": null,
-    "is_evm": null,
-    "is_substrate": null,
-    "icon": "https://media-resources.subwallet.app//1/notifi_network_6b1c1ddb14.png"
-  },
-  {
     "id": "103",
     "title": "Portal Bridge",
     "subtitle": "Token Bridge built on top of Wormhole",
@@ -1685,6 +1643,23 @@
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app/portalbridge_c36a3d4540.png"
+  },
+  {
+    "id": "87",
+    "title": "Secret Stash",
+    "subtitle": "Ternoa Marketplace",
+    "url": "https://secret-stash.io",
+    "description": "The first digital marketplace for Ternoa's crypto collectibles, art and non-fungible tokens (NFT). Buy, sell and discover exclusive digital items.",
+    "categories": [
+      "nft"
+    ],
+    "chains": [
+      "ternoa"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/secret_stash_c170acdef5.png"
   },
   {
     "id": "23",
@@ -1747,5 +1722,99 @@
     "is_evm": null,
     "is_substrate": null,
     "icon": "https://media-resources.subwallet.app//1/acala_81b1f3f72b.png"
+  },
+  {
+    "id": "52",
+    "title": "Zenlink",
+    "subtitle": "Cross-chain DEX protocol for building DEX on Polkadot",
+    "url": "https://dex.zenlink.pro/",
+    "description": "Zenlink is the one-stop-shop for trading Polkadot assets, the DEX Composable Hub between all parachains",
+    "categories": [
+      "defi",
+      "evm"
+    ],
+    "chains": [
+      "bifrost",
+      "bifrost_dot",
+      "moonbeam",
+      "moonriver",
+      "astar",
+      "astarEvm"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/zenlink_8d9b45ebb4.png"
+  },
+  {
+    "id": "3",
+    "title": "1inch",
+    "subtitle": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
+    "url": "https://app.1inch.io/",
+    "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
+    "categories": [
+      "defi"
+    ],
+    "chains": [
+      "ethereum"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/1inch_689ac3fdae.png"
+  },
+  {
+    "id": "5",
+    "title": "ArthSwap",
+    "subtitle": "DEX on the Astar Network",
+    "url": "https://app.arthswap.org/#/swap",
+    "description": "With simple UI and high APY design, ArthSwap enables High-Frequency Trade on Astar Network. ArthSwap is a one-stop DeFi protocol that aspires to be the main DEX on the Astar Network. Arthswap's primary products are trading, staking, IDO launchpad, and liquidity farming, with other capabilities to be consistently added.",
+    "categories": [
+      "defi",
+      "evm",
+      "staking"
+    ],
+    "chains": [
+      "astarEvm",
+      "shibuyaEvm"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/arthswap_fb8a7c7543.png"
+  },
+  {
+    "id": "8",
+    "title": "Bounce",
+    "subtitle": "A decentralized auction platform",
+    "url": "https://app.bounce.finance/market",
+    "description": "Bounce’s fully decentralized auction platform uses blockchain technology to ensure more transparent, efficient, and accessible auctioning, bidding, and buying processes for Web3 users. ",
+    "categories": [
+      "defi"
+    ],
+    "chains": [
+      "ethereum"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//1/bounce_finance_d54cfafcf6.png"
+  },
+  {
+    "id": "14",
+    "title": "GM! Say it back",
+    "subtitle": "GM! Say it back",
+    "url": "https://app.gmordie.com/",
+    "description": "Burn $FREN to mint and send $GM, but mind the clock on the GMdapp, $GM can only be minted in the morning, $GN can only be minted at night. If you try to mint during the day, you'll burn your $FREN for nothing!",
+    "categories": [
+      "community"
+    ],
+    "chains": [
+      "gmdie"
+    ],
+    "is_featured": null,
+    "is_evm": null,
+    "is_substrate": null,
+    "icon": "https://media-resources.subwallet.app//3/gmdie_77f0697e04.png"
   }
 ]
