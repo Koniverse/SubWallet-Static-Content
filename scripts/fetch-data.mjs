@@ -54,13 +54,14 @@ async function writeJSONFile(filePath, data) {
 })
 }
 const main = async () => {
-    const key = process.argv[2];;
-    const results = await fetch(urlParams(key)).then(res => res.json());
+    const key = process.argv[2];
+    const results = await axios.get(urlParams(key));
+    if (!results.data) return;
     const folder = MAP_CONTENT_TYPE[key] || key;
     const path = savePath(folder);
     const fieldsImage = ['icon', 'logo', 'backdrop_image'];
     const downloadDir = saveImagesPath(folder);
-    const dataContent = await Promise.all(results.map(async item => {
+    const dataContent = await Promise.all(results.data.map(async item => {
         const dataImages = {};
         for (const field of fieldsImage) {
             const dataField = item[field];
