@@ -1,86 +1,100 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "slug": "dex",
     "name": "Dex",
-    "color": "cyan"
+    "color": "cyan",
+    "description": null
   },
   {
-    "id": "2",
+    "id": 2,
     "slug": "nft",
     "name": "NFT",
-    "color": "primary"
+    "color": "primary",
+    "description": null
   },
   {
-    "id": "3",
+    "id": 3,
     "slug": "evm",
     "name": "EVM",
-    "color": "magenta"
+    "color": "magenta",
+    "description": null
   },
   {
-    "id": "4",
+    "id": 4,
     "slug": "community",
     "name": "Community",
-    "color": "volcano"
+    "color": "volcano",
+    "description": null
   },
   {
-    "id": "5",
+    "id": 5,
     "slug": "utilities",
     "name": "Utilities",
-    "color": "orange"
+    "color": "orange",
+    "description": null
   },
   {
-    "id": "6",
+    "id": 6,
     "slug": "crowdloans",
     "name": "Crowdloans",
-    "color": "blue"
+    "color": "blue",
+    "description": null
   },
   {
-    "id": "7",
+    "id": 7,
     "slug": "staking",
     "name": "Staking",
-    "color": "geekblue"
+    "color": "geekblue",
+    "description": null
   },
   {
-    "id": "8",
+    "id": 8,
     "slug": "tooling",
     "name": "Tooling",
-    "color": "red"
+    "color": "red",
+    "description": null
   },
   {
-    "id": "9",
+    "id": 9,
     "slug": "data",
     "name": "Data",
-    "color": "green"
+    "color": "green",
+    "description": null
   },
   {
-    "id": "10",
+    "id": 10,
     "slug": "rwa",
     "name": "RWA",
-    "color": "purple"
+    "color": "purple",
+    "description": null
   },
   {
-    "id": "11",
+    "id": 11,
     "slug": "socialfi",
     "name": "SocialFi",
-    "color": "lime"
+    "color": "lime",
+    "description": null
   },
   {
-    "id": "12",
+    "id": 12,
     "slug": "governance",
     "name": "Governance",
-    "color": "magenta"
+    "color": "magenta",
+    "description": null
   },
   {
-    "id": "14",
+    "id": 14,
     "slug": "smart contract",
     "name": "Smart Contract",
-    "color": "success"
+    "color": "success",
+    "description": null
   },
   {
-    "id": "15",
+    "id": 15,
     "slug": "bridge",
     "name": "Bridge",
-    "color": "warning"
+    "color": "warning",
+    "description": null
   }
 ]

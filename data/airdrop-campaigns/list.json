@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Vara Network",
+    "status": "ended",
+    "ordinal": 1,
+    "description": "Stake your DOT directly on the relay chain and receive compounds automatically.",
+    "start_time": "2023-10-02T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://dotinsights.subwallet.app/",
+    "twitter_url": "https://dotinsights.subwallet.app/",
+    "reward": "100000",
+    "total_winner": "50",
+    "total_supply": "100000",
+    "tags": [
+      "lucky_draw"
+    ],
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/og_2f6b43a755.jpg"
+  }
+]
