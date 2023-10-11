@@ -10,17 +10,11 @@
   "devDependencies": {
     "axios": "^1.5.1",
     "dotenv": "^16.3.1",
-    "graphql": "^16.8.1",
-    "graphql-request": "^6.1.0",
     "install": "^0.13.0",
     "node-fetch": "^3.3.2",
     "npm": "^10.1.0"
   },
   "scripts": {
-    "update-data": "yarn update:dapps && yarn update:categories && yarn update:chains && yarn update:airdrop-campaign",
-    "update:dapps": "node scripts/fetch-data.mjs dapp",
-    "update:chains": "node scripts/fetch-data.mjs chain",
-    "update:categories": "node scripts/fetch-data.mjs category",
-    "update:airdrop-campaign": "node scripts/fetch-data.mjs airdrop-campaign"
+    "update-data": "node scripts/fetch-data.mjs dapp"
   }
 }
