@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "slug": "defi",
-    "name": "DeFi",
+    "slug": "dex",
+    "name": "Dex",
     "color": "cyan"
   },
   {
@@ -70,5 +70,17 @@
     "slug": "governance",
     "name": "Governance",
     "color": "magenta"
+  },
+  {
+    "id": "14",
+    "slug": "smart contract",
+    "name": "Smart Contract",
+    "color": "success"
+  },
+  {
+    "id": "15",
+    "slug": "bridge",
+    "name": "Bridge",
+    "color": "warning"
   }
 ]
