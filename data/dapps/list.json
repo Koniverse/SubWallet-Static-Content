@@ -425,7 +425,7 @@
     "subtitle": "Web3 & NFT Lifestyle App",
     "is_substrate": null,
     "is_evm": true,
-    "is_featured": true,
+    "is_featured": false,
     "ordinal": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/moonfit_215142f555.png",
     "preview_image": "https://media-resources.subwallet.app/moonfit_f8c96e00cb.jpg",
@@ -737,10 +737,10 @@
     "subtitle": "The ultimate platform for Moonbeam Network",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": null,
+    "is_featured": true,
     "ordinal": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/moonbeam_network_40889ef4a4.png",
-    "preview_image": null,
+    "preview_image": "https://media-resources.subwallet.app/Moonbeam_screen_255932dc3b.png",
     "chains": [
       "moonbeam"
     ],
