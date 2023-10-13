@@ -40,7 +40,7 @@
     "id": 2,
     "title": "ArtZero.io",
     "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
-    "url": "https://www.artzero.io/",
+    "url": "https://a0.artzero.io/",
     "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
     "is_substrate": true,
     "is_evm": null,
@@ -125,7 +125,9 @@
     "chains": [
       "jur_network"
     ],
-    "categories": []
+    "categories": [
+      "community"
+    ]
   },
   {
     "id": 115,
@@ -1659,7 +1661,7 @@
     "id": 92,
     "title": "Polkadot Staking Dashboard",
     "description": "The Polkadot Staking Dashboard is a tool only dedicated to staking on Polkadot, Kusama (Polkadot's canary network), and Westend (Polkadot's test network).",
-    "url": "https://staking.polkadot.network/dashboard#/overview",
+    "url": "https://staking.polkadot.network/#/overview",
     "subtitle": "The official dashboard for staking on Polkadot, Kusama, and Westend",
     "is_substrate": null,
     "is_evm": null,

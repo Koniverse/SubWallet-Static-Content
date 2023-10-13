@@ -1,6 +1,5 @@
 [
   {
-    "id": 37,
     "slug": "polkadot",
     "name": "Polkadot",
     "isTestnet": false,
@@ -18,7 +17,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 28,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
@@ -35,7 +33,6 @@
     }
   },
   {
-    "id": 50,
     "slug": "kusama",
     "name": "Kusama",
     "isTestnet": false,
@@ -53,7 +50,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 38,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xb0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
@@ -70,7 +66,6 @@
     }
   },
   {
-    "id": 9,
     "slug": "ethereum",
     "name": "Ethereum",
     "isTestnet": false,
@@ -85,7 +80,6 @@
       "Infura": "https://mainnet.infura.io/v3/b6bf7d3508c941499b10025c0776eaf8"
     },
     "evmInfo": {
-      "id": 3,
       "evmChainId": 1,
       "blockExplorer": "https://etherscan.io",
       "existentialDeposit": "0",
@@ -100,7 +94,6 @@
     "substrateInfo": null
   },
   {
-    "id": 94,
     "slug": "binance",
     "name": "Binance Smart Chain",
     "isTestnet": false,
@@ -114,7 +107,6 @@
       "Nodereal": "https://bsc.nodereal.io/"
     },
     "evmInfo": {
-      "id": 12,
       "evmChainId": 56,
       "blockExplorer": "https://bscscan.com",
       "existentialDeposit": "0",
@@ -129,7 +121,6 @@
     "substrateInfo": null
   },
   {
-    "id": 160,
     "slug": "moonbeam",
     "name": "Moonbeam",
     "isTestnet": false,
@@ -145,7 +136,6 @@
       "Blast": "wss://moonbeam.public.blastapi.io"
     },
     "evmInfo": {
-      "id": 24,
       "evmChainId": 1284,
       "blockExplorer": "https://moonbeam.subscan.io/",
       "existentialDeposit": "0",
@@ -158,7 +148,6 @@
       "abiExplorer": "https://api-moonbeam.moonscan.io/api?module=contract&action=getabi"
     },
     "substrateInfo": {
-      "id": 29,
       "relaySlug": "polkadot",
       "paraId": 2004,
       "genesisHash": "0xfe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d",
@@ -175,7 +164,6 @@
     }
   },
   {
-    "id": 22,
     "slug": "pioneer",
     "name": "Pioneer Network",
     "isTestnet": false,
@@ -188,7 +176,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 16,
       "relaySlug": "kusama",
       "paraId": 2096,
       "genesisHash": "0xf22b7850cdd5a7657bbfd90ac86441275bbc57ace3d2698a740c7b0ec4de5ec3",
@@ -205,7 +192,6 @@
     }
   },
   {
-    "id": 21,
     "slug": "aleph",
     "name": "Aleph Zero",
     "isTestnet": false,
@@ -217,7 +203,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 14,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
@@ -237,7 +222,6 @@
     }
   },
   {
-    "id": 122,
     "slug": "astar",
     "name": "Astar",
     "isTestnet": false,
@@ -255,7 +239,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 109,
       "relaySlug": "polkadot",
       "paraId": 2006,
       "genesisHash": "0x9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
@@ -275,7 +258,6 @@
     }
   },
   {
-    "id": 5,
     "slug": "astarEvm",
     "name": "Astar - EVM",
     "isTestnet": false,
@@ -290,7 +272,6 @@
       "1RPC": "https://1rpc.io/astr"
     },
     "evmInfo": {
-      "id": 2,
       "evmChainId": 592,
       "blockExplorer": "https://blockscout.com/astar/",
       "existentialDeposit": "0",
@@ -305,7 +286,6 @@
     "substrateInfo": null
   },
   {
-    "id": 14,
     "slug": "statemint",
     "name": "Polkadot Asset Hub (Statemint)",
     "isTestnet": false,
@@ -322,7 +302,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 9,
       "relaySlug": "polkadot",
       "paraId": 1000,
       "genesisHash": "0x68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f",
@@ -339,7 +318,6 @@
     }
   },
   {
-    "id": 12,
     "slug": "acala",
     "name": "Acala",
     "isTestnet": false,
@@ -357,7 +335,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 8,
       "relaySlug": "polkadot",
       "paraId": 2000,
       "genesisHash": "0xfc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
@@ -374,7 +351,6 @@
     }
   },
   {
-    "id": 77,
     "slug": "polygon",
     "name": "Polygon",
     "isTestnet": false,
@@ -387,7 +363,6 @@
       "BorPublicNode": "https://polygon-bor.publicnode.com"
     },
     "evmInfo": {
-      "id": 10,
       "evmChainId": 137,
       "blockExplorer": "https://polygonscan.com",
       "existentialDeposit": "0",
@@ -402,7 +377,6 @@
     "substrateInfo": null
   },
   {
-    "id": 25,
     "slug": "arbitrum_one",
     "name": "Arbitrum One",
     "isTestnet": false,
@@ -414,7 +388,6 @@
       "BlastApi": "https://arbitrum-one.public.blastapi.io"
     },
     "evmInfo": {
-      "id": 9,
       "evmChainId": 42161,
       "blockExplorer": "https://arbiscan.io",
       "existentialDeposit": "0",
@@ -429,7 +402,6 @@
     "substrateInfo": null
   },
   {
-    "id": 10,
     "slug": "optimism",
     "name": "Optimism",
     "isTestnet": false,
@@ -441,7 +413,6 @@
       "BlastApi": "https://optimism-mainnet.public.blastapi.io"
     },
     "evmInfo": {
-      "id": 5,
       "evmChainId": 10,
       "blockExplorer": "https://optimistic.etherscan.io",
       "existentialDeposit": "0",
@@ -456,7 +427,6 @@
     "substrateInfo": null
   },
   {
-    "id": 6,
     "slug": "tomochain",
     "name": "TomoChain",
     "isTestnet": false,
@@ -467,7 +437,6 @@
       "TomoChain": "https://rpc.tomochain.com"
     },
     "evmInfo": {
-      "id": 1,
       "evmChainId": 88,
       "blockExplorer": "https://tomoscan.io",
       "existentialDeposit": "0",
@@ -482,7 +451,6 @@
     "substrateInfo": null
   },
   {
-    "id": 156,
     "slug": "alephTest",
     "name": "Aleph Zero Testnet",
     "isTestnet": true,
@@ -494,7 +462,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 141,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x05d5279c52c484cc80396535a316add7d47b1c5b9e0398dd1f584149341460c5",
@@ -514,7 +481,6 @@
     }
   },
   {
-    "id": 36,
     "slug": "shiden",
     "name": "Shiden",
     "isTestnet": false,
@@ -529,7 +495,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 30,
       "relaySlug": "kusama",
       "paraId": 2007,
       "genesisHash": "0xf1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
@@ -549,7 +514,6 @@
     }
   },
   {
-    "id": 15,
     "slug": "shidenEvm",
     "name": "Shiden - EVM",
     "isTestnet": false,
@@ -563,7 +527,6 @@
       "Blast": "https://shiden.public.blastapi.io"
     },
     "evmInfo": {
-      "id": 6,
       "evmChainId": 336,
       "blockExplorer": "https://blockscout.com/shiden/",
       "existentialDeposit": "0",
@@ -578,7 +541,6 @@
     "substrateInfo": null
   },
   {
-    "id": 33,
     "slug": "shibuya",
     "name": "Shibuya Testnet",
     "isTestnet": true,
@@ -591,7 +553,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 31,
       "relaySlug": null,
       "paraId": 1000,
       "genesisHash": "0xddb89973361a170839f80f152d2e9e38a376a5a7eccefcade763f46a8e567019",
@@ -611,7 +572,6 @@
     }
   },
   {
-    "id": 11,
     "slug": "shibuyaEvm",
     "name": "Shibuya Testnet - EVM",
     "isTestnet": true,
@@ -624,7 +584,6 @@
       "BlastAPI": "https://shibuya.public.blastapi.io"
     },
     "evmInfo": {
-      "id": 4,
       "evmChainId": 81,
       "blockExplorer": "https://blockscout.com/shibuya/",
       "existentialDeposit": "0",
@@ -639,7 +598,6 @@
     "substrateInfo": null
   },
   {
-    "id": 55,
     "slug": "aventus",
     "name": "Aventus Polkadot",
     "isTestnet": false,
@@ -651,8 +609,7 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 40,
-      "relaySlug": null,
+      "relaySlug": "polkadot",
       "paraId": null,
       "genesisHash": "0x8b5c955b5c8fd7112562327e3859473df4e3dff49bd72a113dbb668d2cfa20d7",
       "addressPrefix": 42,
@@ -668,7 +625,6 @@
     }
   },
   {
-    "id": 3,
     "slug": "westend",
     "name": "Westend",
     "isTestnet": true,
@@ -685,7 +641,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 3,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xe143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
@@ -702,7 +657,6 @@
     }
   },
   {
-    "id": 26,
     "slug": "rococo",
     "name": "Rococo",
     "isTestnet": true,
@@ -718,7 +672,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 22,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6408de7737c59c238890533af25896a2c20608d8b380bb01029acb392781063e",
@@ -738,7 +691,6 @@
     }
   },
   {
-    "id": 45,
     "slug": "bitcountry",
     "name": "Bit.Country - Alpha Net",
     "isTestnet": true,
@@ -750,7 +702,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 25,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x8ffa3204b182fbda4676f75ea2d6a9bbdbbaf0d78470c62952e918c60e0583b4",
@@ -767,7 +718,6 @@
     }
   },
   {
-    "id": 99,
     "slug": "equilibrium_parachain",
     "name": "Equilibrium",
     "isTestnet": false,
@@ -780,7 +730,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 79,
       "relaySlug": "polkadot",
       "paraId": 2011,
       "genesisHash": "0x89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
@@ -797,7 +746,6 @@
     }
   },
   {
-    "id": 161,
     "slug": "moonbase",
     "name": "Moonbase Alpha",
     "isTestnet": true,
@@ -810,7 +758,6 @@
       "Blast": "wss://moonbase-alpha.public.blastapi.io"
     },
     "evmInfo": {
-      "id": 25,
       "evmChainId": 1287,
       "blockExplorer": "https://moonbase.moonscan.io/",
       "existentialDeposit": "0",
@@ -823,7 +770,6 @@
       "abiExplorer": "https://api-moonbase.moonscan.io/api?module=contract&action=getabi"
     },
     "substrateInfo": {
-      "id": 34,
       "relaySlug": null,
       "paraId": 1000,
       "genesisHash": "0x91bc6e169807aaa54802737e1c504b2577d4fafedd5a02c10293b1cd60e39527",
@@ -840,7 +786,6 @@
     }
   },
   {
-    "id": 162,
     "slug": "moonriver",
     "name": "Moonriver",
     "isTestnet": false,
@@ -856,7 +801,6 @@
       "UnitedBloc": "wss://moonriver.unitedbloc.com:2001"
     },
     "evmInfo": {
-      "id": 26,
       "evmChainId": 1285,
       "blockExplorer": "https://moonriver.subscan.io/",
       "existentialDeposit": "0",
@@ -869,7 +813,6 @@
       "abiExplorer": "https://api-moonriver.moonscan.io/api?module=contract&action=getabi"
     },
     "substrateInfo": {
-      "id": 53,
       "relaySlug": "kusama",
       "paraId": 2023,
       "genesisHash": "0x401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b",
@@ -886,7 +829,6 @@
     }
   },
   {
-    "id": 87,
     "slug": "turingStaging",
     "name": "Turing Staging",
     "isTestnet": true,
@@ -898,7 +840,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 81,
       "relaySlug": null,
       "paraId": 2114,
       "genesisHash": "0xd54f0988402deb4548538626ce37e4a318441ea0529ca369400ebec4e04dfe4b",
@@ -915,7 +856,6 @@
     }
   },
   {
-    "id": 83,
     "slug": "turing",
     "name": "Turing",
     "isTestnet": false,
@@ -928,7 +868,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 77,
       "relaySlug": "kusama",
       "paraId": 2114,
       "genesisHash": "0x0f62b701fb12d02237a33b84818c11f621653d2b1614c777973babf4652b535d",
@@ -945,7 +884,6 @@
     }
   },
   {
-    "id": 17,
     "slug": "bifrost",
     "name": "Bifrost Kusama",
     "isTestnet": false,
@@ -959,7 +897,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 12,
       "relaySlug": "kusama",
       "paraId": 2001,
       "genesisHash": "0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
@@ -976,7 +913,6 @@
     }
   },
   {
-    "id": 4,
     "slug": "bifrost_dot",
     "name": "Bifrost Polkadot",
     "isTestnet": false,
@@ -989,7 +925,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 4,
       "relaySlug": "polkadot",
       "paraId": 2030,
       "genesisHash": "0x262e1b2ad728475fd6fe88e62d34c200abe6fd693931ddad144059b1eb884e5b",
@@ -1006,7 +941,6 @@
     }
   },
   {
-    "id": 164,
     "slug": "bifrost_testnet",
     "name": "Bifrost Testnet",
     "isTestnet": true,
@@ -1018,7 +952,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 142,
       "relaySlug": "rococo",
       "paraId": 2030,
       "genesisHash": "0x8b290fa39a8808f29d7309ea99442c95bf964838aef14be5a6449ae48f8a5f1f",
@@ -1035,7 +968,6 @@
     }
   },
   {
-    "id": 8,
     "slug": "calamari",
     "name": "Calamari",
     "isTestnet": false,
@@ -1047,7 +979,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 5,
       "relaySlug": "kusama",
       "paraId": 2084,
       "genesisHash": "0x4ac80c99289841dd946ef92765bf659a307d39189b3ce374a92b5f0415ee17a1",
@@ -1064,7 +995,6 @@
     }
   },
   {
-    "id": 34,
     "slug": "amplitude",
     "name": "Amplitude",
     "isTestnet": false,
@@ -1076,7 +1006,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 20,
       "relaySlug": "kusama",
       "paraId": 2124,
       "genesisHash": "0xcceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
@@ -1093,7 +1022,6 @@
     }
   },
   {
-    "id": 165,
     "slug": "amplitude_test",
     "name": "Amplitude Testnet",
     "isTestnet": true,
@@ -1105,7 +1033,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 143,
       "relaySlug": "rococo",
       "paraId": 2124,
       "genesisHash": "0x67221cd96c1551b72d55f65164d6a39f31b570c77a05c90e31931b0e2f379e13",
@@ -1122,7 +1049,6 @@
     }
   },
   {
-    "id": 139,
     "slug": "bobabase",
     "name": "Bobabase Testnet",
     "isTestnet": true,
@@ -1134,7 +1060,6 @@
       "Replica RPC": "https://replica.bobabase.boba.network"
     },
     "evmInfo": {
-      "id": 19,
       "evmChainId": 1297,
       "blockExplorer": "https://blockexplorer.bobabase.boba.network/",
       "existentialDeposit": "0",
@@ -1149,7 +1074,6 @@
     "substrateInfo": null
   },
   {
-    "id": 19,
     "slug": "ethereum_goerli",
     "name": "Ethereum Testnet (Goerli)",
     "isTestnet": true,
@@ -1161,7 +1085,6 @@
       "Optimism": "https://goerli.optimism.io"
     },
     "evmInfo": {
-      "id": 7,
       "evmChainId": 1,
       "blockExplorer": "https://goerli.etherscan.io",
       "existentialDeposit": "0",
@@ -1176,7 +1099,6 @@
     "substrateInfo": null
   },
   {
-    "id": 119,
     "slug": "binance_test",
     "name": "Binance Smart Chain (Testnet)",
     "isTestnet": true,
@@ -1188,7 +1110,6 @@
       "Binance2": "https://data-seed-prebsc-2-s1.binance.org:8545/"
     },
     "evmInfo": {
-      "id": 18,
       "evmChainId": 97,
       "blockExplorer": "https://testnet.bscscan.com",
       "existentialDeposit": "0",
@@ -1203,7 +1124,6 @@
     "substrateInfo": null
   },
   {
-    "id": 13,
     "slug": "parallel",
     "name": "Parallel",
     "isTestnet": false,
@@ -1216,7 +1136,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 7,
       "relaySlug": "polkadot",
       "paraId": 2012,
       "genesisHash": "0xe61a41c53f5dcd0beb09df93b34402aada44cb05117b71059cce40a2723a4e97",
@@ -1233,7 +1152,6 @@
     }
   },
   {
-    "id": 27,
     "slug": "clover",
     "name": "Clover",
     "isTestnet": false,
@@ -1246,7 +1164,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 18,
       "relaySlug": "polkadot",
       "paraId": 2002,
       "genesisHash": "0x5c7bd13edf349b33eb175ffae85210299e324d852916336027391536e686f267",
@@ -1263,7 +1180,6 @@
     }
   },
   {
-    "id": 16,
     "slug": "cloverEvm",
     "name": "Clover - EVM",
     "isTestnet": false,
@@ -1275,7 +1191,6 @@
       "OnFinality": "wss://clover.api.onfinality.io/public-ws"
     },
     "evmInfo": {
-      "id": 8,
       "evmChainId": 1024,
       "blockExplorer": null,
       "existentialDeposit": "0",
@@ -1290,7 +1205,6 @@
     "substrateInfo": null
   },
   {
-    "id": 59,
     "slug": "hydradx_main",
     "name": "HydraDX",
     "isTestnet": false,
@@ -1303,7 +1217,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 59,
       "relaySlug": "polkadot",
       "paraId": 2034,
       "genesisHash": "0xafdc188f45c71dacbaa0b62e16a91f726c7b8699a9748cdf715459de6b7f366d",
@@ -1320,7 +1233,6 @@
     }
   },
   {
-    "id": 62,
     "slug": "edgeware",
     "name": "Edgeware",
     "isTestnet": false,
@@ -1334,7 +1246,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 48,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
@@ -1351,7 +1262,6 @@
     }
   },
   {
-    "id": 157,
     "slug": "centrifuge",
     "name": "Centrifuge",
     "isTestnet": false,
@@ -1364,7 +1274,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 140,
       "relaySlug": "polkadot",
       "paraId": 2031,
       "genesisHash": "0xb3db41421702df9a7fcac62b53ffeac85f7853cc4e689e0b93aeb3db18c09d82",
@@ -1381,7 +1290,6 @@
     }
   },
   {
-    "id": 54,
     "slug": "interlay",
     "name": "Interlay",
     "isTestnet": false,
@@ -1394,7 +1302,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 41,
       "relaySlug": "polkadot",
       "paraId": 2032,
       "genesisHash": "0xed86d448b84db333cdbe07362ddc79530343b907bd88712557c024d7a94296bb",
@@ -1411,7 +1318,6 @@
     }
   },
   {
-    "id": 32,
     "slug": "nodle",
     "name": "Nodle",
     "isTestnet": false,
@@ -1425,7 +1331,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 26,
       "relaySlug": "polkadot",
       "paraId": 2026,
       "genesisHash": "0xa3d114c2b8d0627c1aa9b134eafcf7d05ca561fdc19fb388bb9457f81809fb23",
@@ -1442,7 +1347,6 @@
     }
   },
   {
-    "id": 159,
     "slug": "darwinia2",
     "name": "Darwinia 2",
     "isTestnet": false,
@@ -1454,7 +1358,6 @@
       "Darwinia EVM": "https://rpc.darwinia.network"
     },
     "evmInfo": {
-      "id": 23,
       "evmChainId": 46,
       "blockExplorer": "https://darwinia.subscan.io/",
       "existentialDeposit": "0",
@@ -1467,7 +1370,6 @@
       "abiExplorer": null
     },
     "substrateInfo": {
-      "id": 10,
       "relaySlug": "polkadot",
       "paraId": 2046,
       "genesisHash": "0xf0b8924b12e8108550d28870bc03f7b45a947e1b2b9abf81bfb0b89ecb60570e",
@@ -1484,7 +1386,6 @@
     }
   },
   {
-    "id": 7,
     "slug": "sora_ksm",
     "name": "SORA Kusama",
     "isTestnet": false,
@@ -1496,7 +1397,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 6,
       "relaySlug": "kusama",
       "paraId": 2011,
       "genesisHash": "0x6d8d9f145c2177fa83512492cdd80a71e29f22473f4a8943a6292149ac319fb9",
@@ -1513,7 +1413,6 @@
     }
   },
   {
-    "id": 1,
     "slug": "odyssey",
     "name": "Ares Odyssey",
     "isTestnet": false,
@@ -1525,7 +1424,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 1,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x0f3665e2e57fb38fd638145b69e567fb05bbadfd457624f90f15e5dbb31320bb",
@@ -1542,7 +1440,6 @@
     }
   },
   {
-    "id": 2,
     "slug": "polkadex",
     "name": "Polkadex",
     "isTestnet": false,
@@ -1555,7 +1452,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 2,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
@@ -1572,7 +1468,6 @@
     }
   },
   {
-    "id": 51,
     "slug": "polkadexTest",
     "name": "Polkadex - Testnet",
     "isTestnet": true,
@@ -1584,7 +1479,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 47,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xd0024e7110db2a8b35d6599e64e82d3eb30070200a423398319efb6b4d596427",
@@ -1601,7 +1495,6 @@
     }
   },
   {
-    "id": 86,
     "slug": "rmrk",
     "name": "RMRK Devnet",
     "isTestnet": true,
@@ -1613,7 +1506,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 84,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6c7ae90ef70a31fe9f0f2329007ff4b4c4fe62fe71cd2b753ee37c1aa1070fef",
@@ -1630,7 +1522,6 @@
     }
   },
   {
-    "id": 88,
     "slug": "dolphin",
     "name": "Dolphin Testnet",
     "isTestnet": true,
@@ -1642,7 +1533,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 83,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x79372c8ed25b51c0d3c1f085becb264c93f1ecbc71dcf387fdb5c294fd823a08",
@@ -1659,7 +1549,6 @@
     }
   },
   {
-    "id": 57,
     "slug": "opal",
     "name": "Opal",
     "isTestnet": true,
@@ -1674,7 +1563,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 54,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x3fa374fbc8d0a9077356aefe327c88f447ce7f1fda905b1d4b4a2680a7b5cefa",
@@ -1691,7 +1579,6 @@
     }
   },
   {
-    "id": 18,
     "slug": "efinity",
     "name": "Efinity",
     "isTestnet": false,
@@ -1704,7 +1591,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 11,
       "relaySlug": "polkadot",
       "paraId": 2021,
       "genesisHash": "0x335369975fced3fc22e23498da306a712f4fd964c957364d53c49cea9db8bc2f",
@@ -1721,7 +1607,6 @@
     }
   },
   {
-    "id": 80,
     "slug": "composableFinance",
     "name": "Composable Finance",
     "isTestnet": false,
@@ -1733,7 +1618,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 64,
       "relaySlug": "polkadot",
       "paraId": 2019,
       "genesisHash": "0xdaab8df776eb52ec604a5df5d388bb62a050a0aaec4556a64265b9d42755552d",
@@ -1750,7 +1634,6 @@
     }
   },
   {
-    "id": 39,
     "slug": "phala",
     "name": "Phala",
     "isTestnet": false,
@@ -1763,7 +1646,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 35,
       "relaySlug": "polkadot",
       "paraId": 2035,
       "genesisHash": "0x1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
@@ -1780,7 +1662,6 @@
     }
   },
   {
-    "id": 73,
     "slug": "crust",
     "name": "Crust",
     "isTestnet": false,
@@ -1792,7 +1673,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 71,
       "relaySlug": "polkadot",
       "paraId": 2008,
       "genesisHash": "0x4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
@@ -1809,7 +1689,6 @@
     }
   },
   {
-    "id": 41,
     "slug": "statemine",
     "name": "Kusama Asset Hub (Statemine)",
     "isTestnet": false,
@@ -1826,7 +1705,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 33,
       "relaySlug": "kusama",
       "paraId": 1000,
       "genesisHash": "0x48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a",
@@ -1843,7 +1721,6 @@
     }
   },
   {
-    "id": 91,
     "slug": "karura",
     "name": "Karura",
     "isTestnet": false,
@@ -1861,7 +1738,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 85,
       "relaySlug": "kusama",
       "paraId": 2000,
       "genesisHash": "0xbaf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
@@ -1878,7 +1754,6 @@
     }
   },
   {
-    "id": 131,
     "slug": "khala",
     "name": "Khala",
     "isTestnet": false,
@@ -1893,7 +1768,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 117,
       "relaySlug": "kusama",
       "paraId": 2004,
       "genesisHash": "0xd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
@@ -1910,7 +1784,6 @@
     }
   },
   {
-    "id": 155,
     "slug": "kilt",
     "name": "KILT Spiritnet",
     "isTestnet": false,
@@ -1924,7 +1797,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 139,
       "relaySlug": "kusama",
       "paraId": 2086,
       "genesisHash": "0x411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
@@ -1941,7 +1813,6 @@
     }
   },
   {
-    "id": 49,
     "slug": "basilisk",
     "name": "Basilisk",
     "isTestnet": false,
@@ -1954,7 +1825,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 51,
       "relaySlug": "kusama",
       "paraId": 2090,
       "genesisHash": "0xa85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755",
@@ -1971,7 +1841,6 @@
     }
   },
   {
-    "id": 132,
     "slug": "altair",
     "name": "Altair",
     "isTestnet": false,
@@ -1984,7 +1853,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 123,
       "relaySlug": "kusama",
       "paraId": 2088,
       "genesisHash": "0xaa3876c1dc8a1afcc2e9a685a49ff7704cfd36ad8c90bf2702b9d1b00cc40011",
@@ -2001,7 +1869,6 @@
     }
   },
   {
-    "id": 23,
     "slug": "heiko",
     "name": "Heiko",
     "isTestnet": false,
@@ -2014,7 +1881,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 13,
       "relaySlug": "kusama",
       "paraId": 2085,
       "genesisHash": "0x64a1c658a48b2e70a7fb1ad4c39eea35022568c20fc44a6e2e3d0a57aee6053b",
@@ -2031,7 +1897,6 @@
     }
   },
   {
-    "id": 24,
     "slug": "kintsugi",
     "name": "Kintsugi",
     "isTestnet": false,
@@ -2044,7 +1909,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 17,
       "relaySlug": "kusama",
       "paraId": 2092,
       "genesisHash": "0x9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b",
@@ -2061,7 +1925,6 @@
     }
   },
   {
-    "id": 125,
     "slug": "kintsugi_test",
     "name": "Kintsugi Testnet",
     "isTestnet": true,
@@ -2073,7 +1936,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 115,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x3a5a5cd27eb15fd26c37315a0f0b938733bb798c897428448efac5e6150cad06",
@@ -2090,7 +1952,6 @@
     }
   },
   {
-    "id": 47,
     "slug": "picasso",
     "name": "Picasso",
     "isTestnet": false,
@@ -2102,7 +1963,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 44,
       "relaySlug": "kusama",
       "paraId": 2087,
       "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
@@ -2119,7 +1979,6 @@
     }
   },
   {
-    "id": 56,
     "slug": "quartz",
     "name": "Quartz",
     "isTestnet": false,
@@ -2133,7 +1992,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 46,
       "relaySlug": "kusama",
       "paraId": 2095,
       "genesisHash": "0xcd4d732201ebe5d6b014edda071c4203e16867305332301dc8d092044b28e554",
@@ -2150,7 +2008,6 @@
     }
   },
   {
-    "id": 29,
     "slug": "unique_network",
     "name": "Unique",
     "isTestnet": false,
@@ -2164,7 +2021,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 19,
       "relaySlug": "polkadot",
       "paraId": 2037,
       "genesisHash": "0x84322d9cddbf35088f1e54e9a85c967a41a56a4f43445768125e61af166c7d31",
@@ -2181,7 +2037,6 @@
     }
   },
   {
-    "id": 20,
     "slug": "genshiro",
     "name": "Genshiro",
     "isTestnet": false,
@@ -2193,7 +2048,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 15,
       "relaySlug": "kusama",
       "paraId": 2024,
       "genesisHash": "0x9b8cefc0eb5c568b527998bdd76c184e2b76ae561be76e4667072230217ea243",
@@ -2210,7 +2064,6 @@
     }
   },
   {
-    "id": 120,
     "slug": "genshiro_testnet",
     "name": "Genshiro Testnet",
     "isTestnet": true,
@@ -2222,7 +2075,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 111,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xdec164ef73b27c5b7e404114305102018a2b5a4ddda665bb510ce896ad5ba78d",
@@ -2239,7 +2091,6 @@
     }
   },
   {
-    "id": 126,
     "slug": "subsocial_x",
     "name": "Subsocial",
     "isTestnet": false,
@@ -2251,7 +2102,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 113,
       "relaySlug": "polkadot",
       "paraId": 2101,
       "genesisHash": "0x4a12be580bb959937a1c7a61d5cf24428ed67fa571974b4007645d1886e7c89f",
@@ -2268,7 +2118,6 @@
     }
   },
   {
-    "id": 43,
     "slug": "zeitgeist",
     "name": "Zeitgeist",
     "isTestnet": false,
@@ -2281,7 +2130,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 39,
       "relaySlug": "polkadot",
       "paraId": 2092,
       "genesisHash": "0x1bf2a2ecb4a868de66ea8610f2ce7c8c43706561b6476031315f6640fe38e060",
@@ -2298,7 +2146,6 @@
     }
   },
   {
-    "id": 28,
     "slug": "sakura",
     "name": "Sakura",
     "isTestnet": false,
@@ -2310,7 +2157,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 21,
       "relaySlug": "kusama",
       "paraId": 2016,
       "genesisHash": "0x7b0f142a9299b0886595992f8cac58814c8956de6a31c77caca95db01370fc2c",
@@ -2327,7 +2173,6 @@
     }
   },
   {
-    "id": 40,
     "slug": "shadow",
     "name": "Crust Shadow",
     "isTestnet": false,
@@ -2339,7 +2184,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 36,
       "relaySlug": "kusama",
       "paraId": 2012,
       "genesisHash": "0xd4c0c08ca49dc7c680c3dac71a7c0703e5b222f4b6c03fe4c5219bb8f22c18dc",
@@ -2356,7 +2200,6 @@
     }
   },
   {
-    "id": 44,
     "slug": "uniqueNft",
     "name": "Unique TestNet 2.0",
     "isTestnet": true,
@@ -2368,7 +2211,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 42,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x7cb0b5ec1431e348b7f531f02e5e6ba6d5983e26ba77b58335957f3d00585cbd",
@@ -2385,7 +2227,6 @@
     }
   },
   {
-    "id": 60,
     "slug": "robonomics",
     "name": "Robonomics",
     "isTestnet": false,
@@ -2400,7 +2241,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 57,
       "relaySlug": "kusama",
       "paraId": 2048,
       "genesisHash": "0x631ccc82a078481584041656af292834e1ae6daab61d2875b4dd0c14bb9b17bc",
@@ -2417,7 +2257,6 @@
     }
   },
   {
-    "id": 42,
     "slug": "integritee",
     "name": "Integritee Network",
     "isTestnet": false,
@@ -2430,7 +2269,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 37,
       "relaySlug": "kusama",
       "paraId": 2015,
       "genesisHash": "0xf195ef30c646663a24a3164b307521174a86f437c586397a43183c736a8383c1",
@@ -2447,7 +2285,6 @@
     }
   },
   {
-    "id": 48,
     "slug": "integriteePolkadot",
     "name": "Integritee Shell",
     "isTestnet": false,
@@ -2459,7 +2296,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 43,
       "relaySlug": "polkadot",
       "paraId": 2015,
       "genesisHash": "0xe13e7af377c64e83f95e0d70d5e5c3c01d697a84538776c5b9bbe0e7d7b6034c",
@@ -2476,7 +2312,6 @@
     }
   },
   {
-    "id": 163,
     "slug": "crabParachain",
     "name": "Crab2 Parachain",
     "isTestnet": false,
@@ -2489,7 +2324,6 @@
       "OnFinality": "wss://crab.api.onfinality.io/public-ws"
     },
     "evmInfo": {
-      "id": 27,
       "evmChainId": 44,
       "blockExplorer": "https://crab.subscan.io",
       "existentialDeposit": "0",
@@ -2502,7 +2336,6 @@
       "abiExplorer": null
     },
     "substrateInfo": {
-      "id": 61,
       "relaySlug": "kusama",
       "paraId": 2105,
       "genesisHash": "0x86e49c195aeae7c5c4a86ced251f1a28c67b3c35d8289c387ede1776cdd88b24",
@@ -2519,7 +2352,6 @@
     }
   },
   {
-    "id": 166,
     "slug": "pangolin",
     "name": "Pangolin",
     "isTestnet": true,
@@ -2530,7 +2362,6 @@
       "Pangolin_Network": "wss://pangolin-rpc.darwinia.network"
     },
     "evmInfo": {
-      "id": 28,
       "evmChainId": 43,
       "blockExplorer": null,
       "existentialDeposit": "0",
@@ -2543,7 +2374,6 @@
       "abiExplorer": null
     },
     "substrateInfo": {
-      "id": 144,
       "relaySlug": "rococo",
       "paraId": 2105,
       "genesisHash": "0xb067215e6232ffeed7cede2f92ac6b65f2121523fa221fc76f2e4430086c6b70",
@@ -2560,7 +2390,6 @@
     }
   },
   {
-    "id": 68,
     "slug": "chainx",
     "name": "Chain X",
     "isTestnet": false,
@@ -2572,7 +2401,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 68,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6ac13efb5b368b97b4934cef6edfdd99c2af51ba5109bfb8dacc116f9c584c10",
@@ -2589,7 +2417,6 @@
     }
   },
   {
-    "id": 112,
     "slug": "acala_testnet",
     "name": "Acala Mandala TC7",
     "isTestnet": true,
@@ -2602,7 +2429,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 108,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x5c562e6300954998233c9a40b6b86f3028977e6d32d0da1af207738d19f98c1b",
@@ -2619,7 +2445,6 @@
     }
   },
   {
-    "id": 38,
     "slug": "mangatax",
     "name": "MangataX Public Testnet",
     "isTestnet": true,
@@ -2631,7 +2456,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 24,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x797fe0d6ea6917b5a36707961d819dca1826628123510730425c3bafc65ccf59",
@@ -2648,7 +2472,6 @@
     }
   },
   {
-    "id": 100,
     "slug": "mangatax_para",
     "name": "Mangata Kusama",
     "isTestnet": false,
@@ -2661,7 +2484,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 94,
       "relaySlug": "kusama",
       "paraId": 2110,
       "genesisHash": "0xd611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa",
@@ -2678,7 +2500,6 @@
     }
   },
   {
-    "id": 46,
     "slug": "encointer",
     "name": "Encointer",
     "isTestnet": false,
@@ -2690,7 +2511,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 45,
       "relaySlug": "kusama",
       "paraId": 1001,
       "genesisHash": "0x7dd99936c1e9e6d1ce7d90eb6f33bea8393b4bf87677d675aa63c9cb3e8c5b5b",
@@ -2707,7 +2527,6 @@
     }
   },
   {
-    "id": 109,
     "slug": "litmus",
     "name": "Litmus",
     "isTestnet": false,
@@ -2719,7 +2538,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 104,
       "relaySlug": "kusama",
       "paraId": 2106,
       "genesisHash": "0xda5831fbc8570e3c6336d0d72b8c08f8738beefec812df21ef2afc2982ede09c",
@@ -2736,7 +2554,6 @@
     }
   },
   {
-    "id": 84,
     "slug": "litentry",
     "name": "Litentry",
     "isTestnet": false,
@@ -2749,7 +2566,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 80,
       "relaySlug": "polkadot",
       "paraId": 2013,
       "genesisHash": "0x2fc8bb6ed7c0051bdcf4866c322ed32b6276572713607e3297ccf411b8f14aa9",
@@ -2766,7 +2582,6 @@
     }
   },
   {
-    "id": 31,
     "slug": "tinkernet",
     "name": "Tinkernet",
     "isTestnet": false,
@@ -2780,7 +2595,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 23,
       "relaySlug": "kusama",
       "paraId": 2125,
       "genesisHash": "0xd42e9606a995dfe433dc7955dc2a70f495f350f373daa200098ae84437816ad2",
@@ -2797,7 +2611,6 @@
     }
   },
   {
-    "id": 130,
     "slug": "imbue_network",
     "name": "Imbue Kusama",
     "isTestnet": false,
@@ -2809,7 +2622,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 119,
       "relaySlug": "kusama",
       "paraId": 2121,
       "genesisHash": "0xca93a37c913a25fa8fdb33c7f738afc39379cb71d37874a16d4c091a5aef9f89",
@@ -2826,7 +2638,6 @@
     }
   },
   {
-    "id": 74,
     "slug": "subspace_test",
     "name": "Subspace Testnet",
     "isTestnet": true,
@@ -2838,7 +2649,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 70,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x332ef6e751e25426e38996c51299dfc53bcd56f40b53dce2b2fc8442ae9c4a74",
@@ -2855,7 +2665,6 @@
     }
   },
   {
-    "id": 106,
     "slug": "subspace_gemini_2a",
     "name": "Subspace Gemini 2a",
     "isTestnet": true,
@@ -2869,7 +2678,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 97,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101",
@@ -2886,7 +2694,6 @@
     }
   },
   {
-    "id": 153,
     "slug": "subspace_gemini_3c",
     "name": "Subspace Gemini 3c",
     "isTestnet": true,
@@ -2900,7 +2707,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 138,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xab946a15b37f59c5f4f27c5de93acde9fe67a28e0b724a43a30e4fe0e87246b7",
@@ -2917,7 +2723,6 @@
     }
   },
   {
-    "id": 147,
     "slug": "subspace_gemini_3d",
     "name": "Subspace Gemini 3d",
     "isTestnet": true,
@@ -2930,7 +2735,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 133,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x7f489750cfe91e17fc19b42a5acaba41d1975cedd3440075d4a4b4171ad0ac20",
@@ -2947,7 +2751,6 @@
     }
   },
   {
-    "id": 115,
     "slug": "subspace_gemini_3e",
     "name": "Subspace Gemini 3e",
     "isTestnet": true,
@@ -2959,7 +2762,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 107,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xa3cd4b592d93f79943fbc58fc90ca8f516106699c9cf4d7ada98ca22877bc1ae",
@@ -2976,7 +2778,6 @@
     }
   },
   {
-    "id": 63,
     "slug": "subspace_gemini_3f",
     "name": "Subspace Gemini 3f",
     "isTestnet": true,
@@ -2988,7 +2789,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 63,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x92e91e657747c41eeabed5129ff51689d2e935b9f6abfbd5dfcb2e1d0d035095",
@@ -3005,7 +2805,6 @@
     }
   },
   {
-    "id": 53,
     "slug": "origintrail",
     "name": "OriginTrail",
     "isTestnet": false,
@@ -3017,7 +2816,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 49,
       "relaySlug": "polkadot",
       "paraId": 2043,
       "genesisHash": "0xe7e0962324a3b86c83404dbea483f25fb5dab4c224791c81b756cfc948006174",
@@ -3034,7 +2832,6 @@
     }
   },
   {
-    "id": 52,
     "slug": "dorafactory",
     "name": "Dorafactory",
     "isTestnet": false,
@@ -3046,7 +2843,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 50,
       "relaySlug": "kusama",
       "paraId": 2115,
       "genesisHash": "0x577d331ca43646f547cdaa07ad0aa387a383a93416764480665103081f3eaf14",
@@ -3063,7 +2859,6 @@
     }
   },
   {
-    "id": 72,
     "slug": "bajun",
     "name": "Bajun Kusama",
     "isTestnet": false,
@@ -3077,7 +2872,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 69,
       "relaySlug": "kusama",
       "paraId": 2119,
       "genesisHash": "0x35a06bfec2edf0ff4be89a6428ccd9ff5bd0167d618c5a0d4341f9600a458d14",
@@ -3094,7 +2888,6 @@
     }
   },
   {
-    "id": 168,
     "slug": "dancebox",
     "name": "Dancebox",
     "isTestnet": true,
@@ -3106,7 +2899,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 146,
       "relaySlug": null,
       "paraId": 3000,
       "genesisHash": "0x27aafd88e5921f5d5c6aebcd728dacbbf5c2a37f63e2eda301f8e0def01c43ea",
@@ -3123,7 +2915,6 @@
     }
   },
   {
-    "id": 113,
     "slug": "listen",
     "name": "Listen Network",
     "isTestnet": false,
@@ -3136,7 +2927,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 106,
       "relaySlug": "kusama",
       "paraId": 2118,
       "genesisHash": "0x48eb7f3fff34e702aa2b504674df8f8afbf9889f804e3088c0cb662e433552a0",
@@ -3153,7 +2943,6 @@
     }
   },
   {
-    "id": 35,
     "slug": "kabocha",
     "name": "Kabocha",
     "isTestnet": false,
@@ -3165,7 +2954,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 32,
       "relaySlug": "kusama",
       "paraId": 2113,
       "genesisHash": "0xfeb426ca713f0f46c96465b8f039890370cf6bfd687c9076ea2843f58a6ae8a7",
@@ -3182,7 +2970,6 @@
     }
   },
   {
-    "id": 96,
     "slug": "gmdie",
     "name": "GM Parachain",
     "isTestnet": false,
@@ -3196,7 +2983,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 92,
       "relaySlug": "kusama",
       "paraId": 2123,
       "genesisHash": "0x19a3733beb9cb8a970a308d835599e9005e02dc007a35440e461a451466776f8",
@@ -3213,7 +2999,6 @@
     }
   },
   {
-    "id": 64,
     "slug": "ternoa",
     "name": "Ternoa",
     "isTestnet": false,
@@ -3225,7 +3010,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 62,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6859c81ca95ef624c9dfe4dc6e3381c33e5d6509e35e147092bfbc780f777c4e",
@@ -3242,7 +3026,6 @@
     }
   },
   {
-    "id": 111,
     "slug": "tanganika",
     "name": "DataHighway Tanganika",
     "isTestnet": false,
@@ -3254,7 +3037,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 103,
       "relaySlug": "kusama",
       "paraId": 2116,
       "genesisHash": null,
@@ -3271,7 +3053,6 @@
     }
   },
   {
-    "id": 58,
     "slug": "pendulum",
     "name": "Pendulum",
     "isTestnet": false,
@@ -3283,7 +3064,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 52,
       "relaySlug": "polkadot",
       "paraId": 2094,
       "genesisHash": "0x5d3c298622d5634ed019bf61ea4b71655030015bde9beb0d6a24743714462c86",
@@ -3300,7 +3080,6 @@
     }
   },
   {
-    "id": 98,
     "slug": "gear_testnet",
     "name": "Gear Staging Testnet",
     "isTestnet": true,
@@ -3312,7 +3091,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 96,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6f022bd353c56b3e441507e1173601fd9dc0fb7547e6a95bbaf9b21f311bcab6",
@@ -3329,7 +3107,6 @@
     }
   },
   {
-    "id": 61,
     "slug": "ternoa_alphanet",
     "name": "Ternoa Alphanet",
     "isTestnet": true,
@@ -3341,7 +3118,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 56,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x18bcdb75a0bba577b084878db2dc2546eb21504eaad4b564bb7d47f9d02b6ace",
@@ -3358,7 +3134,6 @@
     }
   },
   {
-    "id": 70,
     "slug": "calamari_test",
     "name": "Calamari Staging",
     "isTestnet": true,
@@ -3370,7 +3145,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 66,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x2ae061f08422b6503b8aa5f401242a209999669c3b8945f814dc096fb1a977bd",
@@ -3387,7 +3161,6 @@
     }
   },
   {
-    "id": 79,
     "slug": "boba",
     "name": "Boba Network",
     "isTestnet": false,
@@ -3399,7 +3172,6 @@
       "Write RPC": "https://mainnet.boba.network"
     },
     "evmInfo": {
-      "id": 11,
       "evmChainId": 288,
       "blockExplorer": "https://bobascan.com/",
       "existentialDeposit": "0",
@@ -3414,7 +3186,6 @@
     "substrateInfo": null
   },
   {
-    "id": 124,
     "slug": "bobabeam",
     "name": "Bobabeam",
     "isTestnet": false,
@@ -3426,7 +3197,6 @@
       "Replica RPC": "https://replica.bobabeam.boba.network"
     },
     "evmInfo": {
-      "id": 17,
       "evmChainId": 1294,
       "blockExplorer": "https://blockexplorer.bobabeam.boba.network",
       "existentialDeposit": "0",
@@ -3441,7 +3211,6 @@
     "substrateInfo": null
   },
   {
-    "id": 93,
     "slug": "kilt_peregrine",
     "name": "KILT Peregrine",
     "isTestnet": true,
@@ -3453,7 +3222,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 90,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xa0c6e3bac382b316a68bca7141af1fba507207594c761076847ce358aeedcc21",
@@ -3470,7 +3238,6 @@
     }
   },
   {
-    "id": 67,
     "slug": "xx_network",
     "name": "XX Network",
     "isTestnet": false,
@@ -3483,7 +3250,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 55,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x50dd5d206917bf10502c68fb4d18a59fc8aa31586f4e8856b493e43544aa82aa",
@@ -3500,7 +3266,6 @@
     }
   },
   {
-    "id": 142,
     "slug": "watr_network",
     "name": "Watr Network",
     "isTestnet": true,
@@ -3512,7 +3277,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 125,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xb53c620c41860278fa3068a5367c8eedceefce8a7c29237d830bc09a71737b5d",
@@ -3529,7 +3293,6 @@
     }
   },
   {
-    "id": 108,
     "slug": "watr_network_evm",
     "name": "Watr Network - EVM",
     "isTestnet": true,
@@ -3540,7 +3303,6 @@
       "watr": "https://rpc.dev.watr.org"
     },
     "evmInfo": {
-      "id": 15,
       "evmChainId": 688,
       "blockExplorer": null,
       "existentialDeposit": "0",
@@ -3555,7 +3317,6 @@
     "substrateInfo": null
   },
   {
-    "id": 81,
     "slug": "fusotao",
     "name": "Fusotao",
     "isTestnet": false,
@@ -3567,7 +3328,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 78,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xa7113159e275582ee71ee499b24378a2416f34dc5aaf714443f0d11c6c3d99d3",
@@ -3584,7 +3344,6 @@
     }
   },
   {
-    "id": 143,
     "slug": "discovol",
     "name": "Discovol",
     "isTestnet": false,
@@ -3596,7 +3355,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 129,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x2dfbcf7700297bd8ce07a4665ab39e2ed1a3790df783b936988c85eb87e38bee",
@@ -3613,7 +3371,6 @@
     }
   },
   {
-    "id": 127,
     "slug": "discovol_testnet",
     "name": "Discovol Testnet",
     "isTestnet": true,
@@ -3625,7 +3382,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 114,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xdc1922b7f60b4925091bbfdd912684c449de7a7cdc5592e9eab11fee55fa53ec",
@@ -3642,7 +3398,6 @@
     }
   },
   {
-    "id": 138,
     "slug": "atocha",
     "name": "Atocha",
     "isTestnet": false,
@@ -3654,7 +3409,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 120,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x1f11f745be512a17f39b571a9391b5ee6747b900c1db98176828e4a1346dbe9b",
@@ -3671,7 +3425,6 @@
     }
   },
   {
-    "id": 149,
     "slug": "myriad",
     "name": "Myriad",
     "isTestnet": false,
@@ -3683,7 +3436,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 132,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x74ed91fbc18497f011290f9119a2217908649170337b6414a2d44923ade07063",
@@ -3700,7 +3452,6 @@
     }
   },
   {
-    "id": 82,
     "slug": "deBio",
     "name": "DeBio",
     "isTestnet": false,
@@ -3712,7 +3463,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 76,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x996800af345b3109acdada9913e36d1efa98b89e7dcd0b61b70fdbfc13b2fa50",
@@ -3729,7 +3479,6 @@
     }
   },
   {
-    "id": 114,
     "slug": "collectives",
     "name": "Polkadot Collectives",
     "isTestnet": false,
@@ -3741,7 +3490,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 105,
       "relaySlug": "polkadot",
       "paraId": 1001,
       "genesisHash": "0x46ee89aa2eedd13e988962630ec9fb7565964cf5023bb351f2b6b25c1b68b0b2",
@@ -3758,7 +3506,6 @@
     }
   },
   {
-    "id": 123,
     "slug": "ajunaPolkadot",
     "name": "Ajuna Network",
     "isTestnet": false,
@@ -3771,7 +3518,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 110,
       "relaySlug": "polkadot",
       "paraId": 2028,
       "genesisHash": "0xe358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
@@ -3788,7 +3534,6 @@
     }
   },
   {
-    "id": 30,
     "slug": "bitgreen",
     "name": "Bitgreen",
     "isTestnet": false,
@@ -3800,7 +3545,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 27,
       "relaySlug": "polkadot",
       "paraId": 2048,
       "genesisHash": "0xc14597baeccb232d662770d2d50ae832ca8c3192693d2b0814e6433f2888ddd6",
@@ -3817,7 +3561,6 @@
     }
   },
   {
-    "id": 85,
     "slug": "frequency",
     "name": "Frequency",
     "isTestnet": false,
@@ -3830,7 +3573,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 73,
       "relaySlug": "polkadot",
       "paraId": 2091,
       "genesisHash": "0x4a587bf17a404e3572747add7aab7bbe56e805a5479c6c436f07f36fcc8d3ae1",
@@ -3847,7 +3589,6 @@
     }
   },
   {
-    "id": 103,
     "slug": "hashedNetwork",
     "name": "Hashed Network",
     "isTestnet": false,
@@ -3859,7 +3600,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 87,
       "relaySlug": "polkadot",
       "paraId": 2093,
       "genesisHash": "0x331645ae3db556c7754a82f79cece12cce3420975d5b0219d51b1cb4f6ddc21c",
@@ -3876,7 +3616,6 @@
     }
   },
   {
-    "id": 148,
     "slug": "kapex",
     "name": "Kapex",
     "isTestnet": false,
@@ -3888,7 +3627,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 135,
       "relaySlug": "polkadot",
       "paraId": 2007,
       "genesisHash": "0x7838c3c774e887c0a53bcba9e64f702361a1a852d5550b86b58cd73827fa1e1e",
@@ -3905,7 +3643,6 @@
     }
   },
   {
-    "id": 90,
     "slug": "kylinNetwork",
     "name": "Kylin Network",
     "isTestnet": false,
@@ -3917,7 +3654,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 88,
       "relaySlug": "polkadot",
       "paraId": 2052,
       "genesisHash": "0xf2584690455deda322214e97edfffaf4c1233b6e4625e39478496b3e2f5a44c5",
@@ -3934,7 +3670,6 @@
     }
   },
   {
-    "id": 71,
     "slug": "ipci",
     "name": "DAO IPCI",
     "isTestnet": false,
@@ -3946,7 +3681,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 58,
       "relaySlug": "kusama",
       "paraId": 2222,
       "genesisHash": "0x6f0f071506de39058fe9a95bbca983ac0e9c5da3443909574e95d52eb078d348",
@@ -3963,7 +3697,6 @@
     }
   },
   {
-    "id": 65,
     "slug": "kico",
     "name": "KICO",
     "isTestnet": false,
@@ -3975,7 +3708,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 60,
       "relaySlug": "kusama",
       "paraId": 2107,
       "genesisHash": "0x52149c30c1eb11460dce6c08b73df8d53bb93b4a15d0a2e7fd5dafe86a73c0da",
@@ -3992,7 +3724,6 @@
     }
   },
   {
-    "id": 105,
     "slug": "luhnNetwork",
     "name": "Luhn Network",
     "isTestnet": false,
@@ -4004,7 +3735,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 99,
       "relaySlug": "kusama",
       "paraId": 2232,
       "genesisHash": "0xba713fdbf674083c5541c1439b83d8e593e1105f35f11954bcc50d0bf9607873",
@@ -4021,7 +3751,6 @@
     }
   },
   {
-    "id": 92,
     "slug": "pichiu",
     "name": "Pichiu Network",
     "isTestnet": false,
@@ -4034,7 +3763,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 86,
       "relaySlug": "kusama",
       "paraId": 2102,
       "genesisHash": "0x0e06260459b4f9034aba0a75108c08ed73ea51d2763562749b1d3600986c4ea5",
@@ -4051,7 +3779,6 @@
     }
   },
   {
-    "id": 145,
     "slug": "riodefi",
     "name": "RioDeFi",
     "isTestnet": false,
@@ -4063,7 +3790,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 130,
       "relaySlug": "kusama",
       "paraId": 2227,
       "genesisHash": "0x70310f31bdb878e9920121807ee46236bda2e00c10eb105a40b386bd7ad16906",
@@ -4080,7 +3806,6 @@
     }
   },
   {
-    "id": 97,
     "slug": "automata",
     "name": "Automata",
     "isTestnet": false,
@@ -4093,7 +3818,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 89,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xc8eda34601b5a48c73f47ee39a3a86a858c34f044185b17dc7d5ad155813dc63",
@@ -4110,7 +3834,6 @@
     }
   },
   {
-    "id": 137,
     "slug": "creditcoin",
     "name": "Creditcoin",
     "isTestnet": false,
@@ -4122,7 +3845,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 116,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xdd954cbf4000542ef1a15bca509cd89684330bee5e23766c527cdb0d7275e9c2",
@@ -4139,7 +3861,6 @@
     }
   },
   {
-    "id": 75,
     "slug": "crownSterling",
     "name": "Crown Sterling",
     "isTestnet": false,
@@ -4151,7 +3872,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 72,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xce24ecf534daea9cd46e425659ef4950a57dd29d07272b423220129c323a64b7",
@@ -4168,7 +3888,6 @@
     }
   },
   {
-    "id": 95,
     "slug": "dockPosMainnet",
     "name": "Dock",
     "isTestnet": false,
@@ -4180,7 +3899,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 91,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6bfe24dca2a3be10f22212678ac13a6446ec764103c0f3471c71609eac384aae",
@@ -4197,7 +3915,6 @@
     }
   },
   {
-    "id": 146,
     "slug": "kusari",
     "name": "Kusari",
     "isTestnet": false,
@@ -4209,7 +3926,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 134,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x4959f8d87d40d9ef516459ff177111bb03d875e5a7ed69282f6b689a707b69f5",
@@ -4226,7 +3942,6 @@
     }
   },
   {
-    "id": 152,
     "slug": "logion",
     "name": "logion Standalone",
     "isTestnet": false,
@@ -4238,7 +3953,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 137,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xe9d7420a5f73edef005ccb8e043500aa5b2458f173912184ea93c14dc035a203",
@@ -4255,7 +3969,6 @@
     }
   },
   {
-    "id": 116,
     "slug": "neatcoin",
     "name": "Neatcoin",
     "isTestnet": false,
@@ -4267,7 +3980,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 98,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xfbb541421d30423c9a753ffa844b64fd44d823f513bf49e3b73b3a656309a595",
@@ -4284,7 +3996,6 @@
     }
   },
   {
-    "id": 135,
     "slug": "nftmart",
     "name": "NFTMart",
     "isTestnet": false,
@@ -4296,7 +4007,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 121,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xfcf9074303d8f319ad1bf0195b145871977e7c375883b834247cb01ff22f51f9",
@@ -4313,7 +4023,6 @@
     }
   },
   {
-    "id": 78,
     "slug": "polymesh",
     "name": "Polymesh Mainnet",
     "isTestnet": false,
@@ -4325,7 +4034,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 74,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6fbd74e5e1d0a61d52ccfe9d4adaed16dd3a7caa37c6bc4d0c2fa12e8b2f4063",
@@ -4342,7 +4050,6 @@
     }
   },
   {
-    "id": 154,
     "slug": "riochain",
     "name": "RioChain",
     "isTestnet": false,
@@ -4354,7 +4061,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 136,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xd8c6dc2e057b94d05c870a7b39bfb30ae10202ed9cf7731d28dafcfe9458e307",
@@ -4371,7 +4077,6 @@
     }
   },
   {
-    "id": 128,
     "slug": "sherpax",
     "name": "SherpaX",
     "isTestnet": false,
@@ -4383,7 +4088,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 118,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xe195ef16d0c628b5cab1486a233865def6e71f8b7814dd058a6b93a85118b796",
@@ -4400,7 +4104,6 @@
     }
   },
   {
-    "id": 110,
     "slug": "sora_substrate",
     "name": "SORA",
     "isTestnet": false,
@@ -4415,7 +4118,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 101,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
@@ -4432,7 +4134,6 @@
     }
   },
   {
-    "id": 133,
     "slug": "swapdex",
     "name": "Swapdex",
     "isTestnet": false,
@@ -4444,7 +4145,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 124,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x15bac4f0a9aad3f46c5fc067fdb59b3ff29738dcd491fe5e37b4b76121163471",
@@ -4461,7 +4161,6 @@
     }
   },
   {
-    "id": 141,
     "slug": "3dpass",
     "name": "3DPass",
     "isTestnet": false,
@@ -4473,7 +4172,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 126,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6c5894837ad89b6d92b114a2fb3eafa8fe3d26a54848e3447015442cd6ef4e66",
@@ -4490,7 +4188,6 @@
     }
   },
   {
-    "id": 76,
     "slug": "alephSmartNet",
     "name": "Aleph Zero Smartnet",
     "isTestnet": true,
@@ -4502,7 +4199,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 75,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6153e2745a56d188365372b5cce283dfddbb96b17e9bb396cceb4630103ff92b",
@@ -4519,7 +4215,6 @@
     }
   },
   {
-    "id": 144,
     "slug": "kulupu",
     "name": "Kulupu",
     "isTestnet": false,
@@ -4531,7 +4226,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 127,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xf7a99d3cb92853d00d5275c971c132c074636256583fee53b3bbe60d7b8769ba",
@@ -4548,7 +4242,6 @@
     }
   },
   {
-    "id": 66,
     "slug": "joystream",
     "name": "Joystream",
     "isTestnet": false,
@@ -4560,7 +4253,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 67,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x6b5e488e0fa8f9821110d5c13f4c468abcd43ce5e297e62b34c53c3346465956",
@@ -4577,7 +4269,6 @@
     }
   },
   {
-    "id": 102,
     "slug": "aventus_testnet",
     "name": "Aventus Testnet",
     "isTestnet": true,
@@ -4589,7 +4280,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 93,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xa6ffcef7fb8caadf7f6c5ad8ada65e3eaa90d1604f3eabda546ff1d486865a0c",
@@ -4606,7 +4296,6 @@
     }
   },
   {
-    "id": 89,
     "slug": "vara_network",
     "name": "Vara Network",
     "isTestnet": false,
@@ -4618,7 +4307,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 82,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xfe1b4c55fd4d668101126434206571a7838a8b6b93a6d1b95d607e78e6c53763",
@@ -4635,7 +4323,6 @@
     }
   },
   {
-    "id": 134,
     "slug": "kate",
     "name": "Avail Kate Testnet",
     "isTestnet": true,
@@ -4647,7 +4334,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 112,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xd12003ac837853b062aaccca5ce87ac4838c48447e41db4a3dcfb5bf312350c6",
@@ -4664,7 +4350,6 @@
     }
   },
   {
-    "id": 118,
     "slug": "bridgeHubPolkadot",
     "name": "Polkadot Bridge Hub",
     "isTestnet": false,
@@ -4677,7 +4362,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 102,
       "relaySlug": "polkadot",
       "paraId": 1002,
       "genesisHash": "0xdcf691b5a3fbe24adc99ddc959c0561b973e329b1aef4c4b22e7bb2ddecb4464",
@@ -4694,7 +4378,6 @@
     }
   },
   {
-    "id": 121,
     "slug": "bridgeHubKusama",
     "name": "Kusama Bridge Hub",
     "isTestnet": false,
@@ -4709,7 +4392,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 100,
       "relaySlug": "kusama",
       "paraId": 1002,
       "genesisHash": "0x00dcb981df86429de8bbacf9803401f09485366c44efbf53af9ecfab03adc7e5",
@@ -4726,7 +4408,6 @@
     }
   },
   {
-    "id": 151,
     "slug": "fantom_testnet",
     "name": "Fantom Testnet",
     "isTestnet": true,
@@ -4740,7 +4421,6 @@
       "BlastApi": "https://fantom-testnet.public.blastapi.io/"
     },
     "evmInfo": {
-      "id": 21,
       "evmChainId": 4002,
       "blockExplorer": "https://testnet.ftmscan.com",
       "existentialDeposit": "0",
@@ -4755,7 +4435,6 @@
     "substrateInfo": null
   },
   {
-    "id": 129,
     "slug": "fantom",
     "name": "Fantom",
     "isTestnet": false,
@@ -4770,7 +4449,6 @@
       "PoktNetwork": "https://fantom-rpc.gateway.pokt.network"
     },
     "evmInfo": {
-      "id": 20,
       "evmChainId": 250,
       "blockExplorer": "https://ftmscan.com",
       "existentialDeposit": "0",
@@ -4785,7 +4463,6 @@
     "substrateInfo": null
   },
   {
-    "id": 140,
     "slug": "krest_network",
     "name": "Krest Network",
     "isTestnet": false,
@@ -4797,7 +4474,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 128,
       "relaySlug": "kusama",
       "paraId": 2241,
       "genesisHash": "0xb3dd5ad6a82872b30aabaede8f41dfd4ff6c32ff82f8757d034a45be63cf104c",
@@ -4814,7 +4490,6 @@
     }
   },
   {
-    "id": 136,
     "slug": "deeper_network",
     "name": "Deeper Network",
     "isTestnet": false,
@@ -4826,7 +4501,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 122,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x4466b9e982ab141d4115ed226ff4153b1d20e5b64f5401f732e60dec8326149f",
@@ -4843,7 +4517,6 @@
     }
   },
   {
-    "id": 150,
     "slug": "jur_network",
     "name": "Jur Network",
     "isTestnet": false,
@@ -4855,7 +4528,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 131,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x58d1393b47b11707978fbc07e77d7b6f7d9aa88d207dc008a52385f7dba6156a",
@@ -4872,7 +4544,6 @@
     }
   },
   {
-    "id": 107,
     "slug": "base_mainnet",
     "name": "Base Mainnet",
     "isTestnet": false,
@@ -4883,7 +4554,6 @@
       "PublicNode": "https://base.publicnode.com"
     },
     "evmInfo": {
-      "id": 14,
       "evmChainId": 8453,
       "blockExplorer": "https://basescan.org",
       "existentialDeposit": "0",
@@ -4898,7 +4568,6 @@
     "substrateInfo": null
   },
   {
-    "id": 158,
     "slug": "avalanche_c",
     "name": "Avalanche C-Chain",
     "isTestnet": false,
@@ -4909,7 +4578,6 @@
       "PublicNode": "https://avalanche-c-chain.publicnode.com"
     },
     "evmInfo": {
-      "id": 22,
       "evmChainId": 43114,
       "blockExplorer": "https://subnets.avax.network/c-chain/",
       "existentialDeposit": "0",
@@ -4924,7 +4592,6 @@
     "substrateInfo": null
   },
   {
-    "id": 101,
     "slug": "crust_mainnet",
     "name": "Crust Mainet",
     "isTestnet": false,
@@ -4937,7 +4604,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 95,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x8b404e7ed8789d813982b9cb4c8b664c05b3fbf433309f603af014ec9ce56a8c",
@@ -4954,7 +4620,6 @@
     }
   },
   {
-    "id": 104,
     "slug": "acala_evm",
     "name": "Acala - EVM",
     "isTestnet": false,
@@ -4965,7 +4630,6 @@
       "Acala": "https://eth-rpc-acala.aca-api.network"
     },
     "evmInfo": {
-      "id": 13,
       "evmChainId": 787,
       "blockExplorer": "https://blockscout.acala.network/",
       "existentialDeposit": "100000000000000000",
@@ -4980,7 +4644,6 @@
     "substrateInfo": null
   },
   {
-    "id": 117,
     "slug": "karura_evm",
     "name": "Karura - EVM",
     "isTestnet": false,
@@ -4991,7 +4654,6 @@
       "Acala": "https://eth-rpc-karura.aca-api.network"
     },
     "evmInfo": {
-      "id": 16,
       "evmChainId": 686,
       "blockExplorer": "https://blockscout.karura.network/",
       "existentialDeposit": "100000000000000000",
@@ -5006,7 +4668,6 @@
     "substrateInfo": null
   },
   {
-    "id": 167,
     "slug": "bittensor",
     "name": "Bittensor",
     "isTestnet": false,
@@ -5018,7 +4679,6 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "id": 145,
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x2f0555cc76fc2840a25a6ea3b9637146806f1f44b090c175ffde2a7e5ab36c03",

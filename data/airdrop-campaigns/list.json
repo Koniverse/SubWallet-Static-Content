@@ -15,7 +15,26 @@
     "tags": [
       "lucky_draw"
     ],
+    "campaign_url": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/og_2f6b43a755.jpg"
+  },
+  {
+    "id": 2,
+    "name": null,
+    "status": null,
+    "ordinal": null,
+    "description": null,
+    "start_time": null,
+    "end_time": null,
+    "url": "https://dotinsights.subwallet.app/",
+    "twitter_url": "https://dotinsights.subwallet.app/",
+    "reward": null,
+    "total_winner": null,
+    "total_supply": null,
+    "tags": null,
+    "campaign_url": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/opensea_1688cddd62.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png"
   }
 ]

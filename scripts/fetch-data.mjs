@@ -2,16 +2,46 @@ import * as fs from "fs";
 import axios from "axios";
 import path from "path";
 
-const MAP_CONTENT_TYPE = {
-    'chain': 'chains',
-    'category': 'categories',
-    'dapp': 'dapps',
-    'airdrop-campaign': 'airdrop-campaigns',
-}
-const urlParams = (contentType) => `https://content.subwallet.app/api/list/${contentType}`;
-const savePath = (contentType) => `data/${contentType}/list.json`;
-const saveImagesPath = (contentType) => `data/${contentType}/images`;
-const urlImage = (folder, field, name) => `https://static-data.subwallet.app/${folder}/images/${field}/${name}`;
+const STRAPI_URL = 'https://content.subwallet.app';
+const RESOURCE_URL = 'https://static-data.subwallet.app';
+
+const cacheConfigs = [
+    {
+        url: `${STRAPI_URL}/api/list/chain`,
+        folder: 'chains',
+        imageFields: ['icon'],
+        removeFields: ['id']
+    },
+    {
+        url: `${STRAPI_URL}/api/list/dapp`,
+        folder: 'dapps',
+        imageFields: ['icon'],
+        removeFields: []
+    },
+    {
+        url: `${STRAPI_URL}/api/list/category`,
+        folder: 'categories',
+        imageFields: [],
+        removeFields: ['id']
+    },
+    {
+        url: `${STRAPI_URL}/api/list/airdrop-campaign`,
+        folder: 'airdrop-campaigns',
+        imageFields: ['logo', 'backdrop_image'],
+        removeFields: []
+    },
+    {
+        url: `${STRAPI_URL}/api/list/crowdloan-fund`,
+        folder: 'crowdloan-funds',
+        imageFields: [],
+        removeFields: ['id']
+    }
+
+]
+
+const savePath = (folder) => `data/${folder}/list.json`;
+const saveImagesPath = (folder) => `data/${folder}/images`;
+const urlImage = (folder, field, name) => `${RESOURCE_URL}/${folder}/images/${field}/${name}`;
 
 export async function downloadFile(url, downloadDir, forceFileName = null) {
     // Create dir if not exist
@@ -56,12 +86,13 @@ async function writeJSONFile(filePath, data) {
 }
 
 const main = async () => {
-    for (const key in MAP_CONTENT_TYPE) {
-        const results = await axios.get(urlParams(key));
+    for (const config of cacheConfigs) {
+        console.log('Caching data with config', config)
+        const results = await axios.get(config.url);
         if (!results.data) return;
-        const folder = MAP_CONTENT_TYPE[key] || key;
+        const folder = config.folder;
         const path = savePath(folder);
-        const fieldsImage = ['icon', 'logo', 'backdrop_image'];
+        const fieldsImage = config.imageFields;
         const downloadDir = saveImagesPath(folder);
         const dataContent = await Promise.all(results.data.map(async item => {
             const dataImages = {};
@@ -76,6 +107,10 @@ const main = async () => {
             return {...item, ...dataImages};
         }));
         await writeJSONFile(path, dataContent);
+
+        for (const f of config.removeFields) {
+            dataContent[f] && delete dataContent[f];
+        }
     }
 }
 
