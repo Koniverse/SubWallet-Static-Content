@@ -15,6 +15,7 @@
     "tags": [
       "lucky_draw"
     ],
+    "campaign_url": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/og_2f6b43a755.jpg"
   },
@@ -32,6 +33,7 @@
     "total_winner": null,
     "total_supply": null,
     "tags": null,
+    "campaign_url": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/opensea_1688cddd62.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png"
   }

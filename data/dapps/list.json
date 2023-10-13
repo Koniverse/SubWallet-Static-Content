@@ -125,7 +125,9 @@
     "chains": [
       "jur_network"
     ],
-    "categories": []
+    "categories": [
+      "community"
+    ]
   },
   {
     "id": 115,
