@@ -4743,5 +4743,40 @@
       "supportStaking": null,
       "supportSmartContract": null
     }
+  },
+  {
+    "slug": "polimec",
+    "name": "Polimec",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polymec_logo_ca002aefd0.png",
+    "providers": {
+      "null": null
+    },
+    "evmInfo": {
+      "evmChainId": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "supportSmartContract": null,
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null
+    }
   }
 ]
