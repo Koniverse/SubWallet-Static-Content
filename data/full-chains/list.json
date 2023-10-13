@@ -4705,7 +4705,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "kusama",
-      "paraId": null,
+      "paraId": 2257,
       "genesisHash": null,
       "addressPrefix": null,
       "chainType": null,
