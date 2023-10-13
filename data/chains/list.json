@@ -581,6 +581,17 @@
       "crowdloanFunds": [
         {
           "relayChain": "kusama",
+          "fundId": "2258-92",
+          "paraId": 2258,
+          "status": "won",
+          "startTime": "2023-01-25T04:27:00.000Z",
+          "endTime": "2023-12-27T04:27:00.000Z",
+          "auctionIndex": 70,
+          "firstPeriod": 27,
+          "lastPeriod": 34
+        },
+        {
+          "relayChain": "kusama",
           "fundId": "2007-0",
           "paraId": 2007,
           "status": "won",
@@ -1047,7 +1058,19 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "crowdloanFunds": []
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2262-95",
+          "paraId": 2262,
+          "status": "won",
+          "startTime": "2023-03-08T04:27:00.000Z",
+          "endTime": "2024-02-07T04:27:00.000Z",
+          "auctionIndex": 71,
+          "firstPeriod": 28,
+          "lastPeriod": 35
+        }
+      ]
     }
   },
   {
@@ -2395,7 +2418,19 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "crowdloanFunds": []
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2270-100",
+          "paraId": 2270,
+          "status": "won",
+          "startTime": "2023-05-31T04:27:00.000Z",
+          "endTime": "2024-05-01T04:27:00.000Z",
+          "auctionIndex": 84,
+          "firstPeriod": 30,
+          "lastPeriod": 37
+        }
+      ]
     }
   },
   {
@@ -2717,7 +2752,19 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "crowdloanFunds": []
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2240-90",
+          "paraId": 2240,
+          "status": "won",
+          "startTime": "2022-12-14T04:27:00.000Z",
+          "endTime": "2023-11-15T04:27:00.000Z",
+          "auctionIndex": 63,
+          "firstPeriod": 26,
+          "lastPeriod": 33
+        }
+      ]
     }
   },
   {
@@ -2988,7 +3035,19 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "crowdloanFunds": []
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2256-91",
+          "paraId": 2256,
+          "status": "won",
+          "startTime": "2023-01-25T04:27:00.000Z",
+          "endTime": "2023-12-27T04:27:00.000Z",
+          "auctionIndex": 68,
+          "firstPeriod": 27,
+          "lastPeriod": 34
+        }
+      ]
     }
   },
   {
@@ -4652,8 +4711,8 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
+      "relaySlug": "polkadot",
+      "paraId": 3341,
       "genesisHash": "0xe9d7420a5f73edef005ccb8e043500aa5b2458f173912184ea93c14dc035a203",
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",

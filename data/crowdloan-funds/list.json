@@ -3420,7 +3420,7 @@
     "lastPeriod": 37,
     "startTime": "2023-05-31T04:27:00.000Z",
     "endTime": "2024-05-01T04:27:00.000Z",
-    "chain": null
+    "chain": "picasso"
   },
   {
     "id": 76,
@@ -3647,7 +3647,7 @@
     "lastPeriod": 35,
     "startTime": "2023-03-08T04:27:00.000Z",
     "endTime": "2024-02-07T04:27:00.000Z",
-    "chain": null
+    "chain": "bifrost"
   },
   {
     "id": 81,
@@ -3783,7 +3783,7 @@
     "lastPeriod": 34,
     "startTime": "2023-01-25T04:27:00.000Z",
     "endTime": "2023-12-27T04:27:00.000Z",
-    "chain": null
+    "chain": "shiden"
   },
   {
     "id": 84,
@@ -3825,7 +3825,7 @@
     "lastPeriod": 34,
     "startTime": "2023-01-25T04:27:00.000Z",
     "endTime": "2023-12-27T04:27:00.000Z",
-    "chain": null
+    "chain": "mangatax_para"
   },
   {
     "id": 85,
@@ -3874,7 +3874,7 @@
     "lastPeriod": 33,
     "startTime": "2022-12-14T04:27:00.000Z",
     "endTime": "2023-11-15T04:27:00.000Z",
-    "chain": null
+    "chain": "robonomics"
   },
   {
     "id": 86,
