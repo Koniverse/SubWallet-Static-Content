@@ -9,43 +9,49 @@ const cacheConfigs = [
     {
         url: `${STRAPI_URL}/api/list/chain`,
         folder: 'chains',
+        fileName: 'list.json',
         imageFields: ['icon'],
         removeFields: ['id']
     },
     {
         url: `${STRAPI_URL}/api/list/chain?preview=true`,
-        folder: 'full-chains',
+        folder: 'chains',
+        fileName: 'preview.json',
         imageFields: ['icon'],
         removeFields: ['id']
     },
     {
         url: `${STRAPI_URL}/api/list/dapp`,
         folder: 'dapps',
+        fileName: 'list.json',
         imageFields: ['icon'],
         removeFields: []
     },
     {
         url: `${STRAPI_URL}/api/list/category`,
         folder: 'categories',
+        fileName: 'list.json',
         imageFields: [],
         removeFields: ['id']
     },
     {
         url: `${STRAPI_URL}/api/list/airdrop-campaign`,
         folder: 'airdrop-campaigns',
+        fileName: 'list.json',
         imageFields: ['logo', 'backdrop_image'],
         removeFields: []
     },
     {
         url: `${STRAPI_URL}/api/list/crowdloan-fund`,
         folder: 'crowdloan-funds',
+        fileName: 'list.json',
         imageFields: [],
         removeFields: ['id']
     }
 
 ]
 
-const savePath = (folder) => `data/${folder}/list.json`;
+const savePath = (folder, fileName) => `data/${folder}/${fileName || 'list.json'}`;
 const saveImagesPath = (folder) => `data/${folder}/images`;
 const urlImage = (folder, field, name) => `${RESOURCE_URL}/${folder}/images/${field}/${name}`;
 
@@ -97,7 +103,7 @@ const main = async () => {
         const results = await axios.get(config.url);
         if (!results.data) return;
         const folder = config.folder;
-        const path = savePath(folder);
+        const path = savePath(folder, config.fileName);
         const fieldsImage = config.imageFields;
         const downloadDir = saveImagesPath(folder);
         const dataContent = await Promise.all(results.data.map(async item => {
