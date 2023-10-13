@@ -20,7 +20,7 @@ const cacheConfigs = [
         imageFields: ['icon'],
         removeFields: ['id'],
         additionalProcess: [{
-            fileName: 'logoMap.json',
+            fileName: 'logo_map.json',
             processor: (data) => {
                 return Object.fromEntries(data.map((c) => ([c.slug, c.icon])));
             },
