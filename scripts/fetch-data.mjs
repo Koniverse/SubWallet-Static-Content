@@ -13,6 +13,12 @@ const cacheConfigs = [
         removeFields: ['id']
     },
     {
+        url: `${STRAPI_URL}/api/list/chain?preview=true`,
+        folder: 'full-chains',
+        imageFields: ['icon'],
+        removeFields: ['id']
+    },
+    {
         url: `${STRAPI_URL}/api/list/dapp`,
         folder: 'dapps',
         imageFields: ['icon'],
