@@ -4722,7 +4722,7 @@
   {
     "slug": "acurast_canary",
     "name": "Acurast Canary",
-    "isTestnet": true,
+    "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/1667311857_acurast_logo_caed17d51d.jpg",
@@ -4763,6 +4763,31 @@
       "supportSmartContract": null,
       "abiExplorer": null
     },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null
+    }
+  },
+  {
+    "slug": "unorthodox",
+    "name": "Unorthodox",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/unorthodox_6d87d00338.png",
+    "providers": {},
+    "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
       "paraId": null,

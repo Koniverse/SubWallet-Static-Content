@@ -18,7 +18,13 @@ const cacheConfigs = [
         folder: 'chains',
         fileName: 'preview.json',
         imageFields: ['icon'],
-        removeFields: ['id']
+        removeFields: ['id'],
+        additionalProcess: [{
+            fileName: 'logoMap.json',
+            processor: (data) => {
+                return Object.fromEntries(data.map((c) => ([c.slug, c.icon])));
+            },
+        }]
     },
     {
         url: `${STRAPI_URL}/api/list/dapp`,
@@ -118,11 +124,20 @@ const main = async () => {
             }
             return {...item, ...dataImages};
         }));
-        await writeJSONFile(path, dataContent);
+
+        if (config.additionalProcess) {
+            for (const process of config.additionalProcess) {
+                const data = process.processor(dataContent);
+                console.log(data);
+                await writeJSONFile(savePath(folder, process.fileName), data);
+            }
+        }
 
         for (const f of config.removeFields) {
             dataContent[f] && delete dataContent[f];
         }
+
+        await writeJSONFile(path, dataContent);
     }
 }
 
