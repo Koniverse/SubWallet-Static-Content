@@ -29,7 +29,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -62,7 +64,9 @@
       "decimals": 12,
       "hasNativeNft": true,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -160,7 +164,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": 3342,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2004-2",
+          "paraId": 2004,
+          "status": "won",
+          "startTime": "2021-12-21T01:48:00.000Z",
+          "endTime": "2023-10-24T01:48:00.000Z",
+          "auctionIndex": 2,
+          "firstPeriod": 6,
+          "lastPeriod": 13
+        }
+      ]
     }
   },
   {
@@ -188,7 +206,21 @@
       "decimals": 18,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2096-39",
+          "paraId": 2096,
+          "status": "failed",
+          "startTime": "2022-02-23T04:27:00.000Z",
+          "endTime": "2023-12-27T04:27:00.000Z",
+          "auctionIndex": 13,
+          "firstPeriod": 17,
+          "lastPeriod": 24
+        }
+      ]
     }
   },
   {
@@ -218,7 +250,9 @@
       "supportSmartContract": [
         "PSP34",
         "PSP22"
-      ]
+      ],
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -254,6 +288,20 @@
       "supportSmartContract": [
         "PSP34",
         "PSP22"
+      ],
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2006-3",
+          "paraId": 2006,
+          "status": "won",
+          "startTime": "2021-12-21T01:48:00.000Z",
+          "endTime": "2023-10-24T01:48:00.000Z",
+          "auctionIndex": 3,
+          "firstPeriod": 6,
+          "lastPeriod": 13
+        }
       ]
     }
   },
@@ -314,7 +362,9 @@
       "decimals": 10,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -347,7 +397,21 @@
       "decimals": 12,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2000-0",
+          "paraId": 2000,
+          "status": "won",
+          "startTime": "2021-12-21T01:48:00.000Z",
+          "endTime": "2023-10-24T01:48:00.000Z",
+          "auctionIndex": 1,
+          "firstPeriod": 6,
+          "lastPeriod": 13
+        }
+      ]
     }
   },
   {
@@ -477,7 +541,9 @@
       "supportSmartContract": [
         "PSP34",
         "PSP22"
-      ]
+      ],
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -510,6 +576,20 @@
       "supportSmartContract": [
         "PSP34",
         "PSP22"
+      ],
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2007-0",
+          "paraId": 2007,
+          "status": "won",
+          "startTime": "2021-03-24T04:27:00.000Z",
+          "endTime": "2023-01-25T04:27:00.000Z",
+          "auctionIndex": 3,
+          "firstPeriod": 13,
+          "lastPeriod": 20
+        }
       ]
     }
   },
@@ -568,7 +648,9 @@
       "supportSmartContract": [
         "PSP34",
         "PSP22"
-      ]
+      ],
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -621,7 +703,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2056-45",
+          "paraId": 2056,
+          "status": "won",
+          "startTime": "2022-08-30T01:48:00.000Z",
+          "endTime": "2024-07-02T01:48:00.000Z",
+          "auctionIndex": 26,
+          "firstPeriod": 9,
+          "lastPeriod": 16
+        }
+      ]
     }
   },
   {
@@ -653,7 +749,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -687,7 +785,9 @@
       "supportSmartContract": [
         "PSP34",
         "PSP22"
-      ]
+      ],
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -714,7 +814,9 @@
       "decimals": 18,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -742,7 +844,21 @@
       "decimals": 9,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2011-29",
+          "paraId": 2011,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 12,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -782,7 +898,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -825,7 +943,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2023-2",
+          "paraId": 2023,
+          "status": "won",
+          "startTime": "2021-03-24T04:27:00.000Z",
+          "endTime": "2023-01-25T04:27:00.000Z",
+          "auctionIndex": 2,
+          "firstPeriod": 13,
+          "lastPeriod": 20
+        }
+      ]
     }
   },
   {
@@ -852,7 +984,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -880,7 +1014,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -909,7 +1045,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -937,7 +1075,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2030-37",
+          "paraId": 2030,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 18,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
     }
   },
   {
@@ -964,7 +1116,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -991,7 +1145,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2084-27",
+          "paraId": 2084,
+          "status": "won",
+          "startTime": "2021-09-08T04:27:00.000Z",
+          "endTime": "2023-07-12T04:27:00.000Z",
+          "auctionIndex": 7,
+          "firstPeriod": 15,
+          "lastPeriod": 22
+        }
+      ]
     }
   },
   {
@@ -1018,7 +1186,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2124-81",
+          "paraId": 2124,
+          "status": "won",
+          "startTime": "2023-07-12T04:27:00.000Z",
+          "endTime": "2025-05-14T04:27:00.000Z",
+          "auctionIndex": 42,
+          "firstPeriod": 23,
+          "lastPeriod": 30
+        }
+      ]
     }
   },
   {
@@ -1045,7 +1227,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1148,7 +1332,32 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2012-6",
+          "paraId": 2012,
+          "status": "won",
+          "startTime": "2021-12-21T01:48:00.000Z",
+          "endTime": "2023-10-24T01:48:00.000Z",
+          "auctionIndex": 4,
+          "firstPeriod": 6,
+          "lastPeriod": 13
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "3350-72",
+          "paraId": 3350,
+          "status": "in_auction",
+          "startTime": "2023-10-24T01:48:00.000Z",
+          "endTime": "2025-08-26T01:48:00.000Z",
+          "auctionIndex": 0,
+          "firstPeriod": 14,
+          "lastPeriod": 21
+        }
+      ]
     }
   },
   {
@@ -1176,7 +1385,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2002-5",
+          "paraId": 2002,
+          "status": "won",
+          "startTime": "2021-12-21T01:48:00.000Z",
+          "endTime": "2023-10-24T01:48:00.000Z",
+          "auctionIndex": 5,
+          "firstPeriod": 6,
+          "lastPeriod": 13
+        }
+      ]
     }
   },
   {
@@ -1229,7 +1452,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2034-25",
+          "paraId": 2034,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 9,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1258,7 +1495,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1286,7 +1525,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2031-18",
+          "paraId": 2031,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 8,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1314,7 +1567,21 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2032-15",
+          "paraId": 2032,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 10,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1343,7 +1610,21 @@
       "decimals": 11,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2026-14",
+          "paraId": 2026,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 11,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1382,7 +1663,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1409,7 +1692,32 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2011-96",
+          "paraId": 2011,
+          "status": "won",
+          "startTime": "2024-09-04T04:27:00.000Z",
+          "endTime": "2026-07-08T04:27:00.000Z",
+          "auctionIndex": 73,
+          "firstPeriod": 28,
+          "lastPeriod": 35
+        },
+        {
+          "relayChain": "kusama",
+          "fundId": "2011-62",
+          "paraId": 2011,
+          "status": "failed",
+          "startTime": "2022-08-10T04:27:00.000Z",
+          "endTime": "2024-06-12T04:27:00.000Z",
+          "auctionIndex": 24,
+          "firstPeriod": 19,
+          "lastPeriod": 26
+        }
+      ]
     }
   },
   {
@@ -1436,7 +1744,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1453,9 +1763,9 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
-      "genesisHash": "0x3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
-      "addressPrefix": 88,
+      "paraId": 2040,
+      "genesisHash": "0x72f3bba34b1ecd532bccbed46701ad37c4ef329bfe86b7cf014ac06cb92ed47d",
+      "addressPrefix": 89,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://www.polkadex.trade/crowdloans",
       "blockExplorer": "https://polkadex.subscan.io/",
@@ -1464,7 +1774,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2040-36",
+          "paraId": 2040,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 16,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
     }
   },
   {
@@ -1491,7 +1815,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1518,7 +1844,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1545,7 +1873,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1575,7 +1905,9 @@
       "decimals": 18,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1603,7 +1935,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2021-20",
+          "paraId": 2021,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 6,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1630,7 +1976,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2019-17",
+          "paraId": 2019,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 7,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1658,7 +2018,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2035-32",
+          "paraId": 2035,
+          "status": "won",
+          "startTime": "2022-03-15T01:48:00.000Z",
+          "endTime": "2024-01-16T01:48:00.000Z",
+          "auctionIndex": 13,
+          "firstPeriod": 7,
+          "lastPeriod": 14
+        }
+      ]
     }
   },
   {
@@ -1685,7 +2059,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2008-44",
+          "paraId": 2008,
+          "status": "won",
+          "startTime": "2022-11-22T01:48:00.000Z",
+          "endTime": "2024-09-24T01:48:00.000Z",
+          "auctionIndex": 30,
+          "firstPeriod": 10,
+          "lastPeriod": 17
+        }
+      ]
     }
   },
   {
@@ -1717,7 +2105,9 @@
       "decimals": 12,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1750,7 +2140,9 @@
       "decimals": 12,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1780,7 +2172,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1809,7 +2203,9 @@
       "decimals": 15,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1837,7 +2233,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1865,7 +2263,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2088-31",
+          "paraId": 2088,
+          "status": "won",
+          "startTime": "2021-09-08T04:27:00.000Z",
+          "endTime": "2023-07-12T04:27:00.000Z",
+          "auctionIndex": 9,
+          "firstPeriod": 15,
+          "lastPeriod": 22
+        }
+      ]
     }
   },
   {
@@ -1893,7 +2305,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1921,7 +2335,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1948,7 +2364,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -1975,7 +2393,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2004,7 +2424,9 @@
       "decimals": 18,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2033,7 +2455,21 @@
       "decimals": 18,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2037-31",
+          "paraId": 2037,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 14,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
     }
   },
   {
@@ -2060,7 +2496,9 @@
       "decimals": 9,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2087,7 +2525,9 @@
       "decimals": 9,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": []
+      "supportSmartContract": [],
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2114,7 +2554,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2142,7 +2584,21 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2092-53",
+          "paraId": 2092,
+          "status": "won",
+          "startTime": "2022-11-22T01:48:00.000Z",
+          "endTime": "2024-09-24T01:48:00.000Z",
+          "auctionIndex": 32,
+          "firstPeriod": 10,
+          "lastPeriod": 17
+        }
+      ]
     }
   },
   {
@@ -2169,7 +2625,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2196,7 +2654,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2223,7 +2683,9 @@
       "decimals": 15,
       "hasNativeNft": true,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2253,7 +2715,9 @@
       "decimals": 9,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2281,7 +2745,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2297,7 +2763,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
-      "paraId": 2015,
+      "paraId": 2039,
       "genesisHash": "0xe13e7af377c64e83f95e0d70d5e5c3c01d697a84538776c5b9bbe0e7d7b6034c",
       "addressPrefix": 13,
       "chainType": "PARACHAIN",
@@ -2308,7 +2774,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2039-40",
+          "paraId": 2039,
+          "status": "won",
+          "startTime": "2022-08-30T01:48:00.000Z",
+          "endTime": "2024-07-02T01:48:00.000Z",
+          "auctionIndex": 23,
+          "firstPeriod": 9,
+          "lastPeriod": 16
+        }
+      ]
     }
   },
   {
@@ -2348,7 +2828,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2386,7 +2868,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2413,7 +2897,9 @@
       "decimals": 8,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2441,7 +2927,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2468,7 +2956,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2496,7 +2986,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2523,7 +3015,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2550,7 +3044,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2578,7 +3074,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2013-35",
+          "paraId": 2013,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 15,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
     }
   },
   {
@@ -2607,7 +3117,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2634,7 +3146,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2661,7 +3175,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2690,7 +3206,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2719,7 +3237,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2747,7 +3267,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2774,7 +3296,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2801,7 +3325,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2828,7 +3354,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2043-38",
+          "paraId": 2043,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 17,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
     }
   },
   {
@@ -2855,7 +3395,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2884,7 +3426,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2119-76",
+          "paraId": 2119,
+          "status": "won",
+          "startTime": "2023-04-19T04:27:00.000Z",
+          "endTime": "2025-02-19T04:27:00.000Z",
+          "auctionIndex": 37,
+          "firstPeriod": 22,
+          "lastPeriod": 29
+        }
+      ]
     }
   },
   {
@@ -2911,7 +3467,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2939,7 +3497,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2966,7 +3526,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -2995,7 +3557,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3022,7 +3586,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3049,7 +3615,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3076,7 +3644,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2094-55",
+          "paraId": 2094,
+          "status": "won",
+          "startTime": "2023-02-14T01:48:00.000Z",
+          "endTime": "2024-12-17T01:48:00.000Z",
+          "auctionIndex": 35,
+          "firstPeriod": 11,
+          "lastPeriod": 18
+        }
+      ]
     }
   },
   {
@@ -3103,7 +3685,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3130,7 +3714,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3157,7 +3743,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3234,7 +3822,9 @@
       "decimals": 15,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3262,7 +3852,9 @@
       "decimals": 9,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3289,7 +3881,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3340,7 +3934,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3367,7 +3963,9 @@
       "decimals": 14,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3394,7 +3992,9 @@
       "decimals": 14,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3421,7 +4021,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3448,7 +4050,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3475,7 +4079,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3502,7 +4108,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3530,7 +4138,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2051-52",
+          "paraId": 2051,
+          "status": "won",
+          "startTime": "2022-11-22T01:48:00.000Z",
+          "endTime": "2024-09-24T01:48:00.000Z",
+          "auctionIndex": 31,
+          "firstPeriod": 10,
+          "lastPeriod": 17
+        }
+      ]
     }
   },
   {
@@ -3557,7 +4179,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3585,7 +4209,9 @@
       "decimals": 8,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3612,7 +4238,32 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2093-58",
+          "paraId": 2093,
+          "status": "won",
+          "startTime": "2023-02-14T01:48:00.000Z",
+          "endTime": "2024-12-17T01:48:00.000Z",
+          "auctionIndex": 40,
+          "firstPeriod": 11,
+          "lastPeriod": 18
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "2093-54",
+          "paraId": 2093,
+          "status": "failed",
+          "startTime": "2022-11-22T01:48:00.000Z",
+          "endTime": "2024-09-24T01:48:00.000Z",
+          "auctionIndex": 34,
+          "firstPeriod": 10,
+          "lastPeriod": 17
+        }
+      ]
     }
   },
   {
@@ -3639,7 +4290,21 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2007-39",
+          "paraId": 2007,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 20,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
     }
   },
   {
@@ -3666,7 +4331,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2052-43",
+          "paraId": 2052,
+          "status": "won",
+          "startTime": "2022-08-30T01:48:00.000Z",
+          "endTime": "2024-07-02T01:48:00.000Z",
+          "auctionIndex": 25,
+          "firstPeriod": 9,
+          "lastPeriod": 16
+        }
+      ]
     }
   },
   {
@@ -3693,7 +4372,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3720,7 +4401,9 @@
       "decimals": 14,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3747,7 +4430,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3775,7 +4460,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3802,7 +4489,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3830,7 +4519,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3857,7 +4548,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3884,7 +4577,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3911,7 +4606,9 @@
       "decimals": 6,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3938,7 +4635,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -3965,7 +4664,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "3341-73",
+          "paraId": 3341,
+          "status": "in_auction",
+          "startTime": "2023-10-24T01:48:00.000Z",
+          "endTime": "2025-08-26T01:48:00.000Z",
+          "auctionIndex": 51,
+          "firstPeriod": 14,
+          "lastPeriod": 21
+        }
+      ]
     }
   },
   {
@@ -3992,7 +4705,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4019,7 +4734,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4046,7 +4763,9 @@
       "decimals": 6,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4073,7 +4792,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4100,7 +4821,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4130,7 +4853,21 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2025-69",
+          "paraId": 2025,
+          "status": "in_auction",
+          "startTime": "2023-10-24T01:48:00.000Z",
+          "endTime": "2025-08-26T01:48:00.000Z",
+          "auctionIndex": 51,
+          "firstPeriod": 14,
+          "lastPeriod": 21
+        }
+      ]
     }
   },
   {
@@ -4157,7 +4894,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4184,7 +4923,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4211,7 +4952,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4238,7 +4981,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4265,7 +5010,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4292,7 +5039,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4319,7 +5068,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4346,7 +5097,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": true,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4374,7 +5127,9 @@
       "decimals": 10,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4404,7 +5159,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4486,7 +5243,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4513,7 +5272,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4540,7 +5301,9 @@
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4616,7 +5379,9 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
@@ -4691,106 +5456,35 @@
       "decimals": 9,
       "hasNativeNft": false,
       "supportStaking": false,
-      "supportSmartContract": null
-    }
-  },
-  {
-    "slug": "aband",
-    "name": "Aband",
-    "isTestnet": false,
-    "chainStatus": "ACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/aband_378320189b.png",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": "kusama",
-      "paraId": 2257,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": null,
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null
-    }
-  },
-  {
-    "slug": "acurast_canary",
-    "name": "Acurast Canary",
-    "isTestnet": false,
-    "chainStatus": "ACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/1667311857_acurast_logo_caed17d51d.jpg",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": "kusama",
-      "paraId": 2239,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": null,
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null
-    }
-  },
-  {
-    "slug": "polimec",
-    "name": "Polimec",
-    "isTestnet": true,
-    "chainStatus": "ACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/polymec_logo_ca002aefd0.png",
-    "providers": {
-      "null": null
-    },
-    "evmInfo": {
-      "evmChainId": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
       "supportSmartContract": null,
-      "abiExplorer": null
-    },
-    "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": null,
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2097-57",
+          "paraId": 2097,
+          "status": "won",
+          "startTime": "2023-02-14T01:48:00.000Z",
+          "endTime": "2024-12-17T01:48:00.000Z",
+          "auctionIndex": 36,
+          "firstPeriod": 11,
+          "lastPeriod": 18
+        }
+      ]
     }
   },
   {
     "slug": "unorthodox",
     "name": "Unorthodox",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/unorthodox_6d87d00338.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
+      "relaySlug": "kusama",
+      "paraId": 2094,
       "genesisHash": null,
       "addressPrefix": null,
       "chainType": null,
@@ -4801,14 +5495,16 @@
       "decimals": null,
       "hasNativeNft": null,
       "supportStaking": null,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   },
   {
     "slug": "coinversation",
     "name": "Coinversation",
-    "isTestnet": null,
-    "chainStatus": "ACTIVE",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/coinversation_a99fac09fb.jpg",
     "providers": {},
@@ -4826,7 +5522,853 @@
       "decimals": null,
       "hasNativeNft": null,
       "supportStaking": null,
-      "supportSmartContract": null
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2027-33",
+          "paraId": 2027,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 19,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
+    }
+  },
+  {
+    "slug": "layerx_network",
+    "name": "LayerX Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/layerx_network_ebd6ee1ced.jpg",
+    "providers": {},
+    "evmInfo": {
+      "evmChainId": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "supportSmartContract": [
+        "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2275,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "moonsama",
+    "name": "Moonsama",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/moonsama_e58d7ffb32.svg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3334,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "3334-64",
+          "paraId": 3334,
+          "status": "won",
+          "startTime": "2023-05-09T01:48:00.000Z",
+          "endTime": "2025-03-11T01:48:00.000Z",
+          "auctionIndex": 42,
+          "firstPeriod": 12,
+          "lastPeriod": 19
+        }
+      ]
+    }
+  },
+  {
+    "slug": "oak_network",
+    "name": "OAK Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/oak_96f32d9dbe.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2090,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2090-51",
+          "paraId": 2090,
+          "status": "won",
+          "startTime": "2022-11-22T01:48:00.000Z",
+          "endTime": "2024-09-24T01:48:00.000Z",
+          "auctionIndex": 28,
+          "firstPeriod": 10,
+          "lastPeriod": 17
+        }
+      ]
+    }
+  },
+  {
+    "slug": "omnibtc",
+    "name": "OmniBTC",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/omnibtc_421a7571f2.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2053,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2053-46",
+          "paraId": 2053,
+          "status": "won",
+          "startTime": "2022-11-22T01:48:00.000Z",
+          "endTime": "2024-09-24T01:48:00.000Z",
+          "auctionIndex": 34,
+          "firstPeriod": 10,
+          "lastPeriod": 17
+        }
+      ]
+    }
+  },
+  {
+    "slug": "peaq",
+    "name": "peaq",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/peaq_29fc0dfdda.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3338,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "3338-66",
+          "paraId": 3338,
+          "status": "won",
+          "startTime": "2023-08-01T01:48:00.000Z",
+          "endTime": "2025-06-03T01:48:00.000Z",
+          "auctionIndex": 45,
+          "firstPeriod": 13,
+          "lastPeriod": 20
+        }
+      ]
+    }
+  },
+  {
+    "slug": "quantum_portal",
+    "name": "Quantum Portal",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ferrum_1b3954d80c.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2274,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "virto_network",
+    "name": "Virto Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/virto_ac60439f5b.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2281,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "energy_web_x",
+    "name": "Energy Web X",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_11912b6f78.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3345,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "3345-70",
+          "paraId": 3345,
+          "status": "won",
+          "startTime": "2023-10-24T01:48:00.000Z",
+          "endTime": "2025-08-26T01:48:00.000Z",
+          "auctionIndex": 49,
+          "firstPeriod": 14,
+          "lastPeriod": 21
+        }
+      ]
+    }
+  },
+  {
+    "slug": "invarch",
+    "name": "InvArch",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/invarch_b2c41de357.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3340,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "3340-68",
+          "paraId": 3340,
+          "status": "won",
+          "startTime": "2023-10-24T01:48:00.000Z",
+          "endTime": "2025-08-26T01:48:00.000Z",
+          "auctionIndex": 47,
+          "firstPeriod": 14,
+          "lastPeriod": 21
+        }
+      ]
+    }
+  },
+  {
+    "slug": " krest",
+    "name": " krest",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/krest_395850f9b0.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2241,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2241-97",
+          "paraId": 2241,
+          "status": "won",
+          "startTime": "2024-09-04T04:27:00.000Z",
+          "endTime": "2026-07-08T04:27:00.000Z",
+          "auctionIndex": 72,
+          "firstPeriod": 28,
+          "lastPeriod": 35
+        }
+      ]
+    }
+  },
+  {
+    "slug": "zero",
+    "name": "Zero",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/zero_858917176f.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2236,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "kpron_network",
+    "name": " Kpron Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/kapron_30f5a07429.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2019,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "mars",
+    "name": "Mars",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/mars_29781ee7f2.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2008,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "snow",
+    "name": "Snow",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/snow_4e82d56aa3.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2129,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2129-86",
+          "paraId": 2129,
+          "status": "won",
+          "startTime": "2023-10-04T04:27:00.000Z",
+          "endTime": "2025-08-06T04:27:00.000Z",
+          "auctionIndex": 51,
+          "firstPeriod": 24,
+          "lastPeriod": 31
+        }
+      ]
+    }
+  },
+  {
+    "slug": "aband",
+    "name": "Aband",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/aband_6209673507.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2257,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2257-98",
+          "paraId": 2257,
+          "status": "won",
+          "startTime": "2024-09-04T04:27:00.000Z",
+          "endTime": "2026-07-08T04:27:00.000Z",
+          "auctionIndex": 75,
+          "firstPeriod": 28,
+          "lastPeriod": 35
+        }
+      ]
+    }
+  },
+  {
+    "slug": "acurast_canary",
+    "name": "Acurast Canary",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_0e2547b512.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2239,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "alpha_network",
+    "name": "Alpha Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/alpha_network_dc6919bbbe.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2261,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "loom_network",
+    "name": "Loom Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/loom_70966d1e56.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2080,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "subgame_gamma",
+    "name": "SubGame Gamma",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/subgame_c8a2368399.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2018,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "trustbase",
+    "name": "TrustBase",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/trustbase_16dd21ecd7.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2078,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "manta_network",
+    "name": "Manta Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/manta_cb71690cce.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2104,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "t3rn",
+    "name": "t3rn",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/t3rn_8b57d50a1f.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3333,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "geminis_network",
+    "name": "Geminis Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/geminis_55d50fae19.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2038,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "polimec",
+    "name": "Polimec",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polymec_a291f642c7.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3344,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "3344-71",
+          "paraId": 3344,
+          "status": "won",
+          "startTime": "2023-10-24T01:48:00.000Z",
+          "endTime": "2025-08-26T01:48:00.000Z",
+          "auctionIndex": 51,
+          "firstPeriod": 14,
+          "lastPeriod": 21
+        }
+      ]
+    }
+  },
+  {
+    "slug": "subdao",
+    "name": "SubDAO",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/subdao_403f032f7d.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2018,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "subgame_network",
+    "name": "SubGame Network",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/subgame_1_7131360783.jpg",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2017,
+      "genesisHash": null,
+      "addressPrefix": null,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": null,
+      "decimals": null,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
     }
   }
 ]
