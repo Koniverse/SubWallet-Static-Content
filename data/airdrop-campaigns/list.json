@@ -1,40 +1,102 @@
 [
   {
-    "id": 1,
-    "name": "Vara Network",
-    "status": "ended",
-    "ordinal": 1,
-    "description": "Stake your DOT directly on the relay chain and receive compounds automatically.",
-    "start_time": "2023-10-02T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://dotinsights.subwallet.app/",
-    "twitter_url": "https://dotinsights.subwallet.app/",
-    "reward": "100000",
-    "total_winner": "50",
-    "total_supply": "100000",
+    "id": 5,
+    "name": "Polkadot Unlock Harvest",
+    "status": "incoming",
+    "ordinal": 2,
+    "description": "On October 12th, Bifrost announced its new SLPx Pallet/Smart contract and the Omni LS DApp. \n\nSLPx aims to make transactions between Moonbeam/Moonriver users and the Omni LS dApp easier, safer and faster thanks to the power of XCM, increasing communication efficiency, and improving the user experience.\n\nThe goal of the event is to pave the road for the DOT unlock event on October 24th. Introducing users to the dApp and familiarizing you with its mechanics and the assets within, you will be allowed to take advantage of the benefits of Bifrost Liquid Staking.\n\nThe Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as, of course, Polkadot itself.\n\nYou will be able to discord the omni.ls dapp but also our DEX partners:\nBeamswap: https://app.beamwap.io/\nSolarbeam: https://app.solarbeam.io/\nStellaswap: https://app.stellaswap.com/",
+    "start_time": "2023-10-19T11:00:00.000Z",
+    "end_time": "2023-11-30T12:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/polkadot-unlock-harvest",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "1 LS_POLKADOT",
+    "total_winner": null,
+    "total_supply": null,
     "tags": [
-      "lucky_draw"
+      "fcfs"
     ],
-    "campaign_url": null,
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/og_2f6b43a755.jpg"
+    "campaign_url": "https://airlyft.one/bifrost-finance/polkadot-unlock-harvest",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
   },
   {
-    "id": 2,
-    "name": null,
-    "status": null,
-    "ordinal": null,
-    "description": null,
-    "start_time": null,
-    "end_time": null,
-    "url": "https://dotinsights.subwallet.app/",
-    "twitter_url": "https://dotinsights.subwallet.app/",
+    "id": 4,
+    "name": "Omni LS - Ecosystem Wallets campaign",
+    "status": "incoming",
+    "ordinal": 3,
+    "description": "On October 12th, Bifrost announced its new SLPx Pallet/Smart contract and the Omni LS DApp. \n\nAn explosion of Liquid Staking #DeFi possibilities powered by Bifrost's Omni-chain Interoperability.\n\nThree events leading up to the Unlock of +100 Million $DOT from the first parachain crowdloans, on Polkadot.",
+    "start_time": "2023-10-19T11:00:00.000Z",
+    "end_time": "2023-10-31T12:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "1 LS_WALLETS",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+  },
+  {
+    "id": 3,
+    "name": "Omni LS - Moonbeam campaign",
+    "status": "ongoing",
+    "ordinal": 4,
+    "description": "On October 12th, Bifrost announced its new SLPx Pallet/Smart contract and the Omni LS DApp. \n\nSLPx aims to make transactions between Moonbeam/Moonriver users and the Omni LS dApp easier, safer and faster thanks to the power of XCM, increasing communication efficiency, and improving the user experience.\n\nThe goal of the event is to pave the road for the DOT unlock event on October 24th. Introducing users to the dApp and familiarizing you with its mechanics and the assets within, you will be allowed to take advantage of the benefits of Bifrost Liquid Staking.\n\nThe Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as, of course, Polkadot itself.\n\nYou will be able to discord the omni.ls dapp but also our DEX partners:\nBeamswap: https://app.beamwap.io/\nSolarbeam: https://app.solarbeam.io/\nStellaswap: https://app.stellaswap.com/",
+    "start_time": "2023-10-13T11:00:00.000Z",
+    "end_time": "2023-11-24T11:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "1 LS_MOONBEAM",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+  },
+  {
+    "id": 6,
+    "name": "Road To The Unlock!",
+    "status": "ongoing",
+    "ordinal": 5,
+    "description": "By following the whole campaign and testing the new Omni LS & partners dapps, you will be able to collect several NFTs along the road.\nBy collecting all NFTs you will be eligible for the final NFT and a 20 000 $BNC tokens airdrop to share!",
+    "start_time": "2023-10-11T11:00:00.000Z",
+    "end_time": "2023-10-24T11:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/road-to-the-unlock",
+    "twitter_url": "https://twitter.com/BifrostFinance",
     "reward": null,
     "total_winner": null,
     "total_supply": null,
-    "tags": null,
-    "campaign_url": null,
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/opensea_1688cddd62.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png"
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://airlyft.one/bifrost-finance/road-to-the-unlock",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+  },
+  {
+    "id": 7,
+    "name": "Zeitgeist x CoinDesk Indices",
+    "status": "ongoing",
+    "ordinal": 6,
+    "description": "Zeitgeist is partnering with CoinDesk Indices to create a unique trading experience to give traders an edge in the broader market. By participating in Zeitgeist prediction markets surrounding specific CoinDesk Indices, traders are able to capitalize on their crypto knowledge, while other users can view the prediction market data and gain an informational edge on the direction of crypto prices in general!\n\nZeitgeist: Forecasting the future of crypto markets.",
+    "start_time": "2023-10-04T14:30:00.000Z",
+    "end_time": "2023-11-01T04:00:00.000Z",
+    "url": "https://airlyft.one/zeitgeist/coindesk-index",
+    "twitter_url": "https://twitter.com/ZeitgeistPM",
+    "reward": "50 ZTG",
+    "total_winner": "888",
+    "total_supply": null,
+    "tags": [
+      "manual_selection"
+    ],
+    "campaign_url": "https://airlyft.one/zeitgeist/coindesk-index",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zeitgeist_a72652f11c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zeitgeist_6ca1f96bd6.webp"
   }
 ]
