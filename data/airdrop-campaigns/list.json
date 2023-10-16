@@ -2,7 +2,7 @@
   {
     "id": 5,
     "name": "Polkadot Unlock Harvest",
-    "status": "incoming",
+    "status": "claimable",
     "ordinal": 2,
     "description": "On October 12th, Bifrost announced its new SLPx Pallet/Smart contract and the Omni LS DApp. \n\nSLPx aims to make transactions between Moonbeam/Moonriver users and the Omni LS dApp easier, safer and faster thanks to the power of XCM, increasing communication efficiency, and improving the user experience.\n\nThe goal of the event is to pave the road for the DOT unlock event on October 24th. Introducing users to the dApp and familiarizing you with its mechanics and the assets within, you will be allowed to take advantage of the benefits of Bifrost Liquid Staking.\n\nThe Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as, of course, Polkadot itself.\n\nYou will be able to discord the omni.ls dapp but also our DEX partners:\nBeamswap: https://app.beamwap.io/\nSolarbeam: https://app.solarbeam.io/\nStellaswap: https://app.stellaswap.com/",
     "start_time": "2023-10-19T11:00:00.000Z",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "name": "Omni LS - Moonbeam campaign",
-    "status": "ongoing",
+    "status": "live",
     "ordinal": 4,
     "description": "On October 12th, Bifrost announced its new SLPx Pallet/Smart contract and the Omni LS DApp. \n\nSLPx aims to make transactions between Moonbeam/Moonriver users and the Omni LS dApp easier, safer and faster thanks to the power of XCM, increasing communication efficiency, and improving the user experience.\n\nThe goal of the event is to pave the road for the DOT unlock event on October 24th. Introducing users to the dApp and familiarizing you with its mechanics and the assets within, you will be allowed to take advantage of the benefits of Bifrost Liquid Staking.\n\nThe Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as, of course, Polkadot itself.\n\nYou will be able to discord the omni.ls dapp but also our DEX partners:\nBeamswap: https://app.beamwap.io/\nSolarbeam: https://app.solarbeam.io/\nStellaswap: https://app.stellaswap.com/",
     "start_time": "2023-10-13T11:00:00.000Z",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Road To The Unlock!",
-    "status": "ongoing",
+    "status": "archived",
     "ordinal": 5,
     "description": "By following the whole campaign and testing the new Omni LS & partners dapps, you will be able to collect several NFTs along the road.\nBy collecting all NFTs you will be eligible for the final NFT and a 20 000 $BNC tokens airdrop to share!",
     "start_time": "2023-10-11T11:00:00.000Z",
@@ -82,7 +82,7 @@
   {
     "id": 7,
     "name": "Zeitgeist x CoinDesk Indices",
-    "status": "ongoing",
+    "status": "upcoming",
     "ordinal": 6,
     "description": "Zeitgeist is partnering with CoinDesk Indices to create a unique trading experience to give traders an edge in the broader market. By participating in Zeitgeist prediction markets surrounding specific CoinDesk Indices, traders are able to capitalize on their crypto knowledge, while other users can view the prediction market data and gain an informational edge on the direction of crypto prices in general!\n\nZeitgeist: Forecasting the future of crypto markets.",
     "start_time": "2023-10-04T14:30:00.000Z",
