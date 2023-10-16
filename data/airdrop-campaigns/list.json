@@ -17,7 +17,10 @@
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/polkadot-unlock-harvest",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/subdao_403f032f7d.jpg",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "chains": [
+      "bifrost_dot"
+    ]
   },
   {
     "id": 4,
@@ -37,7 +40,10 @@
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "chains": [
+      "bifrost_dot"
+    ]
   },
   {
     "id": 3,
@@ -57,7 +63,11 @@
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "chains": [
+      "bifrost_dot",
+      "moonbeam"
+    ]
   },
   {
     "id": 6,
@@ -77,7 +87,10 @@
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/road-to-the-unlock",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp"
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "chains": [
+      "bifrost_dot"
+    ]
   },
   {
     "id": 7,
@@ -97,6 +110,9 @@
     ],
     "campaign_url": "https://airlyft.one/zeitgeist/coindesk-index",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zeitgeist_a72652f11c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zeitgeist_6ca1f96bd6.webp"
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zeitgeist_6ca1f96bd6.webp",
+    "chains": [
+      "zeitgeist"
+    ]
   }
 ]

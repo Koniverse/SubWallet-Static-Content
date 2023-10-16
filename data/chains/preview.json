@@ -5125,7 +5125,7 @@
       "existentialDeposit": "10000000000000",
       "symbol": "VARA",
       "decimals": 12,
-      "hasNativeNft": false,
+      "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
