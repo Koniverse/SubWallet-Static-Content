@@ -5668,7 +5668,7 @@
     "slug": "oak_network",
     "name": "OAK Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/oak_96f32d9dbe.png",
     "providers": {},
