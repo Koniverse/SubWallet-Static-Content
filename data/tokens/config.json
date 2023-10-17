@@ -1,5 +1,5 @@
 {
   "address": true,
   "send": true,
-  "buy": true
+  "buy": false
 }
