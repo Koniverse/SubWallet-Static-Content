@@ -8,7 +8,76 @@
     "condition": {
       "hasCrowdloan": true
     },
-    "banners": [],
-    "notifications": []
+    "banners": [
+      {
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://earn.subwallet.app"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "crowdloan",
+          "browser"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
+      },
+      {
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://earn.subwallet.app"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "tokens"
+        ],
+        "buttons": [
+          {
+            "name": "Close",
+            "icon": null,
+            "color": "none",
+            "type": null,
+            "metadata": null
+          },
+          {
+            "name": "Join now",
+            "icon": null,
+            "color": "primary",
+            "type": "open_url",
+            "metadata": null
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_ads_banner_6f8f64a992.png"
+      }
+    ],
+    "notifications": [
+      {
+        "title": "Crowdloan Batch 1 is unlocking on 24 Oct",
+        "message": "Join the Crowdloan Unlock Party at SubWallet Web Dashboard with top 6 DeFi protocols to earn exclusive rewards",
+        "repeat": 1,
+        "repeat_after_minutes": 30,
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/earning-demo"
+        },
+        "buttons": [
+          {
+            "name": "Join now",
+            "icon": null,
+            "color": "none",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
