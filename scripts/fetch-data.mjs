@@ -53,8 +53,21 @@ const cacheConfigs = [
         fileName: 'list.json',
         imageFields: [],
         removeFields: ['id']
+    },
+    {
+        url: `${STRAPI_URL}/api/list/marketing-campaign`,
+        folder: 'marketing-campaigns',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: []
+    },
+    {
+        url: `${STRAPI_URL}/api/list/marketing-campaign?preview=true`,
+        folder: 'marketing-campaigns',
+        fileName: 'preview.json',
+        imageFields: [],
+        removeFields: []
     }
-
 ]
 
 const savePath = (folder, fileName) => `data/${folder}/${fileName || 'list.json'}`;
