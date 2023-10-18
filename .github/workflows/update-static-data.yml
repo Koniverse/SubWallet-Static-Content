@@ -30,6 +30,7 @@ jobs:
         run: |
           yarn install --immutable | grep -v 'YN0013'
           yarn update-data
+          yarn generate-period-data
       - name: Deploy to Cloudflare Pages
         id: cloudflare_deployment
         uses: cloudflare/pages-action@v1
