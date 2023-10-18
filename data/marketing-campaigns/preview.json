@@ -35,7 +35,42 @@
           "url": "https://earn.subwallet.app"
         },
         "environments": [
-          "mobile",
+          "mobile"
+        ],
+        "position": [
+          "tokens"
+        ],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://earn.subwallet.app",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_ads_banner_4x_41eb2486f4.png"
+      },
+      {
+        "id": 4,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://earn.subwallet.app"
+        },
+        "environments": [
           "extension"
         ],
         "position": [
@@ -43,7 +78,7 @@
         ],
         "buttons": [
           {
-            "name": "Close",
+            "name": "I don’t care",
             "icon": "XCircle",
             "color": "secondary",
             "type": null,
