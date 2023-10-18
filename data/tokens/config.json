@@ -1,5 +1,5 @@
 {
   "address": true,
   "send": true,
-  "buy": false
+  "buy": ["1.1.4"]
 }
