@@ -1,6 +1,7 @@
 import * as fs from "fs";
 import axios from "axios";
 import path from "path";
+import {writeJSONFile} from "./utils.mjs";
 
 const STRAPI_URL = 'https://content.subwallet.app';
 const RESOURCE_URL = 'https://static-data.subwallet.app';
@@ -106,16 +107,6 @@ export async function downloadFile(url, downloadDir, forceFileName = null) {
     });
 }
 
-async function writeJSONFile(filePath, data) {
-    fs.writeFile(filePath, JSON.stringify(data, null, 2), function (err) {
-        if (err) {
-            console.log(err);
-        } else {
-            console.log("JSON saved to " + filePath);
-        }
-    })
-}
-
 const main = async () => {
     for (const config of cacheConfigs) {
         console.log('Caching data with config', config)
@@ -141,7 +132,6 @@ const main = async () => {
         if (config.additionalProcess) {
             for (const process of config.additionalProcess) {
                 const data = process.processor(dataContent);
-                console.log(data);
                 await writeJSONFile(savePath(folder, process.fileName), data);
             }
         }

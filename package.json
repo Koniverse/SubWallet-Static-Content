@@ -15,6 +15,7 @@
     "npm": "^10.1.0"
   },
   "scripts": {
-    "update-data": "node scripts/fetch-data.mjs"
+    "update-data": "node scripts/fetch-data.mjs",
+    "generate-period-data": "node scripts/generate-period-time.mjs"
   }
 }
