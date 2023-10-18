@@ -3,20 +3,22 @@
     "id": 1,
     "name": "Polkadot Unlock Staking",
     "description": null,
-    "start_time": "2023-10-23T17:00:00.000Z",
-    "end_time": "2023-11-29T17:00:00.000Z",
+    "start_time": "2023-10-14T17:00:00.000Z",
+    "end_time": "2023-10-30T17:00:00.000Z",
     "condition": {
       "hasCrowdloan": true
     },
     "banners": [
       {
+        "id": 1,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
           "url": "https://earn.subwallet.app"
         },
         "environments": [
-          "mobile"
+          "mobile",
+          "extension"
         ],
         "position": [
           "crowdloan",
@@ -26,13 +28,15 @@
         "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
       },
       {
+        "id": 2,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
           "url": "https://earn.subwallet.app"
         },
         "environments": [
-          "mobile"
+          "mobile",
+          "extension"
         ],
         "position": [
           "tokens"
@@ -40,17 +44,22 @@
         "buttons": [
           {
             "name": "Close",
-            "icon": null,
-            "color": "none",
+            "icon": "XCircle",
+            "color": "secondary",
             "type": null,
-            "metadata": null
+            "metadata": {
+              "doneOnClick": true
+            }
           },
           {
             "name": "Join now",
-            "icon": null,
+            "icon": "ArrowCircleRight",
             "color": "primary",
             "type": "open_url",
-            "metadata": null
+            "metadata": {
+              "url": "https://earn.subwallet.app",
+              "doneOnClick": true
+            }
           }
         ],
         "media": "https://media-resources.subwallet.app//6/crowdloan_ads_banner_6f8f64a992.png"
@@ -58,13 +67,14 @@
     ],
     "notifications": [
       {
+        "id": 1,
         "title": "Crowdloan Batch 1 is unlocking on 24 Oct",
         "message": "Join the Crowdloan Unlock Party at SubWallet Web Dashboard with top 6 DeFi protocols to earn exclusive rewards",
         "repeat": 1,
         "repeat_after_minutes": 30,
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/earning-demo"
+          "url": "https://earn.subwallet.app"
         },
         "buttons": [
           {
@@ -73,7 +83,7 @@
             "color": "none",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/earning-demo"
+              "url": "https://earn.subwallet.app"
             }
           }
         ]
