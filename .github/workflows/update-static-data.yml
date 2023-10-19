@@ -10,6 +10,10 @@ on:
         required: true
         type: string
         default: main
+      folder:
+        description: 'Folder name'
+        required: false
+        type: string
   schedule:
     - cron: '0 0 * * *'
 
@@ -29,8 +33,7 @@ jobs:
           STRAPI_TOKEN: ${{ secrets.STRAPI_TOKEN }}
         run: |
           yarn install --immutable | grep -v 'YN0013'
-          yarn update-data
-          yarn generate-period-data
+          yarn update-data ${{ github.event.inputs.folder }}
       - name: Deploy to Cloudflare Pages
         id: cloudflare_deployment
         uses: cloudflare/pages-action@v1
