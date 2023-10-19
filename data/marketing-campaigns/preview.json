@@ -38,7 +38,7 @@
           "mobile"
         ],
         "position": [
-          "tokens"
+          "home"
         ],
         "buttons": [
           {
@@ -74,7 +74,7 @@
           "extension"
         ],
         "position": [
-          "tokens"
+          "home"
         ],
         "buttons": [
           {
@@ -277,7 +277,7 @@
         ],
         "buttons": [
           {
-            "name": "I don’t care eee",
+            "name": "Don't",
             "icon": "XCircle",
             "color": "secondary",
             "type": null,
@@ -286,7 +286,7 @@
             }
           },
           {
-            "name": "Earn now",
+            "name": "Earn",
             "icon": "ArrowCircleRight",
             "color": "primary",
             "type": "open_url",
