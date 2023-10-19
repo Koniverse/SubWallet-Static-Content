@@ -31,7 +31,7 @@ const cacheConfigs = [
         url: `${STRAPI_URL}/api/list/dapp`,
         folder: 'dapps',
         fileName: 'list.json',
-        imageFields: ['icon'],
+        imageFields: ['icon', 'preview_image'],
         removeFields: []
     },
     {
@@ -108,7 +108,10 @@ export async function downloadFile(url, downloadDir, forceFileName = null) {
 }
 
 const main = async () => {
-    for (const config of cacheConfigs) {
+    // Filter config by folder
+    const folder = process.argv[2];
+    const configs = folder ? cacheConfigs.filter((c) => c.folder === folder) : cacheConfigs;
+    for (const config of configs) {
         console.log('Caching data with config', config)
         const results = await axios.get(config.url);
         if (!results.data) return;
