@@ -3833,7 +3833,7 @@
     "slug": "bobabeam",
     "name": "Bobabeam",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 111,
     "icon": "https://static-data.subwallet.app/chains/images/icon/boba_network_78cd37f0d6.png",
     "providers": {
