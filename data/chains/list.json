@@ -6415,5 +6415,26 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     }
+  },
+  {
+    "slug": "zeta_test",
+    "name": "ZetaChain Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/tanssi_2e13dc9c66.png",
+    "providers": {
+      "Athens": "https://zetachain-athens-evm.blockpi.network/v1/rpc/public"
+    },
+    "evmInfo": {
+      "evmChainId": 7001,
+      "blockExplorer": "https://zetachain-athens-3.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "aZETA",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": null
+    },
+    "substrateInfo": null
   }
 ]
