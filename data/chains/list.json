@@ -4726,7 +4726,7 @@
           "relayChain": "polkadot",
           "fundId": "3341-73",
           "paraId": 3341,
-          "status": "withdraw",
+          "status": "failed",
           "startTime": "2023-10-24T01:48:00.000Z",
           "endTime": "2025-08-26T01:48:00.000Z",
           "auctionIndex": 52,

@@ -101,14 +101,19 @@
     "description": "Omni Liquid Staking is the first omni-chain liquid staking protocol developed based on Bifrost SLPx, cross-chain interoperability and consensus security provided by Polkadot XCM, realizing the vision of minting, using, and aggregating the liquidity across chains.",
     "url": "https://omni.ls",
     "subtitle": "Omni-chain liquid staking protocol",
-    "is_substrate": null,
+    "is_substrate": true,
     "is_evm": null,
     "is_featured": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/bifrost_omni_liquid_staking_d2327ebe60.png",
     "preview_image": null,
-    "chains": [],
-    "categories": []
+    "chains": [
+      "bifrost",
+      "bifrost_dot"
+    ],
+    "categories": [
+      "staking"
+    ]
   },
   {
     "id": 114,
@@ -809,7 +814,8 @@
     ],
     "categories": [
       "dex",
-      "crowdloans"
+      "crowdloans",
+      "staking"
     ]
   },
   {
@@ -1458,9 +1464,7 @@
       "kusama"
     ],
     "categories": [
-      "crowdloans",
-      "staking",
-      "governance"
+      "tooling"
     ]
   },
   {
