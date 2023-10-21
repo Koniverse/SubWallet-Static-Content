@@ -463,5 +463,34 @@
         ]
       }
     ]
+  },
+  {
+    "id": 8,
+    "name": "Polkadot Unlock Staking Campaign 2",
+    "description": null,
+    "start_time": "2023-10-18T17:00:00.000Z",
+    "end_time": "2023-10-21T11:30:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 16,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://earn.subwallet.app"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "crowdloan"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
+      }
+    ],
+    "notifications": []
   }
 ]
