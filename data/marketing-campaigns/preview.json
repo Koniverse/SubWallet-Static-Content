@@ -489,6 +489,42 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
+      },
+      {
+        "id": 17,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://earn.subwallet.app"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Don't care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://earn.subwallet.app",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_ads_banner_7ae59c51ce.png"
       }
     ],
     "notifications": []
