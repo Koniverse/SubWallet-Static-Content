@@ -5300,7 +5300,19 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "crowdloanFunds": []
+      "crowdloanFunds": [
+        {
+          "relayChain": "kusama",
+          "fundId": "2241-97",
+          "paraId": 2241,
+          "status": "won",
+          "startTime": "2023-03-08T04:27:00.000Z",
+          "endTime": "2024-02-07T04:27:00.000Z",
+          "auctionIndex": 72,
+          "firstPeriod": 28,
+          "lastPeriod": 35
+        }
+      ]
     }
   },
   {
@@ -5905,45 +5917,6 @@
           "auctionIndex": 47,
           "firstPeriod": 14,
           "lastPeriod": 21
-        }
-      ]
-    }
-  },
-  {
-    "slug": " krest",
-    "name": " krest",
-    "isTestnet": false,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/krest_829e55c5b1.png",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": "kusama",
-      "paraId": 2241,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": null,
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": [
-        {
-          "relayChain": "kusama",
-          "fundId": "2241-97",
-          "paraId": 2241,
-          "status": "won",
-          "startTime": "2023-03-08T04:27:00.000Z",
-          "endTime": "2024-02-07T04:27:00.000Z",
-          "auctionIndex": 72,
-          "firstPeriod": 28,
-          "lastPeriod": 35
         }
       ]
     }
