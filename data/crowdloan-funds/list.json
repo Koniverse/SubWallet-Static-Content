@@ -4292,10 +4292,10 @@
       },
       "start_block_at": 1656290898,
       "extrinsic_index": "13305732-3",
-      "last_change_block": 20138793,
+      "last_change_block": 20214241,
       "fund_auction_status": 2,
       "last_change_event_idx": 36,
-      "last_change_timestamp": 1697476914
+      "last_change_timestamp": 1697930280
     },
     "relayChain": "kusama",
     "auctionIndex": 43,
@@ -4838,10 +4838,10 @@
       },
       "start_block_at": 1647455508,
       "extrinsic_index": "11836996-2",
-      "last_change_block": 16934495,
+      "last_change_block": 20214221,
       "fund_auction_status": 2,
-      "last_change_event_idx": 321,
-      "last_change_timestamp": 1678197204
+      "last_change_event_idx": 38,
+      "last_change_timestamp": 1697930160
     },
     "relayChain": "kusama",
     "auctionIndex": 30,
