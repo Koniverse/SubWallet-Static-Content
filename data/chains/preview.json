@@ -5639,7 +5639,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/moonsama_e58d7ffb32.svg",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Moonsama_network_07fdb265d8.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -5678,7 +5678,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/oak_96f32d9dbe.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/oak_network_9fd08adbbf.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -5717,7 +5717,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/omnibtc_421a7571f2.jpg",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/omnibtc_b480074463.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -5756,7 +5756,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/peaq_29fc0dfdda.jpg",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/peaq_31a6e2dff3.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -5795,7 +5795,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/ferrum_1b3954d80c.jpg",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Quantum_Portal_6c3b1feb1d.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -5981,7 +5981,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/mars_29781ee7f2.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/mars_network_41ad3c0b06.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -6047,7 +6047,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/aband_6209673507.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/aband_network_57fa8f599e.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -6086,7 +6086,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_0e2547b512.jpg",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_3dd2fdd1f0.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -6113,7 +6113,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/alpha_network_dc6919bbbe.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Alpha_Network_9c41747363.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -6140,7 +6140,7 @@
     "isTestnet": false,
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/loom_70966d1e56.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/loom_network_a3bc58dae4.png",
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
