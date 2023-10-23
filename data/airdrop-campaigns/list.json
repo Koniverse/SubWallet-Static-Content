@@ -7,7 +7,7 @@
     "description": "From Oct 24 to Nov 07, take part in the most comprehensive staking campaign ever in the Polkadot ecosystem with Polkadot nomination pools, Acala, Bifrost, and Parallel liquid staking, and Interlay and Moonwell lending is happening at SubWallet Web Dashboard!\n\nUsers who have staked and earned a DOT Power Staker NFT are eligible to participate in this Airlyft campaign and share a reward pool of $1,000.\n\nNote: 100 winners are selected based on a combination of points, content quality, and social media engagement. Each winner will receive 10 USDT on Polkadot Asset Hub.\n\nAdditional information: Users who stake with Acala, Bifrost, and Parallel from Oct 24 to Nov 07 have the chance to share exclusive reward pools, including 80K ACA, 5K BNC, and 1M PARA. More details are available in SubWallet Earning FAQs.",
     "start_time": "2023-10-24T12:00:00.000Z",
     "end_time": "2023-11-08T00:00:00.000Z",
-    "url": "https://web.subwallet.app/home/earning/overview",
+    "url": "https://airlyft.one/subwallet/stake-dot-earn-many-by-subwallet",
     "twitter_url": "https://twitter.com/subwalletapp",
     "reward": "1000 USDT",
     "total_winner": "100",
@@ -15,7 +15,7 @@
     "tags": [
       "manual_selection"
     ],
-    "campaign_url": "https://airlyft.one/subwallet/stake-dot-earn-many-by-subwallet",
+    "campaign_url": "https://web.subwallet.app/home/earning/overview",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/wallet_connect_9ed43a1b95.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/image_2_2e3a8054b5.png",
     "chains": [
