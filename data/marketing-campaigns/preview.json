@@ -103,7 +103,7 @@
     "notifications": [
       {
         "id": 8,
-        "title": "Stake DOT, Earn Many with SubWallet",
+        "title": "Earn DOT rewards with SubWallet",
         "message": "Stake DOT now at SubWallet Web Dashboard with top protocols to earn exclusive rewards. Only from Oct 24 to Nov 07, be quick!",
         "repeat": 1,
         "repeat_after_minutes": 30,
