@@ -1667,7 +1667,7 @@
     "description": "The Polkadot Staking Dashboard is a tool only dedicated to staking on Polkadot, Kusama (Polkadot's canary network), and Westend (Polkadot's test network).",
     "url": "https://staking.polkadot.network/#/overview",
     "subtitle": "The official dashboard for staking on Polkadot, Kusama, and Westend",
-    "is_substrate": null,
+    "is_substrate": true,
     "is_evm": null,
     "is_featured": true,
     "ordinal": null,

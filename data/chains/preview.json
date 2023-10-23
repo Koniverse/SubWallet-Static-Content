@@ -5541,6 +5541,35 @@
     }
   },
   {
+    "slug": "xcavate",
+    "name": "Xcavate",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9998,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Xcavate_f708d5eb64.png",
+    "providers": {
+      "Tanssi": "wss://fraa-dancebox-3031-rpc.a.dancebox.tanssi.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x8472759fe1cf8ce507282ddea8af43dd08e598c9da2faed66f3e18f51f93080f",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "XCAV",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
     "slug": "unorthodox",
     "name": "Unorthodox",
     "isTestnet": false,
@@ -6395,7 +6424,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/tanssi_2e13dc9c66.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/zetachain_b69b02c2cb.png",
     "providers": {
       "Athens": "https://zetachain-athens-evm.blockpi.network/v1/rpc/public"
     },
