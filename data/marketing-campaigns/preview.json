@@ -168,7 +168,7 @@
         ],
         "buttons": [
           {
-            "name": "I don’t care",
+            "name": "Don’t care",
             "icon": "XCircle",
             "color": "secondary",
             "type": null,
@@ -177,7 +177,7 @@
             }
           },
           {
-            "name": "Join now",
+            "name": "Join",
             "icon": "ArrowCircleRight",
             "color": "primary",
             "type": "open_url",
@@ -204,7 +204,7 @@
         ],
         "buttons": [
           {
-            "name": "I don’t care",
+            "name": "Don’t care",
             "icon": "XCircle",
             "color": "secondary",
             "type": null,
@@ -213,7 +213,7 @@
             }
           },
           {
-            "name": "Join now",
+            "name": "Join",
             "icon": "ArrowCircleRight",
             "color": "primary",
             "type": "open_url",
