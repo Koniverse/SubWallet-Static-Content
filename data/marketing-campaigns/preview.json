@@ -124,5 +124,131 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10,
+    "name": "Stake DOT earn many",
+    "description": null,
+    "start_time": "2023-10-23T08:00:00.000Z",
+    "end_time": "2023-11-07T16:00:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 21,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/home/earning/overview?utm_source=crowdloantabbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "mobile",
+          "extension"
+        ],
+        "position": [
+          "crowdloan",
+          "browser"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
+      },
+      {
+        "id": 22,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://earn.subwallet.app",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_ads_banner_4x_41eb2486f4.png"
+      },
+      {
+        "id": 23,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://earn.subwallet.app",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/crowdloan_ads_banner_7ae59c51ce.png"
+      }
+    ],
+    "notifications": [
+      {
+        "id": 9,
+        "title": "Earn DOT rewards with SubWallet",
+        "message": "Stake DOT now at SubWallet Web Dashboard with top protocols to earn exclusive rewards. Only from Oct 24 to Nov 07, be quick!",
+        "repeat": 1,
+        "repeat_after_minutes": 30,
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/home/earning/overview?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
+        },
+        "buttons": [
+          {
+            "name": "Join now",
+            "icon": null,
+            "color": "none",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://earn.subwallet.app"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
