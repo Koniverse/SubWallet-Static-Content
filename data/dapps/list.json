@@ -18,26 +18,6 @@
     ]
   },
   {
-    "id": 120,
-    "title": "SubWallet Web Dashboard",
-    "description": "SubWallet web dashboard empowers blockchain usage with a one-stop-shop for the multichain and helps you manage your assets with full control.",
-    "url": "https://web.subwallet.app/",
-    "subtitle": null,
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": true,
-    "ordinal": 1,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/D_app_Browser_banner_6d88570f3b.png",
-    "chains": [
-      "polkadot"
-    ],
-    "categories": [
-      "staking",
-      "utilities"
-    ]
-  },
-  {
     "id": 110,
     "title": "Polkadot Power Passport",
     "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
