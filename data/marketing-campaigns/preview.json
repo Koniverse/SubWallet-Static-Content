@@ -182,7 +182,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://earn.subwallet.app",
+              "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
               "doneOnClick": true
             }
           }
@@ -218,7 +218,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://earn.subwallet.app",
+              "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
               "doneOnClick": true
             }
           }
@@ -244,7 +244,7 @@
             "color": "none",
             "type": "open_url",
             "metadata": {
-              "url": "https://earn.subwallet.app"
+              "url": "https://web.subwallet.app/home/earning/overview?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
             }
           }
         ]
