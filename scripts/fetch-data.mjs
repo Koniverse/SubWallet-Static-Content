@@ -62,8 +62,8 @@ const cacheConfigs = [
         preview: 'preview.json',
     },
     {
-        url: `${STRAPI_URL}/api/list/buy-token-service`,
-        folder: 'buy-token-services',
+        url: `${STRAPI_URL}/api/list/buy-service-info`,
+        folder: 'buy-service-infos',
         fileName: 'list.json',
         imageFields: [],
         removeFields: [],
