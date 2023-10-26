@@ -140,7 +140,7 @@
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/home/earning/overview?utm_source=crowdloantabbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+          "url": "https://web.subwallet.app/earning-demo?utm_source=crowdloantabbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
         },
         "environments": [
           "mobile",
@@ -158,7 +158,7 @@
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
+          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
         },
         "environments": [
           "mobile"
@@ -182,7 +182,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
               "doneOnClick": true
             }
           }
@@ -194,7 +194,7 @@
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
         },
         "environments": [
           "extension"
@@ -218,7 +218,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/home/earning/overview?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
               "doneOnClick": true
             }
           }
@@ -235,7 +235,7 @@
         "repeat_after_minutes": 30,
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/home/earning/overview?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
+          "url": "https://web.subwallet.app/earning-demo?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
         },
         "buttons": [
           {
@@ -244,7 +244,7 @@
             "color": "none",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/home/earning/overview?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
+              "url": "https://web.subwallet.app/earning-demo?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
             }
           }
         ]

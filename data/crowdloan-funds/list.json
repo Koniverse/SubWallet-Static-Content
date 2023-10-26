@@ -3879,7 +3879,7 @@
     "lastPeriod": 32,
     "startTime": "2022-11-02T04:27:00.000Z",
     "endTime": "2023-10-04T04:27:00.000Z",
-    "chain": null
+    "chain": "genshiro"
   },
   {
     "paraId": 2225,
@@ -3920,7 +3920,7 @@
     "lastPeriod": 32,
     "startTime": "2022-11-02T04:27:00.000Z",
     "endTime": "2023-10-04T04:27:00.000Z",
-    "chain": null
+    "chain": "shadow"
   },
   {
     "paraId": 2129,
@@ -4006,7 +4006,7 @@
     "lastPeriod": 30,
     "startTime": "2022-08-10T04:27:00.000Z",
     "endTime": "2023-07-12T04:27:00.000Z",
-    "chain": null
+    "chain": "picasso"
   },
   {
     "paraId": 2127,
@@ -4089,7 +4089,7 @@
     "lastPeriod": 30,
     "startTime": "2022-08-10T04:27:00.000Z",
     "endTime": "2023-07-12T04:27:00.000Z",
-    "chain": null
+    "chain": "gmdie"
   },
   {
     "paraId": 2126,
@@ -4134,7 +4134,7 @@
     "lastPeriod": 30,
     "startTime": "2022-08-10T04:27:00.000Z",
     "endTime": "2023-07-12T04:27:00.000Z",
-    "chain": null
+    "chain": "heiko"
   },
   {
     "paraId": 2124,
@@ -4215,7 +4215,7 @@
     "lastPeriod": 30,
     "startTime": "2022-08-10T04:27:00.000Z",
     "endTime": "2023-07-12T04:27:00.000Z",
-    "chain": null
+    "chain": "tinkernet"
   },
   {
     "paraId": 2121,
@@ -4264,7 +4264,7 @@
     "lastPeriod": 29,
     "startTime": "2022-06-29T04:27:00.000Z",
     "endTime": "2023-05-31T04:27:00.000Z",
-    "chain": null
+    "chain": "imbue_network"
   },
   {
     "paraId": 2116,
@@ -4307,7 +4307,7 @@
     "lastPeriod": 29,
     "startTime": "2022-06-29T04:27:00.000Z",
     "endTime": "2023-05-31T04:27:00.000Z",
-    "chain": null
+    "chain": "tanganika"
   },
   {
     "paraId": 2118,
@@ -4447,7 +4447,7 @@
     "lastPeriod": 28,
     "startTime": "2022-05-18T04:27:00.000Z",
     "endTime": "2023-04-19T04:27:00.000Z",
-    "chain": null
+    "chain": "shiden"
   },
   {
     "paraId": 2115,
@@ -4488,7 +4488,7 @@
     "lastPeriod": 28,
     "startTime": "2022-05-18T04:27:00.000Z",
     "endTime": "2023-04-19T04:27:00.000Z",
-    "chain": null
+    "chain": "dorafactory"
   },
   {
     "paraId": 2113,
@@ -4532,7 +4532,7 @@
     "lastPeriod": 29,
     "startTime": "2022-06-29T04:27:00.000Z",
     "endTime": "2023-05-31T04:27:00.000Z",
-    "chain": null
+    "chain": "kabocha"
   },
   {
     "paraId": 2118,
@@ -4708,7 +4708,7 @@
     "lastPeriod": 28,
     "startTime": "2022-05-18T04:27:00.000Z",
     "endTime": "2023-04-19T04:27:00.000Z",
-    "chain": null
+    "chain": "pichiu"
   },
   {
     "paraId": 2114,
@@ -4749,7 +4749,7 @@
     "lastPeriod": 27,
     "startTime": "2022-04-06T04:27:00.000Z",
     "endTime": "2023-03-08T04:27:00.000Z",
-    "chain": null
+    "chain": "turing"
   },
   {
     "paraId": 2008,
@@ -4835,7 +4835,7 @@
     "lastPeriod": 27,
     "startTime": "2022-04-06T04:27:00.000Z",
     "endTime": "2023-03-08T04:27:00.000Z",
-    "chain": null
+    "chain": "mangatax_para"
   },
   {
     "paraId": 2102,
@@ -4930,7 +4930,7 @@
     "lastPeriod": 26,
     "startTime": "2022-02-23T04:27:00.000Z",
     "endTime": "2023-01-25T04:27:00.000Z",
-    "chain": null
+    "chain": "kico"
   },
   {
     "paraId": 2106,
@@ -4979,7 +4979,7 @@
     "lastPeriod": 26,
     "startTime": "2022-02-23T04:27:00.000Z",
     "endTime": "2023-01-25T04:27:00.000Z",
-    "chain": null
+    "chain": "litmus"
   },
   {
     "paraId": 2011,
@@ -5125,7 +5125,7 @@
     "lastPeriod": 26,
     "startTime": "2022-02-23T04:27:00.000Z",
     "endTime": "2023-01-25T04:27:00.000Z",
-    "chain": null
+    "chain": "crabParachain"
   },
   {
     "paraId": 2015,
@@ -5173,7 +5173,7 @@
     "lastPeriod": 26,
     "startTime": "2022-02-23T04:27:00.000Z",
     "endTime": "2023-01-25T04:27:00.000Z",
-    "chain": null
+    "chain": "integritee"
   },
   {
     "paraId": 2102,
@@ -5274,7 +5274,7 @@
     "lastPeriod": 25,
     "startTime": "2022-01-12T04:27:00.000Z",
     "endTime": "2022-12-14T04:27:00.000Z",
-    "chain": null
+    "chain": "robonomics"
   },
   {
     "paraId": 2015,
@@ -5461,7 +5461,7 @@
     "lastPeriod": 25,
     "startTime": "2022-01-12T04:27:00.000Z",
     "endTime": "2022-12-14T04:27:00.000Z",
-    "chain": null
+    "chain": "shadow"
   },
   {
     "paraId": 2013,
@@ -5629,7 +5629,7 @@
     "lastPeriod": 25,
     "startTime": "2022-01-12T04:27:00.000Z",
     "endTime": "2022-12-14T04:27:00.000Z",
-    "chain": null
+    "chain": "sakura"
   },
   {
     "paraId": 2100,
@@ -5823,7 +5823,7 @@
     "lastPeriod": 24,
     "startTime": "2021-12-01T04:27:00.000Z",
     "endTime": "2022-11-02T04:27:00.000Z",
-    "chain": null
+    "chain": "quartz"
   },
   {
     "paraId": 2016,
@@ -5917,7 +5917,7 @@
     "lastPeriod": 24,
     "startTime": "2021-12-01T04:27:00.000Z",
     "endTime": "2022-11-02T04:27:00.000Z",
-    "chain": null
+    "chain": "genshiro"
   },
   {
     "paraId": 2013,
@@ -6204,7 +6204,7 @@
     "lastPeriod": 24,
     "startTime": "2021-12-01T04:27:00.000Z",
     "endTime": "2022-11-02T04:27:00.000Z",
-    "chain": null
+    "chain": "picasso"
   },
   {
     "paraId": 2087,
@@ -6297,7 +6297,7 @@
     "lastPeriod": 22,
     "startTime": "2021-09-08T04:27:00.000Z",
     "endTime": "2022-08-10T04:27:00.000Z",
-    "chain": null
+    "chain": "basilisk"
   },
   {
     "paraId": 2092,
@@ -6344,7 +6344,7 @@
     "lastPeriod": 22,
     "startTime": "2021-09-08T04:27:00.000Z",
     "endTime": "2022-08-10T04:27:00.000Z",
-    "chain": null
+    "chain": "kintsugi"
   },
   {
     "paraId": 2077,
@@ -6645,7 +6645,7 @@
     "lastPeriod": 22,
     "startTime": "2021-09-08T04:27:00.000Z",
     "endTime": "2022-08-10T04:27:00.000Z",
-    "chain": null
+    "chain": "heiko"
   },
   {
     "paraId": 2084,
@@ -7531,7 +7531,7 @@
     "lastPeriod": 20,
     "startTime": "2021-06-16T04:27:00.000Z",
     "endTime": "2022-05-18T04:27:00.000Z",
-    "chain": null
+    "chain": "bifrost"
   },
   {
     "paraId": 2018,
@@ -7663,7 +7663,7 @@
     "lastPeriod": 20,
     "startTime": "2021-06-16T04:27:00.000Z",
     "endTime": "2022-05-18T04:27:00.000Z",
-    "chain": null
+    "chain": "khala"
   },
   {
     "paraId": 2006,
@@ -7891,7 +7891,7 @@
     "lastPeriod": 20,
     "startTime": "2021-06-16T04:27:00.000Z",
     "endTime": "2022-05-18T04:27:00.000Z",
-    "chain": null
+    "chain": "moonriver"
   },
   {
     "paraId": 2007,
