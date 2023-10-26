@@ -12,18 +12,12 @@ const cacheConfigs = [
         folder: 'chains',
         fileName: 'list.json',
         imageFields: ['icon'],
-        removeFields: ['id']
-    },
-    {
-        url: `${STRAPI_URL}/api/list/chain?preview=true`,
-        folder: 'chains',
-        fileName: 'preview.json',
-        imageFields: ['icon'],
         removeFields: ['id'],
+        preview: 'preview.json',
         additionalProcess: [{
             fileName: 'logo_map.json',
-            processor: (data) => {
-                return Object.fromEntries(data.map((c) => ([c.slug, c.icon])));
+            processor: (data, preview_data) => {
+                return Object.fromEntries(preview_data.map((c) => ([c.slug, c.icon])));
             },
         }]
     },
@@ -32,42 +26,56 @@ const cacheConfigs = [
         folder: 'dapps',
         fileName: 'list.json',
         imageFields: ['icon', 'preview_image'],
-        removeFields: []
+        removeFields: [],
+        preview: 'preview.json',
     },
     {
         url: `${STRAPI_URL}/api/list/category`,
         folder: 'categories',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: ['id']
+        removeFields: ['id'],
+        preview: 'preview.json',
     },
     {
         url: `${STRAPI_URL}/api/list/airdrop-campaign`,
         folder: 'airdrop-campaigns',
         fileName: 'list.json',
         imageFields: ['logo', 'backdrop_image'],
-        removeFields: []
+        removeFields: [],
+        preview: 'preview.json',
     },
     {
         url: `${STRAPI_URL}/api/list/crowdloan-fund`,
         folder: 'crowdloan-funds',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: ['id']
+        removeFields: ['id'],
+        preview: 'preview.json',
     },
     {
         url: `${STRAPI_URL}/api/list/marketing-campaign`,
         folder: 'marketing-campaigns',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: []
+        removeFields: [],
+        preview: 'preview.json',
     },
     {
-        url: `${STRAPI_URL}/api/list/marketing-campaign?preview=true`,
-        folder: 'marketing-campaigns',
-        fileName: 'preview.json',
+        url: `${STRAPI_URL}/api/list/buy-token-service`,
+        folder: 'buy-token-services',
+        fileName: 'list.json',
         imageFields: [],
-        removeFields: []
+        removeFields: [],
+        preview: 'preview.json',
+    },
+    {
+        url: `${STRAPI_URL}/api/list/buy-token-config`,
+        folder: 'buy-token-configs',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: [],
+        preview: 'preview.json',
     }
 ]
 
@@ -103,9 +111,31 @@ export async function downloadFile(url, downloadDir, forceFileName = null) {
         writer.on('finish', () => {
             resolve(fileName);
         });
-        writer.on('error', reject);
+        writer.on('error', () => {
+            resolve(url);
+        });
     });
 }
+
+const fetchAndProcessData = async (url, folder, downloadDir, fieldsImage) => {
+    const results = await axios.get(url);
+
+    if (!results.data) return;
+
+    return await Promise.all(results.data.map(async item => {
+        const dataImages = {};
+        for (const field of fieldsImage) {
+            const dataField = item[field];
+            if (dataField) {
+                const folderFieldImage = `${downloadDir}/${field}`;
+                const newFileName = await downloadFile(dataField, folderFieldImage);
+                dataImages[field] = urlImage(folder, field, newFileName);
+            }
+        }
+        return {...item, ...dataImages};
+    }));
+}
+
 
 const main = async () => {
     // Filter config by folder
@@ -113,37 +143,36 @@ const main = async () => {
     const configs = folder ? cacheConfigs.filter((c) => c.folder === folder) : cacheConfigs;
     for (const config of configs) {
         console.log('Caching data with config', config)
-        const results = await axios.get(config.url);
-        if (!results.data) return;
+
         const folder = config.folder;
         const path = savePath(folder, config.fileName);
+        const previewPath = config.preview && savePath(folder, config.preview);
         const fieldsImage = config.imageFields;
         const downloadDir = saveImagesPath(folder);
-        const dataContent = await Promise.all(results.data.map(async item => {
-            const dataImages = {};
-            for (const field of fieldsImage) {
-                const dataField = item[field];
-                if (dataField) {
-                    const folderFieldImage = `${downloadDir}/${field}`;
-                    const newFileName = await downloadFile(dataField, folderFieldImage);
-                    dataImages[field] = urlImage(folder, field, newFileName);
-                }
-            }
-            return {...item, ...dataImages};
-        }));
+
+        const dataContent = await fetchAndProcessData(config.url, folder, downloadDir, fieldsImage);
+        const previewData = config.preview && (await fetchAndProcessData(`${config.url}?preview=true`, folder, downloadDir, fieldsImage));
 
         if (config.additionalProcess) {
             for (const process of config.additionalProcess) {
-                const data = process.processor(dataContent);
+                const data = process.processor(dataContent, previewData);
                 await writeJSONFile(savePath(folder, process.fileName), data);
             }
         }
 
         for (const f of config.removeFields) {
-            dataContent[f] && delete dataContent[f];
+            for (const item of dataContent) {
+                item[f] && delete item[f];
+            }
+            if (previewData) {
+                for (const item of previewData) {
+                    item[f] && delete item[f];
+                }
+            }
         }
 
         await writeJSONFile(path, dataContent);
+        previewData && await writeJSONFile(previewPath, previewData);
     }
 }
 
