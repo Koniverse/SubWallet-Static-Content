@@ -25,5 +25,23 @@
     "termUrl": "https://coinbase.com/legal/user_agreement/united_states",
     "policyUrl": "https://coinbase.com/legal/privacy",
     "url": "https://coinbase.com"
+  },
+  {
+    "id": 4,
+    "slug": "moonpay",
+    "name": "Moonpay",
+    "contactUrl": " ",
+    "termUrl": " ",
+    "policyUrl": " ",
+    "url": " "
+  },
+  {
+    "id": 5,
+    "slug": "onramper",
+    "name": "OnRamper",
+    "contactUrl": " ",
+    "termUrl": " ",
+    "policyUrl": " ",
+    "url": " "
   }
 ]
