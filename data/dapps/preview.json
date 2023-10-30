@@ -57,6 +57,26 @@
     ]
   },
   {
+    "id": 125,
+    "title": "Test_ArtZero.io",
+    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
+    "url": "https://a0.artzero.io/",
+    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 3,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "chains": [
+      "aleph",
+      "astar"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 111,
     "title": "doTreasury",
     "description": "dotreasury.com aim to introduce remarks from councilors and communities to improve current kusama treasury with a retrospect mechanism.",
@@ -212,6 +232,89 @@
     "categories": [
       "data",
       "tooling"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Emotes App",
+    "description": "RMRK’s NFT smart contract allows anyone to react to any NFT. Reactions are expressed in Unicode standardized emojis.",
+    "url": "https://emotes.app/",
+    "subtitle": "React to any NFTs using the RMRK NFT Emotes Standard",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": null,
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Mintaur App",
+    "description": "Launch your RMRK Modular NFTs fast with Mintaur. RMRK Modular NFTs are ERC standards that allow NFTs to be multi-asset, nested, soulbound, composable, and emotable.",
+    "url": "https://www.mintaur.app/",
+    "subtitle": "Mint modern modular NFTs on demand",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": null,
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "polygon",
+      "moonbeam",
+      "base_mainnet",
+      "astarEvm"
+    ],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Upgradooor App",
+    "description": "Amplify your regular ERC-721 NFTs by converting them into supercharged RMRK NFTs. Upgrading your ERC-721 NFT allows you to unlock the capabilities of Modular NFTs. You'll gain immediate access to nesting capabilities, enabling you to either send your NFT into others or receive NFTs. ",
+    "url": "https://upgradooor.app/",
+    "subtitle": "Supercharge your ERC721 NFTs with powers of RMRK's Modular NFTs",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": null,
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "moonbeam",
+      "polygon",
+      "base_mainnet",
+      "astarEvm"
+    ],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "NFT.io",
+    "description": "NFT.io is the latest innovation from the Enjin team, a global NFT Marketplace fully integrated with the Enjin Blockchain.",
+    "url": "https://nft.io/",
+    "subtitle": "Enjin NFT Marketplace",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": null,
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft"
     ]
   },
   {

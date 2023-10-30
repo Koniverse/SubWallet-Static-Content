@@ -4240,7 +4240,7 @@
   },
   {
     "slug": "watr_network",
-    "name": "Watr Network",
+    "name": "Watr Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 114,
@@ -4269,7 +4269,7 @@
   },
   {
     "slug": "watr_network_evm",
-    "name": "Watr Network - EVM",
+    "name": "Watr Testnet - EVM",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 115,

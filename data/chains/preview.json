@@ -4240,7 +4240,7 @@
   },
   {
     "slug": "watr_network",
-    "name": "Watr Network",
+    "name": "Watr Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 114,
@@ -4269,7 +4269,7 @@
   },
   {
     "slug": "watr_network_evm",
-    "name": "Watr Network - EVM",
+    "name": "Watr Testnet - EVM",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 115,
@@ -6783,6 +6783,56 @@
       "blockExplorer": "https://zetachain-athens-3.blockscout.com/",
       "existentialDeposit": "0",
       "symbol": "aZETA",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": null
+    },
+    "substrateInfo": null
+  },
+  {
+    "slug": "watr_mainnet",
+    "name": "Watr Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
+    "providers": {
+      "Watr": "wss://watr-rpc.watr-api.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x161db6cdc5896fe55ef12b4778fe78dd65d7af43f65c601786b88d7a93ebc58a",
+      "addressPrefix": 19,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000000",
+      "symbol": "WATR",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "watr_mainnet_evm",
+    "name": "Watr Mainnet - EVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
+    "providers": {
+      "Watr": "wss://watr-rpc.watr-api.network"
+    },
+    "evmInfo": {
+      "evmChainId": 688,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000000",
+      "symbol": "WATR",
       "decimals": 18,
       "supportSmartContract": null,
       "abiExplorer": null
