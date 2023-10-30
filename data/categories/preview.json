@@ -82,5 +82,11 @@
     "name": "Bridge",
     "color": "warning",
     "description": null
+  },
+  {
+    "slug": "test_env",
+    "name": "Test enviroment",
+    "color": "orange",
+    "description": null
   }
 ]
