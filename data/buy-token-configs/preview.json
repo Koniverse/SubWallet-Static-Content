@@ -105,6 +105,11 @@
         "network": "alephzero",
         "symbol": "AZERO",
         "isSuspended": false
+      },
+      "banxa": {
+        "network": "alephzero",
+        "symbol": "AZERO",
+        "isSuspended": false
       }
     },
     "network": "aleph",
