@@ -25,19 +25,6 @@
   {
     "serviceInfo": {
       "transak": {
-        "network": "alephzero",
-        "symbol": "AZERO",
-        "isSuspended": false
-      }
-    },
-    "network": "aleph",
-    "slug": "aleph-NATIVE-AZERO",
-    "symbol": "AZERO",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
-      "transak": {
         "network": "mainnet",
         "symbol": "KSM",
         "isSuspended": false
@@ -111,6 +98,19 @@
     "slug": "avalanche_c-NATIVE-AVAX",
     "symbol": "AVAX",
     "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "alephzero",
+        "symbol": "AZERO",
+        "isSuspended": false
+      }
+    },
+    "network": "aleph",
+    "slug": "aleph-NATIVE-AZERO",
+    "symbol": "AZERO",
+    "support": "SUBSTRATE"
   },
   {
     "serviceInfo": {
