@@ -674,5 +674,18 @@
     "slug": "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "symbol": "WBTC",
     "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "alephzero",
+        "symbol": "AZERO",
+        "isSuspended": false
+      }
+    },
+    "network": "aleph",
+    "slug": "aleph-NATIVE-AZERO",
+    "symbol": "AZERO",
+    "support": "SUBSTRATE"
   }
 ]
