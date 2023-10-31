@@ -102,19 +102,6 @@
   {
     "serviceInfo": {
       "transak": {
-        "network": "alephzero",
-        "symbol": "AZERO",
-        "isSuspended": false
-      }
-    },
-    "network": "aleph",
-    "slug": "aleph-NATIVE-AZERO",
-    "symbol": "AZERO",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "transak": {
         "network": "bsc",
         "symbol": "BNB",
         "isSuspended": false
