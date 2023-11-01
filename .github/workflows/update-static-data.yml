@@ -10,6 +10,14 @@ on:
         required: true
         type: string
         default: main
+      environment:
+        description: Environment
+        required: false
+        type: choice
+        default: development
+        options:
+          - development
+          - production
       folder:
         description: 'Folder name'
         required: false
@@ -33,7 +41,7 @@ jobs:
           STRAPI_TOKEN: ${{ secrets.STRAPI_TOKEN }}
         run: |
           yarn install --immutable | grep -v 'YN0013'
-          yarn update-data ${{ github.event.inputs.folder }}
+          yarn update-data ${{ github.event.inputs.folder }} ${{ github.event.inputs.production }}
       - name: Deploy to Cloudflare Pages
         id: cloudflare_deployment
         uses: cloudflare/pages-action@v1

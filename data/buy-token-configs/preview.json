@@ -63,29 +63,6 @@
         "isSuspended": true
       }
     },
-    "network": "moonriver",
-    "slug": "moonriver-NATIVE-MOVR",
-    "symbol": "MOVR",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
-      "transak": {
-        "network": "ethereum",
-        "symbol": "ETH",
-        "isSuspended": false
-      },
-      "banxa": {
-        "network": "ETH",
-        "symbol": "ETH",
-        "isSuspended": true
-      },
-      "coinbase": {
-        "network": "ethereum",
-        "symbol": "ETH",
-        "isSuspended": true
-      }
-    },
     "network": "moonbase",
     "slug": "moonbase-NATIVE-DEV",
     "symbol": "DEV",

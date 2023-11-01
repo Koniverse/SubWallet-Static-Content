@@ -139,7 +139,9 @@ const fetchAndProcessData = async (url, folder, downloadDir, fieldsImage) => {
 
 const main = async () => {
     // Filter config by folder
-    const folder = process.argv[2];
+    const environment = process.argv[2];
+    const isProduction = environment === 'production';
+    const folder = process.argv[3];
     const configs = folder ? cacheConfigs.filter((c) => c.folder === folder) : cacheConfigs;
     for (const config of configs) {
         console.log('Caching data with config', config)
@@ -171,7 +173,7 @@ const main = async () => {
             }
         }
 
-        await writeJSONFile(path, dataContent);
+        isProduction && await writeJSONFile(path, dataContent);
         previewData && await writeJSONFile(previewPath, previewData);
     }
 }
