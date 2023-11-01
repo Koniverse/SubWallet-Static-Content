@@ -26,6 +26,29 @@
     "serviceInfo": {
       "transak": {
         "network": "mainnet",
+        "symbol": "DOT",
+        "isSuspended": false
+      },
+      "banxa": {
+        "network": "DOT",
+        "symbol": "DOT",
+        "isSuspended": false
+      },
+      "coinbase": {
+        "network": "polkadot",
+        "symbol": "DOT",
+        "isSuspended": false
+      }
+    },
+    "network": "acala",
+    "slug": "acala-NATIVE-ACA",
+    "symbol": "ACA",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "mainnet",
         "symbol": "KSM",
         "isSuspended": false
       },
