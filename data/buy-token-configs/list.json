@@ -546,19 +546,6 @@
   {
     "serviceInfo": {
       "transak": {
-        "network": "arbitrum",
-        "symbol": "USDC",
-        "isSuspended": false
-      }
-    },
-    "network": "arbitrum_one",
-    "slug": "arbitrum_one-ERC20-USDC-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-    "symbol": "USDC",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
-      "transak": {
         "network": "bsc",
         "symbol": "USDC",
         "isSuspended": false

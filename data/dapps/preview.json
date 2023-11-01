@@ -244,7 +244,7 @@
     "is_evm": null,
     "is_featured": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/emotes_2501d01fc2.png",
     "preview_image": null,
     "chains": [],
     "categories": [
@@ -262,7 +262,7 @@
     "is_evm": null,
     "is_featured": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mintaur_c03735b1c2.png",
     "preview_image": null,
     "chains": [
       "ethereum",
@@ -286,7 +286,7 @@
     "is_evm": null,
     "is_featured": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/upgardooor_336e5c5057.png",
     "preview_image": null,
     "chains": [
       "ethereum",
@@ -310,7 +310,7 @@
     "is_evm": null,
     "is_featured": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/nft_io_838ae7c63a.png",
     "preview_image": null,
     "chains": [],
     "categories": [
