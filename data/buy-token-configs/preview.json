@@ -27,7 +27,7 @@
       "transak": {
         "network": "mainnet",
         "symbol": "DOT",
-        "isSuspended": false
+        "isSuspended": true
       },
       "banxa": {
         "network": "DOT",
