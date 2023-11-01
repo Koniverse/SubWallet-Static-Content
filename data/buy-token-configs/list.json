@@ -15,6 +15,11 @@
         "network": "polkadot",
         "symbol": "DOT",
         "isSuspended": false
+      },
+      "onramper": {
+        "network": "polkadot",
+        "symbol": "DOT",
+        "isSuspended": false
       }
     },
     "network": "polkadot",
