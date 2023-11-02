@@ -1,28 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Vara Network",
-    "status": "upcoming",
-    "ordinal": 1,
-    "description": "Stake your DOT directly on the relay chain and receive compounds automatically.",
-    "start_time": "2023-10-02T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://dotinsights.subwallet.app/",
-    "twitter_url": "https://dotinsights.subwallet.app/",
-    "reward": "100000",
-    "total_winner": "50",
-    "total_supply": "100000",
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": null,
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/og_2f6b43a755.jpg",
-    "chains": [
-      "aleph"
-    ]
-  },
-  {
     "id": 8,
     "name": "Stake DOT Earn Many",
     "status": "live",
@@ -57,7 +34,7 @@
     "ordinal": 2,
     "description": "The goal of the event is to pave the road for the DOT unlock event on October 24th. Introducing users to the dApp and familiarizing you with its mechanics and the assets within, you will be allowed to take advantage of the benefits of Bifrost Liquid Staking. The Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as Polkadot itself.",
     "start_time": "2023-10-24T11:00:00.000Z",
-    "end_time": "2023-11-30T12:00:00.000Z",
+    "end_time": "2023-11-22T12:00:00.000Z",
     "url": "https://airlyft.one/bifrost-finance/polkadot-unlock-harvest",
     "twitter_url": "https://twitter.com/BifrostFinance",
     "reward": "1 LS_POLKADOT",
@@ -80,7 +57,7 @@
     "ordinal": 3,
     "description": "One of three events leading up to the Unlock of +100 Million $DOT from the first parachain crowdloans, on Polkadot.",
     "start_time": "2023-10-19T11:00:00.000Z",
-    "end_time": "2023-10-31T12:00:00.000Z",
+    "end_time": "2023-11-22T12:00:00.000Z",
     "url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
     "twitter_url": "https://twitter.com/BifrostFinance",
     "reward": "1 LS_WALLETS",
@@ -146,7 +123,7 @@
   {
     "id": 7,
     "name": "Zeitgeist x CoinDesk Indices",
-    "status": "live",
+    "status": "archived",
     "ordinal": 6,
     "description": "Zeitgeist is partnering with CoinDesk Indices to create a unique trading experience to give traders an edge in the broader market. By participating in Zeitgeist prediction markets surrounding specific CoinDesk Indices, traders are able to capitalize on their crypto knowledge, while other users can view the prediction market data and gain an informational edge on the direction of crypto prices in general!",
     "start_time": "2023-10-04T14:30:00.000Z",
