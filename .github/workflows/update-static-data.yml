@@ -12,7 +12,7 @@ on:
         default: main
       environment:
         description: Environment
-        required: false
+        required: true
         type: choice
         default: development
         options:
@@ -41,7 +41,7 @@ jobs:
           STRAPI_TOKEN: ${{ secrets.STRAPI_TOKEN }}
         run: |
           yarn install --immutable | grep -v 'YN0013'
-          yarn update-data ${{ github.event.inputs.folder }} ${{ github.event.inputs.production }}
+          yarn update-data ${{ github.event.inputs.environment }} ${{ github.event.inputs.folder }}
       - name: Deploy to Cloudflare Pages
         id: cloudflare_deployment
         uses: cloudflare/pages-action@v1
