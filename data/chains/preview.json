@@ -8,12 +8,10 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
     "providers": {
       "Parity": "wss://rpc.polkadot.io",
-      "OnFinality": "wss://polkadot.api.onfinality.io/public-ws",
       "Dwellir": "wss://polkadot-rpc.dwellir.com",
       "Light Client": "light://substrate-connect/polkadot",
-      "RadiumBlock": "wss://polkadot.public.curie.radiumblock.io/ws",
-      "1RPC": "wss://1rpc.io/dot",
-      "PinkNode": "wss://public-rpc.pinknode.io/polkadot"
+      "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
+      "1RPC": "wss://1rpc.io/dot"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -46,8 +44,7 @@
       "OnFinality": "wss://kusama.api.onfinality.io/public-ws",
       "Dwellir": "wss://kusama-rpc.dwellir.com",
       "Light Client": "light://substrate-connect/kusama",
-      "PinkNode": "wss://public-rpc.pinknode.io/kusama",
-      "RadiumBlock": "wss://kusama.public.curie.radiumblock.xyz/ws",
+      "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "1RPC": "wss://1rpc.io/ksm"
     },
     "evmInfo": null,
@@ -136,7 +133,6 @@
       "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws",
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
       "1rpc": "wss://1rpc.io/glmr",
-      "PinkNode": "wss://public-rpc.pinknode.io/moonbeam",
       "Blast": "wss://moonbeam.public.blastapi.io"
     },
     "evmInfo": {
@@ -266,7 +262,6 @@
       "Astar": "wss://rpc.astar.network",
       "OnFinality": "wss://astar.api.onfinality.io/public-ws",
       "Dwellir": "wss://astar-rpc.dwellir.com",
-      "PinkNode": "wss://public-rpc.pinknode.io/astar",
       "Blast": "wss://astar.public.blastapi.io",
       "1RPC": "wss://1rpc.io/astr",
       "Light Client": "light://substrate-connect/polkadot/astar"
@@ -344,8 +339,7 @@
       "Parity": "wss://statemint-rpc.polkadot.io",
       "OnFinality": "wss://statemint.api.onfinality.io/public-ws",
       "Dwellir": "wss://statemint-rpc.dwellir .com",
-      "PinkNode": "wss://public-rpc.pinknode.io/statemint",
-      "RadiumBlock": "wss://statemint.public.curie.radiumblock.xyz/ws",
+      "RadiumBlock": "wss://statemint.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com"
     },
     "evmInfo": null,
@@ -379,7 +373,6 @@
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
       "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
-      "Polkawallet 0": "wss://acala.polkawallet.io",
       "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
       "Dwellir": "wss://acala-rpc.dwellir.com"
     },
@@ -751,7 +744,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/westend_cd23291966.png",
     "providers": {
       "Parity": "wss://westend-rpc.polkadot.io",
-      "Pinknode": "wss://rpc.pinknode.io/westend/explorer",
       "Dwellir": "wss://westend-rpc.dwellir.com",
       "Light Client": "light://substrate-connect/westend",
       "DottersNet": "wss://rpc.dotters.network/westend",
@@ -785,9 +777,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/rococo_2354ee585c.png",
     "providers": {
       "Parity": "wss://rococo-rpc.polkadot.io",
-      "OnFinality": "wss://rococo.api.onfinality.io/public-ws",
-      "Pinknode": "wss://rpc.pinknode.io/rococo/explorer",
-      "Ares Protocol": "wss://rococo.aresprotocol.com",
       "Light Client": "light://substrate-connect/rococo"
     },
     "evmInfo": null,
@@ -937,7 +926,6 @@
       "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
       "Blast": "wss://moonriver.public.blastapi.io",
       "Dwellir": "wss://moonriver-rpc.dwellir.com",
-      "Pinknode": "wss://public-rpc.pinknode.io/moonriver",
       "UnitedBloc": "wss://moonriver.unitedbloc.com:2001"
     },
     "evmInfo": {
@@ -1544,8 +1532,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/edgeware_6a0057274c.png",
     "providers": {
       "JelliedOwl": "wss://edgeware.jelliedowl.net",
-      "Commonwealth Labs": "wss://mainnet2.edgewa.re",
-      "Dwellir": "wss://edgeware-rpc.dwellir.com"
+      "Commonwealth Labs": "wss://mainnet2.edgewa.re"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1658,8 +1645,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/nodle_fba7fd5ae5.png",
     "providers": {
       "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws",
-      "Dwellir": "wss://eden-rpc.dwellir.com",
-      "PinkNode": "wss://public-rpc.pinknode.io/nodle"
+      "Dwellir": "wss://eden-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1822,8 +1808,7 @@
     "ordinal": 50,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_dc0b44d234.png",
     "providers": {
-      "Polkadex Team": "wss://mainnet.polkadex.trade/",
-      "OnFinality": "wss:// polkadex.api.onfinality.io/public-ws"
+      "Polkadex Team": "wss://mainnet.polkadex.trade/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1921,9 +1906,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 53,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dolphin_6730ef6a9e.png",
-    "providers": {
-      "dolphin": "wss://ws.rococo.dolphin.engineering"
-    },
+    "providers": {},
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
@@ -2187,9 +2170,7 @@
       "Acala Foundation 1": "wss://karura-rpc-1.aca-api.network",
       "Acala Foundation 2": "wss://karura-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://karura-rpc-3.aca-api.network/ws",
-      "Polkawallet 0": "wss://karura.polkawallet.io",
-      "OnFinality": "wss://karura.api.onfinality.io/public-ws",
-      "Dwellir": "wss://karura-rpc.dwellir.com"
+      "OnFinality": "wss://karura.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2220,8 +2201,7 @@
     "providers": {
       "Phala": "wss://khala-api.phala.network/ws",
       "OnFinality": "wss://khala.api.onfinality.io/public-ws",
-      "Dwellir": "wss://khala-rpc.dwellir.com",
-      "PinkNode": "wss://public-rpc.pinknode.io/khala"
+      "Dwellir": "wss://khala-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2701,9 +2681,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 72,
     "icon": "https://static-data.subwallet.app/chains/images/icon/genshiro_1734447125.png",
-    "providers": {
-      "testnet": "wss://testnet.genshiro.io"
-    },
+    "providers": {},
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
@@ -2925,7 +2903,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/robonomics_cd3454b4d5.png",
     "providers": {
       "Airalab": "wss://kusama.rpc.robonomics.network/",
-      "Leemo": "wss://robonomics.leemo.me",
       "OnFinality": "wss://robonomics.api.onfinality.io/public-ws",
       "Samsara": "wss://robonomics.0xsamsara.com"
     },
