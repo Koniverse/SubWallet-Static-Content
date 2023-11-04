@@ -233,7 +233,7 @@
       "paraId": null,
       "genesisHash": "0x70255b4d28de0fc4e1a193d7e175ad1ccef431598211c55538f1018651a0344e",
       "addressPrefix": 42,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": "https://contribute.alephzero.org/",
       "blockExplorer": "https://alephzero.subscan.io/",
       "existentialDeposit": "500",
@@ -335,7 +335,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
       "Parity": "wss://statemint-rpc.polkadot.io",
-      "Dwellir": "wss://statemint-rpc.dwellir .com",
+      "Dwellir": "wss://statemint-rpc.dwellir.com",
       "RadiumBlock": "wss://statemint.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com"
     },
@@ -463,7 +463,6 @@
     "ordinal": 14,
     "icon": "https://static-data.subwallet.app/chains/images/icon/optimism_a6ed6c25a9.png",
     "providers": {
-      "Optimism": "https://mainnet.optimism.io",
       "BlastApi": "https://optimism-mainnet.public.blastapi.io"
     },
     "evmInfo": {
@@ -1679,7 +1678,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/darwinia_8a711cb162.png",
     "providers": {
       "Darwinia Network": "wss://rpc.darwinia.network",
-      "Darwinia EVM": "https://rpc.darwinia.network",
       "Darwinia Community": "wss://darwinia-rpc.darwiniacommunitydao.xyz",
       "Dwellir": "wss://darwinia-rpc.dwellir.com"
     },
@@ -1931,7 +1929,7 @@
       "Unique": "wss://ws-opal.unique.network",
       "Europe": "wss://eu-ws-opal.unique.network",
       "NA": "wss://us-ws-opal.unique.network",
-      "Asia": "wss://asia-ws-opal.unique.ne twork"
+      "Asia": "wss://asia-ws-opal.unique.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3151,8 +3149,7 @@
     "ordinal": 84,
     "icon": "https://static-data.subwallet.app/chains/images/icon/acala_10b077e14b.png",
     "providers": {
-      "OnFinality": "wss://mandala-tc9-rpc.aca-staging.network",
-      "Polkawallet": "wss://mandala-tc9-rpc.aca-staging.network"
+      "Mandala": "wss://mandala-tc9-rpc.aca-staging.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3375,6 +3372,7 @@
     "ordinal": 90,
     "icon": "https://static-data.subwallet.app/chains/images/icon/tinkernet_parachain_f670b63d3b.png",
     "providers": {
+      "Dwellir": "wss://tinkernet-rpc.dwellir.com",
       "Light Client": "light://substrate-connect/kusama/tinkernet"
     },
     "evmInfo": null,
@@ -4542,9 +4540,9 @@
     "ordinal": 128,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hashed_78ed238d01.png",
     "providers": {
-      "Hashed Systems": "wss://c1.hashed.network",
+      "Hashed Systems": "wss://c1.hashed.live",
       "Hashed Systems 2": "wss://c2.hashed.network",
-      "Hashed Systems 3": "wss://c3.hashed.network"
+      "Hashed Systems 3": "wss://c3.hashed.live"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6762,5 +6760,93 @@
       "abiExplorer": null
     },
     "substrateInfo": null
+  },
+  {
+    "slug": "enjin_relaychain",
+    "name": "Enjin Relaychain",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/enjin_661293457f.png",
+    "providers": {
+      "Enjin": "wss://rpc.relay.blockchain.enjin.io/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xd8761d3c88f26dc12875c00d3165f7d67243d56fc85b4cf19937601a7916e5a9",
+      "addressPrefix": 2135,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://console.enjin.io/#/explorer",
+      "existentialDeposit": "100000000000000000",
+      "symbol": "ENJ",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "enjin_matrixchain",
+    "name": "Enjin Matrixchain",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/enjin_661293457f.png",
+    "providers": {
+      "MatrixChain": "wss://rpc.matrix.blockchain.enjin.io/",
+      "Dwellir": "wss://enjin-matrix-rpc-1.dwellir.com/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "enjin",
+      "paraId": 1000,
+      "genesisHash": "0x3af4ff48ec76d2efc8476730f423ac07e25ad48f5f4c9dc39c778b164d808615",
+      "addressPrefix": 1110,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": "https://console.enjin.io/#/explorer",
+      "existentialDeposit": "100000000000000000",
+      "symbol": "ENJ",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
+  },
+  {
+    "slug": "vara_testnet",
+    "name": "Vara Network Testnet",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/vara_5aa38c4458.png",
+    "providers": {
+      "Vara": "wss://testnet.vara-network.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x525639f713f397dcf839bd022cd821f367ebcf179de7b9253531f8adbe5436d6",
+      "addressPrefix": 137,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000",
+      "symbol": "TVARA",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    }
   }
 ]
