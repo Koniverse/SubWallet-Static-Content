@@ -37,6 +37,25 @@
     ]
   },
   {
+    "id": 126,
+    "title": "SubWallet Earning",
+    "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
+    "url": "https://web.subwallet.app/home/earning/overview",
+    "subtitle": "Earn rewards with top protocols at SubWallet",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": true,
+    "ordinal": 2,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/D_app_Browser_banner_6d88570f3b.png",
+    "chains": [
+      "polkadot"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 2,
     "title": "ArtZero.io",
     "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
