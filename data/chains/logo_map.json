@@ -197,7 +197,7 @@
   "zeta_test": "https://static-data.subwallet.app/chains/images/icon/zetachain_b69b02c2cb.png",
   "watr_mainnet": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
   "watr_mainnet_evm": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
-  "enjin_relaychain": "https://static-data.subwallet.app/chains/images/icon/enjin_661293457f.png",
-  "enjin_matrixchain": "https://static-data.subwallet.app/chains/images/icon/enjin_661293457f.png",
+  "enjin_relaychain": "https://static-data.subwallet.app/chains/images/icon/enjin_relaychain_9684b417ca.png",
+  "enjin_matrixchain": "https://static-data.subwallet.app/chains/images/icon/enjin_matrixchain_0d7b0a46c8.png",
   "vara_testnet": "https://static-data.subwallet.app/chains/images/icon/vara_5aa38c4458.png"
 }
