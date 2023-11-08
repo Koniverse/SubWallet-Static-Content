@@ -30,6 +30,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "polkadot"
     }
   },
   {
@@ -63,6 +66,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "kusama"
     }
   },
   {
@@ -91,7 +97,8 @@
       ],
       "abiExplorer": "https://etherscan.io"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "binance",
@@ -118,7 +125,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "moonbeam",
@@ -174,6 +182,9 @@
           "lastPeriod": 13
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "moonbeam"
     }
   },
   {
@@ -215,6 +226,9 @@
           "lastPeriod": 24
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "pioneer"
     }
   },
   {
@@ -247,6 +261,9 @@
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "alephzero"
     }
   },
   {
@@ -296,6 +313,9 @@
           "lastPeriod": 13
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "astar"
     }
   },
   {
@@ -324,7 +344,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "statemint",
@@ -347,7 +368,7 @@
       "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://statemint.subscan.io/",
+      "blockExplorer": "https://assethub-polkadot.subscan.io/",
       "existentialDeposit": "1000000000",
       "symbol": "DOT",
       "decimals": 10,
@@ -356,6 +377,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "assethub-polkadot"
     }
   },
   {
@@ -402,6 +426,9 @@
           "lastPeriod": 13
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "acala"
     }
   },
   {
@@ -428,7 +455,8 @@
       ],
       "abiExplorer": "https://polygonscan.com"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "arbitrum_one",
@@ -453,7 +481,8 @@
       ],
       "abiExplorer": "https://arbiscan.io"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "optimism",
@@ -477,7 +506,8 @@
       ],
       "abiExplorer": "https://optimistic.etherscan.io"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "tomochain",
@@ -501,7 +531,8 @@
       ],
       "abiExplorer": "https://tomoscan.i"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "alephTest",
@@ -533,7 +564,8 @@
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "shiden",
@@ -602,6 +634,9 @@
           "lastPeriod": 20
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "shiden"
     }
   },
   {
@@ -629,7 +664,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "shibuya",
@@ -662,6 +698,9 @@
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "shibuya"
     }
   },
   {
@@ -688,7 +727,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "aventus",
@@ -729,7 +769,8 @@
           "lastPeriod": 16
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "westend",
@@ -762,6 +803,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "westend"
     }
   },
   {
@@ -795,6 +839,9 @@
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "rococo"
     }
   },
   {
@@ -824,7 +871,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "equilibrium_parachain",
@@ -866,7 +914,8 @@
           "lastPeriod": 14
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "moonbase",
@@ -908,6 +957,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "moonbase"
     }
   },
   {
@@ -974,6 +1026,9 @@
           "lastPeriod": 20
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "moonriver"
     }
   },
   {
@@ -1003,7 +1058,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "turing",
@@ -1045,6 +1101,9 @@
           "lastPeriod": 27
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "turing"
     }
   },
   {
@@ -1067,7 +1126,7 @@
       "addressPrefix": 6,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://bifrost.app/vcrowdloan",
-      "blockExplorer": "https://bifrost-kusama.subscan.io",
+      "blockExplorer": "https://bifrost-kusama.subscan.io/",
       "existentialDeposit": "10000000000",
       "symbol": "BNC",
       "decimals": 12,
@@ -1099,6 +1158,9 @@
           "lastPeriod": 20
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "bifrost-kusama"
     }
   },
   {
@@ -1141,6 +1203,9 @@
           "lastPeriod": 15
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "bifrost"
     }
   },
   {
@@ -1170,7 +1235,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "calamari",
@@ -1211,6 +1277,9 @@
           "lastPeriod": 22
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "calamari"
     }
   },
   {
@@ -1252,7 +1321,8 @@
           "lastPeriod": 30
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "amplitude_test",
@@ -1281,7 +1351,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "bobabase",
@@ -1303,7 +1374,8 @@
       ],
       "abiExplorer": "https://blockexplorer.bobabase.boba.network/"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "ethereum_goerli",
@@ -1328,7 +1400,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "binance_test",
@@ -1353,7 +1426,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "parallel",
@@ -1405,6 +1479,9 @@
           "lastPeriod": 21
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "parallel"
     }
   },
   {
@@ -1425,7 +1502,7 @@
       "addressPrefix": 128,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://lucky.clover.finance/?type=support",
-      "blockExplorer": "https://clover.subscan.io/",
+      "blockExplorer": "https://clv.subscan.io/",
       "existentialDeposit": "0",
       "symbol": "CLV",
       "decimals": 18,
@@ -1446,6 +1523,9 @@
           "lastPeriod": 13
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "clv"
     }
   },
   {
@@ -1470,7 +1550,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "hydradx_main",
@@ -1512,6 +1593,9 @@
           "lastPeriod": 14
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "hydradx"
     }
   },
   {
@@ -1542,7 +1626,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "centrifuge",
@@ -1584,6 +1669,9 @@
           "lastPeriod": 14
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "centrifuge"
     }
   },
   {
@@ -1625,6 +1713,9 @@
           "lastPeriod": 14
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "interlay"
     }
   },
   {
@@ -1667,6 +1758,9 @@
           "lastPeriod": 14
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "nodle"
     }
   },
   {
@@ -1709,6 +1803,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "darwinia"
     }
   },
   {
@@ -1761,7 +1858,8 @@
           "lastPeriod": 26
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "odyssey",
@@ -1790,7 +1888,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "polkadex",
@@ -1810,7 +1909,7 @@
       "addressPrefix": 89,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://www.polkadex.trade/crowdloans",
-      "blockExplorer": "https://polkadex.subscan.io/",
+      "blockExplorer": "https://polkadex-parachain.subscan.io/",
       "existentialDeposit": "1000000000000",
       "symbol": "PDEX",
       "decimals": 12,
@@ -1831,6 +1930,9 @@
           "lastPeriod": 15
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "polkadex-parachain"
     }
   },
   {
@@ -1860,7 +1962,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "rmrk",
@@ -1889,7 +1992,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "dolphin",
@@ -1916,7 +2020,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "opal",
@@ -1948,7 +2053,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "efinity",
@@ -1990,7 +2096,8 @@
           "lastPeriod": 14
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "composableFinance",
@@ -2031,6 +2138,9 @@
           "lastPeriod": 14
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "composable"
     }
   },
   {
@@ -2073,6 +2183,9 @@
           "lastPeriod": 14
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "phala"
     }
   },
   {
@@ -2114,6 +2227,9 @@
           "lastPeriod": 17
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "crust-parachain"
     }
   },
   {
@@ -2137,7 +2253,7 @@
       "addressPrefix": 2,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://statemine.subscan.io/",
+      "blockExplorer": "https://assethub-kusama.subscan.io/",
       "existentialDeposit": "33333333",
       "symbol": "KSM",
       "decimals": 12,
@@ -2146,6 +2262,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "assethub-kusama"
     }
   },
   {
@@ -2179,6 +2298,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "karura"
     }
   },
   {
@@ -2222,6 +2344,9 @@
           "lastPeriod": 20
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "khala"
     }
   },
   {
@@ -2238,7 +2363,7 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": "kusama",
+      "relaySlug": "polkadot",
       "paraId": 2086,
       "genesisHash": "0x411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
       "addressPrefix": 38,
@@ -2253,6 +2378,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "spiritnet"
     }
   },
   {
@@ -2295,6 +2423,9 @@
           "lastPeriod": 22
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "basilisk"
     }
   },
   {
@@ -2337,6 +2468,9 @@
           "lastPeriod": 22
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "altair"
     }
   },
   {
@@ -2389,6 +2523,9 @@
           "lastPeriod": 22
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "parallel-heiko"
     }
   },
   {
@@ -2431,6 +2568,9 @@
           "lastPeriod": 22
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "kintsugi"
     }
   },
   {
@@ -2460,7 +2600,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "picasso",
@@ -2523,6 +2664,9 @@
           "lastPeriod": 24
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "picasso"
     }
   },
   {
@@ -2566,7 +2710,8 @@
           "lastPeriod": 24
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "unique_network",
@@ -2609,6 +2754,9 @@
           "lastPeriod": 15
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "unique"
     }
   },
   {
@@ -2661,7 +2809,8 @@
           "lastPeriod": 24
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "genshiro_testnet",
@@ -2688,7 +2837,8 @@
       "supportSmartContract": [],
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subsocial_x",
@@ -2717,7 +2867,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "zeitgeist",
@@ -2759,6 +2910,9 @@
           "lastPeriod": 17
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "zeitgeist"
     }
   },
   {
@@ -2800,6 +2954,9 @@
           "lastPeriod": 25
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "sakura"
     }
   },
   {
@@ -2852,6 +3009,9 @@
           "lastPeriod": 25
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "shadow"
     }
   },
   {
@@ -2881,7 +3041,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "robonomics",
@@ -2934,6 +3095,9 @@
           "lastPeriod": 25
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "robonomics"
     }
   },
   {
@@ -2976,6 +3140,9 @@
           "lastPeriod": 26
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "integritee"
     }
   },
   {
@@ -3017,7 +3184,8 @@
           "lastPeriod": 16
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "crabParachain",
@@ -3049,7 +3217,7 @@
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crab.network/plo",
-      "blockExplorer": "https://crab.subscan.io",
+      "blockExplorer": "https://crab.subscan.io/",
       "existentialDeposit": "0",
       "symbol": "CRAB",
       "decimals": 18,
@@ -3070,6 +3238,9 @@
           "lastPeriod": 26
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "crab"
     }
   },
   {
@@ -3110,7 +3281,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "chainx",
@@ -3139,7 +3311,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "acala_testnet",
@@ -3168,6 +3341,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "acala-testnet"
     }
   },
   {
@@ -3197,11 +3373,12 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "mangatax_para",
-    "name": "Mangata Kusama",
+    "name": "Mangata X",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 86,
@@ -3250,6 +3427,9 @@
           "lastPeriod": 27
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "mangatax"
     }
   },
   {
@@ -3279,7 +3459,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "litmus",
@@ -3320,7 +3501,8 @@
           "lastPeriod": 26
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "litentry",
@@ -3362,7 +3544,8 @@
           "lastPeriod": 15
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "tinkernet",
@@ -3404,7 +3587,8 @@
           "lastPeriod": 30
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "imbue_network",
@@ -3445,7 +3629,8 @@
           "lastPeriod": 29
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subspace_test",
@@ -3472,7 +3657,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subspace_gemini_2a",
@@ -3501,7 +3687,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subspace_gemini_3c",
@@ -3528,7 +3715,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subspace_gemini_3d",
@@ -3555,7 +3743,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subspace_gemini_3e",
@@ -3582,7 +3771,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subspace_gemini_3f",
@@ -3592,7 +3782,7 @@
     "ordinal": 97,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_d693cf5ecd.png",
     "providers": {
-      "Gemini 3e": "wss://rpc-0.gemini-3f.subspace.network/ws"
+      "Gemini 3f": "wss://rpc-0.gemini-3f.subspace.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3611,7 +3801,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "origintrail",
@@ -3652,6 +3843,41 @@
           "lastPeriod": 15
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "origintrail"
+    }
+  },
+  {
+    "slug": "subspace_gemini_3g",
+    "name": "Subspace Gemini 3g",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 98,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
+    "providers": {
+      "Gemini 3g": "wss://rpc-0.gemini-3g.subspace.network/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x418040fc282f5e5ddd432c46d05297636f6f75ce68d66499ff4cbda69ccd180b",
+      "addressPrefix": 2254,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://subspace.subscan.io/",
+      "existentialDeposit": "500",
+      "symbol": "tSSC",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "subspace"
     }
   },
   {
@@ -3691,7 +3917,8 @@
           "lastPeriod": 28
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "bajun",
@@ -3733,6 +3960,9 @@
           "lastPeriod": 29
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "bajun"
     }
   },
   {
@@ -3762,7 +3992,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "listen",
@@ -3789,7 +4020,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "kabocha",
@@ -3830,7 +4062,8 @@
           "lastPeriod": 29
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "gmdie",
@@ -3869,7 +4102,8 @@
           "lastPeriod": 30
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "ternoa",
@@ -3898,7 +4132,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "tanganika",
@@ -3916,7 +4151,7 @@
       "addressPrefix": 33,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://datahighway.subscan.io",
+      "blockExplorer": "https://datahighway.subscan.io/",
       "existentialDeposit": null,
       "symbol": "DHX",
       "decimals": 18,
@@ -3937,6 +4172,9 @@
           "lastPeriod": 29
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "datahighway"
     }
   },
   {
@@ -3978,7 +4216,8 @@
           "lastPeriod": 18
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "gear_testnet",
@@ -4007,7 +4246,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "ternoa_alphanet",
@@ -4036,7 +4276,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "calamari_test",
@@ -4065,7 +4306,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "boba",
@@ -4090,7 +4332,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "bobabeam",
@@ -4115,7 +4358,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "kilt_peregrine",
@@ -4144,6 +4388,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "kilt-testnet"
     }
   },
   {
@@ -4173,7 +4420,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "watr_network",
@@ -4202,7 +4450,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "watr_network_evm",
@@ -4226,7 +4475,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "fusotao",
@@ -4255,7 +4505,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "discovol",
@@ -4284,7 +4535,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "discovol_testnet",
@@ -4313,7 +4565,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "atocha",
@@ -4342,7 +4595,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "myriad",
@@ -4371,7 +4625,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "deBio",
@@ -4400,7 +4655,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "collectives",
@@ -4429,7 +4685,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "ajunaPolkadot",
@@ -4471,7 +4728,8 @@
           "lastPeriod": 17
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "bitgreen",
@@ -4500,7 +4758,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "frequency",
@@ -4530,7 +4789,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "hashedNetwork",
@@ -4584,7 +4844,8 @@
           "lastPeriod": 17
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "kapex",
@@ -4625,7 +4886,8 @@
           "lastPeriod": 15
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "kylinNetwork",
@@ -4666,7 +4928,8 @@
           "lastPeriod": 16
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "ipci",
@@ -4695,7 +4958,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "kico",
@@ -4734,7 +4998,8 @@
           "lastPeriod": 26
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "luhnNetwork",
@@ -4761,7 +5026,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "pichiu",
@@ -4800,7 +5066,8 @@
           "lastPeriod": 28
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "riodefi",
@@ -4827,7 +5094,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "automata",
@@ -4857,7 +5125,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "creditcoin",
@@ -4886,7 +5155,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "crownSterling",
@@ -4915,7 +5185,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "dockPosMainnet",
@@ -4935,7 +5206,7 @@
       "addressPrefix": 22,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://dock.subscan.io",
+      "blockExplorer": "https://dock.subscan.io/",
       "existentialDeposit": "500",
       "symbol": "DOCK",
       "decimals": 6,
@@ -4944,6 +5215,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "dock"
     }
   },
   {
@@ -4971,7 +5245,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "logion",
@@ -5012,7 +5287,8 @@
           "lastPeriod": 21
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "neatcoin",
@@ -5041,7 +5317,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "nftmart",
@@ -5070,7 +5347,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "polymesh",
@@ -5099,6 +5377,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "polymesh"
     }
   },
   {
@@ -5126,7 +5407,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "sherpax",
@@ -5153,7 +5435,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "sora_substrate",
@@ -5176,7 +5459,7 @@
       "addressPrefix": 69,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://sora.subscan.io",
+      "blockExplorer": "https://sora.subscan.io/",
       "existentialDeposit": "0",
       "symbol": "XOR",
       "decimals": 18,
@@ -5197,6 +5480,9 @@
           "lastPeriod": 21
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "sora"
     }
   },
   {
@@ -5226,7 +5512,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "3dpass",
@@ -5255,7 +5542,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "alephSmartNet",
@@ -5282,7 +5570,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "kulupu",
@@ -5311,7 +5600,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "joystream",
@@ -5331,7 +5621,7 @@
       "addressPrefix": 126,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://joystream.subscan.io/",
       "existentialDeposit": "266666560",
       "symbol": "JOY",
       "decimals": 10,
@@ -5340,6 +5630,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "joystream"
     }
   },
   {
@@ -5369,7 +5662,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "vara_network",
@@ -5398,6 +5692,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "vara"
     }
   },
   {
@@ -5427,7 +5724,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "bridgeHubPolkadot",
@@ -5457,7 +5755,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "bridgeHubKusama",
@@ -5489,7 +5788,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "fantom_testnet",
@@ -5516,7 +5816,8 @@
       ],
       "abiExplorer": "https://testnet.ftmscan.com"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "fantom",
@@ -5544,7 +5845,8 @@
       ],
       "abiExplorer": "https://ftmscan.com"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "krest_network",
@@ -5585,6 +5887,9 @@
           "lastPeriod": 35
         }
       ]
+    },
+    "extraInfo": {
+      "subscanSlug": "krest"
     }
   },
   {
@@ -5614,7 +5919,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "jur_network",
@@ -5643,7 +5949,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "base_mainnet",
@@ -5667,7 +5974,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "avalanche_c",
@@ -5691,7 +5999,8 @@
       ],
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "crust_mainnet",
@@ -5721,6 +6030,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "crust"
     }
   },
   {
@@ -5745,7 +6057,8 @@
       ],
       "abiExplorer": "https://blockscout.acala.network/"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "karura_evm",
@@ -5769,7 +6082,8 @@
       ],
       "abiExplorer": "https://blockscout.karura.network/"
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "bittensor",
@@ -5810,7 +6124,8 @@
           "lastPeriod": 18
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "xcavate",
@@ -5839,7 +6154,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "unorthodox",
@@ -5866,7 +6182,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "coinversation",
@@ -5905,7 +6222,8 @@
           "lastPeriod": 15
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "layerx_network",
@@ -5932,7 +6250,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "moonsama",
@@ -5971,7 +6290,8 @@
           "lastPeriod": 19
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "oak_network",
@@ -6010,7 +6330,8 @@
           "lastPeriod": 17
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "omnibtc",
@@ -6049,7 +6370,8 @@
           "lastPeriod": 17
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "peaq",
@@ -6088,7 +6410,8 @@
           "lastPeriod": 20
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "quantum_portal",
@@ -6115,7 +6438,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "virto_network",
@@ -6142,7 +6466,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "energy_web_x",
@@ -6181,7 +6506,8 @@
           "lastPeriod": 21
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "invarch",
@@ -6220,7 +6546,8 @@
           "lastPeriod": 21
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "zero",
@@ -6247,7 +6574,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "kpron_network",
@@ -6274,7 +6602,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "mars",
@@ -6301,7 +6630,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "snow",
@@ -6340,7 +6670,8 @@
           "lastPeriod": 31
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "aband",
@@ -6379,7 +6710,8 @@
           "lastPeriod": 35
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "acurast_canary",
@@ -6406,7 +6738,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "alpha_network",
@@ -6433,7 +6766,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "loom_network",
@@ -6460,7 +6794,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subgame_gamma",
@@ -6487,7 +6822,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "trustbase",
@@ -6514,7 +6850,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "manta_network",
@@ -6532,7 +6869,7 @@
       "addressPrefix": null,
       "chainType": null,
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://manta.subscan.io/",
       "existentialDeposit": null,
       "symbol": null,
       "decimals": null,
@@ -6541,6 +6878,9 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "manta"
     }
   },
   {
@@ -6568,7 +6908,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "geminis_network",
@@ -6595,7 +6936,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "polimec",
@@ -6634,7 +6976,8 @@
           "lastPeriod": 21
         }
       ]
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subdao",
@@ -6661,7 +7004,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "subgame_network",
@@ -6688,7 +7032,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "zeta_test",
@@ -6709,7 +7054,8 @@
       "supportSmartContract": null,
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   },
   {
     "slug": "watr_mainnet",
@@ -6738,7 +7084,8 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
-    }
+    },
+    "extraInfo": null
   },
   {
     "slug": "watr_mainnet_evm",
@@ -6759,6 +7106,7 @@
       "supportSmartContract": null,
       "abiExplorer": null
     },
-    "substrateInfo": null
+    "substrateInfo": null,
+    "extraInfo": null
   }
 ]

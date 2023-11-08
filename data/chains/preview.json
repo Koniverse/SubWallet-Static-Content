@@ -2363,7 +2363,7 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": "kusama",
+      "relaySlug": "polkadot",
       "paraId": 2086,
       "genesisHash": "0x411f057b9107718c9624d6aa4a3f23c1653898297f3d4d529d9bb6511a39dd21",
       "addressPrefix": 38,
@@ -3782,7 +3782,7 @@
     "ordinal": 97,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_d693cf5ecd.png",
     "providers": {
-      "Gemini 3e": "wss://rpc-0.gemini-3f.subspace.network/ws"
+      "Gemini 3f": "wss://rpc-0.gemini-3f.subspace.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3846,6 +3846,38 @@
     },
     "extraInfo": {
       "subscanSlug": "origintrail"
+    }
+  },
+  {
+    "slug": "subspace_gemini_3g",
+    "name": "Subspace Gemini 3g",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 98,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
+    "providers": {
+      "Gemini 3g": "wss://rpc-0.gemini-3g.subspace.network/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x418040fc282f5e5ddd432c46d05297636f6f75ce68d66499ff4cbda69ccd180b",
+      "addressPrefix": 2254,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://subspace.subscan.io/",
+      "existentialDeposit": "500",
+      "symbol": "tSSC",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "subspace"
     }
   },
   {
