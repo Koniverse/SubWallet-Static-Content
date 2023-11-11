@@ -6,12 +6,6 @@
     "description": null
   },
   {
-    "slug": "nft",
-    "name": "NFT",
-    "color": "primary",
-    "description": null
-  },
-  {
     "slug": "evm",
     "name": "EVM",
     "color": "magenta",
