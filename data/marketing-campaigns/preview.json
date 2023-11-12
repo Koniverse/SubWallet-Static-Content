@@ -124,5 +124,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": 11,
+    "name": "Stake DOT earn many",
+    "description": null,
+    "start_time": "2023-11-05T02:00:00.000Z",
+    "end_time": "2023-11-07T16:00:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 24,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app/Home_screen_x4_fb0b54c7a1.png"
+      },
+      {
+        "id": 25,
+        "alt": "Stake Dot, Earn Many",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Home_screen_x2_4e1b0b193a.png"
+      }
+    ],
+    "notifications": []
   }
 ]

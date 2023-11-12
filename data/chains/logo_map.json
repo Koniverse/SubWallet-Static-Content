@@ -97,6 +97,7 @@
   "subspace_gemini_3e": "https://static-data.subwallet.app/chains/images/icon/subspace_d693cf5ecd.png",
   "subspace_gemini_3f": "https://static-data.subwallet.app/chains/images/icon/subspace_d693cf5ecd.png",
   "origintrail": "https://static-data.subwallet.app/chains/images/icon/origintrail_cda66dc997.png",
+  "subspace_gemini_3g": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
   "dorafactory": "https://static-data.subwallet.app/chains/images/icon/dora_factory_f4c4f5b340.png",
   "bajun": "https://static-data.subwallet.app/chains/images/icon/bajun_network_fa6d5efe53.png",
   "dancebox": "https://static-data.subwallet.app/chains/images/icon/tanssi_2e13dc9c66.png",
@@ -196,5 +197,8 @@
   "subgame_network": "https://static-data.subwallet.app/chains/images/icon/subgame_gamma_a3bd39fb0c.png",
   "zeta_test": "https://static-data.subwallet.app/chains/images/icon/zetachain_b69b02c2cb.png",
   "watr_mainnet": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
-  "watr_mainnet_evm": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png"
+  "watr_mainnet_evm": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
+  "enjin_relaychain": "https://static-data.subwallet.app/chains/images/icon/enjin_relaychain_9684b417ca.png",
+  "enjin_matrixchain": "https://static-data.subwallet.app/chains/images/icon/enjin_matrixchain_0d7b0a46c8.png",
+  "vara_testnet": "https://static-data.subwallet.app/chains/images/icon/vara_5aa38c4458.png"
 }

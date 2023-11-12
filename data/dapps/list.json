@@ -37,6 +37,25 @@
     ]
   },
   {
+    "id": 126,
+    "title": "SubWallet Earning",
+    "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
+    "url": "https://web.subwallet.app/home/earning/overview",
+    "subtitle": "Earn rewards with top protocols at SubWallet",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": true,
+    "ordinal": 2,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/D_app_Browser_banner_6d88570f3b.png",
+    "chains": [
+      "polkadot"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 2,
     "title": "ArtZero.io",
     "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
@@ -178,6 +197,124 @@
     "preview_image": null,
     "chains": [],
     "categories": []
+  },
+  {
+    "id": 118,
+    "title": "Dolpha Analytics",
+    "description": "Dolpha Analytics is an on-chain data analytics and insights platform for the Polkadot and Kusama ecosystems. Dolpha empowers casual and power users to get a pulse on the ecosystems, perform due diligence, surface signals, and make informed data-driven decisions.",
+    "url": "https://dolpha.com/",
+    "subtitle": "On-chain data analytics and insights platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dolpha_insights_964a706dde.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Chainviz",
+    "description": "Chainviz is a real-time 3D visualization of the Polkadot machine.\nChainviz is a Helikon Labs project, envisioned and developed by Kutsal Kaan Bilgin and designed by Klad.",
+    "url": "https://chainviz.app/",
+    "subtitle": "Real-time 3D visualization of the Polkadot machine.",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/chainviz_9cb286e02f.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "data",
+      "tooling"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Emotes App",
+    "description": "RMRK’s NFT smart contract allows anyone to react to any NFT. Reactions are expressed in Unicode standardized emojis.",
+    "url": "https://emotes.app/",
+    "subtitle": "React to any NFTs using the RMRK NFT Emotes Standard",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/emotes_2501d01fc2.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Mintaur App",
+    "description": "Launch your RMRK Modular NFTs fast with Mintaur. RMRK Modular NFTs are ERC standards that allow NFTs to be multi-asset, nested, soulbound, composable, and emotable.",
+    "url": "https://www.mintaur.app/",
+    "subtitle": "Mint modern modular NFTs on demand",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mintaur_c03735b1c2.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "polygon",
+      "moonbeam",
+      "base_mainnet",
+      "astarEvm"
+    ],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Upgradooor App",
+    "description": "Amplify your regular ERC-721 NFTs by converting them into supercharged RMRK NFTs. Upgrading your ERC-721 NFT allows you to unlock the capabilities of Modular NFTs. You'll gain immediate access to nesting capabilities, enabling you to either send your NFT into others or receive NFTs. ",
+    "url": "https://upgradooor.app/",
+    "subtitle": "Supercharge your ERC721 NFTs with powers of RMRK's Modular NFTs",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/upgardooor_336e5c5057.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "moonbeam",
+      "polygon",
+      "base_mainnet",
+      "astarEvm"
+    ],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "NFT.io",
+    "description": "NFT.io is the latest innovation from the Enjin team, a global NFT Marketplace fully integrated with the Enjin Blockchain.",
+    "url": "https://nft.io/",
+    "subtitle": "Enjin NFT Marketplace",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/nft_io_838ae7c63a.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft"
+    ]
   },
   {
     "id": 3,
