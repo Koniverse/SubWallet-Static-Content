@@ -152,6 +152,27 @@
     ]
   },
   {
+    "id": 35,
+    "title": "Moonriver",
+    "description": "Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network.",
+    "url": "https://apps.moonbeam.network/moonriver",
+    "subtitle": "The platform for Moonriver Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 7,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
+    "preview_image": null,
+    "chains": [
+      "moonriver"
+    ],
+    "categories": [
+      "evm",
+      "staking",
+      "smart contract"
+    ]
+  },
+  {
     "id": 30,
     "title": "Acala Platform",
     "description": "Acala is a specialized stablecoin and liquidity blockchain that is decentralized, cross-chain by design, and future-proof with forkless upgradability. ",
@@ -170,48 +191,6 @@
     "categories": [
       "dex",
       "crowdloans"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "Moonriver",
-    "description": "Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network.",
-    "url": "https://apps.moonbeam.network/moonriver",
-    "subtitle": "The platform for Moonriver Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": 8,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
-    "preview_image": null,
-    "chains": [
-      "moonriver"
-    ],
-    "categories": [
-      "evm",
-      "staking",
-      "smart contract"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Bit.Country Kusama Crowdloan",
-    "description": "Check your primary NEER reward as well as your referral reward on this website.",
-    "url": "https://ksmcrowdloan.bit.country/reward",
-    "subtitle": "Crowdloan Page for Bit.Country Pioneer Network",
-    "is_substrate": true,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 8,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/bit_country_pioneer_a3c839ef5d.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/crowdloan_banner_11e4c68721.png",
-    "chains": [
-      "kusama",
-      "pioneer"
-    ],
-    "categories": [
-      "nft",
-      "socialfi"
     ]
   },
   {
@@ -239,6 +218,93 @@
     ]
   },
   {
+    "id": 16,
+    "title": "MoonFit",
+    "description": "MoonFit is a Web3 & NFT lifestyle app that promotes active living by rewarding users anytime they burn calories through physical activities.",
+    "url": "https://app.moonfit.xyz/nft-sale",
+    "subtitle": "Web3 & NFT Lifestyle App",
+    "is_substrate": null,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 10,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonfit_215142f555.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/moonfit_f8c96e00cb.jpg",
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      "socialfi"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Birdeye",
+    "description": "Birdeye's core objective is to assist traders in their investment deliberations through the provisioning of data-centric market analysis tools sourced from Birdeye and its affiliated partners.",
+    "url": "https://birdeye.so",
+    "subtitle": "Blockchain Data Aggregator tailored for Traders",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 11,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Theme_light_986801254d.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "arbitrum_one",
+      "optimism",
+      "polygon",
+      "avalanche_c",
+      "binance"
+    ],
+    "categories": [
+      "evm",
+      "data"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Astar Portal",
+    "description": "Astar Portal is the hub of a multi-chain, one-stop platform for managing assets and dApp Staking - build2earn protocol.",
+    "url": "https://portal.astar.network/",
+    "subtitle": "Astar & Shiden Network",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 12,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/astar_network_e410f4950e.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/astart_portal_83d70dbf1b.jpg",
+    "chains": [
+      "astar",
+      "shiden",
+      "shibuya"
+    ],
+    "categories": [
+      "staking",
+      "smart contract"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Polkadot Staking Dashboard",
+    "description": "The Polkadot Staking Dashboard is a tool only dedicated to staking on Polkadot, Kusama (Polkadot's canary network), and Westend (Polkadot's test network).",
+    "url": "https://staking.polkadot.network/#/overview",
+    "subtitle": "The official dashboard for staking on Polkadot, Kusama, and Westend",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 13,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_40ee7fbf4e.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png",
+    "chains": [
+      "polkadot",
+      "kusama",
+      "westend"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 2,
     "title": "ArtZero.io",
     "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
@@ -256,6 +322,27 @@
     ],
     "categories": [
       "nft"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Bit.Country Kusama Crowdloan",
+    "description": "Check your primary NEER reward as well as your referral reward on this website.",
+    "url": "https://ksmcrowdloan.bit.country/reward",
+    "subtitle": "Crowdloan Page for Bit.Country Pioneer Network",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 16,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/bit_country_pioneer_a3c839ef5d.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/crowdloan_banner_11e4c68721.png",
+    "chains": [
+      "kusama",
+      "pioneer"
+    ],
+    "categories": [
+      "nft",
+      "socialfi"
     ]
   },
   {
@@ -681,25 +768,6 @@
     ],
     "categories": [
       "community"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "MoonFit",
-    "description": "MoonFit is a Web3 & NFT lifestyle app that promotes active living by rewarding users anytime they burn calories through physical activities.",
-    "url": "https://app.moonfit.xyz/nft-sale",
-    "subtitle": "Web3 & NFT Lifestyle App",
-    "is_substrate": null,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonfit_215142f555.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/moonfit_f8c96e00cb.jpg",
-    "chains": [
-      "moonbeam"
-    ],
-    "categories": [
-      "socialfi"
     ]
   },
   {
@@ -1737,28 +1805,6 @@
     ]
   },
   {
-    "id": 85,
-    "title": "Astar Portal",
-    "description": "Astar Portal is the hub of a multi-chain, one-stop platform for managing assets and dApp Staking - build2earn protocol.",
-    "url": "https://portal.astar.network/",
-    "subtitle": "Astar & Shiden Network",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/astar_network_e410f4950e.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/astart_portal_83d70dbf1b.jpg",
-    "chains": [
-      "astar",
-      "shiden",
-      "shibuya"
-    ],
-    "categories": [
-      "staking",
-      "smart contract"
-    ]
-  },
-  {
     "id": 87,
     "title": "Secret Stash",
     "description": "The first digital marketplace for Ternoa's crypto collectibles, art and non-fungible tokens (NFT). Buy, sell and discover exclusive digital items.",
@@ -1816,27 +1862,6 @@
     ],
     "categories": [
       "nft"
-    ]
-  },
-  {
-    "id": 92,
-    "title": "Polkadot Staking Dashboard",
-    "description": "The Polkadot Staking Dashboard is a tool only dedicated to staking on Polkadot, Kusama (Polkadot's canary network), and Westend (Polkadot's test network).",
-    "url": "https://staking.polkadot.network/#/overview",
-    "subtitle": "The official dashboard for staking on Polkadot, Kusama, and Westend",
-    "is_substrate": true,
-    "is_evm": null,
-    "is_featured": true,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_40ee7fbf4e.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png",
-    "chains": [
-      "polkadot",
-      "kusama",
-      "westend"
-    ],
-    "categories": [
-      "staking"
     ]
   },
   {
@@ -2148,31 +2173,6 @@
     "categories": [
       "nft",
       "socialfi"
-    ]
-  },
-  {
-    "id": 108,
-    "title": "Birdeye",
-    "description": "Birdeye's core objective is to assist traders in their investment deliberations through the provisioning of data-centric market analysis tools sourced from Birdeye and its affiliated partners.",
-    "url": "https://birdeye.so",
-    "subtitle": "Blockchain Data Aggregator tailored for Traders",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/Theme_light_986801254d.png",
-    "preview_image": null,
-    "chains": [
-      "ethereum",
-      "arbitrum_one",
-      "optimism",
-      "polygon",
-      "avalanche_c",
-      "binance"
-    ],
-    "categories": [
-      "evm",
-      "data"
     ]
   },
   {
