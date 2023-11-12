@@ -116,6 +116,21 @@
     ]
   },
   {
+    "id": 117,
+    "title": "Airlyft",
+    "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
+    "url": "https://airlyft.one/",
+    "subtitle": "Multichain & Decentralized Quest Platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 6,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/airlyft_f23e57e74e.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": []
+  },
+  {
     "id": 2,
     "title": "ArtZero.io",
     "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
@@ -134,21 +149,6 @@
     "categories": [
       "nft"
     ]
-  },
-  {
-    "id": 117,
-    "title": "Airlyft",
-    "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
-    "url": "https://airlyft.one/",
-    "subtitle": "Multichain & Decentralized Quest Platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 8,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/airlyft_f23e57e74e.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": []
   },
   {
     "id": 122,

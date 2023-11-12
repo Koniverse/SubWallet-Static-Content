@@ -18,25 +18,6 @@
     ]
   },
   {
-    "id": 110,
-    "title": "Polkadot Power Passport",
-    "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
-    "url": "https://nft.dotinvietnam.com/",
-    "subtitle": "By DOTinVietnam",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": 2,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
-    "chains": [
-      "kusama"
-    ],
-    "categories": [
-      "nft"
-    ]
-  },
-  {
     "id": 126,
     "title": "SubWallet Earning",
     "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
@@ -56,23 +37,23 @@
     ]
   },
   {
-    "id": 2,
-    "title": "ArtZero.io",
-    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
-    "url": "https://a0.artzero.io/",
-    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
-    "is_substrate": true,
+    "id": 79,
+    "title": "Polkadot.js",
+    "description": "Polkadot-JS is a collection of tools, utilities, and libraries that interface with the Polkadot blockchain in a granular way.",
+    "url": "https://polkadot.js.org/apps/#",
+    "subtitle": "Tool collection for interacting with the Polkadot Network",
+    "is_substrate": null,
     "is_evm": null,
-    "is_featured": false,
-    "ordinal": 3,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "is_featured": null,
+    "ordinal": 5,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
+    "preview_image": null,
     "chains": [
-      "aleph",
-      "astar"
+      "polkadot",
+      "kusama"
     ],
     "categories": [
-      "nft"
+      "tooling"
     ]
   },
   {
@@ -84,7 +65,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 9999,
+    "ordinal": 5,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/do_Treasury_8f44be68e2.png",
     "preview_image": null,
     "chains": [
@@ -104,7 +85,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 9999,
+    "ordinal": 6,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
     "preview_image": null,
     "chains": [
@@ -112,6 +93,84 @@
     ],
     "categories": [
       "tooling"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Airlyft",
+    "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
+    "url": "https://airlyft.one/",
+    "subtitle": "Multichain & Decentralized Quest Platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 6,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/airlyft_f23e57e74e.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": []
+  },
+  {
+    "id": 2,
+    "title": "ArtZero.io",
+    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
+    "url": "https://a0.artzero.io/",
+    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 7,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "chains": [
+      "aleph",
+      "astar"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Mintaur App",
+    "description": "Launch your RMRK Modular NFTs fast with Mintaur. RMRK Modular NFTs are ERC standards that allow NFTs to be multi-asset, nested, soulbound, composable, and emotable.",
+    "url": "https://www.mintaur.app/",
+    "subtitle": "Mint modern modular NFTs on demand",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mintaur_c03735b1c2.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "polygon",
+      "moonbeam",
+      "base_mainnet",
+      "astarEvm"
+    ],
+    "categories": [
+      "nft",
+      "evm"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Polkadot Power Passport",
+    "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
+    "url": "https://nft.dotinvietnam.com/",
+    "subtitle": "By DOTinVietnam",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 20,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
+    "chains": [
+      "kusama"
+    ],
+    "categories": [
+      "nft"
     ]
   },
   {
@@ -184,21 +243,6 @@
     "categories": []
   },
   {
-    "id": 117,
-    "title": "Airlyft",
-    "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
-    "url": "https://airlyft.one/",
-    "subtitle": "Multichain & Decentralized Quest Platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/airlyft_f23e57e74e.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": []
-  },
-  {
     "id": 118,
     "title": "Dolpha Analytics",
     "description": "Dolpha Analytics is an on-chain data analytics and insights platform for the Polkadot and Kusama ecosystems. Dolpha empowers casual and power users to get a pulse on the ecosystems, perform due diligence, surface signals, and make informed data-driven decisions.",
@@ -246,30 +290,6 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/emotes_2501d01fc2.png",
     "preview_image": null,
     "chains": [],
-    "categories": [
-      "nft",
-      "evm"
-    ]
-  },
-  {
-    "id": 122,
-    "title": "Mintaur App",
-    "description": "Launch your RMRK Modular NFTs fast with Mintaur. RMRK Modular NFTs are ERC standards that allow NFTs to be multi-asset, nested, soulbound, composable, and emotable.",
-    "url": "https://www.mintaur.app/",
-    "subtitle": "Mint modern modular NFTs on demand",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/mintaur_c03735b1c2.png",
-    "preview_image": null,
-    "chains": [
-      "ethereum",
-      "polygon",
-      "moonbeam",
-      "base_mainnet",
-      "astarEvm"
-    ],
     "categories": [
       "nft",
       "evm"
@@ -1582,26 +1602,6 @@
     ],
     "categories": [
       "nft"
-    ]
-  },
-  {
-    "id": 79,
-    "title": "Polkadot.js",
-    "description": "Polkadot-JS is a collection of tools, utilities, and libraries that interface with the Polkadot blockchain in a granular way.",
-    "url": "https://polkadot.js.org/apps/#",
-    "subtitle": "Tool collection for interacting with the Polkadot Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
-    "preview_image": null,
-    "chains": [
-      "polkadot",
-      "kusama"
-    ],
-    "categories": [
-      "tooling"
     ]
   },
   {
