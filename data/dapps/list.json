@@ -174,30 +174,6 @@
     ]
   },
   {
-    "id": 122,
-    "title": "Mintaur App",
-    "description": "Launch your RMRK Modular NFTs fast with Mintaur. RMRK Modular NFTs are ERC standards that allow NFTs to be multi-asset, nested, soulbound, composable, and emotable.",
-    "url": "https://www.mintaur.app/",
-    "subtitle": "Mint modern modular NFTs on demand",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 9,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/mintaur_c03735b1c2.png",
-    "preview_image": null,
-    "chains": [
-      "ethereum",
-      "polygon",
-      "moonbeam",
-      "base_mainnet",
-      "astarEvm"
-    ],
-    "categories": [
-      "nft",
-      "evm"
-    ]
-  },
-  {
     "id": 16,
     "title": "MoonFit",
     "description": "MoonFit is a Web3 & NFT lifestyle app that promotes active living by rewarding users anytime they burn calories through physical activities.",
@@ -323,6 +299,30 @@
     "categories": [
       "nft",
       "socialfi"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Mintaur App",
+    "description": "Launch your RMRK Modular NFTs fast with Mintaur. RMRK Modular NFTs are ERC standards that allow NFTs to be multi-asset, nested, soulbound, composable, and emotable.",
+    "url": "https://www.mintaur.app/",
+    "subtitle": "Mint modern modular NFTs on demand",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 16,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mintaur_c03735b1c2.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "polygon",
+      "moonbeam",
+      "base_mainnet",
+      "astarEvm"
+    ],
+    "categories": [
+      "nft",
+      "evm"
     ]
   },
   {
