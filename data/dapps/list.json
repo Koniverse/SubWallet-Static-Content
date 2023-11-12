@@ -111,23 +111,87 @@
     "categories": []
   },
   {
-    "id": 2,
-    "title": "ArtZero.io",
-    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
-    "url": "https://a0.artzero.io/",
-    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
+    "id": 34,
+    "title": "Moonbeam",
+    "description": "Moonbeam delivers complete Ethereum compatibility within a Polkadot parachain environment. It is also compatible with the Substrate and Polkadot ecosystem, including block explorers, wallets, parachains, and more, allowing users the flexibility to choose the right tools and services for the job.",
+    "url": "https://apps.moonbeam.network/moonbeam",
+    "subtitle": "The ultimate platform for Moonbeam Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 7,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonbeam_network_40889ef4a4.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Moonbeam_screen_255932dc3b.png",
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      "evm",
+      "staking",
+      "smart contract"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Acala Platform",
+    "description": "Acala is a specialized stablecoin and liquidity blockchain that is decentralized, cross-chain by design, and future-proof with forkless upgradability. ",
+    "url": "https://apps.acala.network/",
+    "subtitle": "The Acala's DeFi platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 8,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/acala_81b1f3f72b.png",
+    "preview_image": null,
+    "chains": [
+      "acala",
+      "acala_evm"
+    ],
+    "categories": [
+      "dex",
+      "crowdloans"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Moonriver",
+    "description": "Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network.",
+    "url": "https://apps.moonbeam.network/moonriver",
+    "subtitle": "The platform for Moonriver Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 8,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
+    "preview_image": null,
+    "chains": [
+      "moonriver"
+    ],
+    "categories": [
+      "evm",
+      "staking",
+      "smart contract"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Bit.Country Kusama Crowdloan",
+    "description": "Check your primary NEER reward as well as your referral reward on this website.",
+    "url": "https://ksmcrowdloan.bit.country/reward",
+    "subtitle": "Crowdloan Page for Bit.Country Pioneer Network",
     "is_substrate": true,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 7,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "ordinal": 8,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/bit_country_pioneer_a3c839ef5d.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/crowdloan_banner_11e4c68721.png",
     "chains": [
-      "aleph",
-      "astar"
+      "kusama",
+      "pioneer"
     ],
     "categories": [
-      "nft"
+      "nft",
+      "socialfi"
     ]
   },
   {
@@ -152,6 +216,26 @@
     "categories": [
       "nft",
       "evm"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ArtZero.io",
+    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
+    "url": "https://a0.artzero.io/",
+    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 15,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "chains": [
+      "aleph",
+      "astar"
+    ],
+    "categories": [
+      "nft"
     ]
   },
   {
@@ -814,27 +898,6 @@
     ]
   },
   {
-    "id": 30,
-    "title": "Acala Platform",
-    "description": "Acala is a specialized stablecoin and liquidity blockchain that is decentralized, cross-chain by design, and future-proof with forkless upgradability. ",
-    "url": "https://apps.acala.network/",
-    "subtitle": "The Acala's DeFi platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/acala_81b1f3f72b.png",
-    "preview_image": null,
-    "chains": [
-      "acala",
-      "acala_evm"
-    ],
-    "categories": [
-      "dex",
-      "crowdloans"
-    ]
-  },
-  {
     "id": 31,
     "title": "Darwinia DApps",
     "description": "Explore DApps building on Darwinia ecosystem. Darwinia is a cross-chain messaging infrastructure, which provides a light client-based, programmable, universal cross-chain messaging network for decentralized applications.",
@@ -889,48 +952,6 @@
     ],
     "categories": [
       "utilities"
-    ]
-  },
-  {
-    "id": 34,
-    "title": "Moonbeam",
-    "description": "Moonbeam delivers complete Ethereum compatibility within a Polkadot parachain environment. It is also compatible with the Substrate and Polkadot ecosystem, including block explorers, wallets, parachains, and more, allowing users the flexibility to choose the right tools and services for the job.",
-    "url": "https://apps.moonbeam.network/moonbeam",
-    "subtitle": "The ultimate platform for Moonbeam Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": true,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonbeam_network_40889ef4a4.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Moonbeam_screen_255932dc3b.png",
-    "chains": [
-      "moonbeam"
-    ],
-    "categories": [
-      "evm",
-      "staking",
-      "smart contract"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "Moonriver",
-    "description": "Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network.",
-    "url": "https://apps.moonbeam.network/moonriver",
-    "subtitle": "The platform for Moonriver Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
-    "preview_image": null,
-    "chains": [
-      "moonriver"
-    ],
-    "categories": [
-      "evm",
-      "staking",
-      "smart contract"
     ]
   },
   {
@@ -1385,27 +1406,6 @@
     "chains": [],
     "categories": [
       "nft"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Bit.Country Kusama Crowdloan",
-    "description": "Check your primary NEER reward as well as your referral reward on this website.",
-    "url": "https://ksmcrowdloan.bit.country/reward",
-    "subtitle": "Crowdloan Page for Bit.Country Pioneer Network",
-    "is_substrate": true,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/bit_country_pioneer_a3c839ef5d.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/crowdloan_banner_11e4c68721.png",
-    "chains": [
-      "kusama",
-      "pioneer"
-    ],
-    "categories": [
-      "nft",
-      "socialfi"
     ]
   },
   {
