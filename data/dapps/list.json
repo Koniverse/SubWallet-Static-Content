@@ -261,6 +261,61 @@
     ]
   },
   {
+    "id": 18,
+    "title": "Parallel Finance App",
+    "description": "Parallel Finance is designed to create a low entry barrier to accessing Decentralized Finance. Parallel users can leverage derivative assets generated from one product to earn additional yields through the money market protocol.",
+    "url": "https://app.parallel.fi/",
+    "subtitle": "A DeFi super DApp protocol on Polkadot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 14,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/parallel_4a3b2a90fe.png",
+    "preview_image": null,
+    "chains": [
+      "parallel"
+    ],
+    "categories": [
+      "dex",
+      "staking",
+      "crowdloans"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "SubConnect",
+    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
+    "url": "https://connect.subwallet.app/#/",
+    "subtitle": "The Demo DApp for Substrate Wallet Connect",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 14,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "KodaDot",
+    "description": "Multi-chain NFT marketplace across Polkadot parachains",
+    "url": "https://kodadot.xyz/",
+    "subtitle": "KodaDot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 14,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/kodadot_e5b6996e52.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 2,
     "title": "ArtZero.io",
     "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
@@ -751,27 +806,6 @@
     ]
   },
   {
-    "id": 18,
-    "title": "Parallel Finance App",
-    "description": "Parallel Finance is designed to create a low entry barrier to accessing Decentralized Finance. Parallel users can leverage derivative assets generated from one product to earn additional yields through the money market protocol.",
-    "url": "https://app.parallel.fi/",
-    "subtitle": "A DeFi super DApp protocol on Polkadot",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/parallel_4a3b2a90fe.png",
-    "preview_image": null,
-    "chains": [
-      "parallel"
-    ],
-    "categories": [
-      "dex",
-      "staking",
-      "crowdloans"
-    ]
-  },
-  {
     "id": 19,
     "title": "Phala App",
     "description": "Phala Network is revolutionizing Web3 by providing dApp developers with an off-chain compute infrastructure that is truly decentralized and trustless. By connecting Smart Contracts to our off-chain programs called Phat Contracts, developers can supercharge their dApps with seamless cross-chain integrations, connectivity to the internet, and heavy computation.",
@@ -1153,23 +1187,6 @@
     ]
   },
   {
-    "id": 45,
-    "title": "SubConnect",
-    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
-    "url": "https://connect.subwallet.app/#/",
-    "subtitle": "The Demo DApp for Substrate Wallet Connect",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": [
-      "tooling"
-    ]
-  },
-  {
     "id": 48,
     "title": "Curve",
     "description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
@@ -1457,23 +1474,6 @@
     ],
     "categories": [
       "dex"
-    ]
-  },
-  {
-    "id": 64,
-    "title": "KodaDot",
-    "description": "Multi-chain NFT marketplace across Polkadot parachains",
-    "url": "https://kodadot.xyz/",
-    "subtitle": "KodaDot",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/kodadot_e5b6996e52.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": [
-      "nft"
     ]
   },
   {
