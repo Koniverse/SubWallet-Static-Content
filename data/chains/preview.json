@@ -7199,5 +7199,35 @@
       "crowdloanFunds": []
     },
     "extraInfo": null
+  },
+  {
+    "slug": "goldberg_testnet",
+    "name": "Goldberg Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
+    "providers": {
+      "Avail Goldberg Testnet": "wss://goldberg.avail.tools/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000",
+      "symbol": "AVL",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
   }
 ]
