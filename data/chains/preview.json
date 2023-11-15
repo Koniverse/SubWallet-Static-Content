@@ -550,7 +550,7 @@
       "paraId": null,
       "genesisHash": "0x05d5279c52c484cc80396535a316add7d47b1c5b9e0398dd1f584149341460c5",
       "addressPrefix": 42,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "500",
@@ -1454,7 +1454,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 3350,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -1532,6 +1532,17 @@
           "auctionIndex": 5,
           "firstPeriod": 6,
           "lastPeriod": 13
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "2002-76",
+          "paraId": 2002,
+          "status": "won",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 53,
+          "firstPeriod": 15,
+          "lastPeriod": 22
         }
       ]
     },
@@ -5272,7 +5283,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
-      "paraId": 3341,
+      "paraId": null,
       "genesisHash": "0xe9d7420a5f73edef005ccb8e043500aa5b2458f173912184ea93c14dc035a203",
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
@@ -5284,7 +5295,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 3354,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -5296,6 +5307,17 @@
           "auctionIndex": 52,
           "firstPeriod": 14,
           "lastPeriod": 21
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "3354-77",
+          "paraId": 3354,
+          "status": "in_auction",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 53,
+          "firstPeriod": 15,
+          "lastPeriod": 22
         }
       ]
     },
@@ -5468,7 +5490,7 @@
       "paraId": null,
       "genesisHash": "0x7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
       "addressPrefix": 69,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://sora.subscan.io/",
       "existentialDeposit": "0",
@@ -5477,8 +5499,19 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 2025,
       "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2025-75",
+          "paraId": 2025,
+          "status": "in_auction",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 0,
+          "firstPeriod": 15,
+          "lastPeriod": 22
+        },
         {
           "relayChain": "polkadot",
           "fundId": "2025-69",
