@@ -5486,7 +5486,7 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
+      "relaySlug": "polkadot",
       "paraId": null,
       "genesisHash": "0x7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
       "addressPrefix": 69,
