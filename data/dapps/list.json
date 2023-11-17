@@ -2174,5 +2174,24 @@
       "nft",
       "utilities"
     ]
+  },
+  {
+    "id": 127,
+    "title": "Interlay",
+    "description": "Interlay is a one-stop shop for Bitcoin DeFi: swaps, lending, staking, and 1-click strategies. IBTC is trustless multi-chain Bitcoin, secured by collateral, cryptography, and a decentralized vault network.",
+    "url": "https://app.interlay.io/",
+    "subtitle": "Bitcoin DeFi on Interlay Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/interlay_909455ece5.png",
+    "preview_image": null,
+    "chains": [
+      "interlay"
+    ],
+    "categories": [
+      "dex"
+    ]
   }
 ]
