@@ -4687,13 +4687,7 @@
       "owner_display": {
         "address": "FXkcePu7sUd8TbfSasW4MTs5grMptqupFFGpkBKT7veoePm",
         "display": "sam elamin",
-        "identity": true,
-        "judgements": [
-          {
-            "index": 1,
-            "judgement": "Reasonable"
-          }
-        ]
+        "identity": true
       },
       "start_block_at": 1647872400,
       "extrinsic_index": "11906281-2",
@@ -4866,13 +4860,7 @@
       "owner_display": {
         "address": "FXkcePu7sUd8TbfSasW4MTs5grMptqupFFGpkBKT7veoePm",
         "display": "sam elamin",
-        "identity": true,
-        "judgements": [
-          {
-            "index": 1,
-            "judgement": "Reasonable"
-          }
-        ]
+        "identity": true
       },
       "start_block_at": 1645397328,
       "extrinsic_index": "11495485-5",
@@ -5061,13 +5049,7 @@
       "owner_display": {
         "address": "FXkcePu7sUd8TbfSasW4MTs5grMptqupFFGpkBKT7veoePm",
         "display": "sam elamin",
-        "identity": true,
-        "judgements": [
-          {
-            "index": 1,
-            "judgement": "Reasonable"
-          }
-        ]
+        "identity": true
       },
       "start_block_at": 1641839292,
       "extrinsic_index": "10905660-2",
@@ -5202,13 +5184,7 @@
       "owner_display": {
         "address": "FXkcePu7sUd8TbfSasW4MTs5grMptqupFFGpkBKT7veoePm",
         "display": "sam elamin",
-        "identity": true,
-        "judgements": [
-          {
-            "index": 1,
-            "judgement": "Reasonable"
-          }
-        ]
+        "identity": true
       },
       "start_block_at": 1639467552,
       "extrinsic_index": "10513746-2",
@@ -7991,9 +7967,9 @@
       "cap": "3500000000000000",
       "owner": "16iP1dKTnkny2uzSvqVBwzFCxgEShZHAarnpcXj99H3gsW65",
       "bid_id": "53-15-22",
-      "raised": "646546077620697",
+      "raised": "653226077620697",
       "status": 1,
-      "balance": "646546077620697",
+      "balance": "653226077620697",
       "fund_id": "3354-77",
       "para_id": 3354,
       "end_block": 19059600,
@@ -8004,7 +7980,7 @@
       ],
       "last_period": 22,
       "start_block": 17878657,
-      "contributors": 244,
+      "contributors": 255,
       "first_period": 15,
       "auction_index": 53,
       "owner_display": {
@@ -8020,10 +7996,10 @@
       },
       "start_block_at": 1698250494,
       "extrinsic_index": "17878657-2",
-      "last_change_block": 18212071,
+      "last_change_block": 18227779,
       "fund_auction_status": 1,
-      "last_change_event_idx": 42,
-      "last_change_timestamp": 1700255076
+      "last_change_event_idx": 43,
+      "last_change_timestamp": 1700349528
     },
     "relayChain": "polkadot",
     "auctionIndex": 53,
@@ -8083,9 +8059,9 @@
       "cap": "3333330000000000",
       "owner": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
       "bid_id": "",
-      "raised": "243141652717946",
+      "raised": "243451652717946",
       "status": 1,
-      "balance": "243141652717946",
+      "balance": "243451652717946",
       "fund_id": "2025-75",
       "para_id": 2025,
       "end_block": 18991800,
@@ -8096,7 +8072,7 @@
       ],
       "last_period": 22,
       "start_block": 17875586,
-      "contributors": 158,
+      "contributors": 161,
       "first_period": 15,
       "auction_index": 0,
       "owner_display": {
@@ -8112,10 +8088,10 @@
       },
       "start_block_at": 1698232020,
       "extrinsic_index": "17875586-2",
-      "last_change_block": 18211568,
+      "last_change_block": 18225832,
       "fund_auction_status": 1,
-      "last_change_event_idx": 43,
-      "last_change_timestamp": 1700252046
+      "last_change_event_idx": 68,
+      "last_change_timestamp": 1700337846
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,
