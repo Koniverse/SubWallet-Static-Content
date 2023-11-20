@@ -550,7 +550,7 @@
       "paraId": null,
       "genesisHash": "0x05d5279c52c484cc80396535a316add7d47b1c5b9e0398dd1f584149341460c5",
       "addressPrefix": 42,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "500",
@@ -743,7 +743,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
-      "paraId": null,
+      "paraId": 2056,
       "genesisHash": "0x8b5c955b5c8fd7112562327e3859473df4e3dff49bd72a113dbb668d2cfa20d7",
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
@@ -1454,7 +1454,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 3350,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -1477,6 +1477,17 @@
           "auctionIndex": 0,
           "firstPeriod": 14,
           "lastPeriod": 21
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "3350-78",
+          "paraId": 3350,
+          "status": "won",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 54,
+          "firstPeriod": 15,
+          "lastPeriod": 22
         }
       ]
     },
@@ -1521,6 +1532,17 @@
           "auctionIndex": 5,
           "firstPeriod": 6,
           "lastPeriod": 13
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "2002-76",
+          "paraId": 2002,
+          "status": "won",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 53,
+          "firstPeriod": 15,
+          "lastPeriod": 22
         }
       ]
     },
@@ -1655,7 +1677,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 3353,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -1744,7 +1766,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 2012,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -4435,11 +4457,11 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
+      "relaySlug": "polkadot",
+      "paraId": 2058,
       "genesisHash": "0xb53c620c41860278fa3068a5367c8eedceefce8a7c29237d830bc09a71737b5d",
       "addressPrefix": 19,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "10000000000000000",
@@ -4702,7 +4724,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
-      "paraId": 2028,
+      "paraId": 2051,
       "genesisHash": "0xe358eb1d11b31255a286c12e44fe6780b7edb171d657905a97e39f71d9c6c3ee",
       "addressPrefix": 1328,
       "chainType": "PARACHAIN",
@@ -5261,7 +5283,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
-      "paraId": 3341,
+      "paraId": null,
       "genesisHash": "0xe9d7420a5f73edef005ccb8e043500aa5b2458f173912184ea93c14dc035a203",
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
@@ -5273,7 +5295,7 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 3354,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -5285,6 +5307,17 @@
           "auctionIndex": 52,
           "firstPeriod": 14,
           "lastPeriod": 21
+        },
+        {
+          "relayChain": "polkadot",
+          "fundId": "3354-77",
+          "paraId": 3354,
+          "status": "in_auction",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 55,
+          "firstPeriod": 15,
+          "lastPeriod": 22
         }
       ]
     },
@@ -5453,11 +5486,11 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
+      "relaySlug": "polkadot",
       "paraId": null,
       "genesisHash": "0x7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
       "addressPrefix": 69,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://sora.subscan.io/",
       "existentialDeposit": "0",
@@ -5466,8 +5499,19 @@
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
-      "crowdloanParaId": null,
+      "crowdloanParaId": 2025,
       "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2025-75",
+          "paraId": 2025,
+          "status": "in_auction",
+          "startTime": "2024-01-16T01:48:00.000Z",
+          "endTime": "2025-11-18T01:48:00.000Z",
+          "auctionIndex": 0,
+          "firstPeriod": 15,
+          "lastPeriod": 22
+        },
         {
           "relayChain": "polkadot",
           "fundId": "2025-69",
@@ -6097,11 +6141,11 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
+      "relaySlug": "polkadot",
+      "paraId": 2097,
       "genesisHash": "0x2f0555cc76fc2840a25a6ea3b9637146806f1f44b090c175ffde2a7e5ab36c03",
       "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://scan.bittensor.com/",
       "existentialDeposit": "500",
@@ -6199,7 +6243,7 @@
       "paraId": 2027,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6267,7 +6311,7 @@
       "paraId": 3334,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6307,7 +6351,7 @@
       "paraId": 2090,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6347,7 +6391,7 @@
       "paraId": 2053,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6387,7 +6431,7 @@
       "paraId": 3338,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6483,7 +6527,7 @@
       "paraId": 3345,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6523,7 +6567,7 @@
       "paraId": 3340,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -6867,7 +6911,7 @@
       "paraId": 2104,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://manta.subscan.io/",
       "existentialDeposit": null,
@@ -6897,7 +6941,7 @@
       "paraId": 3333,
       "genesisHash": null,
       "addressPrefix": null,
-      "chainType": null,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -7107,6 +7151,127 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "enjin_relaychain",
+    "name": "Enjin Relaychain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/enjin_relaychain_9684b417ca.png",
+    "providers": {
+      "Enjin": "wss://rpc.relay.blockchain.enjin.io/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xd8761d3c88f26dc12875c00d3165f7d67243d56fc85b4cf19937601a7916e5a9",
+      "addressPrefix": 2135,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "ENJ",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "enjin_matrixchain",
+    "name": "Enjin Matrixchain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/enjin_matrixchain_0d7b0a46c8.png",
+    "providers": {
+      "MatrixChain": "wss://rpc.matrix.blockchain.enjin.io/",
+      "Dwellir": "wss://enjin-matrix-rpc-1.dwellir.com/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "enjin_relaychain",
+      "paraId": 1000,
+      "genesisHash": "0x3af4ff48ec76d2efc8476730f423ac07e25ad48f5f4c9dc39c778b164d808615",
+      "addressPrefix": 1110,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "ENJ",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "vara_testnet",
+    "name": "Vara Network Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/vara_5aa38c4458.png",
+    "providers": {
+      "Vara": "wss://testnet.vara-network.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x525639f713f397dcf839bd022cd821f367ebcf179de7b9253531f8adbe5436d6",
+      "addressPrefix": 137,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000",
+      "symbol": "TVARA",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "goldberg_testnet",
+    "name": "Goldberg Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
+    "providers": {
+      "Avail Goldberg Testnet": "wss://goldberg.avail.tools/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000",
+      "symbol": "AVL",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null
   }
 ]
