@@ -26,6 +26,19 @@
     "serviceInfo": {
       "transak": {
         "network": "mainnet",
+        "symbol": "DOT",
+        "isSuspended": false
+      }
+    },
+    "network": "westend",
+    "slug": "westend-NATIVE-WND",
+    "symbol": "WND",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "mainnet",
         "symbol": "KSM",
         "isSuspended": false
       },
