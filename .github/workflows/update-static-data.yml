@@ -19,9 +19,8 @@ on:
         description: 'Folder name'
         required: false
         type: string
-  schedule:
-    - cron: '0 0 * * *'
 
+concurrency: ${{ github.workflow }}
 
 jobs:
   master:
