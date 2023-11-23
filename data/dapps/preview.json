@@ -585,7 +585,7 @@
   {
     "id": 128,
     "title": "Bittensor TAO Staking dApp",
-    "description": "Delegate a stake or Tao, the native Bittensor token, to any validator on the network. View and manage your existing delegations.",
+    "description": "Delegate Tao, the native Bittensor token, to any validator on the network. View and manage your existing delegations.",
     "url": "https://delegate.taostats.io/",
     "subtitle": "Bittensor TAO Delegation and Staking",
     "is_substrate": true,

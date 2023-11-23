@@ -211,55 +211,6 @@
     "notifications": []
   },
   {
-    "id": 12,
-    "name": "test_issue 2207",
-    "description": null,
-    "start_time": "2023-11-21T08:30:00.000Z",
-    "end_time": "2023-11-22T16:00:00.000Z",
-    "condition": {
-      "hasCrowdloan": true
-    },
-    "banners": [
-      {
-        "id": 26,
-        "alt": "Stake Dot, Earn Many",
-        "action": "open_url",
-        "metadata": {
-          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
-        },
-        "environments": [
-          "extension"
-        ],
-        "position": [
-          "home"
-        ],
-        "buttons": [
-          {
-            "name": "Cancel",
-            "icon": "XCircle",
-            "color": "secondary",
-            "type": null,
-            "metadata": {
-              "doneOnClick": true
-            }
-          },
-          {
-            "name": "OK",
-            "icon": "ArrowCircleRight",
-            "color": "primary",
-            "type": "open_url",
-            "metadata": {
-              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
-              "doneOnClick": true
-            }
-          }
-        ],
-        "media": "https://media-resources.subwallet.app//6/Home_screen_x2_4e1b0b193a.png"
-      }
-    ],
-    "notifications": []
-  },
-  {
     "id": 13,
     "name": "iOS_Important notice",
     "description": null,

@@ -6048,7 +6048,7 @@
   },
   {
     "slug": "crust_mainnet",
-    "name": "Crust Mainet",
+    "name": "Crust Mainnet",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 165,
