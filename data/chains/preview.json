@@ -598,7 +598,7 @@
         "PSP34",
         "PSP22"
       ],
-      "crowdloanParaId": null,
+      "crowdloanParaId": 3335,
       "crowdloanFunds": [
         {
           "relayChain": "kusama",
