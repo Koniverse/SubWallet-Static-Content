@@ -261,7 +261,7 @@
   },
   {
     "id": 13,
-    "name": "test_issue 1178",
+    "name": "iOS_Important notice",
     "description": null,
     "start_time": "2023-11-23T07:15:00.000Z",
     "end_time": "2023-11-23T12:00:00.000Z",
@@ -271,10 +271,10 @@
     "banners": [
       {
         "id": 27,
-        "alt": "Stake Dot, Earn Many",
+        "alt": "Important notice",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+          "url": "https://docs.subwallet.app/main/mobile-app-user-guide/faqs#can-i-use-subwallet-mobile-app-on-ios-17"
         },
         "environments": [
           "mobile"
@@ -284,7 +284,7 @@
         ],
         "buttons": [
           {
-            "name": "Cancel",
+            "name": "Dismiss",
             "icon": "XCircle",
             "color": "secondary",
             "type": null,
@@ -293,17 +293,17 @@
             }
           },
           {
-            "name": "OK",
+            "name": "Review notes",
             "icon": "ArrowCircleRight",
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
+              "url": "https://docs.subwallet.app/main/mobile-app-user-guide/faqs#can-i-use-subwallet-mobile-app-on-ios-17",
               "doneOnClick": true
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app//6/Home_screen_x2_4e1b0b193a.png"
+        "media": "https://media-resources.subwallet.app/Important_notice_a662a929ce.png"
       }
     ],
     "notifications": []
