@@ -563,6 +563,25 @@
     ]
   },
   {
+    "id": 128,
+    "title": "Bittensor TAO Staking dApp",
+    "description": "Delegate a stake or Tao, the native Bittensor token, to any validator on the network. View and manage your existing delegations.",
+    "url": "https://delegate.taostats.io/",
+    "subtitle": "Bittensor TAO Delegation and Staking",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/bittensor_7ebbcae9d6.png",
+    "preview_image": null,
+    "chains": [
+      "bittensor"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 3,
     "title": "1inch",
     "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
