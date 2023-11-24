@@ -209,5 +209,54 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 13,
+    "name": "iOS_Important notice",
+    "description": null,
+    "start_time": "2023-11-24T03:00:00.000Z",
+    "end_time": "2023-12-15T03:00:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 27,
+        "alt": "Important notice",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://docs.subwallet.app/main/mobile-app-user-guide/faqs?utm_source=mobile&utm_medium=inappbanner&utm_campaign=ios171&utm_id=ios17#can-i-use-subwallet-mobile-app-on-ios-17"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Review notes",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://docs.subwallet.app/main/mobile-app-user-guide/faqs?utm_source=mobile&utm_medium=inappbanner&utm_campaign=ios171&utm_id=ios17#can-i-use-subwallet-mobile-app-on-ios-17",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app/Important_notice_a662a929ce.png"
+      }
+    ],
+    "notifications": []
   }
 ]
