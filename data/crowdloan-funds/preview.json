@@ -7986,13 +7986,13 @@
   {
     "paraId": 3354,
     "fundId": "3354-77",
-    "status": "in_auction",
+    "status": "won",
     "metadata": {
       "cap": "3500000000000000",
       "owner": "16iP1dKTnkny2uzSvqVBwzFCxgEShZHAarnpcXj99H3gsW65",
       "bid_id": "55-15-22",
       "raised": "1113349008746697",
-      "status": 1,
+      "status": 2,
       "balance": "1113349008746697",
       "fund_id": "3354-77",
       "para_id": 3354,
@@ -8021,7 +8021,7 @@
       "start_block_at": 1698250494,
       "extrinsic_index": "17878657-2",
       "last_change_block": 18299803,
-      "fund_auction_status": 1,
+      "fund_auction_status": 2,
       "last_change_event_idx": 43,
       "last_change_timestamp": 1700782056
     },
@@ -8083,9 +8083,9 @@
       "cap": "3333330000000000",
       "owner": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
       "bid_id": "",
-      "raised": "248016652717946",
+      "raised": "254896652717946",
       "status": 1,
-      "balance": "248016652717946",
+      "balance": "254896652717946",
       "fund_id": "2025-75",
       "para_id": 2025,
       "end_block": 18991800,
@@ -8096,7 +8096,7 @@
       ],
       "last_period": 22,
       "start_block": 17875586,
-      "contributors": 176,
+      "contributors": 184,
       "first_period": 15,
       "auction_index": 0,
       "owner_display": {
@@ -8112,10 +8112,10 @@
       },
       "start_block_at": 1698232020,
       "extrinsic_index": "17875586-2",
-      "last_change_block": 18297687,
+      "last_change_block": 18341779,
       "fund_auction_status": 1,
-      "last_change_event_idx": 45,
-      "last_change_timestamp": 1700769258
+      "last_change_event_idx": 58,
+      "last_change_timestamp": 1701034842
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,
@@ -8167,5 +8167,45 @@
     "startTime": "2024-01-16T01:48:00.000Z",
     "endTime": "2025-11-18T01:48:00.000Z",
     "chain": "parallel"
+  },
+  {
+    "paraId": 3356,
+    "fundId": "3356-79",
+    "status": "in_auction",
+    "metadata": {
+      "cap": "3000000000000000",
+      "owner": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
+      "bid_id": "",
+      "raised": "1300000000000",
+      "status": 1,
+      "balance": "1300000000000",
+      "fund_id": "3356-79",
+      "para_id": 3356,
+      "end_block": 19059599,
+      "in_auctions": null,
+      "last_period": 22,
+      "start_block": 18304651,
+      "contributors": 6,
+      "first_period": 15,
+      "auction_index": 0,
+      "owner_display": {
+        "address": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
+        "display": "Bifrost Foundation",
+        "identity": true
+      },
+      "start_block_at": 1700811288,
+      "extrinsic_index": "18304651-3",
+      "last_change_block": 18338076,
+      "fund_auction_status": 1,
+      "last_change_event_idx": 61,
+      "last_change_timestamp": 1701012612
+    },
+    "relayChain": "polkadot",
+    "auctionIndex": 0,
+    "firstPeriod": 15,
+    "lastPeriod": 22,
+    "startTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2025-11-18T01:48:00.000Z",
+    "chain": null
   }
 ]

@@ -5312,7 +5312,7 @@
           "relayChain": "polkadot",
           "fundId": "3354-77",
           "paraId": 3354,
-          "status": "in_auction",
+          "status": "won",
           "startTime": "2024-01-16T01:48:00.000Z",
           "endTime": "2025-11-18T01:48:00.000Z",
           "auctionIndex": 55,
