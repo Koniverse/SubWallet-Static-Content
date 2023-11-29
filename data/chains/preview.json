@@ -7267,7 +7267,7 @@
       "symbol": "AVL",
       "decimals": 18,
       "hasNativeNft": false,
-      "supportStaking": false,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
