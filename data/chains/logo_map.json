@@ -201,5 +201,7 @@
   "enjin_relaychain": "https://static-data.subwallet.app/chains/images/icon/enjin_relaychain_9684b417ca.png",
   "enjin_matrixchain": "https://static-data.subwallet.app/chains/images/icon/enjin_matrixchain_0d7b0a46c8.png",
   "vara_testnet": "https://static-data.subwallet.app/chains/images/icon/vara_5aa38c4458.png",
-  "goldberg_testnet": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png"
+  "goldberg_testnet": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
+  "energy_web_x_testnet": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
+  "energy_web_chain": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png"
 }
