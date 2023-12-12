@@ -1,17 +1,4 @@
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-# **Privacy Policy** {#identifier .heading1}
+### **Privacy Policy**
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”).
 
@@ -21,7 +8,7 @@ This Policy is a legally binding agreement between you (“User”, “you” or
 
 If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Services. By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-# **What information do we talk about?**
+### **What information do we talk about?**
 
 For the purposes of the given document we would like to classify information into the following categories:
 
