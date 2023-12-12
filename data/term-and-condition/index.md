@@ -1,6 +1,17 @@
-# General T&C
+<style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
 
-# **Privacy Policy**
+# **Privacy Policy** {#identifier .heading1}
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”).
 
