@@ -344,7 +344,7 @@
     "is_substrate": true,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 16,
+    "ordinal": 15,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
     "chains": [
