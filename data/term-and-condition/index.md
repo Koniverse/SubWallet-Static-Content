@@ -1,4 +1,3 @@
-# GENERAL T&C
 ### **Privacy Policy**
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”).
