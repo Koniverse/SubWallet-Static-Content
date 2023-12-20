@@ -5575,7 +5575,9 @@
     "ordinal": 149,
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
-      "3dpass": "wss://rpc2.3dpass.org"
+      "3dpass": "wss://rpc.3dpass.org",
+      "3dpscan": "wss://rpc.3dpscan.io",
+      "3dpass2": "wss://rpc2.3dpass.org"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5585,7 +5587,7 @@
       "addressPrefix": 71,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://3dpscan.io/",
       "existentialDeposit": "1",
       "symbol": "P3D",
       "decimals": 12,
@@ -6525,7 +6527,7 @@
     "slug": "energy_web_x",
     "name": "Energy Web X",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_50a9ff6147.png",
     "providers": {
@@ -6535,7 +6537,7 @@
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 3345,
-      "genesisHash": null,
+      "genesisHash": "0x5a51e04b88a4784d205091aa7bada002f3e5da3045e5b05655ee4db2589c33b5",
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
