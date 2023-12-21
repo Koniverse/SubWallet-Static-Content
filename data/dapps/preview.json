@@ -602,6 +602,24 @@
     ]
   },
   {
+    "id": 130,
+    "title": "Dot Ordinals",
+    "description": "Dot Ordinals​ is a Dapp designed to create inscriptions tokens DRC-20 or NFTs on Polkadot-based blockchains.",
+    "url": "https://dotordinals.io/",
+    "subtitle": "Create inscriptions tokens DRC-20 or NFTs",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Dotordinals_017d877f44.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft",
+      "utilities"
+    ]
+  },
+  {
     "id": 3,
     "title": "1inch",
     "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
