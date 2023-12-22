@@ -209,5 +209,90 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 14,
+    "name": "Several networks notice",
+    "description": "Several networks notice",
+    "start_time": "2023-12-21T17:00:00.000Z",
+    "end_time": "2024-01-03T16:00:00.000Z",
+    "condition": {
+      "hasCrowdloan": false
+    },
+    "banners": [
+      {
+        "id": 28,
+        "alt": "Several networks notice",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://docs.subwallet.app/main/mobile-app-user-guide/customize-your-end-point-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Read instructions",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://docs.subwallet.app/main/mobile-app-user-guide/customize-your-end-point-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Important_notice_73927799e3.png"
+      },
+      {
+        "id": 29,
+        "alt": "Several networks notice",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://docs.subwallet.app/main/extension-user-guide/customize-endpoint-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Read instructions",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://docs.subwallet.app/main/extension-user-guide/customize-endpoint-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Important_notice_73927799e3.png"
+      }
+    ],
+    "notifications": []
   }
 ]
