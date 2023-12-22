@@ -225,7 +225,7 @@
         "alt": "Several networks notice",
         "action": "open_url",
         "metadata": {
-          "url": "https://docs.subwallet.app/main/extension-user-guide/customize-endpoint-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC"
+          "url": "https://docs.subwallet.app/main/mobile-app-user-guide/customize-your-end-point-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC"
         },
         "environments": [
           "mobile"
@@ -249,7 +249,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://docs.subwallet.app/main/extension-user-guide/customize-endpoint-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC",
+              "url": "https://docs.subwallet.app/main/mobile-app-user-guide/customize-your-end-point-provider?utm_source=mobile&utm_medium=inappbanner&utm_campaign=DOTRPC&utm_id=DOTRPC",
               "doneOnClick": true
             }
           }
