@@ -12,9 +12,9 @@ If you do not have such authority, or if you do not agree with the terms of this
 
 For the purposes of the given document we would like to classify information into the following categories:
 
-1. 1.Data that is used for wallet creation, import and export (i.e., mnemonic phrase, seed, etc.) (“Sensitive Information”),
-2. 2.Personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal Information”), and
-3. 3.Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”).
+1. Data that is used for wallet creation, import and export (i.e., mnemonic phrase, seed, etc.) (“Sensitive Information”),
+2. Personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal Information”), and
+3. Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”).
 
 This Privacy Policy covers all the categories and will tell you how we might collect and use each type.
 
@@ -96,16 +96,16 @@ We do not assume any responsibility or liability for the actions, products, serv
 
 In addition to other terms as set forth in the Agreement, you are prohibited from using the Extension Application and Services or Content:
 
-1. 1.For any unlawful purpose
-2. 2.To solicit others to perform or participate in any unlawful acts
-3. 3.To violate any international, federal, provincial, or state regulations, rules, laws, or local ordinances
-4. 4.To infringe upon or violate our intellectual property rights or the intellectual property rights of others
-5. 5.To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
-6. 6.To submit false or misleading information
-7. 7.To upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Extension Application and Services, third party products and services, or the Internet
-8. 8.To spam, phish, pharm, pretext, spider, crawl, or scrape
-9. 9.For any obscene or immoral purpose
-10. 10.To interfere with or circumvent the security features of the Extension Application and Services, third party products and services, or the Internet.
+1. For any unlawful purpose
+2. To solicit others to perform or participate in any unlawful acts
+3. To violate any international, federal, provincial, or state regulations, rules, laws, or local ordinances
+4. To infringe upon or violate our intellectual property rights or the intellectual property rights of others
+5. To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
+6. To submit false or misleading information
+7. To upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Extension Application and Services, third party products and services, or the Internet
+8. To spam, phish, pharm, pretext, spider, crawl, or scrape
+9. For any obscene or immoral purpose
+10. To interfere with or circumvent the security features of the Extension Application and Services, third party products and services, or the Internet.
 
 ### **Intellectual property rights**
 
