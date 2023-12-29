@@ -100,9 +100,11 @@ In addition to other terms as set forth in the Agreement, you are prohibited fro
 2. To solicit others to perform or participate in any unlawful acts
 3. To violate any international, federal, provincial, or state regulations, rules, laws, or local ordinances
 4. To infringe upon or violate our intellectual property rights or the intellectual property rights of others
-5. To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
+5. To harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, 
+   or disability
 6. To submit false or misleading information
-7. To upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Extension Application and Services, third party products and services, or the Internet
+7. To upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Extension 
+   Application and Services, third party products and services, or the Internet
 8. To spam, phish, pharm, pretext, spider, crawl, or scrape
 9. For any obscene or immoral purpose
 10. To interfere with or circumvent the security features of the Extension Application and Services, third party products and services, or the Internet.
