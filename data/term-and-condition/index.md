@@ -27,8 +27,7 @@ We respect your privacy and are committed to protecting it through our complianc
 For the purposes of the given document, we would like to classify information into the following categories: Data that is used for wallet creation, import, and export (i.e., seed phrase, private key, etc.) (“Sensitive Information”), personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal Information”), and Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”). This Policy covers all the categories and will tell you how we might collect and use each type.
 
 #### **What information do we collect?**
-
-
+                
 ##### *Sensitive information*
 
 Your Sensitive information is not collected or stored by us. In particular, it is not sent anywhere, is not stored anywhere except your device, and is not included in backups of the operating system. We are committed to making sure your information is protected and we employ several mechanisms to keep your information safe, including on-device encryption, verification and authentication by password or biometrics, and securing all network connections with industry-standard transport layer security. However, even with these precautions taken by us, the safety of your device and your seed phrase or backup data is solely your responsibility.
@@ -69,8 +68,7 @@ In addition to other terms as set forth in the Agreement, you are prohibited fro
 8. To spam, phish, pharm, pretext, spider, crawl, or scrape
 9. For any obscene or immoral purpose
 10. To interfere with or circumvent the security features of the SubWallet Application and Services, third-party products and services, or the Internet.
-
-
+    
 ### **Intellectual property rights**
 
 “Intellectual Property Rights” means all present and future rights conferred by statute, common law, or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill, and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms of protection and any other results of intellectual activity which subsist or will subsist now or in the future in any part of the world.
