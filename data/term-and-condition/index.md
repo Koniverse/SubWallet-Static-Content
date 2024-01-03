@@ -4,7 +4,7 @@ This Agreement is legally binding between you (“User”, “you” or “your�
 
 If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the SubWallet Application and Services. By accessing and using the SubWallet Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the SubWallet Application and Services.
 
-### Overview
+### **Overview**
 
 To ease the life of our users we decided to provide this section containing a brief summary of the highlights of this Agreement. It is important to understand that when you accept this Agreement, you are accepting full terms and conditions, not just this section. SubWallet provides self-hosted non-custodial wallet services for managing assets in the Polkadot, Substrate, and Ethereum ecosystems.
 
@@ -22,29 +22,29 @@ All such information is stored locally on your device(s) which we do not have ac
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) on the SubWallet Application, SubWallet.App website (“Website”), and any of their related products and services, and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-**What information do we talk about?**
+#### **What information do we talk about?**
 
 For the purposes of the given document, we would like to classify information into the following categories: Data that is used for wallet creation, import, and export (i.e., seed phrase, private key, etc.) (“Sensitive Information”), personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal Information”), and Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”). This Policy covers all the categories and will tell you how we might collect and use each type.
 
-**What information do we collect?**
+#### **What information do we collect?**
 
-*Sensitive information*
+##### *Sensitive information*
 
 Your Sensitive information is not collected or stored by us. In particular, it is not sent anywhere, is not stored anywhere except your device, and is not included in backups of the operating system. We are committed to making sure your information is protected and we employ several mechanisms to keep your information safe, including on-device encryption, verification and authentication by password or biometrics, and securing all network connections with industry-standard transport layer security. However, even with these precautions taken by us, the safety of your device and your seed phrase or backup data is solely your responsibility.
 
-*Personal information*
+##### *Personal information*
 
 You can access and use the Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. In other words, no Personal Information is collected by our Services. This applies to all categories of users, including children under the age of 18. Please note that our extension and app have been uploaded to the Store on desktop browsers (Chrome, Brave, Edge & Firefox) and mobile (App Store and Play Store). These stores may track some of your information and activities including but not limited to log data, cookies, etc.
 
-**Disclosure of information**
+#### **Disclosure of information**
 
 We do not share your information with anyone or for any reason.
 
-**Security Measures**
+#### **Security Measures**
 
 In the event we become aware that the security of the Services has been compromised as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In such cases, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to them or if notice is otherwise required by law. When we do, we will post a notice on the Services.
 
-**Do Not Track signals**
+#### **Do Not Track signals**
 
 Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked. Tracking is not the same as using or collecting information in connection with a website. For these purposes, tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time. The Services do not track its visitors over time and across third-party websites. However, some third-party websites may keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you.
 
@@ -54,7 +54,7 @@ Although the SubWallet Application and Services may link to other resources (suc
 
 We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any resource that you access through a link in the SubWallet Application. Your linking to any other off-site resources is at your own risk.
 
-### Prohibited uses
+### **Prohibited uses**
 
 In addition to other terms as set forth in the Agreement, you are prohibited from using the SubWallet Application and Services:
 
@@ -69,7 +69,7 @@ In addition to other terms as set forth in the Agreement, you are prohibited fro
 9. For any obscene or immoral purpose
 10. To interfere with or circumvent the security features of the SubWallet Application and Services, third-party products and services, or the Internet.
 
-### Intellectual property rights
+### **Intellectual property rights**
 
 “Intellectual Property Rights” means all present and future rights conferred by statute, common law, or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill, and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms of protection and any other results of intellectual activity which subsist or will subsist now or in the future in any part of the world.
 
