@@ -10,7 +10,7 @@ To ease the life of our users we decided to provide this section containing a br
 
 By building our application from a source code, downloading it from any application store, running it on any platform, creating or importing a wallet, or visiting our website, you are agreeing to our Terms of Use, so please read carefully. These terms outline approved uses of SubWallet, various licenses that we grant to you, and licenses that you grant us.
 
-If you have any questions or comments related to this Agreement, please send us a message at **support@subwallet.app** or contact us through [Telegram](https://t.me/subwallet), [Discord](https://discord.com/invite/RFDpcG6xZ4), [Twitter](https://twitter.com/konistudio) or any other means of communication. If you do not agree to this Agreement or any modifications to this Agreement, you should stop using our Services immediately.
+If you have any questions or comments related to this Agreement, please send us a message at [**support@subwallet.app**]('mailto:support@subwallet.app') or contact us through [**Telegram**](https://t.me/subwallet), [**Discord**](https://discord.com/invite/RFDpcG6xZ4), [**Twitter**](https://twitter.com/konistudio) or any other means of communication. If you do not agree to this Agreement or any modifications to this Agreement, you should stop using our Services immediately.
 
 ### **Accounts and membership**
 
@@ -25,7 +25,7 @@ We respect your privacy and are committed to protecting it through our complianc
 #### **What information do we talk about?**
 
 For the purposes of the given document, we would like to classify information into the following categories: Data that is used for wallet creation, import, and export (i.e., seed phrase, private key, etc.) (“Sensitive Information”), personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal Information”), and Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”). This Policy covers all the categories and will tell you how we might collect and use each type.
-
+<!-- This content will not appear in the rendered Markdown -->
 #### **What information do we collect?**
 
 *Sensitive information*
@@ -107,4 +107,4 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 
 If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us using the details below:
 
-**Email: agent@subwallet.app**
+**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)
