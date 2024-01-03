@@ -28,6 +28,7 @@ For the purposes of the given document, we would like to classify information in
 
 #### **What information do we collect?**
 
+
 ##### *Sensitive information*
 
 Your Sensitive information is not collected or stored by us. In particular, it is not sent anywhere, is not stored anywhere except your device, and is not included in backups of the operating system. We are committed to making sure your information is protected and we employ several mechanisms to keep your information safe, including on-device encryption, verification and authentication by password or biometrics, and securing all network connections with industry-standard transport layer security. However, even with these precautions taken by us, the safety of your device and your seed phrase or backup data is solely your responsibility.
@@ -68,6 +69,7 @@ In addition to other terms as set forth in the Agreement, you are prohibited fro
 8. To spam, phish, pharm, pretext, spider, crawl, or scrape
 9. For any obscene or immoral purpose
 10. To interfere with or circumvent the security features of the SubWallet Application and Services, third-party products and services, or the Internet.
+
 
 ### **Intellectual property rights**
 
