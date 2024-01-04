@@ -486,7 +486,9 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/opensea_1688cddd62.png",
     "preview_image": null,
     "chains": [],
-    "categories": []
+    "categories": [
+      "nft"
+    ]
   },
   {
     "id": 118,
