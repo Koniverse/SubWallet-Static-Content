@@ -25,7 +25,7 @@ We respect your privacy and are committed to protecting it through our complianc
 #### **What information do we talk about?**
 
 For the purposes of the given document, we would like to classify information into the following categories: Data that is used for wallet creation, import, and export (i.e., seed phrase, private key, etc.) (“Sensitive Information”), personally identifiable information (i.e., data that could potentially identify you as an individual) (“Personal Information”), and Non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”). This Policy covers all the categories and will tell you how we might collect and use each type.
-<!-- This content will not appear in the rendered Markdown -->
+
 #### **What information do we collect?**
 
 *Sensitive information*
