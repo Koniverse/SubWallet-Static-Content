@@ -1442,6 +1442,7 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
+      "Dwellir": "wss://parallel-rpc.dwellir.com",
       "Parallel": "wss://rpc.parallel.fi"
     },
     "evmInfo": null,
@@ -6565,24 +6566,26 @@
   },
   {
     "slug": "invarch",
-    "name": "InvArch",
+    "name": "InvArch Network",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/invarch_d95283c9f7.png",
-    "providers": {},
+    "providers": {
+      "Dwellir": "wss://invarch-rpc.dwellir.com"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 3340,
-      "genesisHash": null,
-      "addressPrefix": null,
+      "genesisHash": "0x31a7d8914fb31c249b972f18c115f1e22b4b039abbcb03c73b6774c5642f9efe",
+      "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "VARCH",
+      "decimals": 12,
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
