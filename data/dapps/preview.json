@@ -862,48 +862,6 @@
     ]
   },
   {
-    "id": 23,
-    "title": "Solarbeam",
-    "description": "Solarbeam is a decentralized exchange, providing liquidity and enabling peer-to-peer transactions on the Moonriver Network. \nThe goal is to provide a comprehensive and convenient, one-stop platform for the cryptocurrency community.",
-    "url": "https://app.solarbeam.io/exchange/swap",
-    "subtitle": "Decentralized Exchange on Moonriver Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/solarbeam_1130ef70f1.png",
-    "preview_image": null,
-    "chains": [
-      "moonriver"
-    ],
-    "categories": [
-      "dex",
-      "evm",
-      "staking"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Solarflare",
-    "description": "Solarflare is a decentralized exchange, providing liquidity and enabling peer-to-peer transactions on the Moonbeam Network. \nThe goal is to provide a comprehensive and convenient, one-stop platform for the cryptocurrency community.",
-    "url": "https://app.solarflare.io/exchange/swap",
-    "subtitle": "Decentralized exchange on Moonbeam Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/solarflare_47b792ed4c.png",
-    "preview_image": null,
-    "chains": [
-      "moonbeam"
-    ],
-    "categories": [
-      "dex",
-      "evm",
-      "staking"
-    ]
-  },
-  {
     "id": 25,
     "title": "Stellaswap",
     "description": "StellaSwap is one of the first automated market-making (AMM), decentralized exchange (DEX) for the Moonbeam parachain network. Their main objective is to create a broader range of network effects to address the issues of liquidity in the DeFi space.",
@@ -1167,27 +1125,6 @@
     ]
   },
   {
-    "id": 49,
-    "title": "Damned Pirates Society",
-    "description": "The first iteration of The Damned Pirates Society is focused on building a fair and sustainable in-game economy and getting the core ‘gameplay’ loop balanced, whilst working to increase future value for Pirate and TMAP holders.",
-    "url": "https://damnedpiratessociety.io/",
-    "subtitle": "Welcome To The PirateVerse",
-    "is_substrate": null,
-    "is_evm": true,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/the_damned_pirates_society_049a768053.png",
-    "preview_image": null,
-    "chains": [
-      "moonriver",
-      "moonbeam"
-    ],
-    "categories": [
-      "nft",
-      "evm"
-    ]
-  },
-  {
     "id": 50,
     "title": "Robonomics",
     "description": "Robonomics platform provides tools for working with the robot economy network. Robonomics allow designers of smart cities and industry 4.0 zones to build trust among the autonomous robots services, provide direct user access via dapp for ordering products from autonomous factories and services of urban sensor networks. This in turn will allow us to put in place a decentralized system that globally monitors the activities of cyber physical systems.",
@@ -1201,27 +1138,6 @@
     "preview_image": null,
     "chains": [
       "robonomics"
-    ],
-    "categories": [
-      "utilities"
-    ]
-  },
-  {
-    "id": 51,
-    "title": "DappRadar",
-    "description": "DappRadar wants to make exploring, tracking & managing dapps, insightful, convenient and rewarding for all. Effectively manage your digital assets, swap, buy, sell, (even take a little inspiration from the famous) all from within your DappRadar Portfolio.",
-    "url": "https://dappradar.com/",
-    "subtitle": "Discover, Track & Trade Everything DeFi, NFT and Gaming",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/dappradar_6941f41339.png",
-    "preview_image": null,
-    "chains": [
-      "ethereum",
-      "binance",
-      "polygon"
     ],
     "categories": [
       "utilities"
@@ -1284,25 +1200,6 @@
     "categories": [
       "evm",
       "nft"
-    ]
-  },
-  {
-    "id": 58,
-    "title": "EVRLOOT",
-    "description": "Evrloot is an immersive experience, packaged into a low-touch game with composable RMRK NFTs at its core. Unique gameplay and true ownership meet the classic RPG you love.",
-    "url": "https://game.evrloot.com/game",
-    "subtitle": "RPG Gaming",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/evrloot_cc25e6e2bb.png",
-    "preview_image": null,
-    "chains": [
-      "moonbeam"
-    ],
-    "categories": [
-      "utilities"
     ]
   },
   {
@@ -1813,26 +1710,6 @@
     ],
     "categories": [
       "dex"
-    ]
-  },
-  {
-    "id": 102,
-    "title": "Mangata",
-    "description": "Mangata is an easy and secure DEX for Ethereum and Polkadot. It's an application-specific DEX chain without miner extractable value (MEV) that will be connected to Polkadot as a parachain.",
-    "url": "https://app.mangata.finance/",
-    "subtitle": "DEX for Ethereum and Polkadot",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/mangata_961f9e10f8.png",
-    "preview_image": null,
-    "chains": [
-      "mangatax"
-    ],
-    "categories": [
-      "dex",
-      "evm"
     ]
   },
   {
