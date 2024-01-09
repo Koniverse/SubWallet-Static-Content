@@ -177,7 +177,7 @@
   "peaq": "https://static-data.subwallet.app/chains/images/icon/peaq_31a6e2dff3.png",
   "quantum_portal": "https://static-data.subwallet.app/chains/images/icon/Quantum_Portal_6c3b1feb1d.png",
   "virto_network": "https://static-data.subwallet.app/chains/images/icon/Virto_network_dfe70c92e9.png",
-  "energy_web_x": "https://static-data.subwallet.app/chains/images/icon/energy_web_50a9ff6147.png",
+  "energy_web_x": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
   "invarch": "https://static-data.subwallet.app/chains/images/icon/invarch_d95283c9f7.png",
   "zero": "https://static-data.subwallet.app/chains/images/icon/zero_83695a50d8.png",
   "kpron_network": "https://static-data.subwallet.app/chains/images/icon/kpron_8a5d333b45.png",
@@ -204,5 +204,5 @@
   "goldberg_testnet": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
   "energy_web_x_testnet": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
   "energy_web_chain": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png",
-  "energy_web_x_rococo": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png"
+  "energy_web_x_rococo": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png"
 }

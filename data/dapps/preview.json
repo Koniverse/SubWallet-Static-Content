@@ -303,7 +303,8 @@
     "categories": [
       "dex",
       "staking",
-      "crowdloans"
+      "crowdloans",
+      "evm"
     ]
   },
   {
@@ -610,6 +611,25 @@
     ]
   },
   {
+    "id": 132,
+    "title": "Mangata dApp",
+    "description": "Mangata is an easy and secure DEX for Ethereum and Polkadot. It's an application-specific DEX chain without miner extractable value (MEV) that will be connected to Polkadot as a parachain.",
+    "url": "https://app.mangata.finance/",
+    "subtitle": "DEX for Ethereum and Polkadot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mangata_x_ca60b3b40f.png",
+    "preview_image": null,
+    "chains": [
+      "mangatax_para"
+    ],
+    "categories": [
+      "dex"
+    ]
+  },
+  {
     "id": 3,
     "title": "1inch",
     "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
@@ -625,7 +645,8 @@
       "ethereum"
     ],
     "categories": [
-      "dex"
+      "dex",
+      "evm"
     ]
   },
   {
@@ -644,7 +665,8 @@
       "ethereum"
     ],
     "categories": [
-      "dex"
+      "dex",
+      "evm"
     ]
   },
   {
@@ -664,7 +686,8 @@
       "shibuyaEvm"
     ],
     "categories": [
-      "dex"
+      "dex",
+      "evm"
     ]
   },
   {
@@ -941,7 +964,6 @@
       "zeitgeist"
     ],
     "categories": [
-      "nft",
       "utilities",
       "socialfi"
     ]
@@ -1161,7 +1183,8 @@
     ],
     "categories": [
       "dex",
-      "staking"
+      "staking",
+      "evm"
     ]
   },
   {

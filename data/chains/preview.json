@@ -148,7 +148,8 @@
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
       "1rpc": "wss://1rpc.io/glmr",
       "Blast": "wss://moonbeam.public.blastapi.io",
-      "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws"
+      "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws",
+      "UnitedBloc": "wss://moonbeam.unitedbloc.com"
     },
     "evmInfo": {
       "evmChainId": 1284,
@@ -401,7 +402,8 @@
       "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
       "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
-      "Dwellir": "wss://acala-rpc.dwellir.com"
+      "Dwellir": "wss://acala-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-acala.luckyfriday.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1177,7 +1179,9 @@
     "ordinal": 31,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
     "providers": {
+      "Dwellir": "wss://bifrost-polkadot-rpc.dwellir.com",
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
+      "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
       "OnFinality": "wss://bifrost-polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -1443,7 +1447,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
       "Dwellir": "wss://parallel-rpc.dwellir.com",
-      "Parallel": "wss://rpc.parallel.fi"
+      "Parallel": "wss://polkadot-parallel-rpc.parallel.fi"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1710,7 +1714,9 @@
     "ordinal": 45,
     "icon": "https://static-data.subwallet.app/chains/images/icon/interlay_53b0045be1.png",
     "providers": {
-      "Kintsugi Labs": "wss://api.interlay.io/parachain"
+      "Kintsugi Labs": "wss://api.interlay.io/parachain",
+      "Dwellir": "wss://interlay-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-interlay.luckyfriday.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1927,7 +1933,9 @@
     "ordinal": 50,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_dc0b44d234.png",
     "providers": {
-      "Polkadex Team": "wss://mainnet.polkadex.trade/"
+      "RadiumBlock": "wss://polkadex-parachain.public.curie.radiumblock.co/ws",
+      "Dwellir": "wss://polkadex-rpc.dwellir.com",
+      "OnFinality": "wss://polkadex-parachain.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1942,7 +1950,7 @@
       "symbol": "PDEX",
       "decimals": 12,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -5515,7 +5523,7 @@
           "status": "in_auction",
           "startTime": "2024-01-16T01:48:00.000Z",
           "endTime": "2025-11-18T01:48:00.000Z",
-          "auctionIndex": 0,
+          "auctionIndex": 59,
           "firstPeriod": 15,
           "lastPeriod": 22
         },
@@ -6528,7 +6536,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_50a9ff6147.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
     "providers": {
       "EWX": "wss://public-rpc.mainnet.energywebx.com/ws"
     },
@@ -7350,7 +7358,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
     "providers": {
       "EWX": "wss://public-rpc.testnet.energywebx.com/ws"
     },
