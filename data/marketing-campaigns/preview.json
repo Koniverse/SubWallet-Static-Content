@@ -294,5 +294,30 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 15,
+    "name": "[Test] Dot token detail banner",
+    "description": null,
+    "start_time": "2024-01-11T17:00:00.000Z",
+    "end_time": "2024-01-30T17:00:00.000Z",
+    "condition": null,
+    "banners": [
+      {
+        "id": 30,
+        "alt": null,
+        "action": "open_view",
+        "metadata": null,
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/D_app_Browser_banner_6d88570f3b.png"
+      }
+    ],
+    "notifications": []
   }
 ]
