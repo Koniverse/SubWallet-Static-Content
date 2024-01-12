@@ -1,23 +1,5 @@
 [
   {
-    "id": 54,
-    "title": "dotinsights",
-    "description": "A trusted research hub and data platform of Polkadot & Kusama Ecosystem made by SubWallet",
-    "url": "https://dotinsights.subwallet.app/",
-    "subtitle": "Interactive Polkadot & Kusama Ecosystem Map",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": true,
-    "ordinal": 1,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinsights_367a459604.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/dotinsight_1d624aa8ec.jpg",
-    "chains": [],
-    "categories": [
-      "utilities",
-      "data"
-    ]
-  },
-  {
     "id": 126,
     "title": "SubWallet Earning",
     "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
@@ -26,7 +8,7 @@
     "is_substrate": true,
     "is_evm": true,
     "is_featured": true,
-    "ordinal": 2,
+    "ordinal": 1,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/D_app_Browser_banner_6d88570f3b.png",
     "chains": [
@@ -37,39 +19,42 @@
     ]
   },
   {
-    "id": 45,
-    "title": "SubConnect",
-    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
-    "url": "https://connect.subwallet.app/#/",
-    "subtitle": "The Demo DApp for Substrate Wallet Connect",
+    "id": 59,
+    "title": "HydraDX",
+    "description": "The HydraDX Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
+    "url": "https://hydradx.io/WALLET",
+    "subtitle": "DeFi Protocol designed to bring liquidity to Polkadot",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": null,
-    "ordinal": 3,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": null,
-    "chains": [],
+    "is_featured": true,
+    "ordinal": 2,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/hydradx_a80c4584de.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Hydra_DX_Web_App_and_Mobile_1200x600_68893e627c.png",
+    "chains": [
+      "hydradx_main"
+    ],
     "categories": [
-      "tooling"
+      "defi"
     ]
   },
   {
-    "id": 110,
-    "title": "Polkadot Power Passport",
-    "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
-    "url": "https://nft.dotinvietnam.com/",
-    "subtitle": "By DOTinVietnam",
-    "is_substrate": true,
+    "id": 25,
+    "title": "StellaSwap",
+    "description": "StellaSwap is one of the first automated market-making (AMM), decentralized exchange (DEX) for the Moonbeam parachain network. Their main objective is to create a broader range of network effects to address the issues of liquidity in the DeFi space.",
+    "url": "https://app.stellaswap.com/exchange/swap",
+    "subtitle": "Automated market-making, decentralized exchange on Moonbeam",
+    "is_substrate": null,
     "is_evm": true,
-    "is_featured": false,
-    "ordinal": 4,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
+    "is_featured": null,
+    "ordinal": 3,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/stellaswap_68aa6c5c5a.png",
+    "preview_image": null,
     "chains": [
-      "kusama"
+      "moonbeam"
     ],
     "categories": [
-      "nft"
+      "defi",
+      "staking"
     ]
   },
   {
@@ -81,7 +66,7 @@
     "is_substrate": true,
     "is_evm": null,
     "is_featured": true,
-    "ordinal": 5,
+    "ordinal": 4,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_63b5dd41ef.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png",
     "chains": [
@@ -94,23 +79,41 @@
     ]
   },
   {
-    "id": 79,
-    "title": "Polkadot.js",
-    "description": "Polkadot-JS is a collection of tools, utilities, and libraries that interface with the Polkadot blockchain in a granular way.",
-    "url": "https://polkadot.js.org/apps/#",
-    "subtitle": "Tool collection for interacting with the Polkadot Network",
-    "is_substrate": null,
+    "id": 54,
+    "title": "dotinsights",
+    "description": "A trusted research hub and data platform of Polkadot & Kusama Ecosystem made by SubWallet",
+    "url": "https://dotinsights.subwallet.app/",
+    "subtitle": "Interactive Polkadot & Kusama Ecosystem Map",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": true,
+    "ordinal": 5,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinsights_367a459604.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/dotinsight_1d624aa8ec.jpg",
+    "chains": [],
+    "categories": [
+      "utilities",
+      "data"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Omni Liquid Staking",
+    "description": "Omni Liquid Staking is the first omni-chain liquid staking protocol developed based on Bifrost SLPx, cross-chain interoperability and consensus security provided by Polkadot XCM, realizing the vision of minting, using, and aggregating the liquidity across chains.",
+    "url": "https://omni.ls",
+    "subtitle": "Omni-chain liquid staking protocol",
+    "is_substrate": true,
     "is_evm": null,
-    "is_featured": null,
+    "is_featured": false,
     "ordinal": 6,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/bifrost_omni_liquid_staking_d2327ebe60.png",
     "preview_image": null,
     "chains": [
-      "polkadot",
-      "kusama"
+      "bifrost",
+      "bifrost_dot"
     ],
     "categories": [
-      "tooling"
+      "staking"
     ]
   },
   {
@@ -175,6 +178,28 @@
     "categories": [
       "staking",
       "smart contract"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Moonwell App",
+    "description": "Moonwell is an open and decentralized lending and borrowing protocol built on Base, Moonbeam, and Moonriver. The app's intuitive design ensures a seamless user experience, enabling users to easily do more with their digital assets. ",
+    "url": "https://moonwell.fi/discover",
+    "subtitle": "Lending and borrowing protocol",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 10,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonwell_728c173d60.png",
+    "preview_image": null,
+    "chains": [
+      "base_mainnet",
+      "moonbeam",
+      "moonriver"
+    ],
+    "categories": [
+      "staking",
+      "defi"
     ]
   },
   {
@@ -283,23 +308,59 @@
     ]
   },
   {
-    "id": 113,
-    "title": "Omni Liquid Staking",
-    "description": "Omni Liquid Staking is the first omni-chain liquid staking protocol developed based on Bifrost SLPx, cross-chain interoperability and consensus security provided by Polkadot XCM, realizing the vision of minting, using, and aggregating the liquidity across chains.",
-    "url": "https://omni.ls",
-    "subtitle": "Omni-chain liquid staking protocol",
-    "is_substrate": true,
+    "id": 45,
+    "title": "SubConnect",
+    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
+    "url": "https://connect.subwallet.app/#/",
+    "subtitle": "The Demo DApp for Substrate Wallet Connect",
+    "is_substrate": null,
     "is_evm": null,
-    "is_featured": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/bifrost_omni_liquid_staking_d2327ebe60.png",
+    "is_featured": null,
+    "ordinal": 20,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
     "preview_image": null,
+    "chains": [],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Polkadot Power Passport",
+    "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
+    "url": "https://nft.dotinvietnam.com/",
+    "subtitle": "By DOTinVietnam",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 21,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
     "chains": [
-      "bifrost",
-      "bifrost_dot"
+      "kusama"
     ],
     "categories": [
-      "staking"
+      "nft"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Polkadot.js",
+    "description": "Polkadot-JS is a collection of tools, utilities, and libraries that interface with the Polkadot blockchain in a granular way.",
+    "url": "https://polkadot.js.org/apps/#",
+    "subtitle": "Tool collection for interacting with the Polkadot Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 22,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "categories": [
+      "tooling"
     ]
   },
   {
@@ -772,26 +833,6 @@
     ]
   },
   {
-    "id": 25,
-    "title": "Stellaswap",
-    "description": "StellaSwap is one of the first automated market-making (AMM), decentralized exchange (DEX) for the Moonbeam parachain network. Their main objective is to create a broader range of network effects to address the issues of liquidity in the DeFi space.",
-    "url": "https://app.stellaswap.com/exchange/swap",
-    "subtitle": "Automated market-making, decentralized exchange on Moonbeam",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/stellaswap_68aa6c5c5a.png",
-    "preview_image": null,
-    "chains": [
-      "moonbeam"
-    ],
-    "categories": [
-      "defi",
-      "staking"
-    ]
-  },
-  {
     "id": 27,
     "title": "TAIGA",
     "description": "Taiga is a synthetic asset protocol designed to unify different formats of staking and crowdloan derivatives into a highly efficient standard.",
@@ -1129,25 +1170,6 @@
     ]
   },
   {
-    "id": 59,
-    "title": "HydraDX",
-    "description": "The HydraDX Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
-    "url": "https://hydradx.io/WALLET",
-    "subtitle": "DeFi Protocol designed to bring liquidity to Polkadot",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": true,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/hydradx_a80c4584de.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/meta_image_9cb0150494.png",
-    "chains": [
-      "hydradx_main"
-    ],
-    "categories": [
-      "defi"
-    ]
-  },
-  {
     "id": 60,
     "title": "Ink Whale",
     "description": "Ink Whale lets you earn fixed interest and other rewards for locking up your tokens or NFT on Aleph Zero Network.",
@@ -1259,28 +1281,6 @@
     ],
     "categories": [
       "nft"
-    ]
-  },
-  {
-    "id": 74,
-    "title": "Moonwell App",
-    "description": "Moonwell is an open and decentralized lending and borrowing protocol built on Base, Moonbeam, and Moonriver. The app's intuitive design ensures a seamless user experience, enabling users to easily do more with their digital assets. ",
-    "url": "https://moonwell.fi/discover",
-    "subtitle": "Lending and borrowing protocol",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonwell_728c173d60.png",
-    "preview_image": null,
-    "chains": [
-      "base_mainnet",
-      "moonbeam",
-      "moonriver"
-    ],
-    "categories": [
-      "staking",
-      "defi"
     ]
   },
   {
