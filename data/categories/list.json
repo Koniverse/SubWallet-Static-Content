@@ -1,7 +1,7 @@
 [
   {
-    "slug": "dex",
-    "name": "Dex",
+    "slug": "defi",
+    "name": "DeFi",
     "color": "cyan",
     "description": null,
     "ordinal": 1
@@ -40,13 +40,6 @@
     "color": "success",
     "description": null,
     "ordinal": 7
-  },
-  {
-    "slug": "evm",
-    "name": "EVM",
-    "color": "magenta",
-    "description": null,
-    "ordinal": 8
   },
   {
     "slug": "community",
