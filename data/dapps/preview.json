@@ -37,23 +37,60 @@
     ]
   },
   {
-    "id": 125,
-    "title": "Test_ArtZero.io",
-    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
-    "url": "https://a0.artzero.io/",
-    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
-    "is_substrate": true,
+    "id": 45,
+    "title": "SubConnect",
+    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
+    "url": "https://connect.subwallet.app/#/",
+    "subtitle": "The Demo DApp for Substrate Wallet Connect",
+    "is_substrate": null,
     "is_evm": null,
-    "is_featured": false,
+    "is_featured": null,
     "ordinal": 3,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Polkadot Power Passport",
+    "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
+    "url": "https://nft.dotinvietnam.com/",
+    "subtitle": "By DOTinVietnam",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 4,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
     "chains": [
-      "aleph",
-      "astar"
+      "kusama"
     ],
     "categories": [
       "nft"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Polkadot Staking Dashboard",
+    "description": "The Polkadot Staking Dashboard is a tool only dedicated to staking on Polkadot, Kusama (Polkadot's canary network), and Westend (Polkadot's test network).",
+    "url": "https://staking.polkadot.network/#/overview",
+    "subtitle": "The official dashboard for staking on Polkadot, Kusama, and Westend",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 5,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_63b5dd41ef.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png",
+    "chains": [
+      "polkadot",
+      "kusama",
+      "westend"
+    ],
+    "categories": [
+      "staking"
     ]
   },
   {
@@ -65,7 +102,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": null,
-    "ordinal": 5,
+    "ordinal": 6,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
     "preview_image": null,
     "chains": [
@@ -77,61 +114,24 @@
     ]
   },
   {
-    "id": 111,
-    "title": "doTreasury",
-    "description": "dotreasury.com aim to introduce remarks from councilors and communities to improve current kusama treasury with a retrospect mechanism.",
-    "url": "https://www.dotreasury.com/",
-    "subtitle": "doTreasury | Empower treasury with credit building",
+    "id": 30,
+    "title": "Acala Platform",
+    "description": "Acala is a specialized stablecoin and liquidity blockchain that is decentralized, cross-chain by design, and future-proof with forkless upgradability. ",
+    "url": "https://apps.acala.network/",
+    "subtitle": "The Acala's DeFi platform",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": false,
-    "ordinal": 5,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/do_Treasury_8f44be68e2.png",
+    "is_featured": null,
+    "ordinal": 7,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/acala_81b1f3f72b.png",
     "preview_image": null,
     "chains": [
-      "polkadot",
-      "kusama"
+      "acala",
+      "acala_evm"
     ],
     "categories": [
-      "governance",
-      "data"
-    ]
-  },
-  {
-    "id": 112,
-    "title": "Dancebox",
-    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
-    "url": "https://apps.tanssi.network/dancebox",
-    "subtitle": "Dancebox - The Testnet of Tanssi Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 6,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
-    "preview_image": null,
-    "chains": [
-      "dancebox"
-    ],
-    "categories": [
-      "tooling"
-    ]
-  },
-  {
-    "id": 117,
-    "title": "Airlyft",
-    "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
-    "url": "https://airlyft.one/",
-    "subtitle": "Multichain & Decentralized Quest Platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 6,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/airlyft_f23e57e74e.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": [
-      "community",
-      "utilities"
+      "defi",
+      "staking"
     ]
   },
   {
@@ -143,78 +143,38 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": true,
-    "ordinal": 7,
+    "ordinal": 8,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/moonbeam_network_40889ef4a4.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Moonbeam_screen_255932dc3b.png",
     "chains": [
       "moonbeam"
     ],
     "categories": [
-      "evm",
       "staking",
-      "smart contract"
+      "smart contract",
+      "governance"
     ]
   },
   {
-    "id": 35,
-    "title": "Moonriver dApp",
-    "description": "Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network.",
-    "url": "https://apps.moonbeam.network/moonriver",
-    "subtitle": "The platform for Moonriver Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": 7,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
-    "preview_image": null,
-    "chains": [
-      "moonriver"
-    ],
-    "categories": [
-      "evm",
-      "staking",
-      "smart contract"
-    ]
-  },
-  {
-    "id": 30,
-    "title": "Acala Platform",
-    "description": "Acala is a specialized stablecoin and liquidity blockchain that is decentralized, cross-chain by design, and future-proof with forkless upgradability. ",
-    "url": "https://apps.acala.network/",
-    "subtitle": "The Acala's DeFi platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": 8,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/acala_81b1f3f72b.png",
-    "preview_image": null,
-    "chains": [
-      "acala",
-      "acala_evm"
-    ],
-    "categories": [
-      "dex",
-      "crowdloans"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "MoonFit",
-    "description": "MoonFit is a Web3 & NFT lifestyle app that promotes active living by rewarding users anytime they burn calories through physical activities.",
-    "url": "https://app.moonfit.xyz/nft-sale",
-    "subtitle": "Web3 & NFT Lifestyle App",
-    "is_substrate": null,
+    "id": 85,
+    "title": "Astar Portal",
+    "description": "Astar Portal is the hub of a multi-chain, one-stop platform for managing assets and dApp Staking - build2earn protocol.",
+    "url": "https://portal.astar.network/",
+    "subtitle": "Astar & Shiden Network",
+    "is_substrate": true,
     "is_evm": true,
     "is_featured": false,
-    "ordinal": 10,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonfit_215142f555.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/moonfit_f8c96e00cb.jpg",
+    "ordinal": 9,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/astar_network_e410f4950e.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/astart_portal_83d70dbf1b.jpg",
     "chains": [
-      "moonbeam"
+      "astar",
+      "shiden",
+      "shibuya"
     ],
     "categories": [
-      "socialfi",
-      "evm"
+      "staking",
+      "smart contract"
     ]
   },
   {
@@ -238,51 +198,7 @@
       "binance"
     ],
     "categories": [
-      "evm",
       "data"
-    ]
-  },
-  {
-    "id": 85,
-    "title": "Astar Portal",
-    "description": "Astar Portal is the hub of a multi-chain, one-stop platform for managing assets and dApp Staking - build2earn protocol.",
-    "url": "https://portal.astar.network/",
-    "subtitle": "Astar & Shiden Network",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": 12,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/astar_network_e410f4950e.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/astart_portal_83d70dbf1b.jpg",
-    "chains": [
-      "astar",
-      "shiden",
-      "shibuya"
-    ],
-    "categories": [
-      "staking",
-      "smart contract"
-    ]
-  },
-  {
-    "id": 92,
-    "title": "Polkadot Staking Dashboard",
-    "description": "The Polkadot Staking Dashboard is a tool only dedicated to staking on Polkadot, Kusama (Polkadot's canary network), and Westend (Polkadot's test network).",
-    "url": "https://staking.polkadot.network/#/overview",
-    "subtitle": "The official dashboard for staking on Polkadot, Kusama, and Westend",
-    "is_substrate": true,
-    "is_evm": null,
-    "is_featured": true,
-    "ordinal": 13,
-    "icon": null,
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png",
-    "chains": [
-      "polkadot",
-      "kusama",
-      "westend"
-    ],
-    "categories": [
-      "staking"
     ]
   },
   {
@@ -301,27 +217,9 @@
       "parallel"
     ],
     "categories": [
-      "dex",
+      "defi",
       "staking",
-      "crowdloans",
-      "evm"
-    ]
-  },
-  {
-    "id": 45,
-    "title": "SubConnect",
-    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
-    "url": "https://connect.subwallet.app/#/",
-    "subtitle": "The Demo DApp for Substrate Wallet Connect",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": 14,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": [
-      "tooling"
+      "crowdloans"
     ]
   },
   {
@@ -379,26 +277,6 @@
       "moonbeam",
       "base_mainnet",
       "astarEvm"
-    ],
-    "categories": [
-      "nft",
-      "evm"
-    ]
-  },
-  {
-    "id": 110,
-    "title": "Polkadot Power Passport",
-    "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
-    "url": "https://nft.dotinvietnam.com/",
-    "subtitle": "By DOTinVietnam",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": 20,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
-    "chains": [
-      "kusama"
     ],
     "categories": [
       "nft"
@@ -509,8 +387,7 @@
     "preview_image": null,
     "chains": [],
     "categories": [
-      "nft",
-      "evm"
+      "nft"
     ]
   },
   {
@@ -533,8 +410,7 @@
       "astarEvm"
     ],
     "categories": [
-      "nft",
-      "evm"
+      "nft"
     ]
   },
   {
@@ -626,7 +502,7 @@
       "mangatax_para"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -645,8 +521,7 @@
       "ethereum"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -665,8 +540,7 @@
       "ethereum"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -686,8 +560,7 @@
       "shibuyaEvm"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -706,7 +579,7 @@
       "basilisk"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -725,8 +598,7 @@
       "moonbeam"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -742,9 +614,7 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/cask_protocol_0c34a97c6d.png",
     "preview_image": null,
     "chains": [],
-    "categories": [
-      "evm"
-    ]
+    "categories": []
   },
   {
     "id": 11,
@@ -764,7 +634,7 @@
       "astar"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -795,7 +665,6 @@
       "shidenEvm"
     ],
     "categories": [
-      "evm",
       "data"
     ]
   },
@@ -816,6 +685,25 @@
     ],
     "categories": [
       "community"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "MoonFit",
+    "description": "MoonFit is a Web3 & NFT lifestyle app that promotes active living by rewarding users anytime they burn calories through physical activities.",
+    "url": "https://app.moonfit.xyz/nft-sale",
+    "subtitle": "Web3 & NFT Lifestyle App",
+    "is_substrate": null,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonfit_215142f555.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/moonfit_f8c96e00cb.jpg",
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      "socialfi"
     ]
   },
   {
@@ -880,8 +768,7 @@
       "astarEvm"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -900,8 +787,7 @@
       "moonbeam"
     ],
     "categories": [
-      "dex",
-      "evm",
+      "defi",
       "staking"
     ]
   },
@@ -921,7 +807,7 @@
       "karura"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -945,7 +831,7 @@
       "binance"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -985,8 +871,8 @@
       "karura_evm"
     ],
     "categories": [
-      "crowdloans",
-      "staking"
+      "staking",
+      "defi"
     ]
   },
   {
@@ -1009,6 +895,27 @@
     ]
   },
   {
+    "id": 35,
+    "title": "Moonriver dApp",
+    "description": "Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network.",
+    "url": "https://apps.moonbeam.network/moonriver",
+    "subtitle": "The platform for Moonriver Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
+    "preview_image": null,
+    "chains": [
+      "moonriver"
+    ],
+    "categories": [
+      "staking",
+      "smart contract",
+      "governance"
+    ]
+  },
+  {
     "id": 38,
     "title": "Bifrost App",
     "description": "Bifrost is a modular, scalable, non-custodial omni-chain LSD parachain based on Polkadot. It provides standardized, high-yield, safe, and reliable underlying interest-bearing assets for Web3 through XCM, and is realizing the omni-chain vision of using any LSD on any chain.",
@@ -1026,7 +933,7 @@
       "bifrost_testnet"
     ],
     "categories": [
-      "dex",
+      "defi",
       "crowdloans",
       "staking"
     ]
@@ -1078,7 +985,6 @@
       "base_mainnet"
     ],
     "categories": [
-      "evm",
       "bridge"
     ]
   },
@@ -1142,8 +1048,7 @@
       "polygon"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -1182,9 +1087,8 @@
       "acala_evm"
     ],
     "categories": [
-      "dex",
-      "staking",
-      "evm"
+      "defi",
+      "staking"
     ]
   },
   {
@@ -1221,7 +1125,6 @@
       "astarEvm"
     ],
     "categories": [
-      "evm",
       "nft"
     ]
   },
@@ -1241,7 +1144,7 @@
       "hydradx_main"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -1261,7 +1164,8 @@
     ],
     "categories": [
       "tooling",
-      "staking"
+      "staking",
+      "defi"
     ]
   },
   {
@@ -1285,7 +1189,7 @@
   },
   {
     "id": 63,
-    "title": "Kintsugi Hub",
+    "title": "Kintsugi",
     "description": "Kintsugi is Interlay’s canary network, an experiment with real economic value deployed on Kusama.",
     "url": "https://kintsugi.interlay.io/",
     "subtitle": "Bitcoin Defi on Kintsugi Network",
@@ -1300,7 +1204,7 @@
       "kintsugi_test"
     ],
     "categories": [
-      "dex",
+      "defi",
       "bridge"
     ]
   },
@@ -1318,7 +1222,7 @@
     "preview_image": null,
     "chains": [],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -1335,8 +1239,7 @@
     "preview_image": null,
     "chains": [],
     "categories": [
-      "nft",
-      "evm"
+      "nft"
     ]
   },
   {
@@ -1376,8 +1279,8 @@
       "moonriver"
     ],
     "categories": [
-      "evm",
-      "staking"
+      "staking",
+      "defi"
     ]
   },
   {
@@ -1415,7 +1318,7 @@
       "aleph"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -1526,7 +1429,7 @@
       "sora_ksm"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -1645,7 +1548,9 @@
       "subsocial_x"
     ],
     "categories": [
-      "utilities"
+      "utilities",
+      "staking",
+      "crowdloans"
     ]
   },
   {
@@ -1672,8 +1577,7 @@
       "moonbeam"
     ],
     "categories": [
-      "nft",
-      "evm"
+      "nft"
     ]
   },
   {
@@ -1691,9 +1595,7 @@
     "chains": [
       "astarEvm"
     ],
-    "categories": [
-      "evm"
-    ]
+    "categories": []
   },
   {
     "id": 98,
@@ -1711,8 +1613,7 @@
       "moonbeam"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -1732,7 +1633,7 @@
       "moonriver"
     ],
     "categories": [
-      "dex"
+      "defi"
     ]
   },
   {
@@ -1797,8 +1698,7 @@
       "polygon"
     ],
     "categories": [
-      "dex",
-      "evm"
+      "defi"
     ]
   },
   {
@@ -1842,6 +1742,84 @@
     ]
   },
   {
+    "id": 111,
+    "title": "doTreasury",
+    "description": "dotreasury.com aim to introduce remarks from councilors and communities to improve current kusama treasury with a retrospect mechanism.",
+    "url": "https://www.dotreasury.com/",
+    "subtitle": "doTreasury | Empower treasury with credit building",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/do_Treasury_8f44be68e2.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "categories": [
+      "governance",
+      "data"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Dancebox",
+    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
+    "url": "https://apps.tanssi.network/dancebox",
+    "subtitle": "Dancebox - The Testnet of Tanssi Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
+    "preview_image": null,
+    "chains": [
+      "dancebox"
+    ],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Airlyft",
+    "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
+    "url": "https://airlyft.one/",
+    "subtitle": "Multichain & Decentralized Quest Platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/airlyft_f23e57e74e.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "community",
+      "utilities"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Test_ArtZero.io",
+    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
+    "url": "https://a0.artzero.io/",
+    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "chains": [
+      "aleph",
+      "astar"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 127,
     "title": "Interlay",
     "description": "Interlay is a one-stop shop for Bitcoin DeFi: swaps, lending, staking, and 1-click strategies. IBTC is trustless multi-chain Bitcoin, secured by collateral, cryptography, and a decentralized vault network.",
@@ -1857,7 +1835,7 @@
       "interlay"
     ],
     "categories": [
-      "dex",
+      "defi",
       "bridge"
     ]
   }
