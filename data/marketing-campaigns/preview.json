@@ -355,7 +355,7 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app//6/Home_screen_502a1d9832.png"
+        "media": "https://media-resources.subwallet.app/Home_screen_e8b49d1c70.png"
       },
       {
         "id": 33,
@@ -405,7 +405,8 @@
           "mobile"
         ],
         "position": [
-          "crowdloan"
+          "crowdloan",
+          "browser"
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
