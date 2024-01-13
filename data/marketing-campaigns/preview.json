@@ -307,7 +307,7 @@
     "banners": [
       {
         "id": 30,
-        "alt": null,
+        "alt": "Mobile token details",
         "action": "open_url",
         "metadata": {
           "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
@@ -319,7 +319,96 @@
           "token-details"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app/D_app_Browser_banner_6d88570f3b.png"
+        "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
+      },
+      {
+        "id": 32,
+        "alt": "Popup banner in app mobile",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": null,
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Earn now",
+            "icon": null,
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Home_screen_502a1d9832.png"
+      },
+      {
+        "id": 33,
+        "alt": "Popup banner in app extension",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": null,
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Earn now",
+            "icon": null,
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=extension&utm_campaign=stakedotearnmany",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Home_screen_502a1d9832.png"
+      },
+      {
+        "id": 34,
+        "alt": "Banner in crowdloan tab",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://web.subwallet.app/earning-demo?utm_source=crowdloantabbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+        },
+        "environments": [
+          "extension",
+          "mobile"
+        ],
+        "position": [
+          "crowdloan"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
       }
     ],
     "notifications": []
