@@ -310,7 +310,7 @@
         "alt": "Mobile token details",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
+          "url": "subwallet://browser?url=https://apps.acala.network/"
         },
         "environments": [
           "mobile"
