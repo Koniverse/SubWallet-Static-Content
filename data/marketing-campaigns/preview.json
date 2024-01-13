@@ -301,12 +301,14 @@
     "description": null,
     "start_time": "2024-01-12T17:00:00.000Z",
     "end_time": "2024-01-13T17:00:00.000Z",
-    "condition": null,
+    "condition": {
+      "allowedTokenSlug": "['DOT-Polkadot']"
+    },
     "banners": [
       {
         "id": 30,
         "alt": null,
-        "action": "open_view",
+        "action": "open_url",
         "metadata": {
           "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany"
         },
