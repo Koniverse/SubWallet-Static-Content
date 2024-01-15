@@ -1,5 +1,5 @@
 {
-  "EarningDetailData": {
+  "earningDetailData": {
     "NOMINATION_POOL": [
         {
             "icon": "ThumbsUp",
@@ -180,7 +180,7 @@
         }
       ]
   },
-  "UnbondExtraInfo": [
+  "unbondExtraInfo": [
     {
       "title": "Wait time",
       "description": "Once unstaked, your funds will become available for withdrawal after {unBondedTime}",
