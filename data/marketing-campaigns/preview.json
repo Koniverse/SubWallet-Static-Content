@@ -440,7 +440,7 @@
         "buttons": [
           {
             "name": "Dismiss",
-            "icon": null,
+            "icon": "XCircle",
             "color": "secondary",
             "type": null,
             "metadata": {
@@ -449,7 +449,7 @@
           },
           {
             "name": "Earn now",
-            "icon": null,
+            "icon": "ArrowCircleRight",
             "color": "primary",
             "type": "open_url",
             "metadata": {
