@@ -302,7 +302,7 @@
     "start_time": "2024-01-12T17:00:00.000Z",
     "end_time": "2024-01-16T17:00:00.000Z",
     "condition": {
-      "allowedTokenSlug": "['Polkadot']"
+      "allowedTokenSlug": "[\"Polkadot\"]"
     },
     "banners": [
       {
