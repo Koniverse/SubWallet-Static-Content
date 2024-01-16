@@ -310,7 +310,7 @@
         "alt": "Mobile token details",
         "action": "open_url",
         "metadata": {
-          "url": "subwallet://browser?url=https://apps.acala.network/"
+          "url": "https://mobile.subwallet.app/home/main/earning/earning-list"
         },
         "environments": [
           "mobile"
@@ -326,7 +326,7 @@
         "alt": "Popup banner in app mobile",
         "action": "open_url",
         "metadata": {
-          "url": "subwallet://browser?url=https://apps.acala.network/"
+          "url": "https://mobile.subwallet.app/home/main/earning/earning-list"
         },
         "environments": [
           "mobile"
@@ -350,7 +350,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
+              "url": "https://mobile.subwallet.app/home/main/earning/earning-list",
               "doneOnClick": true
             }
           }
@@ -362,7 +362,7 @@
         "alt": "Banner in crowdloan tab",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/earning-demo?utm_source=crowdloantabbanner&utm_medium=extension&utm_campaign=stakedotearnmany"
+          "url": "https://mobile.subwallet.app/home/main/earning/earning-list"
         },
         "environments": [
           "mobile"
