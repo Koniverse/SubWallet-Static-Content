@@ -1673,7 +1673,7 @@
     "lastPeriod": 15,
     "startTime": "2022-06-07T01:48:00.000Z",
     "endTime": "2024-04-09T01:48:00.000Z",
-    "chain": "polkadex"
+    "chain": "polkadex_dot"
   },
   {
     "paraId": 2013,
@@ -1855,7 +1855,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "phala"
   },
   {
@@ -1940,7 +1940,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -1992,7 +1992,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "equilibrium_parachain"
   },
   {
@@ -2033,7 +2033,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2074,7 +2074,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2117,7 +2117,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2162,7 +2162,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "hydradx_main"
   },
   {
@@ -2209,7 +2209,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2254,7 +2254,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2296,7 +2296,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2349,7 +2349,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2391,7 +2391,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "efinity"
   },
   {
@@ -2448,7 +2448,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2492,7 +2492,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "centrifuge"
   },
   {
@@ -2534,7 +2534,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "composableFinance"
   },
   {
@@ -2581,7 +2581,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2625,7 +2625,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "interlay"
   },
   {
@@ -2678,7 +2678,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": "nodle"
   },
   {
@@ -2723,7 +2723,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -2858,7 +2858,7 @@
     "firstPeriod": 7,
     "lastPeriod": 14,
     "startTime": "2022-03-15T01:48:00.000Z",
-    "endTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2024-01-16T08:35:00.000Z",
     "chain": null
   },
   {
@@ -7945,16 +7945,16 @@
       "cap": "3000000000000000",
       "owner": "16iP1dKTnkny2uzSvqVBwzFCxgEShZHAarnpcXj99H3gsW65",
       "bid_id": "",
-      "raised": "81272000000000",
+      "raised": "90743000000000",
       "status": 1,
-      "balance": "81272000000000",
+      "balance": "90743000000000",
       "fund_id": "3341-74",
       "para_id": 3341,
       "end_block": 19059600,
       "in_auctions": null,
       "last_period": 29,
       "start_block": 17848325,
-      "contributors": 100,
+      "contributors": 119,
       "first_period": 22,
       "auction_index": 0,
       "owner_display": {
@@ -7970,10 +7970,10 @@
       },
       "start_block_at": 1698067830,
       "extrinsic_index": "17848325-2",
-      "last_change_block": 18382347,
+      "last_change_block": 19051300,
       "fund_auction_status": 1,
-      "last_change_event_idx": 54,
-      "last_change_timestamp": 1701278472
+      "last_change_event_idx": 61,
+      "last_change_timestamp": 1705314924
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,
@@ -8078,14 +8078,14 @@
   {
     "paraId": 2025,
     "fundId": "2025-75",
-    "status": "in_auction",
+    "status": "won",
     "metadata": {
       "cap": "3333330000000000",
       "owner": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
-      "bid_id": "",
-      "raised": "267549652717946",
-      "status": 1,
-      "balance": "267549652717946",
+      "bid_id": "59-15-22",
+      "raised": "508365713699479",
+      "status": 2,
+      "balance": "508365713699479",
       "fund_id": "2025-75",
       "para_id": 2025,
       "end_block": 18991800,
@@ -8093,13 +8093,16 @@
         53,
         54,
         55,
-        56
+        56,
+        57,
+        58,
+        59
       ],
       "last_period": 22,
       "start_block": 17875586,
-      "contributors": 209,
+      "contributors": 427,
       "first_period": 15,
-      "auction_index": 0,
+      "auction_index": 59,
       "owner_display": {
         "address": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
         "display": "soramitsu",
@@ -8113,13 +8116,13 @@
       },
       "start_block_at": 1698232020,
       "extrinsic_index": "17875586-2",
-      "last_change_block": 18400389,
-      "fund_auction_status": 1,
-      "last_change_event_idx": 42,
-      "last_change_timestamp": 1701386844
+      "last_change_block": 18991751,
+      "fund_auction_status": 2,
+      "last_change_event_idx": 71,
+      "last_change_timestamp": 1704954738
     },
     "relayChain": "polkadot",
-    "auctionIndex": 0,
+    "auctionIndex": 59,
     "firstPeriod": 15,
     "lastPeriod": 22,
     "startTime": "2024-01-16T01:48:00.000Z",
@@ -8177,18 +8180,21 @@
       "cap": "3000000000000000",
       "owner": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
       "bid_id": "",
-      "raised": "126296640879496",
+      "raised": "302721309064555",
       "status": 1,
-      "balance": "126296640879496",
+      "balance": "302721309064555",
       "fund_id": "3356-79",
       "para_id": 3356,
       "end_block": 19059599,
       "in_auctions": [
-        56
+        56,
+        57,
+        58,
+        59
       ],
       "last_period": 22,
       "start_block": 18304651,
-      "contributors": 42,
+      "contributors": 208,
       "first_period": 15,
       "auction_index": 0,
       "owner_display": {
@@ -8198,10 +8204,63 @@
       },
       "start_block_at": 1700811288,
       "extrinsic_index": "18304651-3",
-      "last_change_block": 18400446,
+      "last_change_block": 19056493,
       "fund_auction_status": 1,
-      "last_change_event_idx": 44,
-      "last_change_timestamp": 1701387186
+      "last_change_event_idx": 43,
+      "last_change_timestamp": 1705346340
+    },
+    "relayChain": "polkadot",
+    "auctionIndex": 0,
+    "firstPeriod": 15,
+    "lastPeriod": 22,
+    "startTime": "2024-01-16T01:48:00.000Z",
+    "endTime": "2025-11-18T01:48:00.000Z",
+    "chain": null
+  },
+  {
+    "paraId": 3357,
+    "fundId": "3357-80",
+    "status": "in_auction",
+    "metadata": {
+      "cap": "5000000000000000000000000",
+      "owner": "14fhPR28n9EHZitNyf6wjYZVBPwKgcgogVjJPTzvCcb8qi9G",
+      "bid_id": "",
+      "raised": "18519053530489",
+      "status": 1,
+      "balance": "18519053530489",
+      "fund_id": "3357-80",
+      "para_id": 3357,
+      "end_block": 19059599,
+      "in_auctions": [
+        58,
+        59
+      ],
+      "last_period": 22,
+      "start_block": 18671154,
+      "contributors": 43,
+      "first_period": 15,
+      "auction_index": 0,
+      "owner_display": {
+        "address": "14fhPR28n9EHZitNyf6wjYZVBPwKgcgogVjJPTzvCcb8qi9G",
+        "display": "Equilibrium",
+        "identity": true,
+        "judgements": [
+          {
+            "index": 0,
+            "judgement": "FeePaid"
+          },
+          {
+            "index": 1,
+            "judgement": "Reasonable"
+          }
+        ]
+      },
+      "start_block_at": 1703015976,
+      "extrinsic_index": "18671154-4",
+      "last_change_block": 19033469,
+      "fund_auction_status": 1,
+      "last_change_event_idx": 43,
+      "last_change_timestamp": 1705207038
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,
