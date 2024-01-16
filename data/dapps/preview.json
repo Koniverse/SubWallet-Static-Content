@@ -38,6 +38,25 @@
     ]
   },
   {
+    "id": 133,
+    "title": "BitAvatar",
+    "description": "Each BitAvatar is also an NFT-bound wallet (aka Backpack inspired by the sub-wallet concept) with the full functionalities as any wallet can do as well as ensuring a seamless, consistent virtual presence across all digital platforms.",
+    "url": "https://polkadot.bitavatar.io",
+    "subtitle": "Universal Avatar ID for Web3 that goes everywhere with your wallet address.",
+    "is_substrate": true,
+    "is_evm": false,
+    "is_featured": true,
+    "ordinal": 2,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/favicon_3edde93782.ico",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/thumb_bit_avatar_57c39fbf15.jpg",
+    "chains": [
+      "bitcountry"
+    ],
+    "categories": [
+      "socialfi"
+    ]
+  },
+  {
     "id": 25,
     "title": "StellaSwap",
     "description": "StellaSwap is one of the first automated market-making (AMM), decentralized exchange (DEX) for the Moonbeam parachain network. Their main objective is to create a broader range of network effects to address the issues of liquidity in the DeFi space.",
