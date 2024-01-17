@@ -505,7 +505,7 @@
         "alt": "Banner in crowdloan tab",
         "action": "open_url",
         "metadata": {
-          "url": "subwallet://home/main/earning/earning-list"
+          "url": "https://mobile.subwallet.app/home/main/earning/earning-list"
         },
         "environments": [
           "mobile"
