@@ -404,7 +404,7 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app//6/Home_screen_502a1d9832.png"
+        "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
       },
       {
         "id": 35,
@@ -420,7 +420,7 @@
           "crowdloan"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
+        "media": "https://media-resources.subwallet.app/Crowdloan_tabbar_05dd137abb.png"
       }
     ],
     "notifications": []
@@ -449,7 +449,7 @@
           "token-details"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
+        "media": "https://media-resources.subwallet.app/Crowdloan_tabbar_b0868447fc.png"
       }
     ],
     "notifications": []
