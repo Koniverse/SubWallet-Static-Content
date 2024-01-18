@@ -466,13 +466,14 @@
     "banners": [
       {
         "id": 47,
-        "alt": "Popup banner in app mobile",
+        "alt": "Popup banner",
         "action": "open_url",
         "metadata": {
           "url": "subwallet://home/main/earning/earning-list"
         },
         "environments": [
-          "mobile"
+          "mobile",
+          "extension"
         ],
         "position": [
           "home"
@@ -488,7 +489,7 @@
             }
           },
           {
-            "name": "Earn now",
+            "name": "Earn",
             "icon": null,
             "color": "primary",
             "type": "open_url",
