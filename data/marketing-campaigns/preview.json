@@ -508,7 +508,8 @@
           "url": "subwallet://home/main/earning/earning-list"
         },
         "environments": [
-          "extension"
+          "extension",
+          "mobile"
         ],
         "position": [
           "crowdloan",
