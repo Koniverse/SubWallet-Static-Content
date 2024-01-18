@@ -189,7 +189,7 @@
   "loom_network": "https://static-data.subwallet.app/chains/images/icon/loom_network_a3bc58dae4.png",
   "subgame_gamma": "https://static-data.subwallet.app/chains/images/icon/subgame_gamma_59554de87c.png",
   "trustbase": "https://static-data.subwallet.app/chains/images/icon/trustbase_d127f74282.png",
-  "manta_network": "https://static-data.subwallet.app/chains/images/icon/Property_1_Light_214e514a42.png",
+  "manta_network": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
   "t3rn": "https://static-data.subwallet.app/chains/images/icon/t3rn_9b1f2eefc8.png",
   "geminis_network": "https://static-data.subwallet.app/chains/images/icon/geminis_network_d57d20f3cb.png",
   "polimec": "https://static-data.subwallet.app/chains/images/icon/polimec_ddd1a7c51d.png",
@@ -205,6 +205,6 @@
   "energy_web_x_testnet": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
   "energy_web_chain": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png",
   "energy_web_x_rococo": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
-  "manta_network_evm": "https://static-data.subwallet.app/chains/images/icon/Manta_fae763197d.png",
+  "manta_network_evm": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
   "polkadex_dot": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png"
 }

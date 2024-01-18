@@ -5904,7 +5904,8 @@
     "ordinal": 160,
     "icon": "https://static-data.subwallet.app/chains/images/icon/krest_6217afc787.png",
     "providers": {
-      "Peaq": "wss://wss-krest.peaq.network/"
+      "Peaq": "wss://wss-krest.peaq.network/",
+      "UnitedBloc": "wss://krest.unitedbloc.com/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5919,7 +5920,7 @@
       "symbol": "KREST",
       "decimals": 18,
       "hasNativeNft": false,
-      "supportStaking": false,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -6911,7 +6912,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_Light_214e514a42.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
     "providers": {
       "Manta Network": "wss://ws.manta.systems"
     },
@@ -7377,7 +7378,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/Manta_fae763197d.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
     "providers": {
       "Manta Pacific": "https://pacific-rpc.manta.network/http"
     },

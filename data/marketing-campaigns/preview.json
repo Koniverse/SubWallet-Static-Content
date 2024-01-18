@@ -455,7 +455,7 @@
     "notifications": []
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "[Test] Dot token detail banner",
     "description": null,
     "start_time": "2024-01-12T17:00:00.000Z",
@@ -465,7 +465,7 @@
     },
     "banners": [
       {
-        "id": 45,
+        "id": 47,
         "alt": "Popup banner in app mobile",
         "action": "open_url",
         "metadata": {
@@ -501,7 +501,7 @@
         "media": null
       },
       {
-        "id": 44,
+        "id": 46,
         "alt": "Banner in crowdloan tab",
         "action": "open_url",
         "metadata": {
@@ -515,7 +515,7 @@
           "crowdloan"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
+        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
       }
     ],
     "notifications": []
