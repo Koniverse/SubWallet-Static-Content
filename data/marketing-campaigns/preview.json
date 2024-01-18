@@ -514,7 +514,7 @@
           "crowdloan"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app/Crowdloan_tabbar_05dd137abb.png"
+        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
       }
     ],
     "notifications": []
@@ -563,7 +563,7 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app/Home_screen_update_64871280b6.png"
+        "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
       },
       {
         "id": 52,
@@ -579,7 +579,7 @@
           "crowdloan"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app//6/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png"
+        "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
       }
     ],
     "notifications": []
@@ -608,7 +608,7 @@
           "token-details"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
+        "media": "https://media-resources.subwallet.app//6/Crowdloan_tabbar_81fec4cc6b.png"
       }
     ],
     "notifications": []
