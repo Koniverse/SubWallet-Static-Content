@@ -459,7 +459,7 @@
     "name": "[Test] Dot token detail banner",
     "description": null,
     "start_time": "2024-01-12T17:00:00.000Z",
-    "end_time": "2024-01-16T17:00:00.000Z",
+    "end_time": "2024-01-18T17:00:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"Polkadot\", \"polkadot-NATIVE-DOT\", \"statemint-NATIVE-DOT\", \"acala-LOCAL-DOT\", \"acala-LOCAL-LDOT\", \"acala-LOCAL-LcDOT\", \"acala-LOCAL-tDOT\", \"moonbeam-LOCAL-xcDOT\", \"astar-LOCAL-DOT\", \"equilibrium_parachain-LOCAL-DOT\", \"bifrost_dot-LOCAL-vDOT\", \"bifrost_dot-LOCAL-vsDOT\", \"interlay-LOCAL-LDOT\", \"genshiro-LOCAL-DOT\", \"pendulum-LOCAL-DOT\", \"collectives-NATIVE-DOT\", \"astar-LOCAL-LDOT\", \"astarEvm-ERC20-DOT-0xffffffffffffffffffffffffffffffffffffffff\", \"equilibrium_parachain-LOCAL-EQDOT\", \"binance-ERC20-DOT-0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402\", \"bridgeHubPolkadot-NATIVE-DOT\", \"interlay-LOCAL-LP_DOT_iBTC\", \"interlay-LOCAL-qDOT\", \"bifrost_dot-LOCAL-DOT\", \"parallel-LOCAL-sDOT\", \"parallel-LOCAL-DOT\", \"interlay-LOCAL-DOT\", \"hydradx_main-LOCAL-DOT\", \"parallel-LOCAL-cDOT714\", \"moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4\"]"
     },
