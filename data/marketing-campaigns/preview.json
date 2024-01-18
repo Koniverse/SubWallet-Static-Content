@@ -343,7 +343,7 @@
       },
       {
         "id": 34,
-        "alt": "Banner in crowdloan tab",
+        "alt": "Banner in crowdloan tab 1",
         "action": "open_url",
         "metadata": {
           "url": "subwallet://home/main/earning/earning-list"
