@@ -296,72 +296,6 @@
     "notifications": []
   },
   {
-    "id": 15,
-    "name": "[Test] Dot token detail banner",
-    "description": null,
-    "start_time": "2024-01-12T17:00:00.000Z",
-    "end_time": "2024-01-18T17:00:00.000Z",
-    "condition": {
-      "allowedTokenSlug": "[\"Polkadot\", \"polkadot-NATIVE-DOT\", \"statemint-NATIVE-DOT\", \"acala-LOCAL-DOT\", \"acala-LOCAL-LDOT\", \"acala-LOCAL-LcDOT\", \"acala-LOCAL-tDOT\", \"moonbeam-LOCAL-xcDOT\", \"astar-LOCAL-DOT\", \"equilibrium_parachain-LOCAL-DOT\", \"bifrost_dot-LOCAL-vDOT\", \"bifrost_dot-LOCAL-vsDOT\", \"interlay-LOCAL-LDOT\", \"genshiro-LOCAL-DOT\", \"pendulum-LOCAL-DOT\", \"collectives-NATIVE-DOT\", \"astar-LOCAL-LDOT\", \"astarEvm-ERC20-DOT-0xffffffffffffffffffffffffffffffffffffffff\", \"equilibrium_parachain-LOCAL-EQDOT\", \"binance-ERC20-DOT-0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402\", \"bridgeHubPolkadot-NATIVE-DOT\", \"interlay-LOCAL-LP_DOT_iBTC\", \"interlay-LOCAL-qDOT\", \"bifrost_dot-LOCAL-DOT\", \"parallel-LOCAL-sDOT\", \"parallel-LOCAL-DOT\", \"interlay-LOCAL-DOT\", \"hydradx_main-LOCAL-DOT\", \"parallel-LOCAL-cDOT714\", \"moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4\"]"
-    },
-    "banners": [
-      {
-        "id": 32,
-        "alt": "Popup banner in app mobile",
-        "action": "open_url",
-        "metadata": {
-          "url": "subwallet://home/main/earning/earning-list"
-        },
-        "environments": [
-          "mobile"
-        ],
-        "position": [
-          "home"
-        ],
-        "buttons": [
-          {
-            "name": "Dismiss",
-            "icon": null,
-            "color": "secondary",
-            "type": null,
-            "metadata": {
-              "doneOnClick": true
-            }
-          },
-          {
-            "name": "Earn now",
-            "icon": null,
-            "color": "primary",
-            "type": "open_url",
-            "metadata": {
-              "url": "subwallet://home/main/earning/earning-list",
-              "doneOnClick": true
-            }
-          }
-        ],
-        "media": "https://media-resources.subwallet.app/Home_screen_e8b49d1c70.png"
-      },
-      {
-        "id": 34,
-        "alt": "Banner in crowdloan tab",
-        "action": "open_url",
-        "metadata": {
-          "url": "subwallet://home/main/earning/earning-list"
-        },
-        "environments": [
-          "mobile",
-          "extension"
-        ],
-        "position": [
-          "crowdloan"
-        ],
-        "buttons": [],
-        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
-      }
-    ],
-    "notifications": []
-  },
-  {
     "id": 18,
     "name": "Unlock batch 2 (Mobile)",
     "description": null,
@@ -516,6 +450,72 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//6/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 21,
+    "name": "[Test] Dot token detail banner",
+    "description": null,
+    "start_time": "2024-01-12T17:00:00.000Z",
+    "end_time": "2024-01-16T17:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"Polkadot\", \"polkadot-NATIVE-DOT\", \"statemint-NATIVE-DOT\", \"acala-LOCAL-DOT\", \"acala-LOCAL-LDOT\", \"acala-LOCAL-LcDOT\", \"acala-LOCAL-tDOT\", \"moonbeam-LOCAL-xcDOT\", \"astar-LOCAL-DOT\", \"equilibrium_parachain-LOCAL-DOT\", \"bifrost_dot-LOCAL-vDOT\", \"bifrost_dot-LOCAL-vsDOT\", \"interlay-LOCAL-LDOT\", \"genshiro-LOCAL-DOT\", \"pendulum-LOCAL-DOT\", \"collectives-NATIVE-DOT\", \"astar-LOCAL-LDOT\", \"astarEvm-ERC20-DOT-0xffffffffffffffffffffffffffffffffffffffff\", \"equilibrium_parachain-LOCAL-EQDOT\", \"binance-ERC20-DOT-0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402\", \"bridgeHubPolkadot-NATIVE-DOT\", \"interlay-LOCAL-LP_DOT_iBTC\", \"interlay-LOCAL-qDOT\", \"bifrost_dot-LOCAL-DOT\", \"parallel-LOCAL-sDOT\", \"parallel-LOCAL-DOT\", \"interlay-LOCAL-DOT\", \"hydradx_main-LOCAL-DOT\", \"parallel-LOCAL-cDOT714\", \"moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4\"]"
+    },
+    "banners": [
+      {
+        "id": 45,
+        "alt": "Popup banner in app mobile",
+        "action": "open_url",
+        "metadata": {
+          "url": "subwallet://home/main/earning/earning-list"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": null,
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Earn now",
+            "icon": null,
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "subwallet://home/main/earning/earning-list",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": null
+      },
+      {
+        "id": 44,
+        "alt": "Banner in crowdloan tab",
+        "action": "open_url",
+        "metadata": {
+          "url": "subwallet://home/main/earning/earning-list"
+        },
+        "environments": [
+          "mobile",
+          "extension"
+        ],
+        "position": [
+          "crowdloan"
+        ],
+        "buttons": [],
+        "media": null
       }
     ],
     "notifications": []
