@@ -313,7 +313,8 @@
           "url": "subwallet://home/main/earning/earning-list"
         },
         "environments": [
-          "mobile"
+          "mobile",
+          "extension"
         ],
         "position": [
           "home"
