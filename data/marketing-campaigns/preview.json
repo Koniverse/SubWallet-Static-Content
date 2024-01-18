@@ -313,8 +313,7 @@
           "url": "subwallet://home/main/earning/earning-list"
         },
         "environments": [
-          "mobile",
-          "extension"
+          "mobile"
         ],
         "position": [
           "home"
@@ -344,14 +343,13 @@
       },
       {
         "id": 34,
-        "alt": "Banner in crowdloan tab 1",
+        "alt": "Banner in crowdloan tab",
         "action": "open_url",
         "metadata": {
           "url": "subwallet://home/main/earning/earning-list"
         },
         "environments": [
-          "mobile",
-          "extension"
+          "mobile"
         ],
         "position": [
           "crowdloan"
