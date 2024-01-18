@@ -511,7 +511,8 @@
           "extension"
         ],
         "position": [
-          "crowdloan"
+          "crowdloan",
+          "token-details"
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//6/crowdloan_banner_f4e4f4e6de.png"
