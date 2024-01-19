@@ -15,7 +15,6 @@
       "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
-      "Parity": "wss://rpc.polkadot.io",
       "Light Client": "light://substrate-connect/polkadot"
     },
     "evmInfo": null,
@@ -56,7 +55,6 @@
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
       "IBP-GeoDNS2": "wss://rpc.dotters.network/kusama",
-      "Parity": "wss://kusama-rpc.polkadot.io",
       "Light Client": "light://substrate-connect/kusama"
     },
     "evmInfo": null,
@@ -150,7 +148,8 @@
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
       "1rpc": "wss://1rpc.io/glmr",
       "Blast": "wss://moonbeam.public.blastapi.io",
-      "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws"
+      "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws",
+      "UnitedBloc": "wss://moonbeam.unitedbloc.com"
     },
     "evmInfo": {
       "evmChainId": 1284,
@@ -403,7 +402,8 @@
       "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
       "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
-      "Dwellir": "wss://acala-rpc.dwellir.com"
+      "Dwellir": "wss://acala-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-acala.luckyfriday.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1179,7 +1179,9 @@
     "ordinal": 31,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
     "providers": {
+      "Dwellir": "wss://bifrost-polkadot-rpc.dwellir.com",
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
+      "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
       "OnFinality": "wss://bifrost-polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -1444,7 +1446,8 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
-      "Parallel": "wss://rpc.parallel.fi"
+      "Dwellir": "wss://parallel-rpc.dwellir.com",
+      "Parallel": "wss://polkadot-parallel-rpc.parallel.fi"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1711,7 +1714,9 @@
     "ordinal": 45,
     "icon": "https://static-data.subwallet.app/chains/images/icon/interlay_53b0045be1.png",
     "providers": {
-      "Kintsugi Labs": "wss://api.interlay.io/parachain"
+      "Kintsugi Labs": "wss://api.interlay.io/parachain",
+      "Dwellir": "wss://interlay-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-interlay.luckyfriday.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1928,17 +1933,18 @@
     "ordinal": 50,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_dc0b44d234.png",
     "providers": {
-      "Polkadex Team": "wss://mainnet.polkadex.trade/"
+      "RadiumBlock": "wss://polkadex.public.curie.radiumblock.co/ws",
+      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": "polkadot",
-      "paraId": 2040,
-      "genesisHash": "0x72f3bba34b1ecd532bccbed46701ad37c4ef329bfe86b7cf014ac06cb92ed47d",
-      "addressPrefix": 89,
-      "chainType": "PARACHAIN",
-      "crowdloanUrl": "https://www.polkadex.trade/crowdloans",
-      "blockExplorer": "https://polkadex-parachain.subscan.io/",
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
+      "addressPrefix": 88,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://polkadex.subscan.io/",
       "existentialDeposit": "1000000000000",
       "symbol": "PDEX",
       "decimals": 12,
@@ -1946,22 +1952,10 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "crowdloanFunds": [
-        {
-          "relayChain": "polkadot",
-          "fundId": "2040-36",
-          "paraId": 2040,
-          "status": "won",
-          "startTime": "2022-06-07T01:48:00.000Z",
-          "endTime": "2024-04-09T01:48:00.000Z",
-          "auctionIndex": 16,
-          "firstPeriod": 8,
-          "lastPeriod": 15
-        }
-      ]
+      "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "polkadex-parachain"
+      "subscanSlug": "polkadex"
     }
   },
   {
@@ -5513,10 +5507,10 @@
           "relayChain": "polkadot",
           "fundId": "2025-75",
           "paraId": 2025,
-          "status": "in_auction",
+          "status": "won",
           "startTime": "2024-01-16T01:48:00.000Z",
           "endTime": "2025-11-18T01:48:00.000Z",
-          "auctionIndex": 0,
+          "auctionIndex": 59,
           "firstPeriod": 15,
           "lastPeriod": 22
         },
@@ -5575,7 +5569,9 @@
     "ordinal": 149,
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
-      "3dpass": "wss://rpc2.3dpass.org"
+      "3dpass": "wss://rpc.3dpass.org",
+      "3dpscan": "wss://rpc.3dpscan.io",
+      "3dpass2": "wss://rpc2.3dpass.org"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5585,7 +5581,7 @@
       "addressPrefix": 71,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://3dpscan.io/",
       "existentialDeposit": "1",
       "symbol": "P3D",
       "decimals": 12,
@@ -5753,7 +5749,7 @@
     "slug": "kate",
     "name": "Avail Kate Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 155,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
@@ -5908,7 +5904,8 @@
     "ordinal": 160,
     "icon": "https://static-data.subwallet.app/chains/images/icon/krest_6217afc787.png",
     "providers": {
-      "Peaq": "wss://wss-krest.peaq.network/"
+      "Peaq": "wss://wss-krest.peaq.network/",
+      "UnitedBloc": "wss://krest.unitedbloc.com/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5923,7 +5920,7 @@
       "symbol": "KREST",
       "decimals": 18,
       "hasNativeNft": false,
-      "supportStaking": false,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -5982,7 +5979,7 @@
     "ordinal": 162,
     "icon": "https://static-data.subwallet.app/chains/images/icon/jur_network_6aff4974ed.png",
     "providers": {
-      "DeeperNetwork": "wss://jur-archive-mainnet-1.simplystaking.xyz/VX68C07AR4K2/ws"
+      "Jur Archive": "wss://jur-mainnet-archive-rpc-1.icebergnodes.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6525,24 +6522,26 @@
     "slug": "energy_web_x",
     "name": "Energy Web X",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_50a9ff6147.png",
-    "providers": {},
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
+    "providers": {
+      "EWX": "wss://public-rpc.mainnet.energywebx.com/ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 3345,
-      "genesisHash": null,
-      "addressPrefix": null,
+      "genesisHash": "0x5a51e04b88a4784d205091aa7bada002f3e5da3045e5b05655ee4db2589c33b5",
+      "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
+      "existentialDeposit": "0",
+      "symbol": "EWT",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -6563,24 +6562,26 @@
   },
   {
     "slug": "invarch",
-    "name": "InvArch",
+    "name": "InvArch Network",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/invarch_d95283c9f7.png",
-    "providers": {},
+    "providers": {
+      "Dwellir": "wss://invarch-rpc.dwellir.com"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 3340,
-      "genesisHash": null,
-      "addressPrefix": null,
+      "genesisHash": "0x31a7d8914fb31c249b972f18c115f1e22b4b039abbcb03c73b6774c5642f9efe",
+      "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "VARCH",
+      "decimals": 12,
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
@@ -6907,26 +6908,28 @@
   },
   {
     "slug": "manta_network",
-    "name": "Manta Network",
+    "name": "Manta Atlantic",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_Light_214e514a42.png",
-    "providers": {},
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
+    "providers": {
+      "Manta Network": "wss://ws.manta.systems"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 2104,
-      "genesisHash": null,
-      "addressPrefix": null,
+      "genesisHash": "0xf3c7ad88f6a80f366c4be216691411ef0622e8b809b1046ea297ef106058d4eb",
+      "addressPrefix": 77,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://manta.subscan.io/",
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "MANTA",
+      "decimals": 18,
       "hasNativeNft": null,
-      "supportStaking": null,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -6993,26 +6996,28 @@
   },
   {
     "slug": "polimec",
-    "name": "Polimec",
+    "name": "Polimec Polkadot",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polimec_ddd1a7c51d.png",
-    "providers": {},
+    "providers": {
+      "Polimec": "wss://rpc.polimec.org"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 3344,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": null,
+      "genesisHash": "0x7eb9354488318e7549c722669dcbdcdc526f1fef1420e7944667212f3601fdbd",
+      "addressPrefix": 41,
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
+      "existentialDeposit": "10000000",
+      "symbol": "PLMC",
+      "decimals": 10,
+      "hasNativeNft": false,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -7254,7 +7259,7 @@
   },
   {
     "slug": "goldberg_testnet",
-    "name": "Goldberg Testnet",
+    "name": "Avail Goldberg Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -7281,5 +7286,161 @@
       "crowdloanFunds": []
     },
     "extraInfo": null
+  },
+  {
+    "slug": "energy_web_x_testnet",
+    "name": "EWX Staging Parachain",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
+    "providers": {
+      "EWX": "wss://ewx-staging-parachain-argon-wmfbanx0xb.energyweb.org/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 2000,
+      "genesisHash": "0x89cac7a3b10e408ad81c92013900023f4378713bef4e82c3e3efaf818f009ba4",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "0",
+      "symbol": "VT",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "energy_web_chain",
+    "name": "Energy Web Chain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png",
+    "providers": {
+      "Energy Web Chain": "https://rpc.energyweb.org"
+    },
+    "evmInfo": {
+      "evmChainId": 246,
+      "blockExplorer": "http://explorer.energyweb.org/",
+      "existentialDeposit": "0",
+      "symbol": "EWT",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://explorer.energyweb.org/api?module=contract&action=getabi"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "energy_web_x_rococo",
+    "name": "Energy Web X Rococo",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
+    "providers": {
+      "EWX": "wss://public-rpc.testnet.energywebx.com/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 3345,
+      "genesisHash": "0xac123be800b7c9a3e3449bb70edd8e3d9008d27826381451eebf94bce1db1fbe",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "0",
+      "symbol": "VT",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "manta_network_evm",
+    "name": "Manta Pacific",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
+    "providers": {
+      "Manta Pacific": "https://pacific-rpc.manta.network/http"
+    },
+    "evmInfo": {
+      "evmChainId": 169,
+      "blockExplorer": "https://pacific-explorer.manta.network/",
+      "existentialDeposit": null,
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://pacific-explorer.manta.network"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "polkadex_dot",
+    "name": "Polkadex Polkadot",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png",
+    "providers": {
+      "RadiumBlock": "wss://polkadex-parachain.public.curie.radiumblock.co/ws",
+      "Dwellir": "wss://polkadex-rpc.dwellir.com",
+      "OnFinality": "wss://polkadex-parachain.api.onfinality.io/public-ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 2040,
+      "genesisHash": "0x72f3bba34b1ecd532bccbed46701ad37c4ef329bfe86b7cf014ac06cb92ed47d",
+      "addressPrefix": 89,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": "https://www.polkadex.trade/crowdloans",
+      "blockExplorer": "https://polkadex-parachain.subscan.io/",
+      "existentialDeposit": "1000000000000",
+      "symbol": "PDEX",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": [
+        {
+          "relayChain": "polkadot",
+          "fundId": "2040-36",
+          "paraId": 2040,
+          "status": "won",
+          "startTime": "2022-06-07T01:48:00.000Z",
+          "endTime": "2024-04-09T01:48:00.000Z",
+          "auctionIndex": 16,
+          "firstPeriod": 8,
+          "lastPeriod": 15
+        }
+      ]
+    },
+    "extraInfo": {
+      "subscanSlug": "polkadex-parachain"
+    }
   }
 ]

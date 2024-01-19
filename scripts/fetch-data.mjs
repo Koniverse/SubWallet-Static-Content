@@ -84,6 +84,7 @@ const cacheConfigs = [
         imageFields: [],
         removeFields: [],
         preview: 'preview.json',
+        langs: ['en', 'vi', 'zh', 'ja', 'ru'],
     },
     {
         url: `${STRAPI_URL}/api/list/change-log`,
@@ -92,6 +93,16 @@ const cacheConfigs = [
         imageFields: [],
         removeFields: [],
         preview: 'preview.json',
+        langs: ['en', 'vi', 'zh', 'ja', 'ru'],
+    },
+    {
+        url: `${STRAPI_URL}/api/list/markdown-content`,
+        folder: 'markdown-contents',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: [],
+        preview: 'preview.json',
+        langs: ['en', 'vi', 'zh', 'ja', 'ru'],
     }
 ]
 
@@ -133,6 +144,8 @@ export async function downloadFile(url, downloadDir, forceFileName = null) {
     });
 }
 
+const downloadedFiles = {};
+
 const fetchAndProcessData = async (url, folder, downloadDir, fieldsImage) => {
     const results = await axios.get(url);
 
@@ -144,14 +157,36 @@ const fetchAndProcessData = async (url, folder, downloadDir, fieldsImage) => {
             const dataField = item[field];
             if (dataField) {
                 const folderFieldImage = `${downloadDir}/${field}`;
-                const newFileName = await downloadFile(dataField, folderFieldImage);
-                dataImages[field] = urlImage(folder, field, newFileName);
+                const imageKey = `${folderFieldImage}---${dataField}`;
+                const cachedImage = downloadedFiles[imageKey];
+                if (cachedImage) {
+                    dataImages[field] = urlImage(folder, field, cachedImage);
+                } else {
+                    const newFileName = cachedImage || await downloadFile(dataField, folderFieldImage);
+                    downloadedFiles[imageKey] = newFileName;
+                    dataImages[field] = urlImage(folder, field, newFileName);
+                }
             }
         }
         return {...item, ...dataImages};
     }));
 }
 
+const getFileNameByLang = (filename, lang) => {
+    return lang === '' ? filename : filename.replace('.json', `-${lang}.json`)
+}
+
+const getUrl = (url, preview, lang) => {
+    if (preview && lang !== '') {
+        return `${url}?preview=true&locale=${lang}`
+    } else if (preview) {
+        return `${url}?preview=true`
+    } else if (lang !== '') {
+        return `${url}?lang=${lang}`
+    } else {
+        return url
+    }
+}
 
 const main = async () => {
     // Filter config by folder
@@ -161,36 +196,43 @@ const main = async () => {
     const configs = folder ? cacheConfigs.filter((c) => c.folder === folder) : cacheConfigs;
     for (const config of configs) {
         console.log('Caching data with config', config)
-
+        const langs = [''];
         const folder = config.folder;
-        const path = savePath(folder, config.fileName);
-        const previewPath = config.preview && savePath(folder, config.preview);
         const fieldsImage = config.imageFields;
         const downloadDir = saveImagesPath(folder);
 
-        const dataContent = await fetchAndProcessData(config.url, folder, downloadDir, fieldsImage);
-        const previewData = config.preview && (await fetchAndProcessData(`${config.url}?preview=true`, folder, downloadDir, fieldsImage));
-
-        if (config.additionalProcess) {
-            for (const process of config.additionalProcess) {
-                const data = process.processor(dataContent, previewData);
-                await writeJSONFile(savePath(folder, process.fileName), data);
-            }
+        if (config.langs) {
+            langs.push(...config.langs)
         }
 
-        for (const f of config.removeFields) {
-            for (const item of dataContent) {
-                item[f] && delete item[f];
-            }
-            if (previewData) {
-                for (const item of previewData) {
-                    item[f] && delete item[f];
+        for (const lang of langs) {
+            const path = savePath(folder, getFileNameByLang(config.fileName, lang));
+            const previewPath = config.preview && savePath(folder, getFileNameByLang(config.preview, lang));
+
+            const dataContent = await fetchAndProcessData(getUrl(config.url, false, lang), folder, downloadDir, fieldsImage);
+            const previewData = config.preview && (await fetchAndProcessData(getUrl(config.url, true, lang), folder, downloadDir, fieldsImage));
+
+            if (config.additionalProcess) {
+                for (const process of config.additionalProcess) {
+                    const data = process.processor(dataContent, previewData);
+                    await writeJSONFile(savePath(folder, process.fileName), data);
                 }
             }
-        }
 
-        isProduction && await writeJSONFile(path, dataContent);
-        previewData && await writeJSONFile(previewPath, previewData);
+            for (const f of config.removeFields) {
+                for (const item of dataContent) {
+                    item[f] && delete item[f];
+                }
+                if (previewData) {
+                    for (const item of previewData) {
+                        item[f] && delete item[f];
+                    }
+                }
+            }
+
+            isProduction && await writeJSONFile(path, dataContent);
+            previewData && await writeJSONFile(previewPath, previewData);
+        }
     }
 }
 
