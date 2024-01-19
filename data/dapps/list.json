@@ -1601,6 +1601,27 @@
     ]
   },
   {
+    "id": 134,
+    "title": "DOTins App",
+    "description": "The all-in-one platform to create, transfer, and manage your inscriptions on the relay chain and any parachain.",
+    "url": "https://app.dotins.io/",
+    "subtitle": "Omni-Inscriptions Marketplace on Polkadot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 75,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotins_a8804fde1d.png",
+    "preview_image": null,
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      "nft",
+      "utilities"
+    ]
+  },
+  {
     "id": 22,
     "title": "Sirius Finance",
     "description": "Sirius Finance is a cross-chain stablecoin AMM, attracting and locking tremendous value with low-slippage trading costs, attractive APY for LPs on Astar Network, allowing for more financial innovations & yield enhancements for Astar users.",
