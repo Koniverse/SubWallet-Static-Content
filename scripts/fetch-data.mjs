@@ -76,6 +76,22 @@ const cacheConfigs = [
         imageFields: [],
         removeFields: [],
         preview: 'preview.json',
+    },
+    {
+        url: `${STRAPI_URL}/api/list/instruction`,
+        folder: 'instructions',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: [],
+        preview: 'preview.json',
+    },
+    {
+        url: `${STRAPI_URL}/api/list/change-log`,
+        folder: 'change-logs',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: [],
+        preview: 'preview.json',
     }
 ]
 

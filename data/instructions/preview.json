@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "group": "earning",
+    "slug": "NOMINATION_POOL",
+    "instructions": [
+      {
+        "id": 1,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select active pool",
+        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards"
+      },
+      {
+        "id": 2,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are not automated and will incur network fees"
+      },
+      {
+        "id": 3,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 4,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
+      }
+    ]
+  }
+]
