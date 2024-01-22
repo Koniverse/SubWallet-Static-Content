@@ -455,8 +455,8 @@
     "notifications": []
   },
   {
-    "id": 29,
-    "name": "Stake DOT earn many",
+    "id": 31,
+    "name": "Stake DOT earn many test",
     "description": null,
     "start_time": "2023-10-23T08:00:00.000Z",
     "end_time": "2024-11-07T16:00:00.000Z",
@@ -465,7 +465,7 @@
     },
     "banners": [
       {
-        "id": 58,
+        "id": 64,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
@@ -483,7 +483,7 @@
         "media": null
       },
       {
-        "id": 59,
+        "id": 65,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
@@ -519,7 +519,7 @@
         "media": null
       },
       {
-        "id": 60,
+        "id": 66,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
@@ -557,7 +557,7 @@
     ],
     "notifications": [
       {
-        "id": 10,
+        "id": 12,
         "title": "Earn DOT rewards with SubWallet",
         "message": "Stake DOT now at SubWallet Web Dashboard with top protocols to earn exclusive rewards. Only from Oct 24 to Nov 07, be quick!",
         "repeat": 1,
@@ -581,8 +581,8 @@
     ]
   },
   {
-    "id": 30,
-    "name": "Stake DOT earn many 2",
+    "id": 32,
+    "name": "Stake DOT earn many test 2",
     "description": null,
     "start_time": "2023-10-23T08:00:00.000Z",
     "end_time": "2024-11-07T16:00:00.000Z",
@@ -591,7 +591,7 @@
     },
     "banners": [
       {
-        "id": 61,
+        "id": 67,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
@@ -609,7 +609,7 @@
         "media": null
       },
       {
-        "id": 62,
+        "id": 68,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
@@ -642,10 +642,10 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app/Crowdloan_unlock_batch_7_1200x600_addb0dedfc.png"
+        "media": null
       },
       {
-        "id": 63,
+        "id": 69,
         "alt": "Stake Dot, Earn Many",
         "action": "open_url",
         "metadata": {
@@ -683,7 +683,7 @@
     ],
     "notifications": [
       {
-        "id": 11,
+        "id": 13,
         "title": "Earn DOT rewards with SubWallet",
         "message": "Stake DOT now at SubWallet Web Dashboard with top protocols to earn exclusive rewards. Only from Oct 24 to Nov 07, be quick!",
         "repeat": 1,
