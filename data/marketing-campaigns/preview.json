@@ -479,6 +479,28 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
+      },
+      {
+        "id": 105,
+        "alt": null,
+        "action": "open_url",
+        "metadata": null,
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Đít mít",
+            "icon": null,
+            "color": "secondary",
+            "type": null,
+            "metadata": null
+          }
+        ],
+        "media": "https://media-resources.subwallet.app/Important_notice_a662a929ce.png"
       }
     ],
     "notifications": []
