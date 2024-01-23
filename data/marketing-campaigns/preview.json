@@ -496,8 +496,10 @@
             "name": "Đít mít",
             "icon": null,
             "color": "secondary",
-            "type": null,
-            "metadata": null
+            "type": "open_view",
+            "metadata": {
+              "url": "subwallet://home/main/earning/earning-list"
+            }
           }
         ],
         "media": "https://media-resources.subwallet.app/Important_notice_a662a929ce.png"
