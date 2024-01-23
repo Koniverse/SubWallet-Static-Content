@@ -498,7 +498,7 @@
             }
           }
         ],
-        "media": null
+        "media": "https://media-resources.subwallet.app//6/Important_notice_1_4770c76194.png"
       },
       {
         "id": 106,
@@ -514,7 +514,7 @@
           "crowdloan"
         ],
         "buttons": [],
-        "media": null
+        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
       }
     ],
     "notifications": []
