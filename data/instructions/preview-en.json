@@ -1,40 +1,40 @@
 [
   {
-    "id": 5,
+    "id": 7,
     "group": "earning",
     "slug": "DAPP_STAKING",
     "locale": "en",
     "instructions": [
       {
-        "id": 21,
+        "id": 29,
         "icon": "ThumbsUp",
         "icon_color": "#aada62",
         "title": "Select {validatorNumber} dApps",
         "description": "It is recommended that you select {validatorNumber} dApp to optimize your staking rewards"
       },
       {
-        "id": 22,
+        "id": 30,
         "icon": "Coins",
         "icon_color": "#e6dc25",
         "title": "Unstake and withdraw",
         "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are <strong>not automated</strong> and will incur network fees"
       },
       {
-        "id": 23,
+        "id": 32,
         "icon": "CheckCircle",
         "icon_color": "#4cd9ac",
         "title": "Keep your transferable balance",
         "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, reward claiming, unstaking and withdrawals"
       },
       {
-        "id": 24,
+        "id": 31,
         "icon": "Wallet",
         "icon_color": "#51BC5E",
         "title": "Claim your rewards",
         "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
       },
       {
-        "id": 25,
+        "id": 33,
         "icon": "Eye",
         "icon_color": "#008dff",
         "title": "Track your stake",

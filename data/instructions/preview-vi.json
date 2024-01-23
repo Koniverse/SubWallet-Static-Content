@@ -1,1 +1,289 @@
-[]
+[
+  {
+    "id": 32,
+    "group": "earning",
+    "slug": "DAPP_STAKING",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 146,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select {validatorNumber} dApps",
+        "description": "It is recommended that you select {validatorNumber} dApp to optimize your staking rewards"
+      },
+      {
+        "id": 147,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are <strong>not automated</strong> and will incur network fees"
+      },
+      {
+        "id": 148,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, reward claiming, unstaking and withdrawals"
+      },
+      {
+        "id": 149,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
+      },
+      {
+        "id": 150,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "group": "earning",
+    "slug": "LENDING",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 114,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Receive {derivative}",
+        "description": "You will receive {derivative} as a representation of your supplied {inputToken}"
+      },
+      {
+        "id": 115,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Withdraw anytime",
+        "description": "Once supplied, your funds will be locked. Withdraw your funds anytime with a fee"
+      },
+      {
+        "id": 116,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 117,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Check your {derivative}",
+        "description": "The amount of {derivative} doesn’t increase over time, only its value in {inputToken} does. This means that by the time you decide to withdraw {inputToken} from {derivative}, your {derivative} should be worth more than your originally supplied {inputToken}"
+      },
+      {
+        "id": 118,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your APY",
+        "description": "Keep an eye on your supply as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "group": "earning",
+    "slug": "LIQUID_STAKING",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 94,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Receive {derivative}",
+        "description": "You will receive {derivative} as a representation of your staked {inputToken}"
+      },
+      {
+        "id": 95,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw immediately with a higher fee or wait {periodNumb} before withdrawing with a lower fee"
+      },
+      {
+        "id": 96,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 97,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Check your {derivative}",
+        "description": "The amount of {derivative} doesn’t increase over time, only its value in {inputToken} does. This means that by the time you decide to withdraw {inputToken} from {derivative}, your {derivative} should be worth more than your originally staked {inputToken}"
+      },
+      {
+        "id": 98,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your APY",
+        "description": "Keep an eye on your stake as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "group": "earning",
+    "slug": "NATIVE_STAKING",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 74,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select {validatorNumber} {validatorType}",
+        "description": "It is recommended that you select {validatorNumber} {validatorType} to optimize your staking rewards"
+      },
+      {
+        "id": 75,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are <strong>not automated</strong> and will incur network fees"
+      },
+      {
+        "id": 76,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 77,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Check your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hour and will be automatically compounded to your stake"
+      },
+      {
+        "id": 78,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Manage your stake",
+        "description": "You need to monitor your stake constantly and change {validatorType} when needed as staking status can fluctuate over time"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "group": "earning",
+    "slug": "NOMINATION_POOL",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 54,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select active pool",
+        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards"
+      },
+      {
+        "id": 55,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are not automated and will incur network fees"
+      },
+      {
+        "id": 56,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 57,
+        "icon": "Wallet",
+        "icon_color": null,
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
+      },
+      {
+        "id": 58,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "group": "earning",
+    "slug": "NOMINATION_POOL",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 49,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select active pool",
+        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards"
+      },
+      {
+        "id": 50,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are not automated and will incur network fees"
+      },
+      {
+        "id": 51,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 52,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
+      },
+      {
+        "id": 53,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "group": "earning",
+    "slug": "UNSTAKE_INFO",
+    "locale": "vi",
+    "instructions": [
+      {
+        "id": 134,
+        "icon": "ClockClockwise",
+        "icon_color": "#2595e6",
+        "title": "Wait time",
+        "description": "Once unstaked, your funds will become available for withdrawal after {unBondedTime}"
+      },
+      {
+        "id": 135,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "No rewards",
+        "description": "During the unstaking period of {unBondedTime}, your tokens produce no rewards"
+      },
+      {
+        "id": 136,
+        "icon": "DownloadSimple",
+        "icon_color": "#aada62",
+        "title": "Manual withdrawal",
+        "description": "Keep in mind that you need to withdraw manually after the wait time is over"
+      }
+    ]
+  }
+]
