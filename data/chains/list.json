@@ -15,7 +15,8 @@
       "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
-      "Light Client": "light://substrate-connect/polkadot"
+      "Light Client": "light://substrate-connect/polkadot",
+      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5979,7 +5980,7 @@
     "ordinal": 162,
     "icon": "https://static-data.subwallet.app/chains/images/icon/jur_network_6aff4974ed.png",
     "providers": {
-      "Jur Archive": "wss://jur-mainnet-archive-rpc-1.icebergnodes.io"
+      "Jur Mainnet": "wss://mainnet.jur.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
