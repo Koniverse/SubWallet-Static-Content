@@ -5979,7 +5979,7 @@
     "ordinal": 162,
     "icon": "https://static-data.subwallet.app/chains/images/icon/jur_network_6aff4974ed.png",
     "providers": {
-      "Jur Archive": "wss://jur-mainnet-archive-rpc-1.icebergnodes.io"
+      "Jur Mainnet": "wss://mainnet.jur.io/"
     },
     "evmInfo": null,
     "substrateInfo": {

@@ -14,12 +14,15 @@ const cacheConfigs = [
         imageFields: ['icon'],
         removeFields: ['id'],
         preview: 'preview.json',
-        additionalProcess: [{
-            fileName: 'logo_map.json',
-            processor: (data, preview_data) => {
-                return Object.fromEntries(preview_data.map((c) => ([c.slug, c.icon])));
-            },
-        }]
+        additionalProcess: [
+            (data, preview_data, config, lang) => {
+                const {folder} = config;
+                const combineData = Object.fromEntries(preview_data.map((c) => ([c.slug, c.icon])));
+                const path = savePath(folder, getFileNameByLang('logo_map.json', lang))
+
+                writeJSONFile(path, combineData).catch(console.error)
+            }
+        ]
     },
     {
         url: `${STRAPI_URL}/api/list/dapp`,
@@ -214,8 +217,7 @@ const main = async () => {
 
             if (config.additionalProcess) {
                 for (const process of config.additionalProcess) {
-                    const data = process.processor(dataContent, previewData);
-                    await writeJSONFile(savePath(folder, process.fileName), data);
+                    process(dataContent, previewData, config, lang);
                 }
             }
 
