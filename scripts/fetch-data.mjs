@@ -113,7 +113,7 @@ const cacheConfigs = [
                 }
                 if (data.length > 0) {
                     const folderParent = config.folder;
-                    for (const dataContent of data) {
+                    for (const dataContent of preview_data) {
                         const prefix = isProduction ? config.fileName : config.preview;
                         const fileName = getFileNameByLang(prefix, lang);
                         const {folder, content, description} = dataContent;
