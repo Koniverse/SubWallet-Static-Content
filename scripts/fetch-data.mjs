@@ -108,10 +108,7 @@ const cacheConfigs = [
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
         additionalProcess: [
             (data, preview_data, config, lang, isProduction) => {
-                if (lang === '') {
-                    return;
-                }
-                if (data.length > 0) {
+                if (data.length > 0 || preview_data.length > 0) {
                     const folderParent = config.folder;
                     for (const dataContent of preview_data) {
                         const prefix = isProduction ? config.fileName : config.preview;
