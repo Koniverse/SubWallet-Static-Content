@@ -15,7 +15,7 @@ const cacheConfigs = [
         removeFields: ['id'],
         preview: 'preview.json',
         additionalProcess: [
-            (data, preview_data, config, lang) => {
+            (data, preview_data, config, lang, isProduction) => {
                 const {folder} = config;
                 const combineData = Object.fromEntries(preview_data.map((c) => ([c.slug, c.icon])));
                 const path = savePath(folder, getFileNameByLang('logo_map.json', lang))
@@ -106,11 +106,37 @@ const cacheConfigs = [
         removeFields: [],
         preview: 'preview.json',
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
+        additionalProcess: [
+            (data, preview_data, config, lang, isProduction) => {
+                if (lang === '') {
+                    return;
+                }
+                if (data.length > 0) {
+                    const folderParent = config.folder;
+                    for (const dataContent of data) {
+                        const prefix = isProduction ? config.fileName : config.preview;
+                        const fileName = getFileNameByLang(prefix, lang);
+                        const {folder, content, description} = dataContent;
+                        const contentSave = {
+                            content, description
+                        }
+                        const folderPath = saveFolderChild(folderParent, folder);
+                        if (!fs.existsSync(folderPath)) {
+                            fs.mkdirSync(folderPath, {recursive: true});
+                        }
+                        const filePath = saveFileInFolderChild(folderParent, folder, fileName);
+                        writeJSONFile(filePath, contentSave).catch(console.error)
+                    }
+                }
+            }
+        ]
     }
 ]
 
 const savePath = (folder, fileName) => `data/${folder}/${fileName || 'list.json'}`;
 const saveImagesPath = (folder) => `data/${folder}/images`;
+const saveFolderChild = (folderParent, folder) => `data/${folderParent}/${folder}`;
+const saveFileInFolderChild = (folderParent, folder, fileName) => `data/${folderParent}/${folder}/${fileName}`;
 const urlImage = (folder, field, name) => `${RESOURCE_URL}/${folder}/images/${field}/${name}`;
 
 export async function downloadFile(url, downloadDir, forceFileName = null) {
@@ -185,7 +211,7 @@ const getUrl = (url, preview, lang) => {
     } else if (preview) {
         return `${url}?preview=true`
     } else if (lang !== '') {
-        return `${url}?lang=${lang}`
+        return `${url}?locale=${lang}`
     } else {
         return url
     }
@@ -217,7 +243,7 @@ const main = async () => {
 
             if (config.additionalProcess) {
                 for (const process of config.additionalProcess) {
-                    process(dataContent, previewData, config, lang);
+                    process(dataContent, previewData, config, lang, isProduction);
                 }
             }
 
