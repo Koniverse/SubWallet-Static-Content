@@ -7443,5 +7443,35 @@
     "extraInfo": {
       "subscanSlug": "polkadex-parachain"
     }
+  },
+  {
+    "slug": "bittensor_testnet",
+    "name": "Bittensor Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png",
+    "providers": {
+      "Testnet": "wss://test.finney.opentensor.ai:443"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x8f9cf856bf558a14440e75569c9e58594757048d7b3a84b5d25f6bd978263105",
+      "addressPrefix": 42,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "TAO",
+      "decimals": 9,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
   }
 ]

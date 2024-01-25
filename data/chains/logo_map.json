@@ -206,5 +206,6 @@
   "energy_web_chain": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png",
   "energy_web_x_rococo": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
   "manta_network_evm": "https://static-data.subwallet.app/chains/images/icon/Manta_Network_1871b13795.png",
-  "polkadex_dot": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png"
+  "polkadex_dot": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png",
+  "bittensor_testnet": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png"
 }

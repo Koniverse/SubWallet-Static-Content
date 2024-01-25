@@ -1652,7 +1652,13 @@
       "owner_display": {
         "address": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
         "display": "Bifrost Foundation",
-        "identity": true
+        "identity": true,
+        "judgements": [
+          {
+            "index": 1,
+            "judgement": "Reasonable"
+          }
+        ]
       },
       "start_block_at": 1650593100,
       "end_lease_block": 20558199,
@@ -8387,7 +8393,13 @@
       "owner_display": {
         "address": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
         "display": "Bifrost Foundation",
-        "identity": true
+        "identity": true,
+        "judgements": [
+          {
+            "index": 1,
+            "judgement": "Reasonable"
+          }
+        ]
       },
       "start_block_at": 1700811288,
       "end_lease_block": 28736399,
@@ -8467,9 +8479,9 @@
       "cap": "600000000000000",
       "owner": "14fhPR28n9EHZitNyf6wjYZVBPwKgcgogVjJPTzvCcb8qi9G",
       "bid_id": "",
-      "raised": "51655885210919",
+      "raised": "53665885210919",
       "status": 1,
-      "balance": "51655885210919",
+      "balance": "53665885210919",
       "fund_id": "2011-83",
       "para_id": 2011,
       "end_block": 20304000,
@@ -8478,7 +8490,7 @@
       ],
       "last_period": 23,
       "start_block": 19068048,
-      "contributors": 116,
+      "contributors": 126,
       "first_period": 16,
       "auction_index": 0,
       "owner_display": {
@@ -8499,10 +8511,10 @@
       "start_block_at": 1705416204,
       "end_lease_block": 29980800,
       "extrinsic_index": "19068048-3",
-      "last_change_block": 19172497,
+      "last_change_block": 19187759,
       "fund_auction_status": 1,
       "last_change_event_idx": 46,
-      "last_change_timestamp": 1706047980
+      "last_change_timestamp": 1706140362
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,
@@ -8520,9 +8532,9 @@
       "cap": "3000000000000000",
       "owner": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
       "bid_id": "60-16-23",
-      "raised": "323702203704946",
+      "raised": "324432203704946",
       "status": 1,
-      "balance": "323702203704946",
+      "balance": "324432203704946",
       "fund_id": "3356-82",
       "para_id": 3356,
       "end_block": 20275200,
@@ -8531,21 +8543,27 @@
       ],
       "last_period": 23,
       "start_block": 19067062,
-      "contributors": 120,
+      "contributors": 126,
       "first_period": 16,
       "auction_index": 60,
       "owner_display": {
         "address": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
         "display": "Bifrost Foundation",
-        "identity": true
+        "identity": true,
+        "judgements": [
+          {
+            "index": 1,
+            "judgement": "Reasonable"
+          }
+        ]
       },
       "start_block_at": 1705410258,
       "end_lease_block": 29952000,
       "extrinsic_index": "19067062-2",
-      "last_change_block": 19166803,
+      "last_change_block": 19187763,
       "fund_auction_status": 1,
-      "last_change_event_idx": 43,
-      "last_change_timestamp": 1706013588
+      "last_change_event_idx": 65,
+      "last_change_timestamp": 1706140386
     },
     "relayChain": "polkadot",
     "auctionIndex": 60,
@@ -8580,7 +8598,13 @@
       "owner_display": {
         "address": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
         "display": "Bifrost Foundation",
-        "identity": true
+        "identity": true,
+        "judgements": [
+          {
+            "index": 1,
+            "judgement": "Reasonable"
+          }
+        ]
       },
       "start_block_at": 1705410174,
       "end_lease_block": 29952000,
