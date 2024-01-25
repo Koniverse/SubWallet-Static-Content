@@ -15,7 +15,7 @@ jobs:
         run: |
           curl -s "https://itunes.apple.com/br/lookup?bundleId=app.subwallet.mobile" | jq -r '.results[0].version' > latest_version
           latest_version=$(cat latest_version)
-          latest_config_version=echo $(jq -r '.buy | sort_by(1.1) | last' ./data/tokens/config.json)
+          latest_config_version=$(jq -r '.buy | sort_by(1.1) | last' ./data/tokens/config.json)
           if [[ "$latest_version" > "$latest_config_version" ]]; then 
             # Update newer version into config file
             jq -r '.buy += ["$latest_version"]' ./data/tokens/config.json > config.json.tmp && mv config.json.tmp ./data/tokens/config.json
