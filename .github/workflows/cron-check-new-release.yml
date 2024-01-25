@@ -27,6 +27,6 @@ jobs:
             -H "Accept: application/vnd.github.v3+json" \
             -H "Authorization: token ${{ secrets.GH_AUTOMATION_TOKEN }}" \
             https://api.github.com/repos/Koniverse/SubWallet-Static-Content/actions/workflows/update-static-data.yml/dispatches \
-            -d '{"ref": "main", "inputs": {"branch": "main", "environment": "development", "folder": "optional-folder"}}'
+            -d '{"ref": "main", "inputs": {"branch": "main", "environment": "development"}}'
           fi
           echo "latest version: $latest_version, latest config version: $latest_config_version"
