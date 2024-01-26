@@ -7467,7 +7467,7 @@
       "symbol": "TAO",
       "decimals": 9,
       "hasNativeNft": null,
-      "supportStaking": null,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
