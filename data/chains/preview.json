@@ -15,8 +15,7 @@
       "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
-      "Light Client": "light://substrate-connect/polkadot",
-      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
+      "Light Client": "light://substrate-connect/polkadot"
     },
     "evmInfo": null,
     "substrateInfo": {
