@@ -15,7 +15,8 @@
       "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
-      "Light Client": "light://substrate-connect/polkadot"
+      "Light Client": "light://substrate-connect/polkadot",
+      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2799,7 +2800,7 @@
       "addressPrefix": 67,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://genshiro.equilibrium.io/en",
-      "blockExplorer": "https://genshiro.subscan.io/",
+      "blockExplorer": null,
       "existentialDeposit": null,
       "symbol": "GENS",
       "decimals": 9,
@@ -6157,7 +6158,7 @@
       "symbol": "TAO",
       "decimals": 9,
       "hasNativeNft": false,
-      "supportStaking": false,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
