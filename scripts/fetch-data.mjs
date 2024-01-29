@@ -141,18 +141,7 @@ const cacheConfigs = [
                 // console.error('Processing data for chain-assets', preview_data)
                 if (preview_data.length > 0 || data.length > 0) {
                     const {folder} = config;
-                    const downloadDir = saveImagesPath(folder);
                     const chains = await Promise.all(preview_data.map(async asset => {
-                        let iconURL = asset.icon;
-                        if (iconURL) {
-                            try {
-                                const newFileName = await downloadFile(iconURL, downloadDir, asset.slug.toLowerCase());
-                                iconURL = `${RESOURCE_URL}/assets/chain-assets/${newFileName}`;
-                            } catch (e) {
-                                console.error(e);
-                            }
-                        }
-
                         return {
                             originChain: asset.originChain,
                             slug: asset.slug,
@@ -165,7 +154,7 @@ const cacheConfigs = [
                             metadata: asset.metadata,
                             multiChainAsset: asset.multiChainAsset || null,
                             hasValue: asset.hasValue,
-                            icon: iconURL
+                            icon: asset.icon
                         }
                     }));
 
@@ -201,15 +190,12 @@ const cacheConfigs = [
                             }
                         }
                     }
+
                     const prefix = isProduction ? 'list-' : 'preview-';
                     const path = savePath(folder, `${prefix}price-map.json`);
-                    const pathAsset = savePath(folder, `${prefix}asset.json`);
-                    const pathAssetRef = savePath(folder, `${prefix}asset-ref.json`);
                     const pathDisabledXcmChannels = savePath(folder, `${prefix}disabled-xcm-channels.json`);
 
                     writeJSONFile(path, dataSave).catch(console.error)
-                    writeJSONFile(pathAsset, assetMap).catch(console.error)
-                    writeJSONFile(pathAssetRef, refMap).catch(console.error)
                     writeJSONFile(pathDisabledXcmChannels, disabledXcmChannels).catch(console.error)
                 }
             }
@@ -221,42 +207,7 @@ const cacheConfigs = [
         fileName: 'list.json',
         imageFields: ['icon'],
         removeFields: ['id'],
-        preview: 'preview.json',
-        additionalProcess: [
-            async (data, preview_data, config, lang, isProduction) => {
-                console.log('Processing data for multi-chain-assets', preview_data)
-                if (preview_data.length > 0 || data.length > 0) {
-                    const {folder} = config;
-                    const downloadDir = saveImagesPath(folder);
-                    const chains = await Promise.all(data.map(async mAsset => {
-                        let iconURL = mAsset.icon;
-                        if (iconURL) {
-                            try {
-                                const newFileName = await downloadFile(iconURL, downloadDir, mAsset.slug.toLowerCase());
-                                iconURL = `${RESOURCE_URL}/assets/${folder}/${newFileName}`;
-                            } catch (e) {
-                                console.error(e);
-                            }
-                        }
-
-                        return {
-                            slug: mAsset.slug,
-                            originChainAsset: mAsset.originChainAsset,
-                            name: mAsset.name,
-                            symbol: mAsset.symbol,
-                            priceId: mAsset.priceId,
-                            hasValue: mAsset.hasValue,
-                            icon: iconURL,
-                        }
-                    }));
-                    const mAssetMap = Object.fromEntries(chains.map(chain => [chain.slug, chain]));
-                    const prefix = isProduction ? 'list-' : 'preview-';
-                    const pathAsset = savePath(folder, `${prefix}multi-asset.json`);
-                    writeJSONFile(pathAsset, mAssetMap).catch(console.error)
-
-                }
-            }
-        ]
+        preview: 'preview.json'
     },
 ]
 
