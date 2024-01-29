@@ -185,15 +185,16 @@ const cacheConfigs = [
                         if (item.assetRefs && item.assetRefs.length > 0) {
                             for (const assetRef of item.assetRefs) {
                                 if (assetRef.disable) {
-                                    disabledXcmChannels.push(assetRef.destAsset)
+                                    const slugDisable = `${item.slug}___${assetRef.destAsset}`
+                                    disabledXcmChannels.push(slugDisable)
                                 }
                             }
                         }
                     }
 
-                    const prefix = isProduction ? 'list-' : 'preview-';
-                    const path = savePath(folder, `${prefix}price-map.json`);
-                    const pathDisabledXcmChannels = savePath(folder, `${prefix}disabled-xcm-channels.json`);
+                    const prefix = isProduction ? 'list' : 'preview';
+                    const path = savePath('price-map', `${prefix}.json`);
+                    const pathDisabledXcmChannels = savePath('disabled-xcm-channels', `${prefix}.json`);
 
                     writeJSONFile(path, dataSave).catch(console.error)
                     writeJSONFile(pathDisabledXcmChannels, disabledXcmChannels).catch(console.error)
