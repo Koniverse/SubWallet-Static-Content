@@ -7,6 +7,8 @@
     "ordinal": 1,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
     "providers": {
+      "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
+      "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
     },
