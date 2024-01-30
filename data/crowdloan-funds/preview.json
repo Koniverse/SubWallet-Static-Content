@@ -8479,18 +8479,19 @@
       "cap": "600000000000000",
       "owner": "14fhPR28n9EHZitNyf6wjYZVBPwKgcgogVjJPTzvCcb8qi9G",
       "bid_id": "",
-      "raised": "54525885210919",
+      "raised": "67681906594181",
       "status": 1,
-      "balance": "54525885210919",
+      "balance": "67681906594181",
       "fund_id": "2011-83",
       "para_id": 2011,
       "end_block": 20304000,
       "in_auctions": [
-        60
+        60,
+        61
       ],
       "last_period": 23,
       "start_block": 19068048,
-      "contributors": 130,
+      "contributors": 152,
       "first_period": 16,
       "auction_index": 0,
       "owner_display": {
@@ -8511,10 +8512,10 @@
       "start_block_at": 1705416204,
       "end_lease_block": 29980800,
       "extrinsic_index": "19068048-3",
-      "last_change_block": 19200759,
+      "last_change_block": 19257302,
       "fund_auction_status": 1,
-      "last_change_event_idx": 54,
-      "last_change_timestamp": 1706219220
+      "last_change_event_idx": 55,
+      "last_change_timestamp": 1706561430
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,
@@ -8532,18 +8533,19 @@
       "cap": "3000000000000000",
       "owner": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
       "bid_id": "60-16-23",
-      "raised": "325032203704946",
+      "raised": "338842203704946",
       "status": 1,
-      "balance": "325032203704946",
+      "balance": "338842203704946",
       "fund_id": "3356-82",
       "para_id": 3356,
       "end_block": 20275200,
       "in_auctions": [
-        60
+        60,
+        61
       ],
       "last_period": 23,
       "start_block": 19067062,
-      "contributors": 128,
+      "contributors": 141,
       "first_period": 16,
       "auction_index": 60,
       "owner_display": {
@@ -8560,10 +8562,10 @@
       "start_block_at": 1705410258,
       "end_lease_block": 29952000,
       "extrinsic_index": "19067062-2",
-      "last_change_block": 19200761,
+      "last_change_block": 19249967,
       "fund_auction_status": 1,
-      "last_change_event_idx": 43,
-      "last_change_timestamp": 1706219232
+      "last_change_event_idx": 60,
+      "last_change_timestamp": 1706517012
     },
     "relayChain": "polkadot",
     "auctionIndex": 60,
