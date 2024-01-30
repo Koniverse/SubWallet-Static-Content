@@ -21,7 +21,7 @@
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "acala-LOCAL-DOT"
       },
       {
