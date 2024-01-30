@@ -193,8 +193,8 @@ const cacheConfigs = [
                     }
 
                     const prefix = isProduction ? 'list' : 'preview';
-                    const path = savePath('price-map', `${prefix}.json`);
-                    const pathDisabledXcmChannels = savePath('disabled-xcm-channels', `${prefix}.json`);
+                    const path = savePath(`${folder}/price-map`, `${prefix}.json`);
+                    const pathDisabledXcmChannels = savePath(`${folder}/disabled-xcm-channels`, `${prefix}.json`);
 
                     writeJSONFile(path, dataSave).catch(console.error)
                     writeJSONFile(pathDisabledXcmChannels, disabledXcmChannels).catch(console.error)
