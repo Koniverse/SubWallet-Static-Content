@@ -23,7 +23,7 @@
   "acala-LOCAL-LDOT": "liquid-staking-dot",
   "acala-LOCAL-LcDOT": null,
   "acala-LOCAL-tDOT": null,
-  "alephTest-NATIVE-TZERO": null,
+  "alephTest-NATIVE-TZERO": "bitcoin",
   "moonbeam-LOCAL-xcDOT": "polkadot",
   "moonbeam-LOCAL-xcINTR": "interlay",
   "moonbeam-LOCAL-xciBTC": "interbtc",

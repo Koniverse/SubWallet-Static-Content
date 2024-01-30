@@ -575,7 +575,7 @@
     "name": "Aleph Zero Testnet",
     "symbol": "TZERO",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "bitcoin",
     "minAmount": "500",
     "assetType": "NATIVE",
     "metadata": null,
