@@ -21,7 +21,7 @@
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "acala-LOCAL-DOT"
       },
       {
@@ -8917,6 +8917,44 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
     "originChain": "bittensor_testnet",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-PINK",
+    "name": "Statemint",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "23"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "statemint",
+    "multiChainAsset": "PINK-Statemint",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcPINK",
+    "name": "Moonbeam",
+    "symbol": "xcPINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "42259045809535163221576417993425387648",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xfFfFFfFf30478fAFBE935e466da114E14fB3563d"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "PINK-Statemint",
     "assetRefs": []
   }
 ]
