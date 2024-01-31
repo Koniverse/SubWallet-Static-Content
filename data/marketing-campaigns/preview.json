@@ -456,7 +456,7 @@
   },
   {
     "id": 49,
-    "name": "Unlock batch 2 (Extension)",
+    "name": "Test - Unlock batch 2 (Extension)",
     "description": null,
     "start_time": "2024-01-30T05:00:00.000Z",
     "end_time": "2024-02-01T16:59:00.000Z",
@@ -498,7 +498,7 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app/Crowdloan_unlock_batch_7_1200x600_addb0dedfc.png"
+        "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
       },
       {
         "id": 111,
