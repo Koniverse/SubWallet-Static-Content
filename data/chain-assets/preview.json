@@ -4,7 +4,7 @@
     "name": "Polkadot",
     "symbol": "DOT",
     "decimals": 10,
-    "priceId": "bitcoin",
+    "priceId": "polkadot",
     "minAmount": "10000000000",
     "assetType": "NATIVE",
     "metadata": null,
