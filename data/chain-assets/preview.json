@@ -16,7 +16,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       },
       {
