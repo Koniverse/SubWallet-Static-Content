@@ -78,12 +78,12 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
