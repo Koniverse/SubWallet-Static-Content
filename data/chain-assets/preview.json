@@ -78,7 +78,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
@@ -2240,7 +2240,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "kusama-NATIVE-KSM"
       }
     ]
@@ -8903,7 +8903,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "manta_network-NATIVE-MANTA"
       }
     ]

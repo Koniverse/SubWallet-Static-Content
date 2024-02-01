@@ -1,10 +1,7 @@
 [
-  "kusama-NATIVE-KSM___statemine-NATIVE-KSM",
   "kusama-NATIVE-KSM___moonriver-LOCAL-xcKSM",
   "kusama-NATIVE-KSM___shiden-LOCAL-KSM",
   "kusama-NATIVE-KSM___karura-LOCAL-KSM",
   "kusama-NATIVE-KSM___bifrost-LOCAL-KSM",
-  "kusama-NATIVE-KSM___amplitude-LOCAL-KSM",
-  "statemine-NATIVE-KSM___kusama-NATIVE-KSM",
-  "moonbeam-LOCAL-xcMANTA___manta_network-NATIVE-MANTA"
+  "kusama-NATIVE-KSM___amplitude-LOCAL-KSM"
 ]
