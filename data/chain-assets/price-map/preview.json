@@ -476,6 +476,6 @@
   "bittensor_testnet-NATIVE-TAO": null,
   "statemint-LOCAL-PINK": null,
   "moonbeam-LOCAL-xcPINK": null,
-  "bifrost_dot-LOCAL-vMANTA": null,
+  "bifrost_dot-LOCAL-vMANTA": "bifrost-voucher-manta",
   "bifrost_dot-LOCAL-MANTA": "manta-network"
 }
