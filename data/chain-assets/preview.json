@@ -78,12 +78,12 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
@@ -2240,7 +2240,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "kusama-NATIVE-KSM"
       }
     ]
