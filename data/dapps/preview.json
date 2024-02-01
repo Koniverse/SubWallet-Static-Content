@@ -365,7 +365,7 @@
     "is_evm": null,
     "is_featured": false,
     "ordinal": 17,
-    "desktop_mode": null,
+    "desktop_mode": true,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/mangata_x_ca60b3b40f.png",
     "preview_image": null,
     "chains": [
@@ -1359,7 +1359,7 @@
     "is_evm": null,
     "is_featured": null,
     "ordinal": 63,
-    "desktop_mode": null,
+    "desktop_mode": true,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/karura_f0db29b6d2.png",
     "preview_image": null,
     "chains": [
@@ -1465,7 +1465,7 @@
     "is_evm": null,
     "is_featured": false,
     "ordinal": 68,
-    "desktop_mode": null,
+    "desktop_mode": true,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/upgardooor_336e5c5057.png",
     "preview_image": null,
     "chains": [
