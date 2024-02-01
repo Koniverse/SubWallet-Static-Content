@@ -7,6 +7,7 @@
     "ordinal": 1,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
     "providers": {
+      "Dwellir": "wss://polkadot-rpc.dwellir.com",
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "1RPC": "wss://1rpc.io/dot",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
@@ -15,8 +16,7 @@
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
-      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
-      "SubWallet": "wss://polkadot-rpc.subwallet.app"
+      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -149,7 +149,6 @@
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
       "1rpc": "wss://1rpc.io/glmr",
       "Blast": "wss://moonbeam.public.blastapi.io",
-      "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws",
       "UnitedBloc": "wss://moonbeam.unitedbloc.com"
     },
     "evmInfo": {
@@ -365,7 +364,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
       "Dwellir": "wss://statemint-rpc.dwellir.com",
-      "RadiumBlock": "wss://statemint.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com"
     },
     "evmInfo": null,
@@ -2265,7 +2263,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_asset_hub_9ae4528303.png",
     "providers": {
       "Dwellir": "wss://statemine-rpc.dwellir.com",
-      "RadiumBlock": "wss://statemine.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com"
     },
     "evmInfo": null,
@@ -7407,7 +7404,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png",
     "providers": {
       "RadiumBlock": "wss://polkadex-parachain.public.curie.radiumblock.co/ws",
-      "Dwellir": "wss://polkadex-rpc.dwellir.com",
       "OnFinality": "wss://polkadex-parachain.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
