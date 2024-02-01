@@ -78,7 +78,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
