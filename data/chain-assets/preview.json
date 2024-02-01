@@ -83,12 +83,12 @@
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "shiden-LOCAL-KSM"
       },
       {
@@ -8903,7 +8903,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "manta_network-NATIVE-MANTA"
       }
     ]
