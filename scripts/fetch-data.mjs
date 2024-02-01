@@ -211,8 +211,8 @@ const cacheConfigs = [
         preview: 'preview.json'
     },
     {
-        url: `${STRAPI_URL}/api/list/version-buy`,
-        folder: 'version-buys',
+        url: `${STRAPI_URL}/api/list/buy-button`,
+        folder: 'buy-buttons',
         fileName: 'list.json',
         imageFields: [],
         removeFields: ['id'],
