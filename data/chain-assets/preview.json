@@ -78,32 +78,32 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "shiden-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "bifrost-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
@@ -177,7 +177,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
