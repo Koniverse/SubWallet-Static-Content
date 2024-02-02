@@ -1,1 +1,10 @@
-[]
+[
+  "kusama-NATIVE-KSM___statemine-NATIVE-KSM",
+  "kusama-NATIVE-KSM___moonriver-LOCAL-xcKSM",
+  "kusama-NATIVE-KSM___shiden-LOCAL-KSM",
+  "kusama-NATIVE-KSM___karura-LOCAL-KSM",
+  "kusama-NATIVE-KSM___bifrost-LOCAL-KSM",
+  "kusama-NATIVE-KSM___amplitude-LOCAL-KSM",
+  "statemint-LOCAL-USDC___hydradx_main-LOCAL-USDC",
+  "hydradx_main-LOCAL-USDC___statemint-LOCAL-USDC"
+]

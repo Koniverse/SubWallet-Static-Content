@@ -473,5 +473,9 @@
   "manta_network_evm-ERC20-MANTA-0x95CeF13441Be50d20cA4558CC0a27B601aC544E5": "manta-network",
   "manta_network-LOCAL-DOT": "polkadot",
   "moonbeam-LOCAL-xcMANTA": "manta-network",
-  "bittensor_testnet-NATIVE-TAO": null
+  "bittensor_testnet-NATIVE-TAO": null,
+  "statemint-LOCAL-PINK": null,
+  "moonbeam-LOCAL-xcPINK": null,
+  "bifrost_dot-LOCAL-vMANTA": "bifrost-voucher-manta",
+  "bifrost_dot-LOCAL-MANTA": "manta-network"
 }
