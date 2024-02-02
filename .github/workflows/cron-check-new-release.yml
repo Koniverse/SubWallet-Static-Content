@@ -1,32 +1,32 @@
-name: Check for New App Version
+# name: Check for New App Version
 
-on:
-  schedule:
-    - cron: '*/30 * * * *'
+# on:
+#   schedule:
+#     - cron: '*/30 * * * *'
 
-jobs:
-  check-version:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Install jq
-        run: sudo apt-get install jq -y
-      - name: Get latest app version from API
-        run: |
-          curl -s "https://itunes.apple.com/br/lookup?bundleId=app.subwallet.mobile" | jq -r '.results[0].version' > latest_version
-          latest_version=$(cat latest_version)
-          latest_config_version=$(jq -r '.buy | sort_by(1.1) | last' ./data/tokens/config.json)
-          if [[ "$latest_version" > "$latest_config_version" ]]; then 
-            # Update newer version into config file
-            jq -r '.buy += ["$latest_version"]' ./data/tokens/config.json > config.json.tmp && mv config.json.tmp ./data/tokens/config.json
-            git add ./data/tokens/config.json
-            git commit -m "Update config with latest version: $latest_version"
-            git push origin main
+# jobs:
+#   check-version:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - name: Install jq
+#         run: sudo apt-get install jq -y
+#       - name: Get latest app version from API
+#         run: |
+#           curl -s "https://itunes.apple.com/br/lookup?bundleId=app.subwallet.mobile" | jq -r '.results[0].version' > latest_version
+#           latest_version=$(cat latest_version)
+#           latest_config_version=$(jq -r '.buy | sort_by(1.1) | last' ./data/tokens/config.json)
+#           if [[ "$latest_version" > "$latest_config_version" ]]; then 
+#             # Update newer version into config file
+#             jq -r '.buy += ["$latest_version"]' ./data/tokens/config.json > config.json.tmp && mv config.json.tmp ./data/tokens/config.json
+#             git add ./data/tokens/config.json
+#             git commit -m "Update config with latest version: $latest_version"
+#             git push origin main
 
-            curl -X POST \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Authorization: token ${{ secrets.GH_AUTOMATION_TOKEN }}" \
-            https://api.github.com/repos/Koniverse/SubWallet-Static-Content/actions/workflows/update-static-data.yml/dispatches \
-            -d '{"ref": "main", "inputs": {"branch": "main", "environment": "development"}}'
-          fi
-          echo "latest version: $latest_version, latest config version: $latest_config_version"
+#             curl -X POST \
+#             -H "Accept: application/vnd.github.v3+json" \
+#             -H "Authorization: token ${{ secrets.GH_AUTOMATION_TOKEN }}" \
+#             https://api.github.com/repos/Koniverse/SubWallet-Static-Content/actions/workflows/update-static-data.yml/dispatches \
+#             -d '{"ref": "main", "inputs": {"branch": "main", "environment": "development"}}'
+#           fi
+#           echo "latest version: $latest_version, latest config version: $latest_config_version"
