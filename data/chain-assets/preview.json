@@ -93,17 +93,17 @@
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "karura-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "bifrost-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
@@ -177,7 +177,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
@@ -8903,7 +8903,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "manta_network-NATIVE-MANTA"
       }
     ]
