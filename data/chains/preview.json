@@ -364,6 +364,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
       "Dwellir": "wss://statemint-rpc.dwellir.com",
+      "RadiumBlock": "wss://statemint.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com"
     },
     "evmInfo": null,
