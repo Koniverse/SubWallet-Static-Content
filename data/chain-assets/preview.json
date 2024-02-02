@@ -177,7 +177,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
