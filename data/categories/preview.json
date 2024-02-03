@@ -7,25 +7,32 @@
     "ordinal": 1
   },
   {
-    "slug": "utilities",
-    "name": "Utilities",
-    "color": "orange",
-    "description": null,
-    "ordinal": 2
-  },
-  {
     "slug": "staking",
     "name": "Staking",
     "color": "geekblue",
     "description": null,
+    "ordinal": 2
+  },
+  {
+    "slug": "bridge",
+    "name": "Bridge",
+    "color": "warning",
+    "description": null,
     "ordinal": 3
   },
   {
-    "slug": "data",
-    "name": "Data",
-    "color": "green",
+    "slug": "governance",
+    "name": "Governance",
+    "color": "magenta",
     "description": null,
     "ordinal": 4
+  },
+  {
+    "slug": "nft",
+    "name": "NFT",
+    "color": "primary",
+    "description": null,
+    "ordinal": 5
   },
   {
     "slug": "socialfi",
@@ -35,60 +42,53 @@
     "ordinal": 6
   },
   {
-    "slug": "smart contract",
-    "name": "Smart Contract",
-    "color": "success",
-    "description": null,
-    "ordinal": 7
-  },
-  {
     "slug": "community",
     "name": "Community",
     "color": "volcano",
     "description": null,
-    "ordinal": 9
-  },
-  {
-    "slug": "bridge",
-    "name": "Bridge",
-    "color": "warning",
-    "description": null,
-    "ordinal": 10
-  },
-  {
-    "slug": "governance",
-    "name": "Governance",
-    "color": "magenta",
-    "description": null,
-    "ordinal": 11
-  },
-  {
-    "slug": "rwa",
-    "name": "RWA",
-    "color": "purple",
-    "description": null,
-    "ordinal": 12
+    "ordinal": 7
   },
   {
     "slug": "tooling",
     "name": "Tooling",
     "color": "red",
     "description": null,
-    "ordinal": 13
+    "ordinal": 8
   },
   {
     "slug": "crowdloans",
     "name": "Crowdloans",
     "color": "blue",
     "description": null,
-    "ordinal": 14
+    "ordinal": 9
   },
   {
-    "slug": "nft",
-    "name": "NFT",
-    "color": "primary",
+    "slug": "data",
+    "name": "Data",
+    "color": "green",
     "description": null,
-    "ordinal": 99
+    "ordinal": 10
+  },
+  {
+    "slug": "rwa",
+    "name": "RWA",
+    "color": "purple",
+    "description": null,
+    "ordinal": 11
+  },
+  {
+    "slug": "utilities",
+    "name": "Utilities",
+    "color": "orange",
+    "description": null,
+    "ordinal": 12
+  },
+  {
+    "slug": "smart contract",
+    "name": "Smart Contract",
+    "color": "success",
+    "description": null,
+    "ordinal": 13
   },
   {
     "slug": "test_env",
