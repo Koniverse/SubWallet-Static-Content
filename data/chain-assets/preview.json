@@ -9007,5 +9007,37 @@
         "destAsset": "manta_network-NATIVE-MANTA"
       }
     ]
+  },
+  {
+    "slug": "subspace_gemini_3h-NATIVE-tSSC",
+    "name": "Subspace Gemini 3h",
+    "symbol": "tSSC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subspace_ba6bca778d.png",
+    "originChain": "subspace_gemini_3h",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "continuum_network-NATIVE-NUUM",
+    "name": "Continuum Network",
+    "symbol": "NUUM",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "100000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bit_country_continuum_5f92dd7fcc.png",
+    "originChain": "continuum_network",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
