@@ -5,7 +5,5 @@
   "kusama-NATIVE-KSM___karura-LOCAL-KSM",
   "kusama-NATIVE-KSM___bifrost-LOCAL-KSM",
   "kusama-NATIVE-KSM___amplitude-LOCAL-KSM",
-  "statemine-NATIVE-KSM___kusama-NATIVE-KSM",
-  "statemint-LOCAL-USDC___hydradx_main-LOCAL-USDC",
-  "hydradx_main-LOCAL-USDC___statemint-LOCAL-USDC"
+  "statemine-NATIVE-KSM___kusama-NATIVE-KSM"
 ]
