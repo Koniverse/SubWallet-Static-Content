@@ -364,8 +364,11 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
       "Dwellir": "wss://statemint-rpc.dwellir.com",
-      "RadiumBlock": "wss://statemint.public.curie.radiumblock.co/ws",
-      "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com"
+      "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com",
+      "IBP-GeoDNS1": "wss://sys.ibp.network/statemint",
+      "IBP-GeoDNS2": "wss://sys.dotters.network/statemint",
+      "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
+      "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2264,7 +2267,11 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_asset_hub_9ae4528303.png",
     "providers": {
       "Dwellir": "wss://statemine-rpc.dwellir.com",
-      "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com"
+      "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com",
+      "IBP-GeoDNS1": "wss://sys.ibp.network/statemine",
+      "IBP-GeoDNS2": "wss://sys.dotters.network/statemine",
+      "Lucky Friday": "wss://rpc-asset-hub-kusama.luckyfriday.io",
+      "Stake World": "wss://ksm-rpc.stakeworld.io/assethub"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3685,7 +3692,7 @@
     "slug": "subspace_gemini_2a",
     "name": "Subspace Gemini 2a",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 93,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_d693cf5ecd.png",
     "providers": {
@@ -3799,7 +3806,7 @@
     "slug": "subspace_gemini_3f",
     "name": "Subspace Gemini 3f",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 97,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_d693cf5ecd.png",
     "providers": {
@@ -6156,7 +6163,7 @@
       "symbol": "TAO",
       "decimals": 9,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -7445,7 +7452,7 @@
     "slug": "bittensor_testnet",
     "name": "Bittensor Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png",
     "providers": {
@@ -7465,6 +7472,66 @@
       "decimals": 9,
       "hasNativeNft": null,
       "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "subspace_gemini_3h",
+    "name": "Subspace Gemini 3h",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
+    "providers": {
+      "Gemini 3h": "wss://rpc-0.gemini-3h.subspace.network/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x0c121c75f4ef450f40619e1fca9d1e8e7fbabc42c895bc4790801e85d5a91c34",
+      "addressPrefix": 2254,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "tSSC",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "continuum_network",
+    "name": "Continuum Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_5f92dd7fcc.png",
+    "providers": {
+      "Continuum RPC Node": "wss://continuum-rpc-1.metaverse.network/wss"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 3346,
+      "genesisHash": "0xae1ca86c936aa252cdc45f4f436220567b2bbbcc4834f5b8f4191462baf19dfb",
+      "addressPrefix": 268,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "NUUM",
+      "decimals": 18,
+      "hasNativeNft": true,
+      "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
