@@ -49,6 +49,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_3a65d79366.png",
     "providers": {
       "Dwellir": "wss://kusama-rpc.dwellir.com",
+      "RadiumBlock": "wss://kusama.public.curie.radiumblock.co/ws",
       "1RPC": "wss://1rpc.io/ksm",
       "Dwellir Tunisia": "wss://kusama-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
