@@ -459,7 +459,7 @@
     "name": "Test - Unlock batch 2 (Extension)",
     "description": null,
     "start_time": "2024-01-30T05:00:00.000Z",
-    "end_time": "2024-02-01T16:59:00.000Z",
+    "end_time": "2024-02-07T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "['DOT-Polkadot']"
     },
@@ -534,7 +534,7 @@
         "alt": "Mobile token details",
         "action": "open_url",
         "metadata": {
-          "url": "https://s.pro.vn/hZxe"
+          "url": "https://mobile.subwallet.app/home/main/earning/earning-list"
         },
         "environments": [
           "mobile"
