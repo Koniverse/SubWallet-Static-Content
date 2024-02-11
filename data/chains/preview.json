@@ -5725,7 +5725,8 @@
     "ordinal": 154,
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
-      "Vara": "wss://rpc.vara-network.io"
+      "Vara": "wss://rpc.vara-network.io",
+      "Vara Network": "wss://rpc.vara.network"
     },
     "evmInfo": null,
     "substrateInfo": {
