@@ -10,7 +10,7 @@
         "icon": "ThumbsUp",
         "icon_color": "#aada62",
         "title": "Select {validatorNumber} dApps",
-        "description": "It is recommended that you select {validatorNumber} dApp to optimize your staking rewards"
+        "description": "It is recommended that you select {validatorNumber} dApp to optimize your staking rewards."
       },
       {
         "id": 30,
