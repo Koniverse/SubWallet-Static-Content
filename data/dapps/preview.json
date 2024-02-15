@@ -418,6 +418,26 @@
     ]
   },
   {
+    "id": 135,
+    "title": "Unique Marketplace",
+    "description": "The Unique marketplace supports next-generation NFT Utility tools for creators. Enjoy a truly seamless experience by creating and trading the most advanced NFTs on the Unique and Quartz Networks.",
+    "url": "https://unqnft.io/",
+    "subtitle": "NFT Marketplace",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 20,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/unique_network_b207ab1ac7.png",
+    "preview_image": null,
+    "chains": [
+      "unique_network"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 45,
     "title": "SubConnect",
     "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
@@ -1307,6 +1327,27 @@
     ],
     "categories": [
       "nft"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Polkadex Orderbook",
+    "description": "A fully decentralized platform for exchanging tokens in a peer-to-peer trustless environment, while additionally enabling high-liquidity, lightning-fast transaction speed and advanced trading features such as high-frequency trading and trading bots.",
+    "url": "https://orderbook.polkadex.trade",
+    "subtitle": "Decentralized Exchange Platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 60,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadex_76c2ed54f7.png",
+    "preview_image": null,
+    "chains": [
+      "polkadex",
+      "polkadex_dot"
+    ],
+    "categories": [
+      "defi"
     ]
   },
   {
