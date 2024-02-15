@@ -678,7 +678,21 @@
     "chainAssets": [
       "manta_network_evm-ERC20-MANTA-0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
       "moonbeam-LOCAL-xcMANTA",
-      "manta_network-NATIVE-MANTA"
+      "manta_network-NATIVE-MANTA",
+      "bifrost_dot-LOCAL-MANTA"
+    ]
+  },
+  {
+    "slug": "PINK-Statemint",
+    "name": "PINK",
+    "symbol": "PINK",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/pink_e453d7277c.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "statemint-LOCAL-PINK",
+      "moonbeam-LOCAL-xcPINK"
     ]
   }
 ]
