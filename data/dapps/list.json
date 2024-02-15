@@ -23,7 +23,7 @@
     "id": 59,
     "title": "HydraDX",
     "description": "The HydraDX Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
-    "url": "https://bit.ly/hydradx_wallet",
+    "url": "https://app.hydradx.io/trade/swap?referral=WALLET",
     "subtitle": "DeFi Protocol designed to bring liquidity to Polkadot",
     "is_substrate": null,
     "is_evm": null,
@@ -418,26 +418,6 @@
     ]
   },
   {
-    "id": 135,
-    "title": "Unique Marketplace",
-    "description": "The Unique marketplace supports next-generation NFT Utility tools for creators. Enjoy a truly seamless experience by creating and trading the most advanced NFTs on the Unique and Quartz Networks.",
-    "url": "https://unqnft.io/",
-    "subtitle": "NFT Marketplace",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 20,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/unique_network_b207ab1ac7.png",
-    "preview_image": null,
-    "chains": [
-      "unique_network"
-    ],
-    "categories": [
-      "nft"
-    ]
-  },
-  {
     "id": 45,
     "title": "SubConnect",
     "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
@@ -613,6 +593,26 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/kodadot_e5b6996e52.png",
     "preview_image": null,
     "chains": [],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Unique Marketplace",
+    "description": "The Unique marketplace supports next-generation NFT Utility tools for creators. Enjoy a truly seamless experience by creating and trading the most advanced NFTs on the Unique and Quartz Networks.",
+    "url": "https://unqnft.io/",
+    "subtitle": "NFT Marketplace",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 26,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/unique_network_b207ab1ac7.png",
+    "preview_image": null,
+    "chains": [
+      "unique_network"
+    ],
     "categories": [
       "nft"
     ]
