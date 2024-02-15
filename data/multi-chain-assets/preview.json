@@ -638,7 +638,8 @@
       "moonbeam-LOCAL-xcINTR",
       "interlay-NATIVE-INTR",
       "equilibrium_parachain-LOCAL-INTR",
-      "acala-LOCAL-INTR"
+      "acala-LOCAL-INTR",
+      "hydradx_main-LOCAL-INTR"
     ]
   },
   {

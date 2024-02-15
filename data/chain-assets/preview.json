@@ -9039,5 +9039,23 @@
     "originChain": "continuum_network",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-INTR",
+    "name": "Interlay",
+    "symbol": "INTR",
+    "decimals": 10,
+    "priceId": "interlay",
+    "minAmount": "6164274209",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "17"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/intr_9327b8d0af.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "INTR-Interlay",
+    "assetRefs": []
   }
 ]

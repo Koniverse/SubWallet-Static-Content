@@ -479,5 +479,6 @@
   "bifrost_dot-LOCAL-vMANTA": "bifrost-voucher-manta",
   "bifrost_dot-LOCAL-MANTA": "manta-network",
   "subspace_gemini_3h-NATIVE-tSSC": null,
-  "continuum_network-NATIVE-NUUM": null
+  "continuum_network-NATIVE-NUUM": null,
+  "hydradx_main-LOCAL-INTR": "interlay"
 }

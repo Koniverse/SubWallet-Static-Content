@@ -3892,7 +3892,7 @@
       "addressPrefix": 2254,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://subspace.subscan.io/",
+      "blockExplorer": null,
       "existentialDeposit": "500",
       "symbol": "tSSC",
       "decimals": 18,
@@ -3902,9 +3902,7 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": {
-      "subscanSlug": "subspace"
-    }
+    "extraInfo": null
   },
   {
     "slug": "dorafactory",
@@ -7495,7 +7493,7 @@
       "addressPrefix": 2254,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://subspace.subscan.io/",
       "existentialDeposit": "500",
       "symbol": "tSSC",
       "decimals": 18,
@@ -7505,7 +7503,9 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "subspace"
+    }
   },
   {
     "slug": "continuum_network",
