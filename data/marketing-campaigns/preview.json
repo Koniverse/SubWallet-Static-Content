@@ -564,7 +564,7 @@
         "alt": "Mobile token details",
         "action": "open_url",
         "metadata": {
-          "url": "https://app.hydradx.io/trade/swap?referral=WALLET"
+          "url": "https://bit.ly/hdx_dot"
         },
         "environments": [
           "mobile"
@@ -574,6 +574,209 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app/DOT_6ea0fe66c5.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 52,
+    "name": "[Test] HDX token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"hydradx_main-NATIVE-HDX\"]"
+    },
+    "banners": [
+      {
+        "id": 115,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_hdx"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/HDX_2x_a4787dcb2e.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 53,
+    "name": "[Test] USDT token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"acala-LOCAL-USDT\", \"astar-LOCAL-USDT\", \"astarEvm-ERC20-USDT-0xFFFFFFFF000000000000000000000001000007C0\", \"bifrost_dot-LOCAL-USDT\", \"calamari-LOCAL-USDT\", \"calamari-LOCAL-zkUSDT\", \"parallel-LOCAL-USDT\", \"hydradx_main-LOCAL-USDT\", \"interlay-LOCAL-USDT\", \"kintsugi-LOCAL-USDT\", \"pendulum-LOCAL-USDT\", \"statemint-LOCAL-USDt\", \"moonbeam-LOCAL-xcUSDT\", \"statemine-LOCAL-USDt\", \"shidenEvm-ERC20-USDT-0xFFFFFFFF000000000000000000000001000007C0\", \"equilibrium_parachain-LOCAL-USDT\", \"binance-ERC20-vUSDT-0xfD5840Cd36d94D7229439859C0112a4185BC0255\", \"binance-ERC20-USDT-0x55d398326f99059fF775485246999027B3197955\", \"ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7\", \"polygon-ERC20-USDT-0xc2132D05D31c914a87C6611C10748AEb04B58e8F\", \"arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9\", \"optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58\", \"tomochain-ERC20-USDT-0x381B31409e4D220919B2cFF012ED94d70135A59e\", \"kintsugi-LOCAL-LP_kBTC_USDT\", \"interlay-LOCAL-LP_iBTC_USDT\", \"interlay-LOCAL-LP_INTR_USDT\", \"interlay-LOCAL-qUSDT\", \"kintsugi-LOCAL-qUSDT\"]"
+    },
+    "banners": [
+      {
+        "id": 116,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_usdt"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/USDT_2x_09ad87705a.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 54,
+    "name": "[Test] USDC token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"calamari-LOCAL-USDC\", \"calamari-LOCAL-zkUSDC\", \"moonbeam-ERC20-USDC-0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b\", \"moonriver-ERC20-USDC-0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D\", \"astarEvm-ERC20-USDC-0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98\", \"shidenEvm-ERC20-USDC-0xfa9343c3897324496a05fc75abed6bac29f8a40f\", \"binance-ERC20-USDC-0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d\", \"ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48\", \"polygon-ERC20-USDC.e-0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174\", \"polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359\", \"arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831\", \"optimism-ERC20-USDC-0x7F5c764cBc14f9669B88837ca1490cCa17c31607\", \"tomochain-ERC20-USDC-0xCCA4E6302510d555B654B3EaB9c0fCB223BCFDf0\", \"statemint-LOCAL-USDC\", \"hydradx_main-LOCAL-USDC\", \"arbitrum_one-ERC20-USDC.e-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8\", \"acala-LOCAL-USDCet\", \"interlay-LOCAL-USDC.wh\", \"centrifuge-LOCAL-USDC\", \"moonbeam-LOCAL-xcUSDC\"]"
+    },
+    "banners": [
+      {
+        "id": 117,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_usdc"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/USDC_2x_9013d1582f.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 55,
+    "name": "[Test] INTR token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"moonbeam-LOCAL-xcINTR\", \"interlay-NATIVE-INTR\", \"equilibrium_parachain-LOCAL-INTR\", \"acala-LOCAL-INTR\"]"
+    },
+    "banners": [
+      {
+        "id": 118,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_intr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/INTR_2x_6cd232e60b.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 56,
+    "name": "[Test] BNC token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"bifrost-NATIVE-BNC\", \"bifrost_dot-NATIVE-BNC\", \"bifrost_testnet-NATIVE-BNC\", \"karura-LOCAL-BNC\", \"bifrost-LOCAL-vBNC\", \"moonriver-LOCAL-xcBNC\", \"equilibrium_parachain-LOCAL-BNC\", \"bifrost_dot-LOCAL-BNCS\"]"
+    },
+    "banners": [
+      {
+        "id": 119,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_bnc"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/BNC_2x_b88b146b48.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 57,
+    "name": "[Test] ASTR token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"astar-NATIVE-ASTR\", \"acala-LOCAL-ASTR\", \"astarEvm-NATIVE-ASTR\", \"astarEvm-ERC20-WASTR-0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720\", \"equilibrium_parachain-LOCAL-ASTR\", \"moonbeam-LOCAL-xcASTR\"]"
+    },
+    "banners": [
+      {
+        "id": 120,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_astr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/ASTR_2x_a640811dca.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 58,
+    "name": "[Test] GLMR token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"moonbeam-NATIVE-GLMR\", \"acala-LOCAL-GLMR\", \"bifrost_dot-LOCAL-vGLMR\", \"equilibrium_parachain-LOCAL-GLMR\", \"moonbeam-ERC721-GlmrZuki-0xC36D971c11CEbbCc20eE2C2910e07e2b1Be3790d\"]"
+    },
+    "banners": [
+      {
+        "id": 121,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_glmr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/GLMR_2x_db78ebbfd2.png"
       }
     ],
     "notifications": []
