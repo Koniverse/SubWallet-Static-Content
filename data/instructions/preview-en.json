@@ -182,7 +182,7 @@
         "icon": "ThumbsUp",
         "icon_color": "#aada62",
         "title": "Select active pool",
-        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards"
+        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards."
       },
       {
         "id": 2,
