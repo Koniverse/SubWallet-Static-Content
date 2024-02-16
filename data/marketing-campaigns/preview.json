@@ -780,5 +780,34 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 59,
+    "name": "[Test] DOT token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"polkadot-NATIVE-DOT\"]"
+    },
+    "banners": [
+      {
+        "id": 122,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_dot"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
+      }
+    ],
+    "notifications": []
   }
 ]
