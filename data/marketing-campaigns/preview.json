@@ -556,7 +556,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"Polkadot\", \"polkadot-NATIVE-DOT\"]"
+      "allowedTokenSlug": "[\"DOT-Polkadot\", \"polkadot-NATIVE-DOT\"]"
     },
     "banners": [
       {
@@ -614,7 +614,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"statemint-LOCAL-USDt\", \"statemine-LOCAL-USDt\"]"
+      "allowedTokenSlug": "[\"USDT-Tether\", \"statemint-LOCAL-USDt\", \"statemine-LOCAL-USDt\"]"
     },
     "banners": [
       {
@@ -643,7 +643,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"statemint-LOCAL-USDC\"]"
+      "allowedTokenSlug": "[\"USDC-USDCoin\", \"statemint-LOCAL-USDC\"]"
     },
     "banners": [
       {
@@ -672,7 +672,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"interlay-NATIVE-INTR\"]"
+      "allowedTokenSlug": "[\"INTR-Interlay\", \"interlay-NATIVE-INTR\"]"
     },
     "banners": [
       {
@@ -701,7 +701,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"bifrost-NATIVE-BNC\"]"
+      "allowedTokenSlug": "[\"BNC-BifrostKusama\", \"bifrost-NATIVE-BNC\"]"
     },
     "banners": [
       {
@@ -730,7 +730,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"astar-NATIVE-ASTR\"]"
+      "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
     },
     "banners": [
       {
@@ -759,7 +759,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"moonbeam-NATIVE-GLMR\"]"
+      "allowedTokenSlug": "[\"GLMR-Moonbeam\", \"moonbeam-NATIVE-GLMR\"]"
     },
     "banners": [
       {
