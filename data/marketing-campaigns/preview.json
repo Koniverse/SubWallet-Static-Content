@@ -786,7 +786,7 @@
     "name": "[Test] Apply master password (mobile app)",
     "description": null,
     "start_time": "2024-02-15T01:15:00.000Z",
-    "end_time": "2024-02-29T16:59:00.000Z",
+    "end_time": "2024-02-16T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
     },
