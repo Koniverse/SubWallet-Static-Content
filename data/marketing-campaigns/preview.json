@@ -701,7 +701,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"BNC-BifrostKusama\", \"bifrost-NATIVE-BNC\"]"
+      "allowedTokenSlug": "[\"bifrost_dot-NATIVE-BNC\"]"
     },
     "banners": [
       {
