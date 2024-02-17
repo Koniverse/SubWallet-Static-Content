@@ -829,5 +829,54 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 61,
+    "name": "[Test] Apply master password 2 (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
+    },
+    "banners": [
+      {
+        "id": 124,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_astr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app/Home_screen_update_64871280b6.png"
+      }
+    ],
+    "notifications": []
   }
 ]
