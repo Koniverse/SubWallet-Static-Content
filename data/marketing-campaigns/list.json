@@ -394,7 +394,7 @@
     "name": "Unlock batch 2 (Extension)",
     "description": null,
     "start_time": "2024-01-16T05:00:00.000Z",
-    "end_time": "2024-01-30T16:59:00.000Z",
+    "end_time": "2024-02-20T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "['DOT-Polkadot']"
     },
@@ -407,7 +407,8 @@
           "url": "https://web.subwallet.app/home/earning/overview?utm_source=extension&utm_medium=inappbanner&utm_campaign=unlockbatch+2"
         },
         "environments": [
-          "extension"
+          "extension",
+          "mobile"
         ],
         "position": [
           "home"
@@ -450,6 +451,238 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//6/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 51,
+    "name": "DOT token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"DOT-Polkadot\", \"polkadot-NATIVE-DOT\"]"
+    },
+    "banners": [
+      {
+        "id": 114,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_dot"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/DOT_6ea0fe66c5.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 52,
+    "name": "HDX token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"hydradx_main-NATIVE-HDX\"]"
+    },
+    "banners": [
+      {
+        "id": 115,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_hdx"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/HDX_2x_a4787dcb2e.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 53,
+    "name": "USDT token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"USDT-Tether\", \"statemint-LOCAL-USDt\"]"
+    },
+    "banners": [
+      {
+        "id": 116,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_usdt"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/USDT_2x_09ad87705a.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 54,
+    "name": "USDC token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"USDC-USDCoin\", \"statemint-LOCAL-USDC\"]"
+    },
+    "banners": [
+      {
+        "id": 117,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_usdc"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/USDC_2x_9013d1582f.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 55,
+    "name": "INTR token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"INTR-Interlay\", \"interlay-NATIVE-INTR\"]"
+    },
+    "banners": [
+      {
+        "id": 118,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_intr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/INTR_2x_6cd232e60b.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 56,
+    "name": "BNC token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"bifrost_dot-NATIVE-BNC\"]"
+    },
+    "banners": [
+      {
+        "id": 119,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_bnc"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/BNC_2x_b88b146b48.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 57,
+    "name": "ASTR token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
+    },
+    "banners": [
+      {
+        "id": 120,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_astr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/ASTR_2x_a640811dca.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 58,
+    "name": "GLMR token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-02-17T17:30:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"GLMR-Moonbeam\", \"moonbeam-NATIVE-GLMR\"]"
+    },
+    "banners": [
+      {
+        "id": 121,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_glmr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/GLMR_2x_db78ebbfd2.png"
       }
     ],
     "notifications": []
