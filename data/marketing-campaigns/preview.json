@@ -551,9 +551,9 @@
   },
   {
     "id": 51,
-    "name": "[Test] DOT token detail banner (mobile app)",
+    "name": "DOT token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"DOT-Polkadot\", \"polkadot-NATIVE-DOT\"]"
@@ -580,9 +580,9 @@
   },
   {
     "id": 52,
-    "name": "[Test] HDX token detail banner (mobile app)",
+    "name": "HDX token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"hydradx_main-NATIVE-HDX\"]"
@@ -609,9 +609,9 @@
   },
   {
     "id": 53,
-    "name": "[Test] USDT token detail banner (mobile app)",
+    "name": "USDT token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"USDT-Tether\", \"statemint-LOCAL-USDt\"]"
@@ -638,9 +638,9 @@
   },
   {
     "id": 54,
-    "name": "[Test] USDC token detail banner (mobile app)",
+    "name": "USDC token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"USDC-USDCoin\", \"statemint-LOCAL-USDC\"]"
@@ -667,9 +667,9 @@
   },
   {
     "id": 55,
-    "name": "[Test] INTR token detail banner (mobile app)",
+    "name": "INTR token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"INTR-Interlay\", \"interlay-NATIVE-INTR\"]"
@@ -696,9 +696,9 @@
   },
   {
     "id": 56,
-    "name": "[Test] BNC token detail banner (mobile app)",
+    "name": "BNC token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"bifrost_dot-NATIVE-BNC\"]"
@@ -725,9 +725,9 @@
   },
   {
     "id": 57,
-    "name": "[Test] ASTR token detail banner (mobile app)",
+    "name": "ASTR token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
@@ -754,9 +754,9 @@
   },
   {
     "id": 58,
-    "name": "[Test] GLMR token detail banner (mobile app)",
+    "name": "GLMR token detail banner (mobile app)",
     "description": null,
-    "start_time": "2024-02-15T01:15:00.000Z",
+    "start_time": "2024-02-17T17:30:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"GLMR-Moonbeam\", \"moonbeam-NATIVE-GLMR\"]"
