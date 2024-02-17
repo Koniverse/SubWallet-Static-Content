@@ -780,5 +780,34 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 60,
+    "name": "[Test] Apply master password (mobile app)",
+    "description": null,
+    "start_time": "2024-02-15T01:15:00.000Z",
+    "end_time": "2024-02-29T16:59:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
+    },
+    "banners": [
+      {
+        "id": 123,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_astr"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app/Crowdloan_unlock_batch_7_1200x600_addb0dedfc.png"
+      }
+    ],
+    "notifications": []
   }
 ]
