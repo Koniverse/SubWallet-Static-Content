@@ -804,7 +804,27 @@
         "position": [
           "home"
         ],
-        "buttons": [],
+        "buttons": [
+          {
+            "name": "I don’t care",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Join now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://web.subwallet.app/earning-demo?utm_source=inapppopupbanner&utm_medium=mobile&utm_campaign=stakedotearnmany",
+              "doneOnClick": true
+            }
+          }
+        ],
         "media": "https://media-resources.subwallet.app/Crowdloan_unlock_batch_7_1200x600_addb0dedfc.png"
       }
     ],
