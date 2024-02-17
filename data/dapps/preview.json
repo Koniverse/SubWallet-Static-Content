@@ -307,7 +307,7 @@
     "ordinal": 14,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/subsquare_4cdf1d9498.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/bafybeigdvohyozmu76ttwoae6rfx4rkvspspj3xqfv7ogz2ncmj4ub2y7y_6583a1ad07.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Subsquare_9c0305db99.png",
     "chains": [],
     "categories": [
       "governance"
@@ -346,7 +346,7 @@
     "ordinal": 16,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/centrifuge_7293c743a5.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Centrifuge_Preview_072dcd8a82.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Centrifuge_c1a847d712.png",
     "chains": [
       "ethereum",
       "centrifuge"
@@ -1681,6 +1681,27 @@
     "categories": [
       "nft",
       "utilities"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "DED MINE",
+    "description": "Check out DED MINE; the first release from DED GAMES - a brick-breaker helping DEDbird in a quest to burrow to the surface and beyond.",
+    "url": "https://ded.games/play/dedmine",
+    "subtitle": "The first release from DED GAMES",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 75,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/ded_277c75073c.png",
+    "preview_image": null,
+    "chains": [
+      "unique_network",
+      "statemint"
+    ],
+    "categories": [
+      "socialfi"
     ]
   },
   {
