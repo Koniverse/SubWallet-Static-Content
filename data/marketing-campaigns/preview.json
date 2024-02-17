@@ -614,7 +614,7 @@
     "start_time": "2024-02-15T01:15:00.000Z",
     "end_time": "2024-02-29T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"USDT-Tether\", \"statemint-LOCAL-USDt\", \"statemine-LOCAL-USDt\"]"
+      "allowedTokenSlug": "[\"USDT-Tether\", \"statemint-LOCAL-USDt\"]"
     },
     "banners": [
       {
