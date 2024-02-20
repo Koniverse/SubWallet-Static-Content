@@ -684,13 +684,13 @@
     ]
   },
   {
-    "slug": "PINK-Statemint",
-    "name": "PINK",
+    "slug": "PINK-StatemintPink",
+    "name": "Statemint Pink",
     "symbol": "PINK",
     "priceId": null,
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/pink_e453d7277c.png",
-    "originChainAsset": null,
+    "originChainAsset": "statemint-LOCAL-PINK",
     "chainAssets": [
       "statemint-LOCAL-PINK",
       "moonbeam-LOCAL-xcPINK"

@@ -459,7 +459,7 @@
   "energy_web_x_testnet-NATIVE-VT": null,
   "energy_web_chain-NATIVE-EWT": "energy-web-token",
   "energy_web_x_rococo-NATIVE-VT": null,
-  "energy_web_x-NATIVE-EWT": null,
+  "energy_web_x-NATIVE-EWT": "energy-web-token",
   "acala-LOCAL-INTR": "interlay",
   "parallel-LOCAL-ACA": "acala",
   "hydradx_main-LOCAL-CFG": "centrifuge",
