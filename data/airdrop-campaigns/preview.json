@@ -47,6 +47,25 @@
     ]
   },
   {
+    "id": 12,
+    "name": "Demo",
+    "status": "live",
+    "ordinal": 2,
+    "description": "Demo",
+    "start_time": null,
+    "end_time": null,
+    "url": "https://www.subwallet.app/",
+    "twitter_url": "x.com",
+    "reward": null,
+    "total_winner": null,
+    "total_supply": null,
+    "tags": null,
+    "campaign_url": "https://tools.subwallet.app/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/dotins_a8804fde1d.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GLMR_2x_db78ebbfd2.png",
+    "chains": []
+  },
+  {
     "id": 4,
     "name": "Omni LS - Ecosystem Wallets campaign",
     "status": "archived",
