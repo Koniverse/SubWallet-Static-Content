@@ -9,13 +9,13 @@
     "end_time": "2024-02-26T14:00:00.000Z",
     "url": "https://bit.ly/zealyded",
     "twitter_url": "https://twitter.com/dotisded",
-    "reward": "1400 DOT",
+    "reward": "1,400 DOT",
     "total_winner": null,
     "total_supply": null,
     "tags": [
       "points"
     ],
-    "campaign_url": "https://bit.ly/zealyded",
+    "campaign_url": "https://www.dotisded.io/",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
     "chains": [
@@ -45,25 +45,6 @@
       "bifrost_dot",
       "zeitgeist"
     ]
-  },
-  {
-    "id": 12,
-    "name": "Demo",
-    "status": "live",
-    "ordinal": 2,
-    "description": "Demo",
-    "start_time": null,
-    "end_time": null,
-    "url": "https://www.subwallet.app/",
-    "twitter_url": "x.com",
-    "reward": null,
-    "total_winner": null,
-    "total_supply": null,
-    "tags": null,
-    "campaign_url": "https://tools.subwallet.app/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/dotins_a8804fde1d.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GLMR_2x_db78ebbfd2.png",
-    "chains": []
   },
   {
     "id": 4,
