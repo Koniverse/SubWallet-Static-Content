@@ -934,7 +934,8 @@
           "url": "https://www.subwallet.app/"
         },
         "environments": [
-          "extension"
+          "extension",
+          "mobile"
         ],
         "position": [
           "crowdloan"
