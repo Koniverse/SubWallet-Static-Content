@@ -878,5 +878,71 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 62,
+    "name": "[Test] Extension campaign ",
+    "description": null,
+    "start_time": "2024-01-23T17:00:00.000Z",
+    "end_time": "2024-02-24T17:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "['DOT-Polkadot']"
+    },
+    "banners": [
+      {
+        "id": 126,
+        "alt": "Popup banner in app extension",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://www.subwallet.app/"
+        },
+        "environments": [
+          "extension",
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Cancel",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Test",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://www.subwallet.app/",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app/Home_screen_update_64871280b6.png"
+      },
+      {
+        "id": 125,
+        "alt": "Banner in crowdloan tab",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://www.subwallet.app/"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "crowdloan"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//6/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png"
+      }
+    ],
+    "notifications": []
   }
 ]
