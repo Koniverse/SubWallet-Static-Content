@@ -2014,7 +2014,7 @@
     "id": 138,
     "title": "Cypress AMM",
     "description": "Cypress AMM is a decentralized exchange that leverages the code optimization capabilities of the DOT system. The uniqueness of the DOT system lies in providing development projects with SDKs, which are like Lego pieces that can be reused by other projects. In this case, Zenlink's SDK was utilized. It has undergone thorough testing by Slowmist and Peckshield, ensuring exceptional safety.\n\nCypress focuses on optimizing user experience, and the coins on the exchange are carefully selected by a team of researchers and are all in Cypress Capital's investment portfolio.",
-    "url": "https://cypress.work/ ",
+    "url": "https://swap.cypress.work/swap",
     "subtitle": "Cypress AMM is a decentralized exchange that leverages the code optimization capabilities of the DOT system",
     "is_substrate": null,
     "is_evm": true,
