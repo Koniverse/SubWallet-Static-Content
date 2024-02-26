@@ -67,7 +67,7 @@
     "symbol": "KSM",
     "decimals": 12,
     "priceId": "kusama",
-    "minAmount": "33333333",
+    "minAmount": "333333333",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -233,7 +233,7 @@
     "symbol": "DOT",
     "decimals": 10,
     "priceId": "polkadot",
-    "minAmount": "1000000000",
+    "minAmount": "100000000",
     "assetType": "NATIVE",
     "metadata": {
       "multilocation": {
@@ -781,7 +781,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "priceId": "tether",
-    "minAmount": "0",
+    "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "4294969280",
@@ -2058,7 +2058,7 @@
     "symbol": "KSM",
     "decimals": 12,
     "priceId": "kusama",
-    "minAmount": "0",
+    "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
       "onChainInfo": {
@@ -2464,7 +2464,7 @@
     "symbol": "GENS",
     "decimals": 9,
     "priceId": "genshiro",
-    "minAmount": "0",
+    "minAmount": "100000000",
     "assetType": "NATIVE",
     "metadata": {
       "assetId": "1734700659"
@@ -2782,7 +2782,7 @@
     "symbol": "KSM",
     "decimals": 12,
     "priceId": "kusama",
-    "minAmount": "3333333",
+    "minAmount": "33333333",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -2846,7 +2846,7 @@
     "symbol": "IMBU",
     "decimals": 12,
     "priceId": null,
-    "minAmount": "100000000000",
+    "minAmount": "1000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -3086,7 +3086,7 @@
     "symbol": "PEN",
     "decimals": 12,
     "priceId": "pendulum-chain",
-    "minAmount": "0",
+    "minAmount": "1000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -3102,7 +3102,7 @@
     "symbol": "DOT",
     "decimals": 10,
     "priceId": "polkadot",
-    "minAmount": null,
+    "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
       "onChainInfo": {
@@ -3122,7 +3122,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "priceId": "tether",
-    "minAmount": null,
+    "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
       "onChainInfo": {
@@ -3864,7 +3864,7 @@
     "symbol": "USDt",
     "decimals": 6,
     "priceId": "tether",
-    "minAmount": "700000",
+    "minAmount": "70000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1984",
@@ -5108,9 +5108,9 @@
     "slug": "astarEvm-ERC20-DOT-0xffffffffffffffffffffffffffffffffffffffff",
     "name": "Polkadot",
     "symbol": "DOT",
-    "decimals": 12,
+    "decimals": 10,
     "priceId": "polkadot",
-    "minAmount": null,
+    "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
       "contractAddress": "0xffffffffffffffffffffffffffffffffffffffff"
@@ -5648,7 +5648,7 @@
     "slug": "shidenEvm-ERC20-SMS-0xec0c789c6dc019b1c19f055edf938b369d235d2c",
     "name": "SafeMoonShiden",
     "symbol": "SMS",
-    "decimals": 18,
+    "decimals": 9,
     "priceId": null,
     "minAmount": null,
     "assetType": "ERC20",
@@ -5684,7 +5684,7 @@
     "slug": "shidenEvm-ERC20-SRISE-0x16bf7ecaf868348703ff5b5c0c3b84be7bf483f9",
     "name": "SHIDENRISE",
     "symbol": "SRISE",
-    "decimals": 18,
+    "decimals": 9,
     "priceId": null,
     "minAmount": null,
     "assetType": "ERC20",
@@ -8082,7 +8082,7 @@
     "symbol": "sDOT",
     "decimals": 10,
     "priceId": null,
-    "minAmount": "0",
+    "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1001"
@@ -8100,7 +8100,7 @@
     "symbol": "DOT",
     "decimals": 10,
     "priceId": "polkadot",
-    "minAmount": "0",
+    "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "101"
@@ -8150,7 +8150,7 @@
     "symbol": "DOT",
     "decimals": 10,
     "priceId": "polkadot",
-    "minAmount": "0",
+    "minAmount": "17540000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "5"
@@ -8206,7 +8206,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "priceId": "usd-coin",
-    "minAmount": "700000",
+    "minAmount": "70000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1337",
@@ -8320,7 +8320,7 @@
     "name": "Cypress",
     "symbol": "CP",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "cypress",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -8657,7 +8657,7 @@
     "symbol": "ACA",
     "decimals": 12,
     "priceId": "acala",
-    "minAmount": "0",
+    "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "108"
@@ -8681,7 +8681,7 @@
     "symbol": "CFG",
     "decimals": 18,
     "priceId": "centrifuge",
-    "minAmount": "0",
+    "minAmount": "32467532467532500",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "13"
@@ -9056,6 +9056,61 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/intr_9327b8d0af.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "INTR-Interlay",
+    "assetRefs": []
+  },
+  {
+    "slug": "rococo_assethub-NATIVE-ROC",
+    "name": "Rococo Asset Hub",
+    "symbol": "ROC",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "3333333",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_asset_hub_50b263697b.png",
+    "originChain": "rococo_assethub",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "rococo_assethub-LOCAL-WETH",
+    "name": "Wrapped ETH (Bridged)",
+    "symbol": "WETH",
+    "decimals": null,
+    "priceId": null,
+    "minAmount": null,
+    "assetType": "LOCAL",
+    "metadata": {
+      "multilocation": {
+        "Concrete": {
+          "parents": 2,
+          "interior": {
+            "X2": [
+              {
+                "GlobalConsensus": {
+                  "Ethereum": {
+                    "chainId": 11155111
+                  }
+                }
+              },
+              {
+                "AccountKey20": {
+                  "key": "0xfff9976782d46cc05630d1f6ebab18b2324d6b14",
+                  "network": "NULL"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "originChain": "rococo_assethub",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
