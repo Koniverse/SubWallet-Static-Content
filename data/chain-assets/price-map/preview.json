@@ -442,7 +442,7 @@
   "astar-PSP34-Neuroguns-aZ9bd2tHeGKrs3FnJv5oe7kgVrP5GQvdJMhC2GxjXA2Yqbd": null,
   "bittensor-NATIVE-TAO": "bittensor",
   "hydradx_main-LOCAL-USDC": "usd-coin",
-  "moonbeam-ERC20-CP": "cypress",
+  "moonbeam-ERC20-CP": null,
   "zeta_test-NATIVE-aZETA": null,
   "xcavate-NATIVE-XCAV": null,
   "arbitrum_one-ERC20-USDC.e-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": "usd-coin",

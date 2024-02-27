@@ -8320,7 +8320,7 @@
     "name": "Cypress",
     "symbol": "CP",
     "decimals": 18,
-    "priceId": "cypress",
+    "priceId": null,
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
