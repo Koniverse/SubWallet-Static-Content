@@ -9078,31 +9078,30 @@
     "slug": "rococo_assethub-LOCAL-WETH",
     "name": "Wrapped ETH (Bridged)",
     "symbol": "WETH",
-    "decimals": null,
+    "decimals": 18,
     "priceId": null,
     "minAmount": null,
     "assetType": "LOCAL",
     "metadata": {
+      "isBridged": true,
       "multilocation": {
-        "Concrete": {
-          "parents": 2,
-          "interior": {
-            "X2": [
-              {
-                "GlobalConsensus": {
-                  "Ethereum": {
-                    "chainId": 11155111
-                  }
-                }
-              },
-              {
-                "AccountKey20": {
-                  "key": "0xfff9976782d46cc05630d1f6ebab18b2324d6b14",
-                  "network": "NULL"
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 11155111
                 }
               }
-            ]
-          }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xfff9976782d46cc05630d1f6ebab18b2324d6b14",
+                "network": null
+              }
+            }
+          ]
         }
       }
     },
