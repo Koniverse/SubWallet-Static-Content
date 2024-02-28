@@ -2,7 +2,7 @@
   {
     "id": 10,
     "name": "$DED is LIVE",
-    "status": "live",
+    "status": "archived",
     "ordinal": 1,
     "description": "Hop in to explore DOT Is $DED Zealy community, and pledge yourself to $DED!\n\nOver 4000 DOT in rewards across 3 stages!\n\nPhase $DED is LIVE - Reward Pool: 1.400 DOT\n\n📅 Duration: 02/12 - 02/26 (3pm CET)\n",
     "start_time": "2024-02-11T17:00:00.000Z",
@@ -23,10 +23,33 @@
     ]
   },
   {
+    "id": 13,
+    "name": "vDOT is DED",
+    "status": "live",
+    "ordinal": 2,
+    "description": "Mint vDOT to show how DED it is!\nThe more vDOT the more DED for the incoming airdrop.\n\nSnapshot to be executed soon...",
+    "start_time": "2024-02-27T09:00:00.000Z",
+    "end_time": "2024-03-10T12:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/vdot-is-ded-1708948824425",
+    "twitter_url": null,
+    "reward": "10 BNC",
+    "total_winner": "100",
+    "total_supply": "1,000 BNC",
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://bifrost.app/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/vdotisded_e4faf83730.webp",
+    "chains": [
+      "bifrost_dot"
+    ]
+  },
+  {
     "id": 11,
     "name": "PLOT the vDOT with Zeitgeist",
     "status": "live",
-    "ordinal": 2,
+    "ordinal": 3,
     "description": "Mint vDOT and predict Markets on Zeitgeist !\n20 random winners will share 500 $BNC and 2000 $ZTG.",
     "start_time": "2024-01-31T17:00:00.000Z",
     "end_time": "2024-03-01T11:00:00.000Z",
@@ -44,29 +67,6 @@
     "chains": [
       "bifrost_dot",
       "zeitgeist"
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Omni LS - Ecosystem Wallets campaign",
-    "status": "archived",
-    "ordinal": 3,
-    "description": "One of three events leading up to the Unlock of +100 Million $DOT from the first parachain crowdloans, on Polkadot.",
-    "start_time": "2023-10-19T11:00:00.000Z",
-    "end_time": "2023-11-22T12:00:00.000Z",
-    "url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
-    "twitter_url": "https://twitter.com/BifrostFinance",
-    "reward": "1 LS_WALLETS",
-    "total_winner": "N/A",
-    "total_supply": "80,000,000 BNC",
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
-    "chains": [
-      "bifrost_dot"
     ]
   },
   {
@@ -184,6 +184,29 @@
       "fcfs"
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/polkadot-unlock-harvest",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "chains": [
+      "bifrost_dot"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Omni LS - Ecosystem Wallets campaign",
+    "status": "archived",
+    "ordinal": 20,
+    "description": "One of three events leading up to the Unlock of +100 Million $DOT from the first parachain crowdloans, on Polkadot.",
+    "start_time": "2023-10-19T11:00:00.000Z",
+    "end_time": "2023-11-22T12:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "1 LS_WALLETS",
+    "total_winner": "N/A",
+    "total_supply": "80,000,000 BNC",
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
