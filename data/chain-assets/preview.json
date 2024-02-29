@@ -8786,7 +8786,7 @@
     "name": "BNCS Inscription Token",
     "symbol": "BNCS",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "bifrost-native-coin",
     "minAmount": "10000000000",
     "assetType": "LOCAL",
     "metadata": {
