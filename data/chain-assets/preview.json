@@ -4854,7 +4854,7 @@
     "name": "MoonWell Artemis",
     "symbol": "WELL",
     "decimals": 18,
-    "priceId": "moonbeam",
+    "priceId": "moonwell-artemis",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
