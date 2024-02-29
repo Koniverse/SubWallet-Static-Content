@@ -255,26 +255,6 @@
     ]
   },
   {
-    "id": 112,
-    "title": "Dancebox",
-    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
-    "url": "https://apps.tanssi.network/dancebox",
-    "subtitle": "Dancebox - The Testnet of Tanssi Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 12,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
-    "preview_image": null,
-    "chains": [
-      "dancebox"
-    ],
-    "categories": [
-      "tooling"
-    ]
-  },
-  {
     "id": 19,
     "title": "Phala App",
     "description": "Phala Network is revolutionizing Web3 by providing dApp developers with an off-chain compute infrastructure that is truly decentralized and trustless. By connecting Smart Contracts to our off-chain programs called Phat Contracts, developers can supercharge their dApps with seamless cross-chain integrations, connectivity to the internet, and heavy computation.",
@@ -283,7 +263,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": null,
-    "ordinal": 13,
+    "ordinal": 12,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/phala_network_84a301ea7e.png",
     "preview_image": null,
@@ -304,7 +284,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": true,
-    "ordinal": 14,
+    "ordinal": 13,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/subsquare_4cdf1d9498.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Subsquare_9c0305db99.png",
@@ -322,7 +302,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 15,
+    "ordinal": 14,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/interlay_909455ece5.png",
     "preview_image": null,
@@ -332,6 +312,24 @@
     "categories": [
       "defi",
       "bridge"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "KodaDot",
+    "description": "Multi-chain NFT marketplace across Polkadot parachains",
+    "url": "https://kodadot.xyz/",
+    "subtitle": "KodaDot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 15,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/kodadot_9069442d5a.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "nft"
     ]
   },
   {
@@ -426,7 +424,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": null,
-    "ordinal": 21,
+    "ordinal": 20,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
     "preview_image": null,
@@ -444,7 +442,7 @@
     "is_substrate": true,
     "is_evm": true,
     "is_featured": false,
-    "ordinal": 21,
+    "ordinal": 20,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinvietnam_74c19a6031.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/nft_dotinvietnam_cc21b67317.jpg",
@@ -580,24 +578,6 @@
     ]
   },
   {
-    "id": 64,
-    "title": "KodaDot",
-    "description": "Multi-chain NFT marketplace across Polkadot parachains",
-    "url": "https://kodadot.xyz/",
-    "subtitle": "KodaDot",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": 26,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/kodadot_9069442d5a.png",
-    "preview_image": null,
-    "chains": [],
-    "categories": [
-      "nft"
-    ]
-  },
-  {
     "id": 135,
     "title": "Unique Marketplace",
     "description": "The Unique marketplace supports next-generation NFT Utility tools for creators. Enjoy a truly seamless experience by creating and trading the most advanced NFTs on the Unique and Quartz Networks.",
@@ -694,6 +674,26 @@
     "chains": [],
     "categories": [
       "nft"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Ternoa Hub",
+    "description": "Gain great rewards and participate in unique opportunities just by holding CAPS.",
+    "url": "https://hub.ternoa.network/",
+    "subtitle": "Stake CAPS, earn rewards and get airdrops",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 30,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/ternoa_6f70875743.png",
+    "preview_image": null,
+    "chains": [
+      "ternoa"
+    ],
+    "categories": [
+      "staking"
     ]
   },
   {
@@ -1381,13 +1381,33 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 62,
+    "ordinal": 61,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/emotes_2501d01fc2.png",
     "preview_image": null,
     "chains": [],
     "categories": [
       "nft"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Dancebox",
+    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
+    "url": "https://apps.tanssi.network/dancebox",
+    "subtitle": "Dancebox - The Testnet of Tanssi Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 62,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
+    "preview_image": null,
+    "chains": [
+      "dancebox"
+    ],
+    "categories": [
+      "tooling"
     ]
   },
   {
