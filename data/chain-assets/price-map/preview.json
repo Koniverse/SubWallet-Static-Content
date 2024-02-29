@@ -468,7 +468,7 @@
   "parallel-LOCAL-cDOT714": null,
   "manta_network_evm-NATIVE-ETH": "ethereum",
   "polkadex_dot-NATIVE-PDEX": "polkadex",
-  "bifrost_dot-LOCAL-BNCS": null,
+  "bifrost_dot-LOCAL-BNCS": "bifrost-native-coin",
   "manta_network-NATIVE-MANTA": "manta-network",
   "manta_network_evm-ERC20-MANTA-0x95CeF13441Be50d20cA4558CC0a27B601aC544E5": "manta-network",
   "manta_network-LOCAL-DOT": "polkadot",
@@ -482,5 +482,9 @@
   "continuum_network-NATIVE-NUUM": null,
   "hydradx_main-LOCAL-INTR": "interlay",
   "rococo_assethub-NATIVE-ROC": null,
-  "rococo_assethub-LOCAL-WETH": null
+  "rococo_assethub-LOCAL-WETH": null,
+  "okxTest-NATIVE-OKX": null,
+  "liberlandTest-NATIVE-LDN": null,
+  "liberland-NATIVE-LLD": null,
+  "liberland-LOCAL-LLM": null
 }
