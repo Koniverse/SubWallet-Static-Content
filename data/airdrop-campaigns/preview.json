@@ -1,55 +1,33 @@
 [
   {
-    "id": 10,
-    "name": "$DED is LIVE",
-    "status": "archived",
+    "id": 11,
+    "name": "PLOT the vDOT with Zeitgeist",
+    "status": "live",
     "ordinal": 1,
-    "description": "Hop in to explore DOT Is $DED Zealy community, and pledge yourself to $DED!\n\nOver 4000 DOT in rewards across 3 stages!\n\nPhase $DED is LIVE - Reward Pool: 1.400 DOT\n\n📅 Duration: 02/12 - 02/26 (3pm CET)\n",
-    "start_time": "2024-02-11T17:00:00.000Z",
-    "end_time": "2024-02-26T14:00:00.000Z",
-    "url": "https://bit.ly/zealyded",
-    "twitter_url": "https://twitter.com/dotisded",
-    "reward": "1,400 DOT",
-    "total_winner": null,
+    "description": "Mint vDOT and predict Markets on Zeitgeist !\n20 random winners will share 500 $BNC and 2000 $ZTG.",
+    "start_time": "2024-01-31T17:00:00.000Z",
+    "end_time": "2024-03-01T11:00:00.000Z",
+    "url": "https://bit.ly/airlyft_bifrost_zei",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "500 $BNC and 2000 $ZTG",
+    "total_winner": "20",
     "total_supply": null,
     "tags": [
-      "points"
+      "lucky_draw"
     ],
-    "campaign_url": "https://www.dotisded.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
+    "campaign_url": "https://bifrost.app/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GFL_7p1d_WUA_Eschq_f6004397f2.jpeg",
     "chains": [
-      "polkadot"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Test mission pool",
-    "status": "upcoming",
-    "ordinal": 1,
-    "description": "Hop in to explore DOT Is $DED Zealy community, and pledge yourself to $DED!\n\nOver 4000 DOT in rewards across 3 stages!\n\nPhase $DED is LIVE - Reward Pool: 1.400 DOT\n\n📅 Duration: 02/12 - 02/26 (3pm CET)\n",
-    "start_time": "2024-02-28T07:45:00.000Z",
-    "end_time": "2024-02-28T07:55:00.000Z",
-    "url": "https://bit.ly/zealyded",
-    "twitter_url": "https://twitter.com/dotisded",
-    "reward": "1,400 DOT",
-    "total_winner": null,
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.dotisded.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
-    "chains": [
-      "polkadot"
+      "bifrost_dot",
+      "zeitgeist"
     ]
   },
   {
     "id": 13,
     "name": "vDOT is DED",
     "status": "live",
-    "ordinal": 2,
+    "ordinal": 1,
     "description": "Mint vDOT to show how DED it is!\nThe more vDOT the more DED for the incoming airdrop.\n\nSnapshot to be executed soon...",
     "start_time": "2024-02-27T09:00:00.000Z",
     "end_time": "2024-03-10T12:00:00.000Z",
@@ -69,27 +47,51 @@
     ]
   },
   {
-    "id": 11,
-    "name": "PLOT the vDOT with Zeitgeist",
+    "id": 15,
+    "name": "Galxe Campaign: $10,000 USDT + AiPixel Land Reward to 10,000 Participants",
     "status": "live",
-    "ordinal": 3,
-    "description": "Mint vDOT and predict Markets on Zeitgeist !\n20 random winners will share 500 $BNC and 2000 $ZTG.",
-    "start_time": "2024-01-31T17:00:00.000Z",
-    "end_time": "2024-03-01T11:00:00.000Z",
-    "url": "https://bit.ly/airlyft_bifrost_zei",
-    "twitter_url": "https://twitter.com/BifrostFinance",
-    "reward": "500 $BNC and 2000 $ZTG",
-    "total_winner": "20",
-    "total_supply": null,
+    "ordinal": 1,
+    "description": "👀 What’s in it for you?🎁\n\n- 1 Million NUUM Treasury: 1 Million NUUM Treasury: I’ll distribute rewards from our massive treasury to brilliant minds that help me to shape the future. Ask your first question wisely… 😘\n- Land for 10,000 participants: Secure your digital territory as one of the first 10,000 campaigners. 🏞️\n$10,000 USDT Giveaway: 20 lucky participants will win a share of this bounty! 💰\n- Join our quest to shape this universe 🌐. Your ideas can earn you land, NUUM, and USDT!",
+    "start_time": "2024-02-22T23:00:00.000Z",
+    "end_time": "2024-03-07T23:00:00.000Z",
+    "url": "https://galxe.com/bitcountry/campaign/GCym8t4A89",
+    "twitter_url": null,
+    "reward": "500 USDT",
+    "total_winner": "200",
+    "total_supply": "10,000 USDT",
     "tags": [
-      "lucky_draw"
+      "lucky_draw",
+      "points"
     ],
-    "campaign_url": "https://bifrost.app/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GFL_7p1d_WUA_Eschq_f6004397f2.jpeg",
+    "campaign_url": "https://mnet.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bit_country_continuum_5f92dd7fcc.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/mnet_campaign_d269d1136a.png",
     "chains": [
-      "bifrost_dot",
-      "zeitgeist"
+      "continuum_network"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Zealy Campaign: $10,000 USDT + AiPixel Land Reward to 10,000 Participants",
+    "status": "live",
+    "ordinal": 1,
+    "description": "👀 What’s in it for you?🎁\n\n- 1 Million NUUM Treasury: 1 Million NUUM Treasury: I’ll distribute rewards from our massive treasury to brilliant minds that help me to shape the future. Ask your first question wisely… 😘\n- Land for 10,000 participants: Secure your digital territory as one of the first 10,000 campaigners. 🏞️\n$10,000 USDT Giveaway: 20 lucky participants will win a share of this bounty! 💰\n- Join our quest to shape this universe 🌐. Your ideas can earn you land, NUUM, and USDT!",
+    "start_time": "2024-02-22T23:00:00.000Z",
+    "end_time": "2024-03-07T23:00:00.000Z",
+    "url": "https://zealy.io/c/mnet/questboard",
+    "twitter_url": null,
+    "reward": "500 USDT",
+    "total_winner": "200",
+    "total_supply": "10,000 USDT",
+    "tags": [
+      "lucky_draw",
+      "points"
+    ],
+    "campaign_url": "https://mnet.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bit_country_continuum_5f92dd7fcc.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/mnet_zealy_campaign_1e2101ab35.jpeg",
+    "chains": [
+      "continuum_network"
     ]
   },
   {
@@ -234,6 +236,29 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "$DED is LIVE",
+    "status": "archived",
+    "ordinal": 99,
+    "description": "Hop in to explore DOT Is $DED Zealy community, and pledge yourself to $DED!\n\nOver 4000 DOT in rewards across 3 stages!\n\nPhase $DED is LIVE - Reward Pool: 1.400 DOT\n\n📅 Duration: 02/12 - 02/26 (3pm CET)\n",
+    "start_time": "2024-02-11T17:00:00.000Z",
+    "end_time": "2024-02-26T14:00:00.000Z",
+    "url": "https://bit.ly/zealyded",
+    "twitter_url": "https://twitter.com/dotisded",
+    "reward": "1,400 DOT",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.dotisded.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
+    "chains": [
+      "polkadot"
     ]
   }
 ]
