@@ -1851,7 +1851,7 @@
     "ordinal": 48,
     "icon": "https://static-data.subwallet.app/chains/images/icon/sora_cd4fcddf6e.png",
     "providers": {
-      "Soramitsu": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp"
+      "Soramitsu": "wss://ws.parachain-collator-2.c2.sora2.soramitsu.co.jp"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4398,10 +4398,10 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2000,
       "genesisHash": "0xa0c6e3bac382b316a68bca7141af1fba507207594c761076847ce358aeedcc21",
       "addressPrefix": 38,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://kilt-testnet.subscan.io/",
       "existentialDeposit": "10000000000000",
@@ -5698,7 +5698,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2056,
       "genesisHash": "0xa6ffcef7fb8caadf7f6c5ad8ada65e3eaa90d1604f3eabda546ff1d486865a0c",
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
@@ -7562,6 +7562,92 @@
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "okxTest",
+    "name": "OKX X1 testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
+    "providers": {
+      "Testrpc": "https://testrpc.x1.tech/",
+      "X1testrpc": "https://x1testrpc.okx.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 195,
+      "blockExplorer": "https://www.okx.com/nl/explorer/x1-test",
+      "existentialDeposit": "0",
+      "symbol": "OKX",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://www.okx.com/nl/explorer/x1-test"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "liberlandTest",
+    "name": "Liberland Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
+    "providers": {
+      "Liberland": "wss://testchain.liberland.org"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x131a8f81116a6ee880aa5f84b16115499a50f5f8dccfed80d87e204ec9203f3c",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "LDN",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "liberland",
+    "name": "Liberland",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
+    "providers": {
+      "Liberland": "wss://mainnet.liberland.org"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x6bd89e052d67a45bb60a9a23e8581053d5e0d619f15cb9865946937e690c42d6",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "LLD",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []

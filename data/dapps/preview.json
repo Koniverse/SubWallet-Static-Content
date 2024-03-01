@@ -782,6 +782,27 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Polkadex Orderbook",
+    "description": "A fully decentralized platform for exchanging tokens in a peer-to-peer trustless environment, while additionally enabling high-liquidity, lightning-fast transaction speed and advanced trading features such as high-frequency trading and trading bots.",
+    "url": "https://orderbook.polkadex.trade",
+    "subtitle": "Decentralized Exchange Platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 33,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadex_76c2ed54f7.png",
+    "preview_image": null,
+    "chains": [
+      "polkadex",
+      "polkadex_dot"
+    ],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 76,
     "title": "Panorama Swap",
     "description": "Panorama Swap allows for on-chain asset swaps without the complexity of an order book. Swap any two PSP22 assets that exist on Aleph Zero network, create permissionless liquidity pools, engage in yield farming, stake the native PANX token and much more to be announced soon!",
@@ -1262,6 +1283,26 @@
     ]
   },
   {
+    "id": 141,
+    "title": "MantaDEX",
+    "description": "Step into the world of seamless digital asset exchange with \nMantaDEX - the cutting-edge decentralized exchange operating on the innovative Manta Network blockchain. ",
+    "url": "https://bit.ly/mantadex",
+    "subtitle": "Decentralized Exchange for Manta zk Ecosystem",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 56,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mantadex_c07958dd62.png",
+    "preview_image": null,
+    "chains": [
+      "manta_network"
+    ],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 98,
     "title": "Bananaswap",
     "description": "The whole system is based on having people depositing both currencies ($GLMR and $BANANAS) in a GLMR-BANANA LP pool in order to benefit from LP rewards (paid in $BANANAS token).",
@@ -1347,27 +1388,6 @@
     ],
     "categories": [
       "nft"
-    ]
-  },
-  {
-    "id": 136,
-    "title": "Polkadex Orderbook",
-    "description": "A fully decentralized platform for exchanging tokens in a peer-to-peer trustless environment, while additionally enabling high-liquidity, lightning-fast transaction speed and advanced trading features such as high-frequency trading and trading bots.",
-    "url": "https://orderbook.polkadex.trade",
-    "subtitle": "Decentralized Exchange Platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 60,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadex_76c2ed54f7.png",
-    "preview_image": null,
-    "chains": [
-      "polkadex",
-      "polkadex_dot"
-    ],
-    "categories": [
-      "defi"
     ]
   },
   {

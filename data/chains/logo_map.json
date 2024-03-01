@@ -210,5 +210,8 @@
   "bittensor_testnet": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png",
   "subspace_gemini_3h": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
   "continuum_network": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_5f92dd7fcc.png",
-  "rococo_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png"
+  "rococo_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
+  "okxTest": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
+  "liberlandTest": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
+  "liberland": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png"
 }
