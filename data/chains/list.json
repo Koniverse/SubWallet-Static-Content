@@ -86,7 +86,6 @@
     "ordinal": 3,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
     "providers": {
-      "Llamarpc": "https://eth.llamarpc.com",
       "PublicNode": "https://ethereum.publicnode.com",
       "Cloudflare": "https://cloudflare-eth.com",
       "BlastApi": "https://eth-mainnet.public.blastapi.io",
@@ -935,8 +934,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbase_e42c8ad3dc.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbase.moonbeam.network",
-      "Blast": "wss://moonbase-alpha.public.blastapi.io",
-      "OnFinality": "wss://moonbeam-alpha.api.onfinality.io/public-ws"
+      "Blast": "wss://moonbase-alpha.public.blastapi.io"
     },
     "evmInfo": {
       "evmChainId": 1287,
@@ -1447,8 +1445,7 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
-      "Dwellir": "wss://parallel-rpc.dwellir.com",
-      "Parallel": "wss://polkadot-parallel-rpc.parallel.fi"
+      "Dwellir": "wss://parallel-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1851,7 +1848,7 @@
     "ordinal": 48,
     "icon": "https://static-data.subwallet.app/chains/images/icon/sora_cd4fcddf6e.png",
     "providers": {
-      "Soramitsu": "wss://ws.parachain-collator-1.c1.sora2.soramitsu.co.jp"
+      "Soramitsu": "wss://ws.parachain-collator-2.c2.sora2.soramitsu.co.jp"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4398,10 +4395,10 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2000,
       "genesisHash": "0xa0c6e3bac382b316a68bca7141af1fba507207594c761076847ce358aeedcc21",
       "addressPrefix": 38,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://kilt-testnet.subscan.io/",
       "existentialDeposit": "10000000000000",
@@ -4720,7 +4717,6 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "viaAjunaNetwork": "wss://rpc-parachain.ajuna.network",
       "OnFinality": "wss://ajuna.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -5129,7 +5125,6 @@
     "ordinal": 136,
     "icon": "https://static-data.subwallet.app/chains/images/icon/automata_network_21b619c323.png",
     "providers": {
-      "Automata Network": "wss://api.ata.network",
       "OnFinality": "wss://automata.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -5698,7 +5693,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2056,
       "genesisHash": "0xa6ffcef7fb8caadf7f6c5ad8ada65e3eaa90d1604f3eabda546ff1d486865a0c",
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
@@ -7476,5 +7471,152 @@
     "extraInfo": {
       "subscanSlug": "subspace"
     }
+  },
+  {
+    "slug": "continuum_network",
+    "name": "Continuum Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_5f92dd7fcc.png",
+    "providers": {
+      "Continuum RPC Node": "wss://continuum-rpc-1.metaverse.network/wss"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 3346,
+      "genesisHash": "0xae1ca86c936aa252cdc45f4f436220567b2bbbcc4834f5b8f4191462baf19dfb",
+      "addressPrefix": 268,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "NUUM",
+      "decimals": 18,
+      "hasNativeNft": true,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "rococo_assethub",
+    "name": "Rococo Asset Hub",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
+    "providers": {
+      "Dwellir": "wss://rococo-asset-hub-rpc.dwellir.com",
+      "Parity": "wss://rococo-asset-hub-rpc.polkadot.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "rococo",
+      "paraId": 1000,
+      "genesisHash": "0x7c34d42fc815d392057c78b49f2755c753440ccd38bcb0405b3bcfb601d08734",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "3333333",
+      "symbol": "ROC",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "okxTest",
+    "name": "OKX X1 testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
+    "providers": {
+      "Testrpc": "https://testrpc.x1.tech/",
+      "X1testrpc": "https://x1testrpc.okx.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 195,
+      "blockExplorer": "https://www.okx.com/nl/explorer/x1-test",
+      "existentialDeposit": "0",
+      "symbol": "OKX",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://www.okx.com/nl/explorer/x1-test"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "liberlandTest",
+    "name": "Liberland Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
+    "providers": {
+      "Liberland": "wss://testchain.liberland.org"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x131a8f81116a6ee880aa5f84b16115499a50f5f8dccfed80d87e204ec9203f3c",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "LDN",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "liberland",
+    "name": "Liberland",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
+    "providers": {
+      "Liberland": "wss://mainnet.liberland.org"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x6bd89e052d67a45bb60a9a23e8581053d5e0d619f15cb9865946937e690c42d6",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "LLD",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
   }
 ]
