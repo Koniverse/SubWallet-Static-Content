@@ -935,8 +935,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbase_e42c8ad3dc.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbase.moonbeam.network",
-      "Blast": "wss://moonbase-alpha.public.blastapi.io",
-      "OnFinality": "wss://moonbeam-alpha.api.onfinality.io/public-ws"
+      "Blast": "wss://moonbase-alpha.public.blastapi.io"
     },
     "evmInfo": {
       "evmChainId": 1287,
@@ -1447,8 +1446,7 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
-      "Dwellir": "wss://parallel-rpc.dwellir.com",
-      "Parallel": "wss://polkadot-parallel-rpc.parallel.fi"
+      "Dwellir": "wss://parallel-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4720,7 +4718,6 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "viaAjunaNetwork": "wss://rpc-parachain.ajuna.network",
       "OnFinality": "wss://ajuna.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -5129,7 +5126,6 @@
     "ordinal": 136,
     "icon": "https://static-data.subwallet.app/chains/images/icon/automata_network_21b619c323.png",
     "providers": {
-      "Automata Network": "wss://api.ata.network",
       "OnFinality": "wss://automata.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -7646,6 +7642,36 @@
       "existentialDeposit": "1000000000000",
       "symbol": "LLD",
       "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "chainflip_dot",
+    "name": "Chainflip-Polkadot",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Chainflip": "wss://rpc-pdot.chainflip.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xe566d149729892a803c3c4b1e652f09445926234d956a0f166be4d4dea91f536",
+      "addressPrefix": 0,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000",
+      "symbol": "pDOT",
+      "decimals": 10,
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,

@@ -213,5 +213,6 @@
   "rococo_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
   "okxTest": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
   "liberlandTest": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
-  "liberland": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png"
+  "liberland": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
+  "chainflip_dot": null
 }
