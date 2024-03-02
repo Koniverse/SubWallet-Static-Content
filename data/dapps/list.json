@@ -354,23 +354,25 @@
     ]
   },
   {
-    "id": 132,
-    "title": "Mangata dApp",
-    "description": "Mangata is an easy and secure DEX for Ethereum and Polkadot. It's an application-specific DEX chain without miner extractable value (MEV) that will be connected to Polkadot as a parachain.",
-    "url": "https://app.mangata.finance/",
-    "subtitle": "DEX for Ethereum and Polkadot",
+    "id": 142,
+    "title": "Manta dApp",
+    "description": "Manta Atlantic is the ZK L1 chain on Polkadot. With Manta dApp, you can bridge to Manta Atlantic, or stake MANTA on Manta Atlantic to secure the network and earn rewards!",
+    "url": "https://app.manta.network/",
+    "subtitle": "Bridge and Stake MANTA on Manta Atlantic",
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
     "ordinal": 17,
     "desktop_mode": true,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/mangata_x_ca60b3b40f.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_Light_35bb12c305.png",
     "preview_image": null,
     "chains": [
-      "mangatax_para"
+      "manta_network",
+      "manta_network_evm"
     ],
     "categories": [
-      "defi"
+      "bridge",
+      "staking"
     ]
   },
   {
@@ -454,27 +456,6 @@
     ]
   },
   {
-    "id": 79,
-    "title": "Polkadot.js",
-    "description": "Polkadot-JS is a collection of tools, utilities, and libraries that interface with the Polkadot blockchain in a granular way.",
-    "url": "https://polkadot.js.org/apps/#",
-    "subtitle": "Tool collection for interacting with the Polkadot Network",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
-    "ordinal": 22,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
-    "preview_image": null,
-    "chains": [
-      "polkadot",
-      "kusama"
-    ],
-    "categories": [
-      "tooling"
-    ]
-  },
-  {
     "id": 81,
     "title": "Polkassembly",
     "description": "An open-source platform to vote and discuss governance proposals, motions, and referenda. You can sign up, link an address, and edit your proposals' description and title.",
@@ -483,7 +464,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": null,
-    "ordinal": 23,
+    "ordinal": 21,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/polkassembly_f3f87c02b4.png",
     "preview_image": null,
@@ -526,6 +507,88 @@
     ],
     "categories": [
       "governance"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Polkadot.js",
+    "description": "Polkadot-JS is a collection of tools, utilities, and libraries that interface with the Polkadot blockchain in a granular way.",
+    "url": "https://polkadot.js.org/apps/#",
+    "subtitle": "Tool collection for interacting with the Polkadot Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": null,
+    "ordinal": 22,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_js_8bc6183004.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Aleph Zero Dashboard",
+    "description": "Aleph Zero Dashboard is the easiest way to stake AZERO, check validator stats, manage your nominations and join nomination pools.",
+    "url": "https://dashboard.alephzero.org/",
+    "subtitle": "Staking Dashboard on Aleph Zero",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 23,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/aleph_zero_3a3d7fa6bb.png",
+    "preview_image": null,
+    "chains": [
+      "aleph"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Manta Pacific Bridge",
+    "description": "Bridge funds from Ethereum to Manta Pacific to start exploring Manta Pacific - the first EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.",
+    "url": "https://pacific-bridge.manta.network/",
+    "subtitle": "The Bridge to Manta Pacific",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 23,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_Light_35bb12c305.png",
+    "preview_image": null,
+    "chains": [
+      "manta_network_evm",
+      "ethereum"
+    ],
+    "categories": [
+      "bridge"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Vara Staking Dashboard",
+    "description": "Vara Staking Dashboard is the easiest way to stake Vara, check validator stats, manage your nominations, and join nomination pools. ",
+    "url": "https://staking.vara.network/",
+    "subtitle": "Staking Dashboard on Vara Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 23,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/vara_6238a8a42c.png",
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "staking"
     ]
   },
   {
@@ -575,6 +638,26 @@
       "defi",
       "staking",
       "crowdloans"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Mangata dApp",
+    "description": "Mangata is an easy and secure DEX for Ethereum and Polkadot. It's an application-specific DEX chain without miner extractable value (MEV) that will be connected to Polkadot as a parachain.",
+    "url": "https://app.mangata.finance/",
+    "subtitle": "DEX for Ethereum and Polkadot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 26,
+    "desktop_mode": true,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mangata_x_ca60b3b40f.png",
+    "preview_image": null,
+    "chains": [
+      "mangatax_para"
+    ],
+    "categories": [
+      "defi"
     ]
   },
   {
