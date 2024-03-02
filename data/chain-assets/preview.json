@@ -9177,5 +9177,39 @@
     "originChain": "liberland",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "chainflip_dot-NATIVE-pDOT",
+    "name": "pDot (Chainflip-Polkadot)",
+    "symbol": "pDOT",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "10000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "chainflip_dot",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum_goerli-ERC20-0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+    "name": "USDC Goerli",
+    "symbol": "USDC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
+    "originChain": "ethereum_goerli",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
