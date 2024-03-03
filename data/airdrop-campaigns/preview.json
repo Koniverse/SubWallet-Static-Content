@@ -1,29 +1,5 @@
 [
   {
-    "id": 11,
-    "name": "PLOT the vDOT with Zeitgeist",
-    "status": "live",
-    "ordinal": 1,
-    "description": "Mint vDOT and predict Markets on Zeitgeist !\n20 random winners will share 500 $BNC and 2000 $ZTG.",
-    "start_time": "2024-01-31T17:00:00.000Z",
-    "end_time": "2024-03-01T11:00:00.000Z",
-    "url": "https://bit.ly/airlyft_bifrost_zei",
-    "twitter_url": "https://twitter.com/BifrostFinance",
-    "reward": "500 $BNC and 2000 $ZTG",
-    "total_winner": "20",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://bifrost.app/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GFL_7p1d_WUA_Eschq_f6004397f2.jpeg",
-    "chains": [
-      "bifrost_dot",
-      "zeitgeist"
-    ]
-  },
-  {
     "id": 13,
     "name": "vDOT is DED",
     "status": "live",
@@ -259,6 +235,30 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
     "chains": [
       "polkadot"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "PLOT the vDOT with Zeitgeist",
+    "status": "archived",
+    "ordinal": 99,
+    "description": "Mint vDOT and predict Markets on Zeitgeist !\n20 random winners will share 500 $BNC and 2000 $ZTG.",
+    "start_time": "2024-01-31T17:00:00.000Z",
+    "end_time": "2024-03-01T11:00:00.000Z",
+    "url": "https://bit.ly/airlyft_bifrost_zei",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "500 $BNC and 2000 $ZTG",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://bifrost.app/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GFL_7p1d_WUA_Eschq_f6004397f2.jpeg",
+    "chains": [
+      "bifrost_dot",
+      "zeitgeist"
     ]
   }
 ]
