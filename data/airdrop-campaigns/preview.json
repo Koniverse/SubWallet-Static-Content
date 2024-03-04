@@ -260,5 +260,28 @@
       "bifrost_dot",
       "zeitgeist"
     ]
+  },
+  {
+    "id": 17,
+    "name": "Test mission pool",
+    "status": "upcoming",
+    "ordinal": 99,
+    "description": "Hop in to explore DOT Is $DED Zealy community, and pledge yourself to $DED!\n\nOver 4000 DOT in rewards across 3 stages!\n\nPhase $DED is LIVE - Reward Pool: 1.400 DOT\n\n📅 Duration: 02/12 - 02/26 (3pm CET)\n",
+    "start_time": "2024-03-04T13:00:00.000Z",
+    "end_time": "2024-03-05T03:00:00.000Z",
+    "url": "https://bit.ly/zealyded",
+    "twitter_url": "https://twitter.com/dotisded",
+    "reward": "1,400 DOT",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.dotisded.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
+    "chains": [
+      "polkadot"
+    ]
   }
 ]
