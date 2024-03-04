@@ -976,7 +976,7 @@
             "color": "primary",
             "type": null,
             "metadata": {
-              "url": "subwallet://home/main/earning/earning-list",
+              "url": "",
               "doneOnClick": true
             }
           }
