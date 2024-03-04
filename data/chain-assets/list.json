@@ -31,7 +31,7 @@
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-NATIVE-DOT"
       },
       {
@@ -251,7 +251,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
