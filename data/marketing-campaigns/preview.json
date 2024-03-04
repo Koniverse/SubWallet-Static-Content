@@ -835,7 +835,7 @@
     "name": "[Test] Apply master password 2 (mobile app)",
     "description": null,
     "start_time": "2024-02-15T01:15:00.000Z",
-    "end_time": "2024-02-29T16:59:00.000Z",
+    "end_time": "2024-03-05T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"ASTR-Astar\", \"astar-NATIVE-ASTR\"]"
     },
@@ -942,6 +942,46 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//6/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 63,
+    "name": "Update tabbar (mobile)",
+    "description": null,
+    "start_time": "2024-03-04T09:00:00.000Z",
+    "end_time": "2024-03-11T16:59:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 127,
+        "alt": "popup",
+        "action": null,
+        "metadata": {
+          "url": ""
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I understand",
+            "icon": null,
+            "color": "primary",
+            "type": null,
+            "metadata": {
+              "url": "subwallet://home/main/earning/earning-list",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//8/Sub_Wallet_Mobile_v1_1_34_323_7e194e6953.png"
       }
     ],
     "notifications": []
