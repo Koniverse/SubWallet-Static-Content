@@ -242,6 +242,38 @@ const cacheConfigs = [
         removeFields: [],
         preview: 'preview.json'
     },
+    {
+        url: `${STRAPI_URL}/api/list/buy-button`,
+        folder: 'buy-buttons',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: ['id'],
+        preview: 'preview.json',
+        additionalProcess: [
+            async (data, preview_data, config, lang, isProduction) => {
+                if (preview_data.length > 0 || data.length > 0) {
+                    const dataSave = preview_data.map((item) => {
+                        return item.version;
+                    });
+                    let dataConfig = {
+                        address: true,
+                        sell: true,
+                        buy: []
+                    };
+                    try {
+                        const filePath = 'data/tokens/config.json';
+                        dataConfig = JSON.parse(fs.readFileSync(filePath));
+                    } catch (e) {
+                        console.log(e)
+                    }
+
+                    dataConfig.buy = dataSave;
+                    const path = savePath('tokens', `config.json`);
+                    writeJSONFile(path, dataConfig).catch(console.error)
+                }
+            }
+        ]
+    },
 ]
 
 const savePath = (folder, fileName) => `data/${folder}/${fileName || 'list.json'}`;
