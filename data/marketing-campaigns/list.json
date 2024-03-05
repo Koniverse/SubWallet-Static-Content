@@ -686,5 +686,45 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 63,
+    "name": "Update tabbar (mobile)",
+    "description": null,
+    "start_time": "2024-03-04T09:00:00.000Z",
+    "end_time": "2024-03-11T16:59:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 127,
+        "alt": "popup",
+        "action": null,
+        "metadata": {
+          "url": ""
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I understand",
+            "icon": null,
+            "color": "primary",
+            "type": null,
+            "metadata": {
+              "url": "",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app/Update_Tabbar_3x_f1b8b4d412.png"
+      }
+    ],
+    "notifications": []
   }
 ]
