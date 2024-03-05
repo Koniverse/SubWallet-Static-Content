@@ -1494,6 +1494,28 @@
     ]
   },
   {
+    "id": 145,
+    "title": "Mimir dApp",
+    "description": "Mimir supports advanced multisig account composition and nesting. Mimir supports flexible member and threshold management, and direct interaction with third-party applications.",
+    "url": "https://app.mimir.global/",
+    "subtitle": "Multisig Account Management Tool for Polkadot and Substrate",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 61,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mimir_bb3a6835d9.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama",
+      "rococo"
+    ],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
     "id": 112,
     "title": "Dancebox",
     "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
