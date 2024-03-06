@@ -214,5 +214,8 @@
   "okxTest": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
   "liberlandTest": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
   "liberland": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
-  "chainflip_dot": null
+  "chainflip_dot": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
+  "tangleTest": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_ab33a3c960.png",
+  "dentnet": "https://static-data.subwallet.app/chains/images/icon/dentnet_2251e4375f.png",
+  "metaquityTest": null
 }
