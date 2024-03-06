@@ -447,6 +447,7 @@
     "ordinal": 12,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_e12f7d1924.png",
     "providers": {
+      "Polygon Scan": "https://polygon-rpc.com/",
       "Llamarpc": "https://polygon.llamarpc.com",
       "BlastApi": "https://polygon-mainnet.public.blastapi.io",
       "BorPublicNode": "https://polygon-bor.publicnode.com"
@@ -500,6 +501,7 @@
     "ordinal": 14,
     "icon": "https://static-data.subwallet.app/chains/images/icon/optimism_a6ed6c25a9.png",
     "providers": {
+      "Kyber Engineering": "https://optimism.kyberengineering.io",
       "BlastApi": "https://optimism-mainnet.public.blastapi.io"
     },
     "evmInfo": {
@@ -1400,7 +1402,7 @@
       "evmChainId": 5,
       "blockExplorer": "https://goerli.etherscan.io",
       "existentialDeposit": "0",
-      "symbol": "GoerliETH",
+      "symbol": "ETH",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
@@ -1426,7 +1428,7 @@
       "evmChainId": 97,
       "blockExplorer": "https://testnet.bscscan.com",
       "existentialDeposit": "0",
-      "symbol": "BNB",
+      "symbol": "tBNB",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
@@ -1859,9 +1861,9 @@
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://polkadot.js.org/apps/#/parachains/crowdloan",
       "blockExplorer": null,
-      "existentialDeposit": "1000000000",
+      "existentialDeposit": "1000000000000000",
       "symbol": "XOR",
-      "decimals": 12,
+      "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
       "supportSmartContract": null,
@@ -2060,10 +2062,10 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2037,
       "genesisHash": "0xc87870ef90a438d574b8e320f17db372c50f62beb52e479c8ff6ee5b460670b9",
       "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "0",
@@ -2609,7 +2611,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2092,
       "genesisHash": "0xe3a1cf3db108e3e45c63a4841fe89ba95108b1db14fdec10c2e8a078ff322a67",
       "addressPrefix": 2092,
       "chainType": "RELAYCHAIN",
@@ -3350,13 +3352,13 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2000,
       "genesisHash": "0x3035b88c212be330a1a724c675d56d53a5016ec32af1790738832db0227ac54c",
       "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://acala-testnet.subscan.io/",
-      "existentialDeposit": null,
+      "existentialDeposit": "100000000000",
       "symbol": "ACA",
       "decimals": 12,
       "hasNativeNft": false,
@@ -4313,10 +4315,10 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": null,
+      "paraId": 2084,
       "genesisHash": "0x53a6ab000c8c3c1015747a1e3ea237a327c77df3e59d142801a23b25163d4f45",
       "addressPrefix": 78,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "100000000000",
@@ -6032,6 +6034,7 @@
     "ordinal": 164,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avalanche_24d7d14bc2.png",
     "providers": {
+      "Avax Network": "https://api.avax.network/ext/bc/C/rpc",
       "PublicNode": "https://avalanche-c-chain.publicnode.com"
     },
     "evmInfo": {
@@ -6144,11 +6147,11 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": "polkadot",
-      "paraId": 2097,
+      "relaySlug": null,
+      "paraId": null,
       "genesisHash": "0x2f0555cc76fc2840a25a6ea3b9637146806f1f44b090c175ffde2a7e5ab36c03",
       "addressPrefix": 42,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://scan.bittensor.com/",
       "existentialDeposit": "500",
@@ -7104,7 +7107,7 @@
       "evmChainId": 7001,
       "blockExplorer": "https://zetachain-athens-3.blockscout.com/",
       "existentialDeposit": "0",
-      "symbol": "aZETA",
+      "symbol": "ZETA",
       "decimals": 18,
       "supportSmartContract": null,
       "abiExplorer": null
