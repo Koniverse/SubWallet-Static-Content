@@ -3,7 +3,7 @@
     "id": 126,
     "title": "SubWallet Earning",
     "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
-    "url": "https://web.subwallet.app/home/earning/overview",
+    "url": "https://web.subwallet.app/earning-preview",
     "subtitle": "Earn rewards with top protocols at SubWallet",
     "is_substrate": true,
     "is_evm": true,
