@@ -2528,7 +2528,7 @@
     "name": "SubsocialX",
     "symbol": "SUB",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "subsocial",
     "minAmount": "100000000",
     "assetType": "NATIVE",
     "metadata": null,
