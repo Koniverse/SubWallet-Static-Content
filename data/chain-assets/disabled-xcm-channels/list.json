@@ -1,5 +1,6 @@
 [
   "polkadot-NATIVE-DOT___statemint-NATIVE-DOT",
+  "polkadot-NATIVE-DOT___hydradx_main-LOCAL-DOT",
   "kusama-NATIVE-KSM___statemine-NATIVE-KSM",
   "kusama-NATIVE-KSM___moonriver-LOCAL-xcKSM",
   "kusama-NATIVE-KSM___shiden-LOCAL-KSM",
@@ -8,6 +9,7 @@
   "kusama-NATIVE-KSM___amplitude-LOCAL-KSM",
   "statemint-NATIVE-DOT___polkadot-NATIVE-DOT",
   "statemine-NATIVE-KSM___kusama-NATIVE-KSM",
+  "hydradx_main-LOCAL-DOT___polkadot-NATIVE-DOT",
   "statemint-LOCAL-USDC___hydradx_main-LOCAL-USDC",
   "hydradx_main-LOCAL-USDC___statemint-LOCAL-USDC"
 ]
