@@ -51,7 +51,7 @@
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_main-LOCAL-DOT"
       },
       {
