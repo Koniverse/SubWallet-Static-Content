@@ -144,7 +144,6 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
-      "1rpc": "wss://1rpc.io/glmr",
       "Blast": "wss://moonbeam.public.blastapi.io",
       "UnitedBloc": "wss://moonbeam.unitedbloc.com"
     },
@@ -4873,7 +4872,7 @@
     "slug": "kapex",
     "name": "Kapex",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 129,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kapex_6b5bc7b8eb.png",
     "providers": {
@@ -7654,7 +7653,7 @@
   },
   {
     "slug": "chainflip_dot",
-    "name": "Chainflip-Polkadot",
+    "name": "Polkadot Chainflip Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -7684,7 +7683,7 @@
   },
   {
     "slug": "tangleTest",
-    "name": "Tangle Network Testnet",
+    "name": "Tangle Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -7743,12 +7742,12 @@
     "extraInfo": null
   },
   {
-    "slug": "metaquityTest",
-    "name": "Metaquity Testnet",
+    "slug": "phykenTest",
+    "name": "Phyken Network Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/phyken_White_4a58266ca5.png",
     "providers": {
       "Phyken Testnet": "wss://rpc.testnet.metaquity.xyz"
     },
@@ -7761,8 +7760,8 @@
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": "MQTY",
+      "existentialDeposit": "1000",
+      "symbol": "KEN",
       "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": null,
