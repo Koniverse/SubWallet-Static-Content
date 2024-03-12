@@ -1,9 +1,1 @@
-[
-  {
-    "id": 1,
-    "product": "extension",
-    "version": "1.1.33",
-    "content": "- Improve banner campaign in app (#2038):\n  - Improve case update and delete campaign\n- Add \"time-out\" status for transaction history (#2387)\n- Auto import EVM network with source from online resources (#2472)\n- Add support in-app staking for KREST",
-    "locale": "en"
-  }
-]
+[]

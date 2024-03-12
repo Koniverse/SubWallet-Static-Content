@@ -42,7 +42,8 @@
     "chainAssets": [
       "moonbeam-NATIVE-GLMR",
       "acala-LOCAL-GLMR",
-      "equilibrium_parachain-LOCAL-GLMR"
+      "equilibrium_parachain-LOCAL-GLMR",
+      "hydradx_main-LOCAL-GLMR"
     ]
   },
   {
@@ -150,7 +151,8 @@
       "acala-LOCAL-ASTR",
       "astarEvm-NATIVE-ASTR",
       "equilibrium_parachain-LOCAL-ASTR",
-      "moonbeam-LOCAL-xcASTR"
+      "moonbeam-LOCAL-xcASTR",
+      "hydradx_main-LOCAL-ASTR"
     ]
   },
   {
@@ -327,7 +329,10 @@
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChainAsset": "acala-LOCAL-aSEED",
     "chainAssets": [
-      "acala-LOCAL-aSEED"
+      "acala-LOCAL-aSEED",
+      "astar-LOCAL-aSEED",
+      "astarEvm-ERC20-aSEED-0xfFFFFfFF00000000000000010000000000000001",
+      "moonbeam-LOCAL-xcaUSD"
     ]
   },
   {
@@ -352,7 +357,7 @@
     "originChainAsset": "kintsugi-LOCAL-kBTC",
     "chainAssets": [
       "kintsugi-LOCAL-kBTC",
-      "moonriver-LOCAL-xckBTC"
+      "moonriver-LOCAL-xcKBTC"
     ]
   },
   {
@@ -364,7 +369,7 @@
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ftm_16069596f6.png",
     "originChainAsset": "fantom-NATIVE-FTM",
     "chainAssets": [
-      "ethereum-ERC20-WFTM-0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+      "ethereum-ERC20-FTM-0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
       "fantom-NATIVE-FTM",
       "binance-ERC20-FTM-0xAD29AbB318791D579433D831ed122aFeAf29dcfe"
     ]
@@ -377,13 +382,7 @@
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ausd_8c96420071.png",
     "originChainAsset": null,
-    "chainAssets": [
-      "calamari-LOCAL-AUSD",
-      "moonriver-LOCAL-xcaUSD",
-      "shiden-LOCAL-aUSD",
-      "shidenEvm-ERC20-aUSD-0xfFFfFFfF00000000000000010000000000000000",
-      "bifrost-LOCAL-aUSD"
-    ]
+    "chainAssets": []
   },
   {
     "slug": "PHA-Phala",
@@ -536,7 +535,12 @@
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChainAsset": "karura-LOCAL-aSEED",
     "chainAssets": [
-      "karura-LOCAL-aSEED"
+      "karura-LOCAL-aSEED",
+      "moonriver-LOCAL-xcaSeed",
+      "shidenEvm-ERC20-aSEED-0xfFFfFFfF00000000000000010000000000000000",
+      "shiden-LOCAL-aSEED",
+      "calamari-LOCAL-AUSD",
+      "bifrost-LOCAL-KUSD"
     ]
   },
   {
@@ -547,11 +551,7 @@
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ausd_8c96420071.png",
     "originChainAsset": null,
-    "chainAssets": [
-      "moonbeam-LOCAL-xcaUSD",
-      "astar-LOCAL-aUSD",
-      "astarEvm-ERC20-aUSD-0xfFFFFfFF00000000000000010000000000000001"
-    ]
+    "chainAssets": []
   },
   {
     "slug": "EQD-EquilibriumUSD",
@@ -694,6 +694,19 @@
     "chainAssets": [
       "statemint-LOCAL-PINK",
       "moonbeam-LOCAL-xcPINK"
+    ]
+  },
+  {
+    "slug": "BNC-BifrostPolkadot",
+    "name": "Bifrost Polkadot",
+    "symbol": "BNC",
+    "priceId": "bifrost-native-coin",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bifrost_44b3c3fd65.png",
+    "originChainAsset": "bifrost_dot-NATIVE-BNC",
+    "chainAssets": [
+      "bifrost_dot-NATIVE-BNC",
+      "hydradx_main-LOCAL-BNC"
     ]
   }
 ]
