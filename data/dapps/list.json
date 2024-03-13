@@ -40,20 +40,20 @@
     ]
   },
   {
-    "id": 133,
-    "title": "BitAvatar",
-    "description": "Each BitAvatar is an NFT-bound wallet (aka Backpack inspired by the sub-wallet concept) with the full functionalities as any wallet can do as well as ensuring a seamless, consistent virtual presence across all digital platforms.",
-    "url": "https://polkadot.bitavatar.io",
-    "subtitle": "Universal Avatar ID for Web3 that goes everywhere with your wallet address.",
-    "is_substrate": true,
-    "is_evm": false,
+    "id": 83,
+    "title": "Grill",
+    "description": "Revolutionary Web3 social finance platform built on Subsocial where bloggers and their followers earn together.",
+    "url": "https://grillapp.net/6479/80-000-sub-up-for-grabs-join-grill-x-sub-wallet-content-91982?ref=6479",
+    "subtitle": "Monetize Every Like, Comment, Post",
+    "is_substrate": null,
+    "is_evm": null,
     "is_featured": true,
     "ordinal": 2,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/bitavatar_a0a2b018f1.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/thumb_bit_avatar_57c39fbf15.jpg",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/grill_a8211ac856.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Dapp_Banner_7a7784bc25.png",
     "chains": [
-      "bitcountry"
+      "subsocial_x"
     ],
     "categories": [
       "socialfi"
@@ -376,20 +376,20 @@
     ]
   },
   {
-    "id": 83,
-    "title": "Grill",
-    "description": "Revolutionary Web3 social finance platform built on Subsocial where bloggers and their followers earn together.",
-    "url": "https://grillapp.net/6479/80-000-sub-up-for-grabs-join-grill-x-sub-wallet-content-91982?ref=6479",
-    "subtitle": "Monetize Every Like, Comment, Post",
-    "is_substrate": null,
-    "is_evm": null,
+    "id": 133,
+    "title": "BitAvatar",
+    "description": "Each BitAvatar is an NFT-bound wallet (aka Backpack inspired by the sub-wallet concept) with the full functionalities as any wallet can do as well as ensuring a seamless, consistent virtual presence across all digital platforms.",
+    "url": "https://polkadot.bitavatar.io",
+    "subtitle": "Universal Avatar ID for Web3 that goes everywhere with your wallet address.",
+    "is_substrate": true,
+    "is_evm": false,
     "is_featured": true,
     "ordinal": 18,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/grill_a8211ac856.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Dapp_Banner_7a7784bc25.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/bitavatar_a0a2b018f1.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/thumb_bit_avatar_57c39fbf15.jpg",
     "chains": [
-      "subsocial_x"
+      "bitcountry"
     ],
     "categories": [
       "socialfi"
