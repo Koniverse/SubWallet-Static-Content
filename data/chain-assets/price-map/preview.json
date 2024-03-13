@@ -153,7 +153,7 @@
   "subspace_gemini_3d-NATIVE-tSSC": null,
   "subspace_gemini_3e-NATIVE-tSSC": null,
   "subspace_gemini_3f-NATIVE-tSSC": null,
-  "origintrail-NATIVE-OTP": null,
+  "origintrail-NATIVE-NEURO": null,
   "dorafactory-NATIVE-DORA": "dora-factory",
   "bajun-NATIVE-BAJU": "ajuna-network",
   "listen-NATIVE-LT": null,
@@ -295,7 +295,6 @@
   "shidenEvm-ERC20-USDT-0xFFFFFFFF000000000000000000000001000007C0": null,
   "shidenEvm-ERC20-PKEX-0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98": "polkaex",
   "shidenEvm-ERC20-BNB-0x332730a4f6e03d9c55829435f10360e13cfa41ff": null,
-  "shidenEvm-ERC20-BUSD-0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98": null,
   "shidenEvm-ERC20-JPYC-0x735abe48e8782948a37c7765ecb76b98cde97b0f": "jpyc",
   "shidenEvm-ERC20-ETH-0x765277eebeca2e31912c9946eae1021199b39c61": null,
   "shidenEvm-ERC20-USDC-0xfa9343c3897324496a05fc75abed6bac29f8a40f": null,
@@ -391,7 +390,7 @@
   "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": "tether",
   "optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": "tether",
   "tomochain-ERC20-USDT-0x381B31409e4D220919B2cFF012ED94d70135A59e": "tether",
-  "polygon-ERC20-USDC.e-0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": "usd-coin",
+  "polygon-ERC20-USDC-0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": "usd-coin",
   "polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359": "usd-coin",
   "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831": "usd-coin",
   "optimism-ERC20-USDC-0x7F5c764cBc14f9669B88837ca1490cCa17c31607": "usd-coin",
@@ -445,7 +444,7 @@
   "moonbeam-ERC20-CP": "cypress",
   "zeta_test-NATIVE-ZETA": null,
   "xcavate-NATIVE-XCAV": null,
-  "arbitrum_one-ERC20-USDC.e-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": "usd-coin",
+  "arbitrum_one-ERC20-USDC-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": "usd-coin",
   "moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4": null,
   "enjin_matrixchain-NATIVE-ENJ": "enjincoin",
   "enjin_relaychain-NATIVE-ENJ": "enjincoin",
@@ -495,5 +494,7 @@
   "tangleTest-NATIVE-tTNT": null,
   "dentnet-NATIVE-DENTX": null,
   "dentnet-LOCAL-DENT": "dent",
-  "phykenTest-NATIVE-KEN": null
+  "phykenTest-NATIVE-KEN": null,
+  "creditcoinTestEvm-NATIVE-CTC": null,
+  "astarZkEvm-NATIVE-ETH": "ethereum"
 }

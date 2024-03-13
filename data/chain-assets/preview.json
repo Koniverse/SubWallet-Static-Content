@@ -2964,9 +2964,9 @@
     "assetRefs": []
   },
   {
-    "slug": "origintrail-NATIVE-OTP",
+    "slug": "origintrail-NATIVE-NEURO",
     "name": "OriginTrail",
-    "symbol": "OTP",
+    "symbol": "NEURO",
     "decimals": 12,
     "priceId": null,
     "minAmount": "1000000000000",
@@ -5548,24 +5548,6 @@
     "assetRefs": []
   },
   {
-    "slug": "shidenEvm-ERC20-BUSD-0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
-    "name": "Binance-Peg BUSD Token",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": null,
-    "assetType": "ERC20",
-    "metadata": {
-      "contractAddress": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98"
-    },
-    "hasValue": true,
-    "ordinal": 296,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/busd_b4005e1fcb.png",
-    "originChain": "shidenEvm",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "shidenEvm-ERC20-JPYC-0x735abe48e8782948a37c7765ecb76b98cde97b0f",
     "name": "JPY Coin",
     "symbol": "JPYC",
@@ -7294,9 +7276,9 @@
     "assetRefs": []
   },
   {
-    "slug": "polygon-ERC20-USDC.e-0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "slug": "polygon-ERC20-USDC-0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
     "name": "USD Coin (PoS)",
-    "symbol": "USDC.e",
+    "symbol": "USDC",
     "decimals": 6,
     "priceId": "usd-coin",
     "minAmount": null,
@@ -8174,7 +8156,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -8377,9 +8359,9 @@
     "assetRefs": []
   },
   {
-    "slug": "arbitrum_one-ERC20-USDC.e-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "slug": "arbitrum_one-ERC20-USDC-0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
     "name": "Bridged USDC",
-    "symbol": "USDC.e",
+    "symbol": "USDC",
     "decimals": 6,
     "priceId": "usd-coin",
     "minAmount": null,
@@ -9363,6 +9345,38 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/phyken_White_4a58266ca5.png",
     "originChain": "phykenTest",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "creditcoinTestEvm-NATIVE-CTC",
+    "name": "Creditcoin3 Testnet",
+    "symbol": "CTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "creditcoinTestEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "astarZkEvm-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "astarZkEvm",
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   }
 ]
