@@ -245,7 +245,8 @@
     "ordinal": 7,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
-      "Aleph Zero Foundation": "wss://ws.azero.dev"
+      "Aleph Zero Foundation": "wss://ws.azero.dev",
+      "Dwellir": "wss://aleph-zero-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3849,7 +3850,7 @@
       "crowdloanUrl": null,
       "blockExplorer": "https://origintrail.subscan.io/",
       "existentialDeposit": "1000000000000",
-      "symbol": "OTP",
+      "symbol": "NEURO",
       "decimals": 12,
       "hasNativeNft": false,
       "supportStaking": false,
@@ -7523,7 +7524,7 @@
       "addressPrefix": 268,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://continuum.subscan.io/",
       "existentialDeposit": "100000000000000000",
       "symbol": "NUUM",
       "decimals": 18,
@@ -7533,7 +7534,9 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "continuum"
+    }
   },
   {
     "slug": "rococo_assethub",
@@ -7770,6 +7773,50 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null
+  },
+  {
+    "slug": "creditcoinTestEvm",
+    "name": "Creditcoin Testnet - EVM",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Creditcoin Testnet EVM": "https://rpc.cc3-testnet.creditcoin.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 102031,
+      "blockExplorer": null,
+      "existentialDeposit": null,
+      "symbol": "CTC",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "astarZkEvm",
+    "name": "Astar zkEVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
+    "providers": {
+      "Startale": "https://rpc.startale.com/astar-zkevm"
+    },
+    "evmInfo": {
+      "evmChainId": 3776,
+      "blockExplorer": "https://astar-zkevm.explorer.startale.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": "https://astar-zkevm.explorer.startale.com/"
+    },
+    "substrateInfo": null,
     "extraInfo": null
   }
 ]

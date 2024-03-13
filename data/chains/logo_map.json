@@ -217,5 +217,7 @@
   "chainflip_dot": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
   "tangleTest": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_ab33a3c960.png",
   "dentnet": "https://static-data.subwallet.app/chains/images/icon/dentnet_2251e4375f.png",
-  "phykenTest": "https://static-data.subwallet.app/chains/images/icon/phyken_White_4a58266ca5.png"
+  "phykenTest": "https://static-data.subwallet.app/chains/images/icon/phyken_White_4a58266ca5.png",
+  "creditcoinTestEvm": null,
+  "astarZkEvm": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png"
 }
