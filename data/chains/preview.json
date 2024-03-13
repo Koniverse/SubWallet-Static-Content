@@ -7805,7 +7805,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
     "providers": {
-      "Startale": "https://rpc.startale.com/astar-zkevm"
+      "Dwellir": "https://astar-zkevm-rpc.dwellir.com"
     },
     "evmInfo": {
       "evmChainId": 3776,
