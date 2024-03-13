@@ -58,6 +58,11 @@
         "type": "XCM",
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
       }
     ]
   },
@@ -122,7 +127,13 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "ethereum",
     "multiChainAsset": "ETH-Ethereum",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "polkadot-NATIVE-DOT"
+      }
+    ]
   },
   {
     "slug": "binance-NATIVE-BNB",
