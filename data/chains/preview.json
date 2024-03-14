@@ -36,7 +36,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "polkadot"
+      "subscanSlug": "polkadot",
+      "chainBalanceSlug": "polkadot"
     }
   },
   {
@@ -75,7 +76,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "kusama"
+      "subscanSlug": "kusama",
+      "chainBalanceSlug": "kusama"
     }
   },
   {
@@ -190,7 +192,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "moonbeam"
+      "subscanSlug": "moonbeam",
+      "chainBalanceSlug": "moonbeam"
     }
   },
   {
@@ -234,7 +237,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "pioneer"
+      "subscanSlug": "pioneer",
+      "chainBalanceSlug": "pioneer"
     }
   },
   {
@@ -270,7 +274,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "alephzero"
+      "subscanSlug": "alephzero",
+      "chainBalanceSlug": "alephzero"
     }
   },
   {
@@ -322,7 +327,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "astar"
+      "subscanSlug": "astar",
+      "chainBalanceSlug": "astar"
     }
   },
   {
@@ -387,7 +393,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "assethub-polkadot"
+      "subscanSlug": "assethub-polkadot",
+      "chainBalanceSlug": "statemint"
     }
   },
   {
@@ -437,7 +444,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "acala"
+      "subscanSlug": "acala",
+      "chainBalanceSlug": "acala"
     }
   },
   {
@@ -647,7 +655,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "shiden"
+      "subscanSlug": "shiden",
+      "chainBalanceSlug": "shiden"
     }
   },
   {
@@ -711,7 +720,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "shibuya"
+      "subscanSlug": "shibuya",
+      "chainBalanceSlug": "shibuya"
     }
   },
   {
@@ -816,7 +826,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "westend"
+      "subscanSlug": "westend",
+      "chainBalanceSlug": "westend"
     }
   },
   {
@@ -852,7 +863,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "rococo"
+      "subscanSlug": "rococo",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -969,7 +981,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "moonbase"
+      "subscanSlug": "moonbase",
+      "chainBalanceSlug": "moonbase"
     }
   },
   {
@@ -1038,7 +1051,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "moonriver"
+      "subscanSlug": "moonriver",
+      "chainBalanceSlug": "moonriver"
     }
   },
   {
@@ -1113,7 +1127,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "turing"
+      "subscanSlug": "turing",
+      "chainBalanceSlug": "turing"
     }
   },
   {
@@ -1170,7 +1185,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "bifrost-kusama"
+      "subscanSlug": "bifrost-kusama",
+      "chainBalanceSlug": "bifrost"
     }
   },
   {
@@ -1217,7 +1233,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "bifrost"
+      "subscanSlug": "bifrost",
+      "chainBalanceSlug": "bifrost-p"
     }
   },
   {
@@ -1248,7 +1265,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "bifrost-testnet"
+    }
   },
   {
     "slug": "calamari",
@@ -1291,7 +1311,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "calamari"
+      "subscanSlug": "calamari",
+      "chainBalanceSlug": "calamari"
     }
   },
   {
@@ -1503,7 +1524,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "parallel"
+      "subscanSlug": "parallel",
+      "chainBalanceSlug": "parallel"
     }
   },
   {
@@ -1558,7 +1580,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "clv"
+      "subscanSlug": "clv",
+      "chainBalanceSlug": "clover"
     }
   },
   {
@@ -1628,7 +1651,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "hydradx"
+      "subscanSlug": "hydradx",
+      "chainBalanceSlug": "hydradx"
     }
   },
   {
@@ -1660,7 +1684,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "edgeware"
+    }
   },
   {
     "slug": "centrifuge",
@@ -1704,7 +1731,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "centrifuge"
+      "subscanSlug": "centrifuge",
+      "chainBalanceSlug": "centrifuge-parachain"
     }
   },
   {
@@ -1750,7 +1778,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "interlay"
+      "subscanSlug": "interlay",
+      "chainBalanceSlug": "interlay"
     }
   },
   {
@@ -1795,7 +1824,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "nodle"
+      "subscanSlug": "nodle",
+      "chainBalanceSlug": "nodle"
     }
   },
   {
@@ -1840,7 +1870,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "darwinia"
+      "subscanSlug": "darwinia",
+      "chainBalanceSlug": "darwinia"
     }
   },
   {
@@ -1956,7 +1987,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "polkadex"
+      "subscanSlug": "polkadex",
+      "chainBalanceSlug": "polkadex"
     }
   },
   {
@@ -2045,7 +2077,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "dolphin"
+    }
   },
   {
     "slug": "opal",
@@ -2121,7 +2156,10 @@
         }
       ]
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "efinity"
+    }
   },
   {
     "slug": "composableFinance",
@@ -2164,7 +2202,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "composable"
+      "subscanSlug": "composable",
+      "chainBalanceSlug": "composable"
     }
   },
   {
@@ -2209,7 +2248,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "phala"
+      "subscanSlug": "phala",
+      "chainBalanceSlug": "phala"
     }
   },
   {
@@ -2253,7 +2293,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "crust-parachain"
+      "subscanSlug": "crust-parachain",
+      "chainBalanceSlug": "crust"
     }
   },
   {
@@ -2290,7 +2331,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "assethub-kusama"
+      "subscanSlug": "assethub-kusama",
+      "chainBalanceSlug": "statemine"
     }
   },
   {
@@ -2326,7 +2368,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "karura"
+      "subscanSlug": "karura",
+      "chainBalanceSlug": "karura"
     }
   },
   {
@@ -2372,7 +2415,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "khala"
+      "subscanSlug": "khala",
+      "chainBalanceSlug": "khala"
     }
   },
   {
@@ -2406,7 +2450,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "spiritnet"
+      "subscanSlug": "spiritnet",
+      "chainBalanceSlug": "spiritnet"
     }
   },
   {
@@ -2451,7 +2496,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "basilisk"
+      "subscanSlug": "basilisk",
+      "chainBalanceSlug": "basilisk"
     }
   },
   {
@@ -2496,7 +2542,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "altair"
+      "subscanSlug": "altair",
+      "chainBalanceSlug": "altair"
     }
   },
   {
@@ -2551,7 +2598,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "parallel-heiko"
+      "subscanSlug": "parallel-heiko",
+      "chainBalanceSlug": "parallel-heiko"
     }
   },
   {
@@ -2596,7 +2644,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "kintsugi"
+      "subscanSlug": "kintsugi",
+      "chainBalanceSlug": "kintsugi"
     }
   },
   {
@@ -2692,7 +2741,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "picasso"
+      "subscanSlug": "picasso",
+      "chainBalanceSlug": "picasso"
     }
   },
   {
@@ -2737,7 +2787,10 @@
         }
       ]
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "quartz"
+    }
   },
   {
     "slug": "unique_network",
@@ -2782,7 +2835,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "unique"
+      "subscanSlug": "unique",
+      "chainBalanceSlug": "unique"
     }
   },
   {
@@ -2836,7 +2890,10 @@
         }
       ]
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "genshiro"
+    }
   },
   {
     "slug": "genshiro_testnet",
@@ -2938,7 +2995,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "zeitgeist"
+      "subscanSlug": "zeitgeist",
+      "chainBalanceSlug": "zeitgeist"
     }
   },
   {
@@ -2982,7 +3040,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "sakura"
+      "subscanSlug": "sakura",
+      "chainBalanceSlug": "sakura"
     }
   },
   {
@@ -3037,7 +3096,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "shadow"
+      "subscanSlug": "shadow",
+      "chainBalanceSlug": "shadow"
     }
   },
   {
@@ -3123,7 +3183,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "robonomics"
+      "subscanSlug": "robonomics",
+      "chainBalanceSlug": "robonomics"
     }
   },
   {
@@ -3168,7 +3229,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "integritee"
+      "subscanSlug": "integritee",
+      "chainBalanceSlug": "integritee"
     }
   },
   {
@@ -3266,7 +3328,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "crab"
+      "subscanSlug": "crab",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -3369,7 +3432,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "acala-testnet"
+      "subscanSlug": "acala-testnet",
+      "chainBalanceSlug": "acala-testnet"
     }
   },
   {
@@ -3400,7 +3464,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "mangatax"
+    }
   },
   {
     "slug": "mangatax_para",
@@ -3455,7 +3522,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "mangatax"
+      "subscanSlug": "mangatax",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -3486,7 +3554,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "encointer"
+    }
   },
   {
     "slug": "litmus",
@@ -3871,7 +3942,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "origintrail"
+      "subscanSlug": "origintrail",
+      "chainBalanceSlug": "origintrail"
     }
   },
   {
@@ -3986,7 +4058,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "bajun"
+      "subscanSlug": "bajun",
+      "chainBalanceSlug": "bajun"
     }
   },
   {
@@ -4198,7 +4271,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "datahighway"
+      "subscanSlug": "datahighway",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -4414,7 +4488,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "kilt-testnet"
+      "subscanSlug": "kilt-testnet",
+      "chainBalanceSlug": "kilt-testnet"
     }
   },
   {
@@ -5179,7 +5254,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "creditcoin"
+      "subscanSlug": "creditcoin",
+      "chainBalanceSlug": "creditcoin"
     }
   },
   {
@@ -5241,7 +5317,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "dock"
+      "subscanSlug": "dock",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -5414,7 +5491,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "polymesh"
+      "subscanSlug": "polymesh",
+      "chainBalanceSlug": "polymesh"
     }
   },
   {
@@ -5528,7 +5606,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "sora"
+      "subscanSlug": "sora",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -5680,7 +5759,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "joystream"
+      "subscanSlug": "joystream",
+      "chainBalanceSlug": "joystream"
     }
   },
   {
@@ -5743,7 +5823,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "vara"
+      "subscanSlug": "vara",
+      "chainBalanceSlug": "vara"
     }
   },
   {
@@ -5939,7 +6020,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "krest"
+      "subscanSlug": "krest",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -6083,7 +6165,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "crust"
+      "subscanSlug": "crust",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -6726,7 +6809,10 @@
         }
       ]
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "snow"
+    }
   },
   {
     "slug": "aband",
@@ -6937,7 +7023,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "manta"
+      "subscanSlug": "manta",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -7441,7 +7528,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "polkadex-parachain"
+      "subscanSlug": "polkadex-parachain",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -7503,7 +7591,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "subspace"
+      "subscanSlug": "subspace",
+      "chainBalanceSlug": null
     }
   },
   {
@@ -7535,7 +7624,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "continuum"
+      "subscanSlug": "continuum",
+      "chainBalanceSlug": null
     }
   },
   {
