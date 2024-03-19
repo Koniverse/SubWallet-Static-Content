@@ -89,7 +89,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
     "providers": {
       "PublicNode": "https://ethereum.publicnode.com",
-      "Cloudflare": "https://cloudflare-eth.com",
       "BlastApi": "https://eth-mainnet.public.blastapi.io",
       "Infura": "https://mainnet.infura.io/v3/b6bf7d3508c941499b10025c0776eaf8"
     },
@@ -106,7 +105,10 @@
       "abiExplorer": "https://etherscan.io"
     },
     "substrateInfo": null,
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "ethereum"
+    }
   },
   {
     "slug": "binance",
@@ -134,7 +136,10 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "bsc"
+    }
   },
   {
     "slug": "moonbeam",
@@ -284,7 +289,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 8,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_fbd43df7b3.png",
     "providers": {
       "Astar": "wss://rpc.astar.network",
       "OnFinality": "wss://astar.api.onfinality.io/public-ws",
@@ -337,7 +342,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_fbd43df7b3.png",
     "providers": {
       "Astar": "https://evm.astar.network",
       "OnFinality": "https://astar.api.onfinality.io/public",
@@ -474,7 +479,10 @@
       "abiExplorer": "https://polygonscan.com"
     },
     "substrateInfo": null,
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "polygon"
+    }
   },
   {
     "slug": "arbitrum_one",
@@ -500,7 +508,10 @@
       "abiExplorer": "https://arbiscan.io"
     },
     "substrateInfo": null,
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "arbitrum"
+    }
   },
   {
     "slug": "optimism",
@@ -526,11 +537,14 @@
       "abiExplorer": "https://optimistic.etherscan.io"
     },
     "substrateInfo": null,
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "optimism"
+    }
   },
   {
     "slug": "tomochain",
-    "name": "TomoChain",
+    "name": "Viction",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 15,
@@ -542,13 +556,13 @@
       "evmChainId": 88,
       "blockExplorer": "https://tomoscan.io",
       "existentialDeposit": "0",
-      "symbol": "TOMO",
+      "symbol": "VIC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
         "ERC721"
       ],
-      "abiExplorer": "https://tomoscan.i"
+      "abiExplorer": "https://tomoscan.io"
     },
     "substrateInfo": null,
     "extraInfo": null
@@ -733,7 +747,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
     "providers": {
       "Shibuya": "https://evm.shibuya.astar.network ",
-      "Dwellir": "https://shibuya-rpc.dwellir.com",
       "BlastAPI": "https://shibuya.public.blastapi.io"
     },
     "evmInfo": {
@@ -1226,7 +1239,7 @@
           "status": "won",
           "startTime": "2022-06-07T01:48:00.000Z",
           "endTime": "2024-04-09T01:48:00.000Z",
-          "auctionIndex": 18,
+          "auctionIndex": 65,
           "firstPeriod": 8,
           "lastPeriod": 15
         }
@@ -1412,7 +1425,7 @@
   },
   {
     "slug": "ethereum_goerli",
-    "name": "Ethereum",
+    "name": "Ethereum Goerli",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 37,
@@ -3011,13 +3024,13 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": "kusama",
-      "paraId": 2016,
+      "relaySlug": null,
+      "paraId": null,
       "genesisHash": "0x7b0f142a9299b0886595992f8cac58814c8956de6a31c77caca95db01370fc2c",
       "addressPrefix": 42,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": "https://polkadot.js.org/apps/#/parachains/crowdloan",
-      "blockExplorer": "https://sakura.subscan.io/",
+      "blockExplorer": null,
       "existentialDeposit": "500",
       "symbol": "SKU",
       "decimals": 18,
@@ -3040,7 +3053,7 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "sakura",
+      "subscanSlug": null,
       "chainBalanceSlug": "sakura"
     }
   },
@@ -3903,7 +3916,7 @@
   },
   {
     "slug": "origintrail",
-    "name": "OriginTrail",
+    "name": "NeuroWeb Mainnet",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 98,
@@ -4641,7 +4654,7 @@
     "slug": "discovol_testnet",
     "name": "Discovol Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 118,
     "icon": "https://static-data.subwallet.app/chains/images/icon/discovol_09aef428e0.png",
     "providers": {
@@ -6133,7 +6146,10 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": null,
+      "chainBalanceSlug": "avalanche"
+    }
   },
   {
     "slug": "crust_mainnet",
@@ -6265,7 +6281,7 @@
     "slug": "xcavate",
     "name": "Xcavate",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9998,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Xcavate_f708d5eb64.png",
     "providers": {
@@ -7091,7 +7107,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polimec_ddd1a7c51d.png",
     "providers": {
-      "Polimec": "wss://rpc.polimec.org"
+      "Polimec": "wss://rpc.polimec.org",
+      "Amforc": "wss://polimec.rpc.amforc.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7101,12 +7118,12 @@
       "addressPrefix": 41,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": "10000000",
+      "blockExplorer": "http://explorer.polimec.org/",
+      "existentialDeposit": "100000000",
       "symbol": "PLMC",
       "decimals": 10,
       "hasNativeNft": false,
-      "supportStaking": false,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -7215,11 +7232,11 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
+      "relaySlug": "polkadot",
+      "paraId": 2058,
       "genesisHash": "0x161db6cdc5896fe55ef12b4778fe78dd65d7af43f65c601786b88d7a93ebc58a",
       "addressPrefix": 19,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "10000000000000000",
@@ -7364,7 +7381,7 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://avail-testnet.subscan.io/",
       "existentialDeposit": "10000000000000",
       "symbol": "AVL",
       "decimals": 18,
@@ -7374,7 +7391,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "avail-testnet",
+      "chainBalanceSlug": null
+    }
   },
   {
     "slug": "energy_web_x_testnet",
@@ -7747,7 +7767,7 @@
   },
   {
     "slug": "chainflip_dot",
-    "name": "Polkadot",
+    "name": "Polkadot Chainflip Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -7765,7 +7785,7 @@
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "10000000000",
-      "symbol": "DOT",
+      "symbol": "pDOT",
       "decimals": 10,
       "hasNativeNft": null,
       "supportStaking": null,
@@ -7824,7 +7844,7 @@
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": "1000000000000000",
+      "existentialDeposit": "10000000000000000",
       "symbol": "DENTX",
       "decimals": 18,
       "hasNativeNft": null,
@@ -7871,7 +7891,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png",
     "providers": {
       "Creditcoin Testnet EVM": "https://rpc.cc3-testnet.creditcoin.network/"
     },
@@ -7905,6 +7925,36 @@
       "decimals": 18,
       "supportSmartContract": null,
       "abiExplorer": "https://astar-zkevm.explorer.startale.com/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "sepolia_ethereum",
+    "name": "Ethereum Sepolia",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
+    "providers": {
+      "Asia RPC": "https://rpc.sepolia.org",
+      "Europe RPC 2": "https://rpc2.sepolia.org",
+      "Status RPC": "https://status.sepolia.org",
+      "Space": "https://www.sepoliarpc.space",
+      "RockX": "https://rpc-sepolia.rockx.com/",
+      "Bordel": "https://rpc.bordel.wtf/sepolia"
+    },
+    "evmInfo": {
+      "evmChainId": 11155111,
+      "blockExplorer": "https://sepolia.etherscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
     },
     "substrateInfo": null,
     "extraInfo": null

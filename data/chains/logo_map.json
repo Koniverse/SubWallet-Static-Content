@@ -6,8 +6,8 @@
   "moonbeam": "https://static-data.subwallet.app/chains/images/icon/moonbeam_4f6ef924fe.png",
   "pioneer": "https://static-data.subwallet.app/chains/images/icon/bit_country_pioneer_03e26dad1d.png",
   "aleph": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
-  "astar": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
-  "astarEvm": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
+  "astar": "https://static-data.subwallet.app/chains/images/icon/astar_network_fbd43df7b3.png",
+  "astarEvm": "https://static-data.subwallet.app/chains/images/icon/astar_network_fbd43df7b3.png",
   "statemint": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
   "acala": "https://static-data.subwallet.app/chains/images/icon/acala_10b077e14b.png",
   "polygon": "https://static-data.subwallet.app/chains/images/icon/polygon_e12f7d1924.png",
@@ -218,6 +218,7 @@
   "tangleTest": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_ab33a3c960.png",
   "dentnet": "https://static-data.subwallet.app/chains/images/icon/dentnet_2251e4375f.png",
   "phykenTest": "https://static-data.subwallet.app/chains/images/icon/phyken_White_4a58266ca5.png",
-  "creditcoinTestEvm": null,
-  "astarZkEvm": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png"
+  "creditcoinTestEvm": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png",
+  "astarZkEvm": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
+  "sepolia_ethereum": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png"
 }
