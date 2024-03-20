@@ -8325,7 +8325,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-LOCAL-USDC"
       }
     ]
