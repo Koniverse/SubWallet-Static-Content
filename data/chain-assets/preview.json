@@ -61,7 +61,7 @@
       },
       {
         "type": "SWAP",
-        "disable": true,
+        "disable": false,
         "destAsset": "ethereum-NATIVE-ETH"
       },
       {
