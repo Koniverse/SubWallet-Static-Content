@@ -7118,7 +7118,7 @@
       "addressPrefix": 41,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "http://explorer.polimec.org/",
+      "blockExplorer": "https://explorer.polimec.org/polimec",
       "existentialDeposit": "100000000",
       "symbol": "PLMC",
       "decimals": 10,
@@ -7941,8 +7941,7 @@
       "Europe RPC 2": "https://rpc2.sepolia.org",
       "Status RPC": "https://status.sepolia.org",
       "Space": "https://www.sepoliarpc.space",
-      "RockX": "https://rpc-sepolia.rockx.com/",
-      "Bordel": "https://rpc.bordel.wtf/sepolia"
+      "RockX": "https://rpc-sepolia.rockx.com/"
     },
     "evmInfo": {
       "evmChainId": 11155111,
@@ -7957,6 +7956,36 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "hydradx_rococo",
+    "name": "HydraDX Rococo",
+    "isTestnet": null,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
+    "providers": {
+      "Hydration Nice": "wss://rpc.nice.hydration.cloud"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "rococo",
+      "paraId": 2032,
+      "genesisHash": "0x06111acb32100bf87c88d28b1386f33136939b363cd86eb086626bc7d2a0022c",
+      "addressPrefix": 63,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "HDX",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null
   }
 ]
