@@ -31,7 +31,7 @@
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-NATIVE-DOT"
       },
       {
@@ -267,7 +267,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -8249,7 +8249,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDC"
       }
     ]
