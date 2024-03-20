@@ -51,7 +51,7 @@
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "hydradx_main-LOCAL-DOT"
       },
       {
@@ -232,7 +232,7 @@
     },
     "hasValue": true,
     "ordinal": 8,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "astar",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": [
@@ -521,7 +521,7 @@
     },
     "hasValue": true,
     "ordinal": 21,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "acala",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -844,7 +844,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 35,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "astarEvm",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -5450,7 +5450,7 @@
     },
     "hasValue": true,
     "ordinal": 289,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5828,7 +5828,7 @@
     },
     "hasValue": true,
     "ordinal": 311,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -8060,7 +8060,7 @@
     },
     "hasValue": true,
     "ordinal": 431,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "moonbeam",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -8178,7 +8178,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -9262,7 +9262,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_5513e58e74.png",
+    "icon": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -9427,7 +9427,7 @@
     "slug": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
     "name": "USDC Sepolia",
     "symbol": "USDC",
-    "decimals": 18,
+    "decimals": 6,
     "priceId": null,
     "minAmount": "0",
     "assetType": "ERC20",
@@ -9444,6 +9444,109 @@
         "type": "SWAP",
         "disable": false,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-DED",
+    "name": "DED",
+    "symbol": "DED",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "30"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_rococo-NATIVE-HDX",
+    "name": "HydraDX Rococo",
+    "symbol": "HDX",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
+    "originChain": "hydradx_rococo",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "hydradx_rococo-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "hydradx_rococo-LOCAL-USDT"
+      }
+    ]
+  },
+  {
+    "slug": "hydradx_rococo-LOCAL-DOT",
+    "name": "Polkadot Testnet",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "5"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_63b5dd41ef.png",
+    "originChain": "hydradx_rococo",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "hydradx_rococo-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "hydradx_rococo-LOCAL-USDT"
+      }
+    ]
+  },
+  {
+    "slug": "hydradx_rococo-LOCAL-USDT",
+    "name": "Statemint USDT (testnet)",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "100",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "10"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "hydradx_rococo",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "disable": false,
+        "destAsset": "hydradx_rococo-LOCAL-DOT"
       }
     ]
   }
