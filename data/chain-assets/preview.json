@@ -2267,7 +2267,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "kusama-NATIVE-KSM"
       }
     ]
