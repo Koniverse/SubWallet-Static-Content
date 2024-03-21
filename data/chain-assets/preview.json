@@ -88,32 +88,32 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "shiden-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "karura-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "bifrost-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": true,
+        "disable": false,
         "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
@@ -232,7 +232,7 @@
     },
     "hasValue": true,
     "ordinal": 8,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "astar",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": [
@@ -521,7 +521,7 @@
     },
     "hasValue": true,
     "ordinal": 21,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "acala",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -844,7 +844,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 35,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "astarEvm",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -5450,7 +5450,7 @@
     },
     "hasValue": true,
     "ordinal": 289,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5828,7 +5828,7 @@
     },
     "hasValue": true,
     "ordinal": 311,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -8060,7 +8060,7 @@
     },
     "hasValue": true,
     "ordinal": 431,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "moonbeam",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -8948,14 +8948,35 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "23"
+      "assetId": "23",
+      "multilocation": {
+        "Concrete": {
+          "parents": 0,
+          "interior": {
+            "X2": [
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 23
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "statemint",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcPINK"
+      }
+    ]
   },
   {
     "slug": "moonbeam-LOCAL-xcPINK",
@@ -8975,7 +8996,13 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "moonbeam",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   },
   {
     "slug": "bifrost_dot-LOCAL-vMANTA",
@@ -9262,7 +9289,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -9473,7 +9500,9 @@
     "priceId": null,
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "assetId": "0"
+    },
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
@@ -9541,7 +9570,7 @@
       {
         "type": "SWAP",
         "disable": false,
-        "destAsset": "hydradx_main-NATIVE-HDX"
+        "destAsset": "hydradx_rococo-NATIVE-HDX"
       },
       {
         "type": "SWAP",
@@ -9549,5 +9578,117 @@
         "destAsset": "hydradx_rococo-LOCAL-DOT"
       }
     ]
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Token2": "10"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "astar-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "18446744073709551633"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "astar",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "phala-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "12"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "phala",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "acala-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": 13
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "acala",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "crust-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "64174511183114006009298114091987195453"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "crust",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "darwinia2-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1028"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "darwinia2",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
   }
 ]
