@@ -7939,7 +7939,6 @@
     "providers": {
       "Asia RPC": "https://rpc.sepolia.org",
       "Europe RPC 2": "https://rpc2.sepolia.org",
-      "Space": "https://www.sepoliarpc.space",
       "RockX": "https://rpc-sepolia.rockx.com/"
     },
     "evmInfo": {
