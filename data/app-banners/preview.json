@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Dapp_Banner_7a7784bc25.png",
+    "info": {
+      "id": 3,
+      "name": "Test 1",
+      "description": "show banner in token detail screen",
+      "start_time": "2024-03-22T08:40:00.000Z",
+      "stop_time": "2024-03-23T08:50:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 4,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "DOT-Polkadot"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "KSM-Kusama"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 2,
+    "position": "crowdloan",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Dapp_Banner_7a7784bc25.png",
+    "info": {
+      "id": 4,
+      "name": "DOT token detail banner (mobile app)",
+      "description": null,
+      "start_time": "2024-03-22T09:27:00.000Z",
+      "stop_time": "2024-03-22T09:30:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 5,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  }
+]

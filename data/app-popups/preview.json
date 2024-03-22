@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "priority": 4,
+    "position": "crowdloan",
+    "repeat": "every_time",
+    "content": "\n SHOW POPUP TO CHECK INSTRUCTION \n\n\n[Click here](https://web.subwallet.app/home/tokens)\n\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)",
+    "media": null,
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      }
+    ],
+    "info": {
+      "id": 1,
+      "name": "earning",
+      "description": "show popup in earning screen",
+      "start_time": "2024-03-22T09:40:00.000Z",
+      "stop_time": "2024-03-22T10:50:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 1,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 2,
+        "label": "Continue",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 1,
+          "url": "subwallet://home/main/earning/earning-position-detail?earningSlug=VARA___nomination_pool___vara_network",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "position": "earning",
+    "repeat": "once",
+    "content": "Earning popup number 2",
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 2,
+      "name": "Earning 2",
+      "description": "Show popup earning number 2",
+      "start_time": "2024-03-22T08:44:00.000Z",
+      "stop_time": "2024-03-23T08:45:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 3,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": {
+          "id": 2,
+          "url": "/home",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      },
+      {
+        "id": 4,
+        "label": "Continue",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 3,
+          "url": "/",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "SHOW POPUP TO CHECK INSTRUCTION\n\n[Click here](https://web.subwallet.app/home/tokens)\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n",
+    "media": "https://static-data.subwallet.app/app-popups/images/media/Dapp_Banner_7a7784bc25.png",
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      }
+    ],
+    "info": {
+      "id": 5,
+      "name": "Popup with instruction",
+      "description": "Test",
+      "start_time": "2024-03-21T17:00:00.000Z",
+      "stop_time": "2024-03-23T11:30:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 5,
+        "label": "Continue",
+        "color": "primary",
+        "instruction": {
+          "id": 1,
+          "confirm_label": "Continue",
+          "cancel_label": "Cancel",
+          "instruction_id": 6,
+          "group": "earning",
+          "slug": "UNSTAKE_INFO"
+        },
+        "action": {
+          "id": 6,
+          "url": "subwallet://home/main/earning/",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  }
+]

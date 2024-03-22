@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Stake DOT earn many test",
+    "position": "send-fund",
+    "repeat": "one",
+    "confirm_label": "OK",
+    "cancel_label": "Cancel",
+    "content": "#### **APP CONFIRMATIONN**\n![astar-network.png](https://media-resources.subwallet.app/astar_network_fbd43df7b3.png)",
+    "position_params": [],
+    "conditions": {}
+  }
+]
