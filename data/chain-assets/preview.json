@@ -8978,32 +8978,32 @@
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "astar-LOCAL-PINK"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "bifrost_dot-LOCAL-PINK"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "acala-LOCAL-PINK"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "phala-LOCAL-PINK"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "darwinia2-LOCAL-PINK"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "crust-LOCAL-PINK"
       }
     ]
@@ -9029,7 +9029,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
@@ -9630,7 +9630,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
@@ -9672,7 +9672,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
@@ -9714,7 +9714,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
@@ -9740,7 +9740,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
@@ -9764,7 +9764,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
@@ -9788,7 +9788,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
