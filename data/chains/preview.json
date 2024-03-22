@@ -331,7 +331,7 @@
     },
     "extraInfo": {
       "subscanSlug": "astar",
-      "chainBalanceSlug": "astar-demo"
+      "chainBalanceSlug": "astar"
     }
   },
   {
@@ -1062,7 +1062,7 @@
     },
     "extraInfo": {
       "subscanSlug": "moonriver",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "moonriver"
     }
   },
   {
@@ -1322,7 +1322,7 @@
     },
     "extraInfo": {
       "subscanSlug": "calamari",
-      "chainBalanceSlug": "calamari-demo"
+      "chainBalanceSlug": "calamari"
     }
   },
   {
