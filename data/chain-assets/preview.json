@@ -93,17 +93,17 @@
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "shiden-LOCAL-KSM"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-KSM"
       },
       {
@@ -113,7 +113,7 @@
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
@@ -8975,6 +8975,21 @@
         "type": "XCM",
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcPINK"
+      },
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "astar-LOCAL-PINK"
+      },
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-PINK"
+      },
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "acala-LOCAL-PINK"
       }
     ]
   },
@@ -9597,7 +9612,13 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "bifrost_dot",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   },
   {
     "slug": "astar-LOCAL-PINK",
@@ -9608,14 +9629,26 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "18446744073709551633"
+      "assetId": "18446744073709551633",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": "Here"
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "astar",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   },
   {
     "slug": "phala-LOCAL-PINK",
@@ -9626,7 +9659,19 @@
     "minAmount": "100000000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "12"
+      "assetId": "12",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2035
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9653,7 +9698,13 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "acala",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   },
   {
     "slug": "crust-LOCAL-PINK",
@@ -9682,7 +9733,22 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "1028"
+      "assetId": "1028",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2046
+              },
+              {
+                "PalletInstance": 5
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
