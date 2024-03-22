@@ -8957,37 +8957,37 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcPINK"
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": null
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": null
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": null
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": null
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": null
       },
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": null
       }
     ]
@@ -9013,7 +9013,7 @@
     "assetRefs": [
       {
         "type": "XCM",
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
     ]
