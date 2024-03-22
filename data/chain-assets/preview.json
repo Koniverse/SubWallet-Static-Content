@@ -8990,6 +8990,21 @@
         "type": "XCM",
         "disable": false,
         "destAsset": "acala-LOCAL-PINK"
+      },
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "phala-LOCAL-PINK"
+      },
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "darwinia2-LOCAL-PINK"
+      },
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "crust-LOCAL-PINK"
       }
     ]
   },
@@ -9252,12 +9267,12 @@
     "assetRefs": [
       {
         "type": "SWAP",
-        "disable": false,
+        "disable": true,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
       },
       {
         "type": "SWAP",
-        "disable": false,
+        "disable": true,
         "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
       }
     ]
@@ -9460,7 +9475,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
-        "disable": false,
+        "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
       }
     ]
@@ -9484,7 +9499,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
-        "disable": false,
+        "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
       }
     ]
@@ -9633,7 +9648,19 @@
       "multilocation": {
         "Concrete": {
           "parents": 1,
-          "interior": "Here"
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 23
+              }
+            ]
+          }
         }
       }
     },
@@ -9664,9 +9691,15 @@
         "Concrete": {
           "parents": 1,
           "interior": {
-            "X1": [
+            "X2": [
               {
-                "Parachain": 2035
+                "Parachain": 2000
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
               }
             ]
           }
@@ -9678,7 +9711,13 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "phala",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   },
   {
     "slug": "acala-LOCAL-PINK",
@@ -9722,7 +9761,13 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "crust",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   },
   {
     "slug": "darwinia2-LOCAL-PINK",
@@ -9733,28 +9778,19 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "1028",
-      "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X2": [
-              {
-                "Parachain": 2046
-              },
-              {
-                "PalletInstance": 5
-              }
-            ]
-          }
-        }
-      }
+      "assetId": "1028"
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
     "originChain": "darwinia2",
     "multiChainAsset": "PINK-StatemintPink",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "disable": false,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
   }
 ]
