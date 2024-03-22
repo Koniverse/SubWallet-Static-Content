@@ -150,7 +150,6 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
-      "1rpc": "wss://1rpc.io/glmr",
       "Blast": "wss://moonbeam.public.blastapi.io",
       "UnitedBloc": "wss://moonbeam.unitedbloc.com"
     },
