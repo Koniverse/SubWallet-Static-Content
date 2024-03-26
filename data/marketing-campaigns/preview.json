@@ -1014,5 +1014,63 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 65,
+    "name": "Airdrop VARCH - VARA token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-03-26T12:00:00.000Z",
+    "end_time": "2024-03-31T15:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"vara_network-NATIVE-VARA\"]"
+    },
+    "banners": [
+      {
+        "id": 129,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "subwallet://home/main/earning/earning-list"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 66,
+    "name": "Airdrop VARCH - EVM token detail banner (mobile app)",
+    "description": null,
+    "start_time": "2024-03-26T12:00:00.000Z",
+    "end_time": "2024-03-31T15:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"ethereum-NATIVE-ETH\", \"binance-NATIVE-BNB\", \"polygon-NATIVE-MATIC\", \"optimism-NATIVE-ETH\"]"
+    },
+    "banners": [
+      {
+        "id": 130,
+        "alt": "Mobile token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "subwallet://home/main/earning/earning-list"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png"
+      }
+    ],
+    "notifications": []
   }
 ]
