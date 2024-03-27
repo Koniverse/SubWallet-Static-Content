@@ -1912,6 +1912,27 @@
     ]
   },
   {
+    "id": 148,
+    "title": "Liberland App",
+    "description": "Liberland is a sovereign nation state located on the Danube with governance, business and legal system running on-chain.",
+    "url": "blockchain.liberland.org",
+    "subtitle": "The freest country on Earth",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 77,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/llm_1ed5455cb6.png",
+    "preview_image": null,
+    "chains": [
+      "liberland",
+      "liberlandTest"
+    ],
+    "categories": [
+      "community"
+    ]
+  },
+  {
     "id": 3,
     "title": "1inch",
     "description": "1inch aims to be One-stop access\nto decentralized finance. 1inch analyzes thousands of quotes and fees across multiple DEXes to provide users with the best rates.",
@@ -1929,6 +1950,30 @@
     ],
     "categories": [
       "defi"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "dropspace",
+    "description": "dropspace is a self-service NFT minting platform for collections, experiences, tickets, and more. It's a place where creators and collectors of all kinds come together to browse, create, and promote their ideas to build valuable communities around innovative and artistic ventures.",
+    "url": "https://www.dropspace.art/",
+    "subtitle": "Self-service NFT minting platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 78,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dropspace_76c04556ff.png",
+    "preview_image": null,
+    "chains": [
+      "aleph",
+      "ethereum",
+      "polygon",
+      "base_mainnet",
+      "binance"
+    ],
+    "categories": [
+      "nft"
     ]
   },
   {
