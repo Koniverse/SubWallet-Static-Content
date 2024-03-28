@@ -1075,29 +1075,29 @@
   },
   {
     "id": 67,
-    "name": "Airdrop VARCH - VARA token detail banner (extension)",
+    "name": "Trade DED - token detail banner (mobile)",
     "description": null,
     "start_time": "2024-03-26T12:00:00.000Z",
     "end_time": "2024-03-31T15:00:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"vara_network-NATIVE-VARA\"]"
+      "allowedTokenSlug": "[\"statemint-LOCAL-DED\", \"hydradx_main-LOCAL-DED\", \"hydradx_main-NATIVE-HDX\", \"USDT-Tether\" ]"
     },
     "banners": [
       {
         "id": 131,
-        "alt": "Extension token details",
+        "alt": "Token details",
         "action": "open_url",
         "metadata": {
-          "url": "subwallet://home/main/earning/earning-list"
+          "url": "https://bit.ly/hdx_dedmobile"
         },
         "environments": [
-          "extension"
+          "mobile"
         ],
         "position": [
           "token-details"
         ],
         "buttons": [],
-        "media": "https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png"
+        "media": "https://media-resources.subwallet.app//8/Trade_DED_on_HDX_8d72cf4969.png"
       }
     ],
     "notifications": []
