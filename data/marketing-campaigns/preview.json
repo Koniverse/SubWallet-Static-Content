@@ -1072,5 +1072,34 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 67,
+    "name": "Airdrop VARCH - VARA token detail banner (extension)",
+    "description": null,
+    "start_time": "2024-03-26T12:00:00.000Z",
+    "end_time": "2024-03-31T15:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"vara_network-NATIVE-VARA\"]"
+    },
+    "banners": [
+      {
+        "id": 131,
+        "alt": "Extension token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "subwallet://home/main/earning/earning-list"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png"
+      }
+    ],
+    "notifications": []
   }
 ]
