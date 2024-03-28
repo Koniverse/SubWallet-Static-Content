@@ -512,5 +512,5 @@
   "creditcoinTest-NATIVE-CTC": null,
   "moonbeam-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3": "rmrk",
   "astarEvm-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3": "rmrk",
-  "hydradx_main-LOCAL-DED": "polkadot"
+  "hydradx_main-LOCAL-DED": null
 }
