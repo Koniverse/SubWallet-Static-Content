@@ -1,22 +1,24 @@
 [
   {
     "id": 126,
-    "title": "SubWallet Earning",
+    "title": "SubWallet Swap ",
     "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
-    "url": "https://web.subwallet.app/earning-preview",
-    "subtitle": "Earn rewards with top protocols at SubWallet",
+    "url": "https://web.subwallet.app/transaction/swap",
+    "subtitle": "Swap seamlessly ",
     "is_substrate": true,
     "is_evm": true,
     "is_featured": true,
     "ordinal": 1,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Crowdloan_unlock_batch_7_1200x600_addb0dedfc.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
     "chains": [
-      "polkadot"
+      "polkadot",
+      "ethereum"
     ],
     "categories": [
-      "staking"
+      "staking",
+      "defi"
     ]
   },
   {
