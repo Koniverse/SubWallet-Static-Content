@@ -43,6 +43,49 @@
     ]
   },
   {
+    "id": 36,
+    "group": "earning",
+    "slug": "DEMO_VARA",
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 166,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select active pool",
+        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards"
+      },
+      {
+        "id": 167,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of 2. Keep in mind that these actions are not automated and will incur network fees"
+      },
+      {
+        "id": 168,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of 32 VARA </strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 170,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every 8 hour. Make sure to claim them <strong>manually</strong>"
+      },
+      {
+        "id": 169,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      }
+    ]
+  },
+  {
     "id": 4,
     "group": "earning",
     "slug": "LENDING",
