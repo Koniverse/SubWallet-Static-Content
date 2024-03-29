@@ -842,5 +842,34 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 68,
+    "name": "Trade PINK - token detail banner (mobile)",
+    "description": null,
+    "start_time": "2024-03-29T05:00:00.000Z",
+    "end_time": "2024-04-10T15:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"moonbeam-LOCAL-xcPINK\", \"moonbeam-NATIVE-GLMR\", \"statemint-LOCAL-PINK\", \"acala-LOCAL-PINK\", \"crust-LOCAL-PINK\", \"darwinia2-LOCAL-PINK\", \"bifrost_dot-LOCAL-PINK\", \"phala-LOCAL-PINK\", \"astar-LOCAL-PINK\", \"PINK-StatemintPink\", \"GLMR-Moonbeam\"]"
+    },
+    "banners": [
+      {
+        "id": 132,
+        "alt": "Token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/stellafromsub_pink"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//8/Trade_PINK_on_Stellaswap_ab55404b5e.png"
+      }
+    ],
+    "notifications": []
   }
 ]
