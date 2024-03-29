@@ -1106,7 +1106,7 @@
     "id": 68,
     "name": "Trade PINK - token detail banner (mobile)",
     "description": null,
-    "start_time": "2024-03-29T07:00:00.000Z",
+    "start_time": "2024-03-29T05:00:00.000Z",
     "end_time": "2024-04-10T15:00:00.000Z",
     "condition": {
       "allowedTokenSlug": "[\"moonbeam-LOCAL-xcPINK\", \"moonbeam-NATIVE-GLMR\", \"statemint-LOCAL-PINK\", \"acala-LOCAL-PINK\", \"crust-LOCAL-PINK\", \"darwinia2-LOCAL-PINK\", \"bifrost_dot-LOCAL-PINK\", \"phala-LOCAL-PINK\", \"astar-LOCAL-PINK\", \"PINK-StatemintPink\", \"GLMR-Moonbeam\"]"
