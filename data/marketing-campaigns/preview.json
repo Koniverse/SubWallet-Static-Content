@@ -1077,10 +1077,10 @@
     "id": 67,
     "name": "Trade DED - token detail banner (mobile)",
     "description": null,
-    "start_time": "2024-03-26T12:00:00.000Z",
-    "end_time": "2024-03-31T15:00:00.000Z",
+    "start_time": "2024-03-28T12:00:00.000Z",
+    "end_time": "2024-04-10T15:00:00.000Z",
     "condition": {
-      "allowedTokenSlug": "[\"statemint-LOCAL-DED\", \"hydradx_main-LOCAL-DED\", \"hydradx_main-NATIVE-HDX\", \"USDT-Tether\" ]"
+      "allowedTokenSlug": "[\"statemint-LOCAL-DED\", \"hydradx_main-LOCAL-DED\", \"hydradx_main-NATIVE-HDX\", \"statemint-LOCAL-USDt\", \"USDT-Tether\" ]"
     },
     "banners": [
       {
