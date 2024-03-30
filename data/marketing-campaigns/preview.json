@@ -1220,7 +1220,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "subwallet://home/main/earning/earning-list",
+              "url": "/home/earning",
               "doneOnClick": true
             }
           }
