@@ -86,6 +86,21 @@
     ]
   },
   {
+    "id": 37,
+    "group": "earning",
+    "slug": "DEMO_VARCH",
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 171,
+        "icon": "Activity",
+        "icon_color": "#e42121",
+        "title": "Stake $DOT to get $VARCH  ",
+        "description": "1. To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet \n\n2. $vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot. \n "
+      }
+    ]
+  },
+  {
     "id": 4,
     "group": "earning",
     "slug": "LENDING",
