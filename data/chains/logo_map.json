@@ -221,5 +221,6 @@
   "creditcoinTestEvm": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png",
   "astarZkEvm": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
   "sepolia_ethereum": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
-  "hydradx_rococo": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png"
+  "hydradx_rococo": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
+  "creditcoinTest": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png"
 }

@@ -148,6 +148,7 @@
     "ordinal": 5,
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbeam_4f6ef924fe.png",
     "providers": {
+      "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
       "Dwellir": "wss://moonbeam-rpc.dwellir.com",
       "Blast": "wss://moonbeam.public.blastapi.io",
       "UnitedBloc": "wss://moonbeam.unitedbloc.com"
@@ -7641,7 +7642,7 @@
     },
     "extraInfo": {
       "subscanSlug": "continuum",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "continuum"
     }
   },
   {
@@ -7981,5 +7982,38 @@
       "crowdloanFunds": []
     },
     "extraInfo": null
+  },
+  {
+    "slug": "creditcoinTest",
+    "name": "Creditcoin testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png",
+    "providers": {
+      "Cc3": "wss://rpc.cc3-testnet.creditcoin.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xfc4ec97a1c1f119c4353aecb4a17c7c0cf7b40d5d660143d8bad9117e9866572",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://creditcoin3-testnet.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "CTC",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "creditcoin3-testnet",
+      "chainBalanceSlug": null
+    }
   }
 ]
