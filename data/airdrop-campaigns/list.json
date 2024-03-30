@@ -24,6 +24,29 @@
     ]
   },
   {
+    "id": 19,
+    "name": "Share a 2500 $ASTR prize pool + FREE NFT with Airlyft Campaign: zkEVM by Astar ",
+    "status": "live",
+    "ordinal": 1,
+    "description": "Astar's zkEVM mainnet is LIVE!  Be among the first to explore.\n\nLevel up your Web3 game with Airlyft's zkEVM event!  Complete the challenges and score awesome prizes:\n- Every winner gets a limited-edition Astar NFT\n- 50 lucky explorers will share a 2500 $ASTR prize pool!\n\nThink you've got what it takes to build the future of Web3?  Prove it, and the rewards are yours!",
+    "start_time": "2024-03-11T04:30:00.000Z",
+    "end_time": "2024-04-11T04:30:00.000Z",
+    "url": "https://airlyft.one/community/zkevm-by-astar",
+    "twitter_url": "https://twitter.com/AstarNetwork",
+    "reward": "50 $ASTR and Astar NFT",
+    "total_winner": "50",
+    "total_supply": "2500 $ASTR",
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://astar.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/astar_zkevm_e3c6c227da.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Airlyft_zk_EVM_by_Astar_c1b35d5416.png",
+    "chains": [
+      "astarZkEvm"
+    ]
+  },
+  {
     "id": 13,
     "name": "vDOT is DED",
     "status": "archived",
