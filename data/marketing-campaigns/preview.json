@@ -1193,7 +1193,7 @@
     "banners": [
       {
         "id": 134,
-        "alt": "Popup banner in mobile app",
+        "alt": "Popup banner in extension",
         "action": "open_url",
         "metadata": {
           "url": "/index.html#/home/earning"
