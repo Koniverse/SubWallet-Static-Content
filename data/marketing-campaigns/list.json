@@ -871,5 +871,55 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 69,
+    "name": "Airdrop VARCH (Mobile - Popup)",
+    "description": null,
+    "start_time": "2024-03-30T05:00:00.000Z",
+    "end_time": "2024-03-31T15:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "['DOT-Polkadot']"
+    },
+    "banners": [
+      {
+        "id": 133,
+        "alt": "Popup banner in mobile app",
+        "action": "open_url",
+        "metadata": {
+          "url": "subwallet://home/main/earning/earning-list"
+        },
+        "environments": [
+          "mobile",
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Earn now",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "subwallet://home/main/earning/earning-list",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_popup_ccdbfe771b.png"
+      }
+    ],
+    "notifications": []
   }
 ]
