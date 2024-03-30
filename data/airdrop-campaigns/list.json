@@ -1,29 +1,5 @@
 [
   {
-    "id": 18,
-    "name": "80,000 SUB up for grabs: Join Grill x SubWallet content contest now!",
-    "status": "archived",
-    "ordinal": 1,
-    "description": "Hey fam!\n\nParticipate in Grill’s Grand Content Contest in collaboration with SubWallet and share a 80,000 SUB tokens prize pool!\n\nDuration: March 11-17\n\n",
-    "start_time": "2024-03-11T16:45:00.000Z",
-    "end_time": "2024-03-17T16:45:00.000Z",
-    "url": "https://grillapp.net/6479/80-000-sub-up-for-grabs-join-grill-x-sub-wallet-content-91982?ref=6479",
-    "twitter_url": "https://twitter.com/subwalletapp",
-    "reward": "80,000 SUB",
-    "total_winner": "35",
-    "total_supply": null,
-    "tags": [
-      "manual_selection",
-      "lucky_draw"
-    ],
-    "campaign_url": "https://grillapp.net/6479?ref=6479",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/Logo_Gradient_Background_Black_cbf44085a7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Revised_641a84b12b.png",
-    "chains": [
-      "subsocial_x"
-    ]
-  },
-  {
     "id": 19,
     "name": "Share a 2500 $ASTR prize pool + FREE NFT with Airlyft Campaign: zkEVM by Astar ",
     "status": "live",
@@ -31,7 +7,7 @@
     "description": "Astar's zkEVM mainnet is LIVE!  Be among the first to explore.\n\nLevel up your Web3 game with Airlyft's zkEVM event!  Complete the challenges and score awesome prizes:\n- Every winner gets a limited-edition Astar NFT\n- 50 lucky explorers will share a 2500 $ASTR prize pool!\n\nThink you've got what it takes to build the future of Web3?  Prove it, and the rewards are yours!",
     "start_time": "2024-03-11T04:30:00.000Z",
     "end_time": "2024-04-11T04:30:00.000Z",
-    "url": "https://airlyft.one/community/zkevm-by-astar",
+    "url": "https://bit.ly/zkevmastar_airlyft",
     "twitter_url": "https://twitter.com/AstarNetwork",
     "reward": "50 $ASTR and Astar NFT",
     "total_winner": "50",
@@ -50,7 +26,7 @@
     "id": 13,
     "name": "vDOT is DED",
     "status": "archived",
-    "ordinal": 2,
+    "ordinal": 90,
     "description": "Mint vDOT to show how DED it is!\nThe more vDOT the more DED for the incoming airdrop.\n\nSnapshot to be executed soon...",
     "start_time": "2024-02-27T09:00:00.000Z",
     "end_time": "2024-03-10T12:00:00.000Z",
@@ -73,7 +49,7 @@
     "id": 15,
     "name": "Galxe Campaign: $10,000 USDT + AiPixel Land Reward to 10,000 Participants",
     "status": "archived",
-    "ordinal": 3,
+    "ordinal": 91,
     "description": "👀 What’s in it for you?🎁\n\n- 1 Million NUUM Treasury: 1 Million NUUM Treasury: I’ll distribute rewards from our massive treasury to brilliant minds that help me to shape the future. Ask your first question wisely… 😘\n- Land for 10,000 participants: Secure your digital territory as one of the first 10,000 campaigners. 🏞️\n$10,000 USDT Giveaway: 20 lucky participants will win a share of this bounty! 💰\n- Join our quest to shape this universe 🌐. Your ideas can earn you land, NUUM, and USDT!",
     "start_time": "2024-02-22T23:00:00.000Z",
     "end_time": "2024-03-07T23:00:00.000Z",
@@ -94,34 +70,10 @@
     ]
   },
   {
-    "id": 3,
-    "name": "Omni LS - Moonbeam campaign",
-    "status": "archived",
-    "ordinal": 4,
-    "description": "The Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as Polkadot itself.",
-    "start_time": "2023-10-13T11:00:00.000Z",
-    "end_time": "2023-11-22T00:00:00.000Z",
-    "url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
-    "twitter_url": "https://twitter.com/BifrostFinance",
-    "reward": "1 LS_MOONBEAM",
-    "total_winner": "N/A",
-    "total_supply": "80,000,000 BNC",
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
-    "chains": [
-      "bifrost_dot",
-      "moonbeam"
-    ]
-  },
-  {
     "id": 16,
     "name": "Zealy Campaign: $10,000 USDT + AiPixel Land Reward to 10,000 Participants",
     "status": "archived",
-    "ordinal": 4,
+    "ordinal": 92,
     "description": "👀 What’s in it for you?🎁\n\n- 1 Million NUUM Treasury: 1 Million NUUM Treasury: I’ll distribute rewards from our massive treasury to brilliant minds that help me to shape the future. Ask your first question wisely… 😘\n- Land for 10,000 participants: Secure your digital territory as one of the first 10,000 campaigners. 🏞️\n$10,000 USDT Giveaway: 20 lucky participants will win a share of this bounty! 💰\n- Join our quest to shape this universe 🌐. Your ideas can earn you land, NUUM, and USDT!",
     "start_time": "2024-02-22T23:00:00.000Z",
     "end_time": "2024-03-07T23:00:00.000Z",
@@ -142,10 +94,34 @@
     ]
   },
   {
+    "id": 3,
+    "name": "Omni LS - Moonbeam campaign",
+    "status": "archived",
+    "ordinal": 93,
+    "description": "The Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as Polkadot itself.",
+    "start_time": "2023-10-13T11:00:00.000Z",
+    "end_time": "2023-11-22T00:00:00.000Z",
+    "url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
+    "twitter_url": "https://twitter.com/BifrostFinance",
+    "reward": "1 LS_MOONBEAM",
+    "total_winner": "N/A",
+    "total_supply": "80,000,000 BNC",
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "chains": [
+      "bifrost_dot",
+      "moonbeam"
+    ]
+  },
+  {
     "id": 6,
     "name": "Road To The Unlock!",
     "status": "archived",
-    "ordinal": 5,
+    "ordinal": 94,
     "description": "By following the whole campaign and testing the new Omni LS & partners dapps, you will be able to collect several NFTs along the road. By collecting all NFTs you will be eligible for the final NFT and a 20,000 $BNC tokens airdrop to share!",
     "start_time": "2023-10-11T11:00:00.000Z",
     "end_time": "2023-10-24T11:00:00.000Z",
@@ -168,7 +144,7 @@
     "id": 8,
     "name": "Stake DOT Earn Many",
     "status": "archived",
-    "ordinal": 5,
+    "ordinal": 95,
     "description": "From Oct 24 to Nov 07, take part in the most comprehensive staking campaign ever in the Polkadot ecosystem with Polkadot nomination pools, Acala, Bifrost, and Parallel liquid staking, and Interlay and Moonwell lending is happening at SubWallet Web Dashboard!\n\nUsers who have staked and earned a DOT Power Staker NFT are eligible to participate in this Airlyft campaign and share a reward pool of $1,000.\n\nNote: 100 winners are selected based on a combination of points, content quality, and social media engagement. Each winner will receive 10 USDT on Polkadot Asset Hub.\n\nAdditional information: Users who stake with Acala, Bifrost, and Parallel from Oct 24 to Nov 07 have the chance to share exclusive reward pools, including 80K ACA, 5K BNC, and 1M PARA. More details are available in SubWallet Earning FAQs.",
     "start_time": "2023-10-24T12:00:00.000Z",
     "end_time": "2023-11-08T00:00:00.000Z",
@@ -196,7 +172,7 @@
     "id": 7,
     "name": "Zeitgeist x CoinDesk Indices",
     "status": "archived",
-    "ordinal": 6,
+    "ordinal": 96,
     "description": "Zeitgeist is partnering with CoinDesk Indices to create a unique trading experience to give traders an edge in the broader market. By participating in Zeitgeist prediction markets surrounding specific CoinDesk Indices, traders are able to capitalize on their crypto knowledge, while other users can view the prediction market data and gain an informational edge on the direction of crypto prices in general!",
     "start_time": "2023-10-04T14:30:00.000Z",
     "end_time": "2023-11-01T04:00:00.000Z",
@@ -219,7 +195,7 @@
     "id": 5,
     "name": "Polkadot Unlock Harvest",
     "status": "archived",
-    "ordinal": 7,
+    "ordinal": 97,
     "description": "The goal of the event is to pave the road for the DOT unlock event on October 24th. Introducing users to the dApp and familiarizing you with its mechanics and the assets within, you will be allowed to take advantage of the benefits of Bifrost Liquid Staking. The Moonbeam x Omni LS dApp Campaign is the first in a series of events that will also involve Polkadot ecosystem Wallets, as well as Polkadot itself.",
     "start_time": "2023-10-24T11:00:00.000Z",
     "end_time": "2023-11-22T12:00:00.000Z",
@@ -242,7 +218,7 @@
     "id": 4,
     "name": "Omni LS - Ecosystem Wallets campaign",
     "status": "archived",
-    "ordinal": 20,
+    "ordinal": 98,
     "description": "One of three events leading up to the Unlock of +100 Million $DOT from the first parachain crowdloans, on Polkadot.",
     "start_time": "2023-10-19T11:00:00.000Z",
     "end_time": "2023-11-22T12:00:00.000Z",
@@ -306,6 +282,30 @@
     "chains": [
       "bifrost_dot",
       "zeitgeist"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "80,000 SUB up for grabs: Join Grill x SubWallet content contest now!",
+    "status": "archived",
+    "ordinal": 100,
+    "description": "Hey fam!\n\nParticipate in Grill’s Grand Content Contest in collaboration with SubWallet and share a 80,000 SUB tokens prize pool!\n\nDuration: March 11-17\n\n",
+    "start_time": "2024-03-11T16:45:00.000Z",
+    "end_time": "2024-03-17T16:45:00.000Z",
+    "url": "https://grillapp.net/6479/80-000-sub-up-for-grabs-join-grill-x-sub-wallet-content-91982?ref=6479",
+    "twitter_url": "https://twitter.com/subwalletapp",
+    "reward": "80,000 SUB",
+    "total_winner": "35",
+    "total_supply": null,
+    "tags": [
+      "manual_selection",
+      "lucky_draw"
+    ],
+    "campaign_url": "https://grillapp.net/6479?ref=6479",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/Logo_Gradient_Background_Black_cbf44085a7.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Revised_641a84b12b.png",
+    "chains": [
+      "subsocial_x"
     ]
   }
 ]
