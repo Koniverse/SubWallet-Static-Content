@@ -1196,7 +1196,7 @@
         "alt": "Popup banner in mobile app",
         "action": "open_url",
         "metadata": {
-          "url": "/home/earning"
+          "url": "/index.html#/home/earning"
         },
         "environments": [
           "extension"
@@ -1220,7 +1220,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "/home/earning",
+              "url": "/index.html#/home/earning",
               "doneOnClick": true
             }
           }
