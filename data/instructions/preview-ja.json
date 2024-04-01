@@ -4,6 +4,7 @@
     "group": "earning",
     "slug": "DAPP_STAKING",
     "locale": "ja",
+    "title": null,
     "instructions": [
       {
         "id": 156,
@@ -40,13 +41,15 @@
         "title": "Track your stake",
         "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 26,
     "group": "earning",
     "slug": "LENDING",
     "locale": "ja",
+    "title": null,
     "instructions": [
       {
         "id": 124,
@@ -83,13 +86,15 @@
         "title": "Track your APY",
         "description": "Keep an eye on your supply as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 22,
     "group": "earning",
     "slug": "LIQUID_STAKING",
     "locale": "ja",
+    "title": null,
     "instructions": [
       {
         "id": 104,
@@ -126,13 +131,15 @@
         "title": "Track your APY",
         "description": "Keep an eye on your stake as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 18,
     "group": "earning",
     "slug": "NATIVE_STAKING",
     "locale": "ja",
+    "title": null,
     "instructions": [
       {
         "id": 84,
@@ -169,13 +176,15 @@
         "title": "Manage your stake",
         "description": "You need to monitor your stake constantly and change {validatorType} when needed as staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 14,
     "group": "earning",
     "slug": "NOMINATION_POOL",
     "locale": "ja",
+    "title": null,
     "instructions": [
       {
         "id": 64,
@@ -212,13 +221,15 @@
         "title": "Track your stake",
         "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 30,
     "group": "earning",
     "slug": "UNSTAKE_INFO",
     "locale": "ja",
+    "title": null,
     "instructions": [
       {
         "id": 140,
@@ -241,6 +252,7 @@
         "title": "Manual withdrawal",
         "description": "Keep in mind that you need to withdraw manually after the wait time is over"
       }
-    ]
+    ],
+    "media": null
   }
 ]

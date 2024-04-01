@@ -4,6 +4,7 @@
     "group": "earning",
     "slug": "DAPP_STAKING",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 29,
@@ -40,13 +41,15 @@
         "title": "Track your stake",
         "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 36,
     "group": "earning",
     "slug": "DEMO_VARA",
     "locale": "en",
+    "title": "Demo vara instructions",
     "instructions": [
       {
         "id": 166,
@@ -83,28 +86,32 @@
         "title": "Track your stake",
         "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 37,
     "group": "earning",
     "slug": "DEMO_VARCH",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 171,
-        "icon": "Activity",
+        "icon": "NumberCircleOne",
         "icon_color": "#e42121",
         "title": "Stake $DOT to get $VARCH  ",
         "description": "1. To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet \n\n2. $vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot. \n "
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 4,
     "group": "earning",
     "slug": "LENDING",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 16,
@@ -141,13 +148,15 @@
         "title": "Track your APY",
         "description": "Keep an eye on your supply as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 3,
     "group": "earning",
     "slug": "LIQUID_STAKING",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 11,
@@ -184,13 +193,15 @@
         "title": "Track your APY",
         "description": "Keep an eye on your stake as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 2,
     "group": "earning",
     "slug": "NATIVE_STAKING",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 6,
@@ -227,13 +238,15 @@
         "title": "Manage your stake",
         "description": "You need to monitor your stake constantly and change {validatorType} when needed as staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 1,
     "group": "earning",
     "slug": "NOMINATION_POOL",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 1,
@@ -270,13 +283,15 @@
         "title": "Track your stake",
         "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
       }
-    ]
+    ],
+    "media": null
   },
   {
     "id": 6,
     "group": "earning",
     "slug": "UNSTAKE_INFO",
     "locale": "en",
+    "title": null,
     "instructions": [
       {
         "id": 26,
@@ -299,6 +314,7 @@
         "title": "Manual withdrawal",
         "description": "Keep in mind that you need to withdraw manually after the wait time is over"
       }
-    ]
+    ],
+    "media": null
   }
 ]
