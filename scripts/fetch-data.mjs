@@ -84,7 +84,7 @@ const cacheConfigs = [
         url: `${STRAPI_URL}/api/list/instruction`,
         folder: 'instructions',
         fileName: 'list.json',
-        imageFields: [],
+        imageFields: ['media'],
         removeFields: [],
         preview: 'preview.json',
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
