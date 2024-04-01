@@ -1,10 +1,11 @@
 [
   {
     "id": 1,
-    "priority": 4,
-    "position": "crowdloan",
-    "repeat": "every_time",
-    "content": "\n SHOW POPUP TO CHECK INSTRUCTION \n\n\n[Click here](https://web.subwallet.app/home/tokens)\n\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)",
+    "priority": 1,
+    "position": "earning",
+    "repeat": "once",
+    "content": "\nSHOW POPUP TO CHECK INSTRUCTION\n\n#### **Acceptance of these terms**\n\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n",
+    "repeat_every_x_days": null,
     "media": null,
     "position_params": [
       {
@@ -16,8 +17,8 @@
       "id": 1,
       "name": "earning",
       "description": "show popup in earning screen",
-      "start_time": "2024-03-22T09:40:00.000Z",
-      "stop_time": "2024-03-22T10:50:00.000Z",
+      "start_time": "2024-03-22T12:19:00.000Z",
+      "stop_time": "2024-03-25T05:11:00.000Z",
       "platforms": [
         "mobile"
       ]
@@ -48,18 +49,19 @@
   },
   {
     "id": 2,
-    "priority": 1,
+    "priority": 4,
     "position": "earning",
     "repeat": "once",
-    "content": "Earning popup number 2",
+    "content": "Earning popup number 2\n\n\nSHOW POPUP TO CHECK INSTRUCTION\n\n#### **Acceptance of these terms**\n\n\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n\nSHOW POPUP TO CHECK INSTRUCTION\n\n#### **Acceptance of these terms**\n\n\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n\nSHOW POPUP TO CHECK INSTRUCTION\n\n#### **Acceptance of these terms**\n\n\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)",
+    "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
     "info": {
       "id": 2,
-      "name": "Earning 2",
+      "name": "Earning 2 - Show popup earning",
       "description": "Show popup earning number 2",
-      "start_time": "2024-03-22T08:44:00.000Z",
-      "stop_time": "2024-03-23T08:45:00.000Z",
+      "start_time": "2024-03-22T12:19:00.000Z",
+      "stop_time": "2024-03-26T12:50:00.000Z",
       "platforms": [
         "mobile"
       ]
@@ -99,7 +101,8 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "SHOW POPUP TO CHECK INSTRUCTION\n\n[Click here](https://web.subwallet.app/home/tokens)\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n",
+    "content": "SHOW POPUP TO CHECK INSTRUCTION\n\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n",
+    "repeat_every_x_days": null,
     "media": "https://static-data.subwallet.app/app-popups/images/media/Dapp_Banner_7a7784bc25.png",
     "position_params": [
       {
@@ -111,8 +114,8 @@
       "id": 5,
       "name": "Popup with instruction",
       "description": "Test",
-      "start_time": "2024-03-21T17:00:00.000Z",
-      "stop_time": "2024-03-23T11:30:00.000Z",
+      "start_time": "2024-03-29T17:00:00.000Z",
+      "stop_time": "2024-03-29T11:30:00.000Z",
       "platforms": [
         "mobile"
       ]
@@ -126,9 +129,9 @@
           "id": 1,
           "confirm_label": "Continue",
           "cancel_label": "Cancel",
-          "instruction_id": 6,
+          "instruction_id": 37,
           "group": "earning",
-          "slug": "UNSTAKE_INFO"
+          "slug": "DEMO_VARCH"
         },
         "action": {
           "id": 6,
@@ -137,6 +140,341 @@
           "params": null,
           "is_cancel": null
         }
+      }
+    ],
+    "conditions": {
+      "condition-has-money": [
+        {
+          "has_money": [
+            "balance"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "SHOW POPUP TO CHECK INSTRUCTION\n\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n",
+    "repeat_every_x_days": null,
+    "media": "https://static-data.subwallet.app/app-popups/images/media/Dapp_Banner_7a7784bc25.png",
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      }
+    ],
+    "info": {
+      "id": 7,
+      "name": "Popup with instruction 2",
+      "description": "Test",
+      "start_time": "2024-03-21T17:00:00.000Z",
+      "stop_time": "2024-03-24T11:30:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 8,
+        "label": "Continue",
+        "color": "primary",
+        "instruction": {
+          "id": 3,
+          "confirm_label": "Continue",
+          "cancel_label": "Cancel",
+          "instruction_id": 6,
+          "group": "earning",
+          "slug": "UNSTAKE_INFO"
+        },
+        "action": {
+          "id": 9,
+          "url": "subwallet://home/main/earning/",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 6,
+    "priority": 5,
+    "position": "nft",
+    "repeat": "once",
+    "content": "\nSHOW POPUP TO CHECK INSTRUCTION\n\n#### **Acceptance of these terms**\n\n\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)\n**Email:** [**agent@subwallet.app**](mailto:agent@subwallet.app)\n\nLast modified Jan 10, 2024.\n\n![Dapp Banner.png](https://media-resources.subwallet.app/Dapp_Banner_7a7784bc25.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 8,
+      "name": "Test",
+      "description": null,
+      "start_time": "2024-03-29T17:00:00.000Z",
+      "stop_time": "2024-03-23T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 9,
+        "label": "Cancel",
+        "color": "warning",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 10,
+        "label": "Approve",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 10,
+          "url": "https://web.subwallet.app/home/tokens",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "position": "token",
+    "repeat": "every_time",
+    "content": "![Stake DOT, earn airdrop.png](https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png)\n\nStake DOT in SubWallet nomination pool, earn up to 18.4% and share an airdrop pool of 20M VARCH token!\n\n### Instruction\n#### Stake\nStake to earn from {min active stake} up to {reward rate} easily with SubWallet\n\n#### Select pool\nSelect active pool\nIt is recommended that you select an active pool with the Earning status to earn staking rewards.\n\n#### Unstake and withdraw\nOnce staked, your funds will be locked. Unstake your funds anytime and withdraw after a {number}-day period. Keep in mind that these actions are not automated and will incur network fees.\n\n#### Keep your transferrable balance\nEnsure that your transferrable balance includes a minimum of {number token} to cover your existential deposit and network fees associated with staking, reward claiming, unstaking and withdrawals.\n\n#### Claim your rewards\nYour staking rewards will be paid out every {number} hour. Make sure to claim them manually.\n\n#### Track your stake\nKeep an eye on your stake periodically, as rewards and staking status can fluctuate over time.",
+    "repeat_every_x_days": null,
+    "media": "https://static-data.subwallet.app/app-popups/images/media/Stake_DOT_earn_airdrop_32cbc1aac1.png",
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      },
+      {
+        "property": "poolSlug",
+        "value": "VARA___nomination_pool___vara_network"
+      }
+    ],
+    "info": {
+      "id": 10,
+      "name": "Vara's earning instruction",
+      "description": null,
+      "start_time": "2024-03-29T11:00:00.000Z",
+      "stop_time": "2024-03-28T16:45:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 12,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 11,
+        "label": "View details",
+        "color": "primary",
+        "instruction": {
+          "id": 4,
+          "confirm_label": "Start to earn",
+          "cancel_label": "Cancel",
+          "instruction_id": 36,
+          "group": "earning",
+          "slug": "DEMO_VARA"
+        },
+        "action": {
+          "id": 12,
+          "url": "https://bit.ly/hdx_dedextension",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "DOT___nomination_pool___polkadot",
+          "comparison": "gt",
+          "value": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "position": "token",
+    "repeat": "every_time",
+    "content": "![Stake DOT, earn airdrop.png](https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png)\n\n```bash\n$ npm install --save react-native-permissions\n\n# --- or ---\n\n$ yarn add react-native-permissions\n```",
+    "repeat_every_x_days": 0,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 13,
+      "name": "Stake DOT get VARCH  ",
+      "description": "show popup",
+      "start_time": "2024-03-29T17:00:00.000Z",
+      "stop_time": "2024-04-01T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 14,
+        "label": "Swap",
+        "color": "primary",
+        "instruction": {
+          "id": 7,
+          "confirm_label": "Stake DOT",
+          "cancel_label": "Cancel",
+          "instruction_id": 36,
+          "group": "earning",
+          "slug": "DEMO_VARA"
+        },
+        "action": {
+          "id": 15,
+          "url": "subwallet://home/main/earning/",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      },
+      {
+        "id": 13,
+        "label": "Cancel",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 9,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![Chainflip Swap Announcement (in app).png](https://media-resources.subwallet.app/Chainflip_Swap_Announcement_in_app_801d78dd06.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 16,
+      "name": "Swap introduction  ",
+      "description": null,
+      "start_time": "2024-03-29T17:00:00.000Z",
+      "stop_time": "2024-03-30T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 15,
+        "label": "Cancel",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 16,
+        "label": "Swap",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 18,
+          "url": "subwallet://home/main/earning/",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "eq",
+          "value": 5,
+          "chain_asset": "polkadot-NATIVE-DOT"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "position": "nft",
+    "repeat": "every_time",
+    "content": "# In-app swap available!  \n\n![Airlyft - zkEVM by Astar.png](https://media-resources.subwallet.app/Airlyft_zk_EVM_by_Astar_c1b35d5416.png)\n\n11231231231231231\n123123123\n\n\n\n\n---\n---\n---\n---\n\nRelease v1.1.50 \n New updates: \n New updates: \n - Integrate asset online  \n - Add Swap button  \n - Add support for RMRK token for Astar EV \n - Add support for Creditcoin cc3 testnet \nBugs fixed: \n\n- Fixed bug Do not show balance in case standing on History list to search token",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 17,
+      "name": "What's new?",
+      "description": null,
+      "start_time": "2024-03-29T17:00:00.000Z",
+      "stop_time": "2024-04-01T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 17,
+        "label": "I understand ",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gte",
+          "value": 2,
+          "chain_asset": "polkadot-NATIVE-DOT"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "**In-app swap available!**\n\n![Chainflip Swap Announcement (in app).png](https://media-resources.subwallet.app/Chainflip_Swap_Announcement_in_app_801d78dd06.png)\n\n_________________\n_________________\n\nRelease v1.1.50 \nNew updates: \n - Integrate asset online  \n - Add Swap button  \n - Add support for RMRK token for Astar EV \n - Add support for Creditcoin cc3 testnet \nBugs fixed: \n - Fixed bug Do not show balance in case standing on History list to search token  ",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 20,
+      "name": "What's new?",
+      "description": null,
+      "start_time": "2024-03-29T17:00:00.000Z",
+      "stop_time": "2024-03-30T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 18,
+        "label": "I understand ",
+        "color": "primary",
+        "instruction": null,
+        "action": null
       }
     ],
     "conditions": {}
