@@ -49,35 +49,21 @@
     "group": "earning",
     "slug": "DEMO_VARA",
     "locale": "en",
-    "title": "Demo vara instructions",
+    "title": "Stake $DOT to get $VARCH 20,000,000 $VARCH airdrop",
     "instructions": [
       {
         "id": 166,
-        "icon": "ThumbsUp",
+        "icon": "NumberCircleOne",
         "icon_color": "#aada62",
-        "title": "Stake $DOT to get $VARCH ",
-        "description": null
+        "title": " ",
+        "description": "To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet "
       },
       {
         "id": 167,
-        "icon": "Coins",
+        "icon": "NumberCircleTwo",
         "icon_color": "#e6dc25",
-        "title": "20,000,000 $VARCH airdrop",
-        "description": null
-      },
-      {
-        "id": 168,
-        "icon": "CheckCircle",
-        "icon_color": "#4cd9ac",
-        "title": null,
-        "description": "1. To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet "
-      },
-      {
-        "id": 170,
-        "icon": "Vignette",
-        "icon_color": "#51BC5E",
-        "title": null,
-        "description": "2. $vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
+        "title": " ",
+        "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
       }
     ],
     "media": "https://static-data.subwallet.app/instructions/images/media/Airlyft_zk_EVM_by_Astar_c1b35d5416.png"
