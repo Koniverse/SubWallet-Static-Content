@@ -5811,9 +5811,9 @@
     "ordinal": 154,
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
-      "Vara": "wss://rpc.vara-network.io",
       "Vara Network": "wss://rpc.vara.network",
-      "DRPC": "wss://vara.drpc.org"
+      "DRPC": "wss://vara.drpc.org",
+      "BlastApi": "wss://vara-mainnet.public.blastapi.io"
     },
     "evmInfo": null,
     "substrateInfo": {
