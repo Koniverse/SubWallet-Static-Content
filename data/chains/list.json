@@ -5812,7 +5812,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
       "Vara Network": "wss://rpc.vara.network",
-      "DRPC": "wss://vara.drpc.org",
       "BlastApi": "wss://vara-mainnet.public.blastapi.io"
     },
     "evmInfo": null,
@@ -7649,11 +7648,11 @@
   },
   {
     "slug": "okxTest",
-    "name": "OKX X1 testnet",
+    "name": "X Layer testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/x1_8543ca17c8.png",
     "providers": {
       "Testrpc": "https://testrpc.x1.tech/",
       "X1testrpc": "https://x1testrpc.okx.com/"
