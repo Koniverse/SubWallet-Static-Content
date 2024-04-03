@@ -53,7 +53,7 @@
     "instructions": [
       {
         "id": 166,
-        "icon": "NumberCircleOne",
+        "icon": "NotePencil",
         "icon_color": "#aada62",
         "title": " ",
         "description": "To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet "
