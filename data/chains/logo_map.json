@@ -211,7 +211,7 @@
   "subspace_gemini_3h": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
   "continuum_network": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_5f92dd7fcc.png",
   "rococo_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
-  "okxTest": "https://static-data.subwallet.app/chains/images/icon/x1_582f1f94b8.png",
+  "okxTest": "https://static-data.subwallet.app/chains/images/icon/x1_8543ca17c8.png",
   "liberlandTest": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
   "liberland": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
   "chainflip_dot": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
@@ -222,5 +222,6 @@
   "astarZkEvm": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
   "sepolia_ethereum": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
   "hydradx_rococo": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
-  "creditcoinTest": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png"
+  "creditcoinTest": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png",
+  "xlayer": "https://static-data.subwallet.app/chains/images/icon/x1_8543ca17c8.png"
 }
