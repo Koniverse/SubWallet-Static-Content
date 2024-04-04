@@ -55,28 +55,28 @@
         "id": 166,
         "icon": "NumberCircleOne",
         "icon_color": "#aada62",
-        "title": " ",
+        "title": " Stake vDOT",
         "description": "To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet "
       },
       {
         "id": 167,
         "icon": "NumberCircleTwo",
         "icon_color": "#e6dc25",
-        "title": " ",
+        "title": " Stake vDOT",
         "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
       },
       {
         "id": 172,
         "icon": "NumberCircleThree",
         "icon_color": "#e1f1ab",
-        "title": null,
+        "title": "Stake vDOT",
         "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
       },
       {
         "id": 173,
         "icon": "AddressBook",
         "icon_color": "#eae996",
-        "title": null,
+        "title": "Stake vDOT",
         "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
       }
     ],
