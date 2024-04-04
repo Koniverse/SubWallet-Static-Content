@@ -23,6 +23,27 @@
     ]
   },
   {
+    "id": 21,
+    "name": "Win $2000 USDT Prize Pool with Creditcoin's Real-World EVM Gamified Testnet campaign",
+    "status": "live",
+    "ordinal": 87,
+    "description": "The moment you’ve been waiting for! It’s time to showcase your Testnet credentials for a chance to win from the bonus $2,000 USDT prize pool!\n\nSimply grab Testnet tokens from the Discord Testnet Faucet and start exploring the protocol's and Testnet's main features. Validators and nominators should complete on-chain tasks with your Substrate wallet, while developers can start executing smart contracts using their submitted EVM wallet. Tasks include:\n\n- Using the faucets on Discord to receive Testnet tokens.\n- Completing a range of on-chain activities (e.g. validating, staking, transferring, etc.)\n- Executing smart contracts (developers)\n\nAs you dive deeper into Testnet, write a post or thread on X about Creditcoin with the required tags: $CTC #RWA #Layer1\n\nThen earn bonus points by referring your friends to maximize your chances of winning from the $2k USDT prize pool.\n\nParticipate and win by completing the quest now!",
+    "start_time": "2024-04-01T12:00:00.000Z",
+    "end_time": "2024-06-01T04:00:00.000Z",
+    "url": "https://app.questn.com/quest/887356676170617210",
+    "twitter_url": "https://twitter.com/Creditcoin",
+    "reward": "50 USDT",
+    "total_winner": "40",
+    "total_supply": "2000 USDT",
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/creditcoin_448a940bb0.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Creditcoin_Quest_N_campaign_328d460006.png",
+    "chains": []
+  },
+  {
     "id": 20,
     "name": "250K $STELLA + 1.19M $PINK rewards + exclusive OG NFTs with stDOT Boost Campaign",
     "status": "live",

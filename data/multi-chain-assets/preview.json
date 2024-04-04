@@ -14,7 +14,9 @@
       "boba-NATIVE-ETH",
       "binance-ERC20-ETH-0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "base_mainnet-NATIVE-ETH",
-      "manta_network_evm-NATIVE-ETH"
+      "manta_network_evm-NATIVE-ETH",
+      "astarZkEvm-NATIVE-ETH",
+      "hydradx_main-LOCAL-WETH"
     ]
   },
   {
@@ -26,7 +28,7 @@
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ibtc_537a25a650.png",
     "originChainAsset": "interlay-LOCAL-iBTC",
     "chainAssets": [
-      "moonbeam-LOCAL-xciBTC",
+      "moonbeam-LOCAL-xcIBTC",
       "interlay-LOCAL-iBTC",
       "equilibrium_parachain-LOCAL-iBTC"
     ]
@@ -144,7 +146,7 @@
     "symbol": "ASTR",
     "priceId": "astar",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/astar_network_9bf214403c.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChainAsset": "astar-NATIVE-ASTR",
     "chainAssets": [
       "astar-NATIVE-ASTR",
@@ -152,7 +154,8 @@
       "astarEvm-NATIVE-ASTR",
       "equilibrium_parachain-LOCAL-ASTR",
       "moonbeam-LOCAL-xcASTR",
-      "hydradx_main-LOCAL-ASTR"
+      "hydradx_main-LOCAL-ASTR",
+      "astarZkEvm-ERC20-ASTR-0xdf41220C7e322bFEF933D85D01821ad277f90172"
     ]
   },
   {
@@ -180,7 +183,9 @@
       "calamari-LOCAL-zkDAI",
       "moonriver-ERC20-DAI-0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
       "astarEvm-ERC20-DAI-0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
-      "ethereum-ERC20-DAI-0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      "ethereum-ERC20-DAI-0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "hydradx_main-LOCAL-DAI",
+      "hydradx_main-LOCAL-DAI-18"
     ]
   },
   {
@@ -483,7 +488,8 @@
       "interlay-LOCAL-USDC.wh",
       "centrifuge-LOCAL-USDC",
       "moonbeam-LOCAL-xcUSDC",
-      "polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
+      "polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      "hydradx_main-LOCAL-USDC-21"
     ]
   },
   {
@@ -496,7 +502,9 @@
     "originChainAsset": "statemine-LOCAL-RMRK",
     "chainAssets": [
       "statemine-LOCAL-RMRK",
-      "bifrost-LOCAL-RMRK"
+      "bifrost-LOCAL-RMRK",
+      "moonbeam-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3",
+      "astarEvm-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3"
     ]
   },
   {
@@ -693,7 +701,14 @@
     "originChainAsset": "statemint-LOCAL-PINK",
     "chainAssets": [
       "statemint-LOCAL-PINK",
-      "moonbeam-LOCAL-xcPINK"
+      "moonbeam-LOCAL-xcPINK",
+      "bifrost_dot-LOCAL-PINK",
+      "astar-LOCAL-PINK",
+      "phala-LOCAL-PINK",
+      "acala-LOCAL-PINK",
+      "crust-LOCAL-PINK",
+      "darwinia2-LOCAL-PINK",
+      "hydradx_main-LOCAL-PINK"
     ]
   },
   {
@@ -707,6 +722,45 @@
     "chainAssets": [
       "bifrost_dot-NATIVE-BNC",
       "hydradx_main-LOCAL-BNC"
+    ]
+  },
+  {
+    "slug": "DED-DED",
+    "name": "DED",
+    "symbol": "DED",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ded_277c75073c.png",
+    "originChainAsset": "statemint-LOCAL-DED",
+    "chainAssets": [
+      "hydradx_main-LOCAL-DED",
+      "statemint-LOCAL-DED"
+    ]
+  },
+  {
+    "slug": "BNCS-InscriptionToken",
+    "name": "Inscription Token",
+    "symbol": "BNCS",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bncs_c523bed97f.png",
+    "originChainAsset": "bifrost_dot-LOCAL-BNCS",
+    "chainAssets": [
+      "bifrost_dot-LOCAL-BNCS",
+      "moonbeam-LOCAL-xcBNCS"
+    ]
+  },
+  {
+    "slug": "APE-ApeCoin",
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "priceId": "apecoin",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/apecoin_91858cf6cd.png",
+    "originChainAsset": "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+    "chainAssets": [
+      "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "hydradx_main-LOCAL-APE"
     ]
   }
 ]

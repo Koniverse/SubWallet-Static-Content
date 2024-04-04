@@ -1229,5 +1229,34 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 71,
+    "name": "Test - Trade DED - token detail banner (mobile)",
+    "description": null,
+    "start_time": "2024-03-28T12:00:00.000Z",
+    "end_time": "2024-04-10T15:00:00.000Z",
+    "condition": {
+      "allowedTokenSlug": "[\"statemint-LOCAL-DED\", \"hydradx_main-LOCAL-DED\", \"hydradx_main-NATIVE-HDX\", \"statemint-LOCAL-USDt\", \"USDT-Tether\" ]"
+    },
+    "banners": [
+      {
+        "id": 135,
+        "alt": "Token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://bit.ly/hdx_dedmobile"
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "token-details"
+        ],
+        "buttons": [],
+        "media": "https://media-resources.subwallet.app//8/Trade_DED_on_HDX_8d72cf4969.png"
+      }
+    ],
+    "notifications": []
   }
 ]

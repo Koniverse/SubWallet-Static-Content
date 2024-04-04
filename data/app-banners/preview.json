@@ -1,40 +1,5 @@
 [
   {
-    "id": 1,
-    "position": "token_detail",
-    "priority": 1,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Dapp_Banner_7a7784bc25.png",
-    "info": {
-      "id": 3,
-      "name": "Test 1",
-      "description": "show banner in token detail screen",
-      "start_time": "2024-03-22T08:40:00.000Z",
-      "stop_time": "2024-03-23T08:50:00.000Z",
-      "platforms": [
-        "mobile"
-      ]
-    },
-    "action": {
-      "id": 4,
-      "url": "subwallet://home/main/earning/earning-list",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "DOT-Polkadot"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "KSM-Kusama"
-      }
-    ],
-    "conditions": {},
-    "instruction": null
-  },
-  {
     "id": 2,
     "position": "crowdloan",
     "priority": 1,
@@ -43,8 +8,8 @@
       "id": 4,
       "name": "DOT token detail banner (mobile app)",
       "description": null,
-      "start_time": "2024-03-22T09:27:00.000Z",
-      "stop_time": "2024-03-22T09:30:00.000Z",
+      "start_time": "2024-03-22T12:16:00.000Z",
+      "stop_time": "2024-03-28T12:50:00.000Z",
       "platforms": [
         "mobile"
       ]
@@ -57,6 +22,312 @@
       "is_cancel": null
     },
     "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 4,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Sub_Wallet_Mobile_v1_1_34_323_7e194e6953.png",
+    "info": {
+      "id": 11,
+      "name": "Airdrop VARCH - VARA token detail banner (mobile app)",
+      "description": null,
+      "start_time": "2024-04-01T03:00:00.000Z",
+      "stop_time": "2024-04-03T03:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 13,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "polkadot-NATIVE-DOT"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 5,
+      "confirm_label": "View details",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "DEMO_VARA"
+    }
+  },
+  {
+    "id": 5,
+    "position": "token_detail",
+    "priority": 2,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
+    "info": {
+      "id": 12,
+      "name": "Swap introduction ",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-04-05T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 14,
+      "url": "subwallet://home/main/earning/",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "DOT-Polkadot"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "USDC-USDCoin"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ETH-Ethereum"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "ethereum-NATIVE-ETH"
+        }
+      ]
+    },
+    "instruction": null
+  },
+  {
+    "id": 8,
+    "position": "nft",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Sub_Wallet_Mobile_v1_1_34_323_7e194e6953.png",
+    "info": {
+      "id": 18,
+      "name": "What's new? ",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-04-02T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 20,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 12,
+    "position": "crowdloan",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Stake_DOT_earn_airdrop_popup_ccdbfe771b.png",
+    "info": {
+      "id": 25,
+      "name": "Stake DOT get VARCH",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-04-06T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 25,
+      "url": "subwallet://home/main/earning/",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": {
+      "id": 14,
+      "confirm_label": "Stake DOT",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "DEMO_VARA"
+    }
+  },
+  {
+    "id": 14,
+    "position": "nft",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Sub_Wallet_Mobile_v1_1_34_323_7e194e6953.png",
+    "info": {
+      "id": 27,
+      "name": "What's new? ",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-04-02T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 27,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 15,
+    "position": "nft",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Stake_DOT_earn_airdrop_popup_ccdbfe771b.png",
+    "info": {
+      "id": 28,
+      "name": "Stake DOT get VARCH",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-04-02T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 28,
+      "url": "subwallet://home/main/earning/",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": {
+      "id": 16,
+      "confirm_label": "Stake DOT",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "DEMO_VARA"
+    }
+  },
+  {
+    "id": 16,
+    "position": "crowdloan",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Sub_Wallet_Mobile_v1_1_34_323_7e194e6953.png",
+    "info": {
+      "id": 29,
+      "name": "What's new? ",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-04-02T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 29,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 17,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Sub_Wallet_Mobile_v1_1_34_323_7e194e6953.png",
+    "info": {
+      "id": 30,
+      "name": "Airdrop VARCH - VARA token detail banner (mobile app)",
+      "description": null,
+      "start_time": "2024-04-01T03:00:00.000Z",
+      "stop_time": "2024-04-01T03:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 30,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "polkadot-NATIVE-DOT"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "lt",
+          "value": 3,
+          "chain_asset": "polkadot-NATIVE-DOT"
+        }
+      ]
+    },
+    "instruction": {
+      "id": 17,
+      "confirm_label": "View details",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "DEMO_VARA"
+    }
+  },
+  {
+    "id": 20,
+    "position": "token_detail",
+    "priority": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Trade_PINK_on_Stellaswap_ab55404b5e.png",
+    "info": {
+      "id": 35,
+      "name": "Test-new - Trade DED - token detail banner (mobile)",
+      "description": null,
+      "start_time": "2024-03-27T17:00:00.000Z",
+      "stop_time": "2024-04-09T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "action": {
+      "id": 35,
+      "url": "https://bit.ly/hdx_dedmobile",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemint-LOCAL-DED"
+      }
+    ],
     "conditions": {},
     "instruction": null
   }

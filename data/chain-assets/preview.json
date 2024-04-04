@@ -1809,13 +1809,22 @@
     "priceId": "hydradx",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "assetId": "0"
+    },
     "hasValue": true,
     "ordinal": 87,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-USDT",
@@ -1857,6 +1866,14 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "statemint-LOCAL-USDt"
+        },
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
       }
     ]
   },
@@ -6548,7 +6565,7 @@
     "ordinal": 347,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/apecoin_91858cf6cd.png",
     "originChain": "ethereum",
-    "multiChainAsset": null,
+    "multiChainAsset": "APE-ApeCoin",
     "assetRefs": []
   },
   {
@@ -8246,6 +8263,22 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
       }
     ]
   },
@@ -8888,7 +8921,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bncs_c523bed97f.png",
     "originChain": "bifrost_dot",
-    "multiChainAsset": null,
+    "multiChainAsset": "BNCS-InscriptionToken",
     "assetRefs": []
   },
   {
@@ -9284,7 +9317,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/x1_582f1f94b8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/x1_8543ca17c8.png",
     "originChain": "okxTest",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9608,13 +9641,29 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "30"
+      "assetId": "30",
+      "autoEnable": true,
+      "multilocation": {
+        "Concrete": {
+          "parents": 0,
+          "interior": {
+            "X2": [
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 30
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
     "originChain": "statemint",
-    "multiChainAsset": null,
+    "multiChainAsset": "DED-DED",
     "assetRefs": []
   },
   {
@@ -9963,13 +10012,376 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "1000019"
+      "assetId": "1000019",
+      "autoEnable": true,
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 30
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
     "originChain": "hydradx_main",
+    "multiChainAsset": "DED-DED",
+    "assetRefs": []
+  },
+  {
+    "slug": "xlayer-NATIVE-OKB",
+    "name": "X Layer",
+    "symbol": "OKB",
+    "decimals": 18,
+    "priceId": "okb",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/x1_8543ca17c8.png",
+    "originChain": "xlayer",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "astarZkEvm-ERC20-ASTR-0xdf41220C7e322bFEF933D85D01821ad277f90172",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "priceId": "astar",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xdf41220C7e322bFEF933D85D01821ad277f90172"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "astarZkEvm",
+    "multiChainAsset": "ASTR-Astar",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcDED",
+    "name": "DED",
+    "symbol": "xcDED",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "124463719055550872076363892993240202694",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xFFFFFFFF5DA2D7214D268375CF8FB1715705FDC6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-DOTA",
+    "name": "DOTA",
+    "symbol": "DOTA",
+    "decimals": 4,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "18"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dota_33134fdcf0.png",
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcBNCS",
+    "name": "BNCS Inscription Token",
+    "symbol": "xcBNCS",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "142155548796783636521833385094843759961",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xfFfffffF6aF229AE7f0F4e0188157e189a487D59"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bncs_c523bed97f.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "BNCS-InscriptionToken",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-DAI",
+    "name": "DAI Stablecoin (via Wormhole)",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "10000000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "2"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_de0c0d96e2.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-APE",
+    "name": "ApeCoin (via Wormhole)",
+    "symbol": "APE",
+    "decimals": 18,
+    "priceId": "apecoin",
+    "minAmount": "2518891687657430",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/apecoin_91858cf6cd.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "APE-ApeCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-SUB",
+    "name": "Subsocial",
+    "symbol": "SUB",
+    "decimals": 10,
+    "priceId": "subsocial",
+    "minAmount": "20000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "24"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subsocial_d5a92d522b.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-4Pool",
+    "name": "USDT, DAI, USDC, USDT",
+    "symbol": "4-Pool",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "100"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-WETH",
+    "name": "Ethereum (via Moonbeam)",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "5390835579515",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "20"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-2Pool",
+    "name": "WBTC, iBTC",
+    "symbol": "2-Pool",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "101"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-vDOT",
+    "name": "Bifrost Voucher DOT",
+    "symbol": "vDOT",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "18761726",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "15"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-LRNA",
+    "name": "Lerna",
+    "symbol": "LRNA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "400000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-DAI-18",
+    "name": "Random token 1 (via Wormhole)",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "10000000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "18"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_de0c0d96e2.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-USDC-21",
+    "name": "USDC (Moonbeam Wormhole)",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "21"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-USDT-23",
+    "name": "USDT (Moonbeam Wormhole)",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "23"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-WBTC",
+    "name": "Wrapped Bitcoin (via Wormhole)",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "44",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-iBTC",
+    "name": "interBTC",
+    "symbol": "iBTC",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "36",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "11"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ibtc_537a25a650.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000021"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "PINK-StatemintPink",
     "assetRefs": []
   }
 ]
