@@ -524,12 +524,12 @@
   "hydradx_main-LOCAL-4Pool": null,
   "hydradx_main-LOCAL-WETH": "ethereum",
   "hydradx_main-LOCAL-2Pool": null,
-  "hydradx_main-LOCAL-vDOT": null,
+  "hydradx_main-LOCAL-vDOT": "voucher-dot",
   "hydradx_main-LOCAL-LRNA": null,
   "hydradx_main-LOCAL-DAI-18": "dai",
   "hydradx_main-LOCAL-USDC-21": "usd-coin",
-  "hydradx_main-LOCAL-USDT-23": null,
-  "hydradx_main-LOCAL-WBTC": null,
-  "hydradx_main-LOCAL-iBTC": null,
+  "hydradx_main-LOCAL-USDT-23": "tether",
+  "hydradx_main-LOCAL-WBTC": "wrapped-bitcoin",
+  "hydradx_main-LOCAL-iBTC": "interbtc",
   "hydradx_main-LOCAL-PINK": null
 }
