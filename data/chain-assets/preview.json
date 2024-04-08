@@ -9969,13 +9969,13 @@
         "metadata": {
           "alternativeAsset": "rococo-NATIVE-ROC"
         },
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-LOCAL-DOT"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-LOCAL-USDT"
       }
     ]
@@ -10000,13 +10000,13 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-NATIVE-HDX"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-LOCAL-USDT"
       }
     ]
@@ -10031,13 +10031,13 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-NATIVE-HDX"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-LOCAL-DOT"
       }
     ]
