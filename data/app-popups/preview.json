@@ -2,7 +2,7 @@
   {
     "id": 8,
     "priority": 3,
-    "position": "earning",
+    "position": "token",
     "repeat": "every_time",
     "content": "![Stake DOT, earn airdrop.png](https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png)\n",
     "repeat_every_x_days": 0,
@@ -13,7 +13,7 @@
       "name": "Stake DOT get VARCH",
       "description": "show popup",
       "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-06T17:00:00.000Z",
+      "stop_time": "2024-04-13T17:00:00.000Z",
       "platforms": [
         "mobile"
       ]
@@ -47,15 +47,7 @@
         }
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "eq",
-          "value": 0,
-          "chain_asset": "polkadot-NATIVE-DOT"
-        }
-      ]
-    }
+    "conditions": {}
   },
   {
     "id": 9,
@@ -63,7 +55,7 @@
     "position": "token",
     "repeat": "once",
     "content": "![Chainflip Swap Announcement (in app).png](https://media-resources.subwallet.app/Chainflip_Swap_Announcement_in_app_801d78dd06.png)",
-    "repeat_every_x_days": 0,
+    "repeat_every_x_days": 3,
     "media": null,
     "position_params": [],
     "info": {
@@ -98,20 +90,12 @@
         }
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 1,
-          "chain_asset": "ethereum-NATIVE-ETH"
-        }
-      ]
-    }
+    "conditions": {}
   },
   {
     "id": 11,
     "priority": 1,
-    "position": "nft",
+    "position": "token",
     "repeat": "once",
     "content": "**In-app swap available!**\n\n![Chainflip Swap Announcement (in app).png](https://media-resources.subwallet.app/Chainflip_Swap_Announcement_in_app_801d78dd06.png)\n\n```bash\n- Release v1.1.50 \n  New updates: \n   - Integrate asset online  \n   - Add Swap button  \n   - Add support for RMRK token for Astar EV \n   - Add support for Creditcoin cc3 testnet \n- Bugs fixed: \n  - Fixed bug Do not show balance in case standing on History list to search token  \n  \n```\n",
     "repeat_every_x_days": null,
@@ -122,7 +106,7 @@
       "name": "What's new?",
       "description": null,
       "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-15T17:00:00.000Z",
+      "stop_time": "2024-04-13T17:00:00.000Z",
       "platforms": [
         "mobile"
       ]
