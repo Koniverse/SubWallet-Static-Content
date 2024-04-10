@@ -736,11 +736,11 @@
     "assetRefs": []
   },
   {
-    "slug": "moonbeam-LOCAL-xcaUSD",
-    "name": "Acala USD",
-    "symbol": "xcaUSD",
+    "slug": "moonbeam-LOCAL-xcaSEED",
+    "name": "aUSD SEED",
+    "symbol": "xcaSEED",
     "decimals": 12,
-    "priceId": "acala-dollar-acala",
+    "priceId": "ausd-seed-acala",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -750,7 +750,7 @@
     },
     "hasValue": true,
     "ordinal": 30,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "moonbeam",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -1350,11 +1350,11 @@
     "assetRefs": []
   },
   {
-    "slug": "calamari-LOCAL-AUSD",
-    "name": "Acala Dollar",
-    "symbol": "AUSD",
+    "slug": "calamari-LOCAL-aSEED",
+    "name": "aUSD SEED",
+    "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "10000000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -1362,7 +1362,7 @@
     },
     "hasValue": true,
     "ordinal": 62,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "calamari",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
@@ -4435,11 +4435,11 @@
     "assetRefs": []
   },
   {
-    "slug": "moonriver-LOCAL-xcaSeed",
-    "name": "Karura USD",
+    "slug": "moonriver-LOCAL-xcaSEED",
+    "name": "aUSD SEED",
     "symbol": "xcaSeed",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -4449,7 +4449,7 @@
     },
     "hasValue": true,
     "ordinal": 225,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "moonriver",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
@@ -4516,10 +4516,10 @@
   },
   {
     "slug": "astar-LOCAL-aSEED",
-    "name": "Acala USD",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar-acala",
+    "priceId": "ausd-seed-acala",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -4542,7 +4542,7 @@
     },
     "hasValue": true,
     "ordinal": 229,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "astar",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -4585,10 +4585,10 @@
   },
   {
     "slug": "astarEvm-ERC20-aSEED-0xfFFFFfFF00000000000000010000000000000001",
-    "name": "Acala Dollar",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar-acala",
+    "priceId": "ausd-seed-acala",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -4596,7 +4596,7 @@
     },
     "hasValue": true,
     "ordinal": 232,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "astarEvm",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -4643,10 +4643,10 @@
   },
   {
     "slug": "shiden-LOCAL-aSEED",
-    "name": "Karura USD",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -4655,17 +4655,17 @@
     },
     "hasValue": true,
     "ordinal": 235,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "shiden",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
   },
   {
     "slug": "shidenEvm-ERC20-aSEED-0xfFFfFFfF00000000000000010000000000000000",
-    "name": "Karura USD",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -4673,17 +4673,17 @@
     },
     "hasValue": true,
     "ordinal": 236,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "shidenEvm",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
   },
   {
-    "slug": "bifrost-LOCAL-KUSD",
-    "name": "Karura USD",
-    "symbol": "KUSD",
+    "slug": "bifrost-LOCAL-aSEED",
+    "name": "aUSD SEED",
+    "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "100000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -4693,7 +4693,7 @@
     },
     "hasValue": true,
     "ordinal": 237,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "bifrost",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
@@ -8357,6 +8357,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "5",
+      "canPayTxFee": true,
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
@@ -9696,8 +9697,7 @@
     "minAmount": "34854864344868000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "16",
-      "alternativeSwapAsset": "moonbeam-NATIVE-GLMR"
+      "assetId": "16"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10445,7 +10445,8 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "18"
+      "assetId": "18",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10699,7 +10700,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/2_pool_42ab8d1bf1.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/2_pool_b31befacd3.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": [
@@ -10774,8 +10775,7 @@
     "minAmount": "18761726",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "15",
-      "alternativeSwapAsset": "bifrost_dot-LOCAL-vDOT"
+      "assetId": "15"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11037,5 +11037,123 @@
         "destAsset": "hydradx_main-LOCAL-GLMR"
       }
     ]
+  },
+  {
+    "slug": "acurast-NATIVE-cACU",
+    "name": "Acurast Canary",
+    "symbol": "cACU",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/acurast_ea6dbcc424.png",
+    "originChain": "acurast",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "mythos-NATIVE-MYTH",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "1000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "mythos",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-BEEFY",
+    "name": "BEEFY",
+    "symbol": "BEEFY",
+    "decimals": 2,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "420"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/beefy2_af29e30ce9.png",
+    "originChain": "statemint",
+    "multiChainAsset": "BEEFY-BEEFY",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-BEEFY",
+    "name": "BEEFY",
+    "symbol": "BEEFY",
+    "decimals": 2,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000036"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/beefy2_af29e30ce9.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "BEEFY-BEEFY",
+    "assetRefs": []
+  },
+  {
+    "slug": "humanode-NATIVE-HMND",
+    "name": "Humanode",
+    "symbol": "HMND",
+    "decimals": 18,
+    "priceId": "humanode",
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
+    "originChain": "humanode",
+    "multiChainAsset": "HMND-Humanode",
+    "assetRefs": []
+  },
+  {
+    "slug": "humanodeEvm-NATIVE-eHMND",
+    "name": "Humanode",
+    "symbol": "eHMND",
+    "decimals": 18,
+    "priceId": "humanode",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
+    "originChain": "humanodeEvm",
+    "multiChainAsset": "HMND-Humanode",
+    "assetRefs": []
+  },
+  {
+    "slug": "humanodeEvm-ERC20-WeHMND-0x0000000000000000000000000000000000000802",
+    "name": "Wrapped Humanode",
+    "symbol": "WeHMND",
+    "decimals": 18,
+    "priceId": "wrapped-ehmnd",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x0000000000000000000000000000000000000802"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
+    "originChain": "humanodeEvm",
+    "multiChainAsset": "HMND-Humanode",
+    "assetRefs": []
   }
 ]

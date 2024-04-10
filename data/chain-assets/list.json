@@ -16,56 +16,67 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "acala-LOCAL-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "astar-LOCAL-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-NATIVE-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "interlay-LOCAL-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "parallel-LOCAL-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "bifrost_dot-LOCAL-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
       },
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": false,
         "destAsset": "ethereum-NATIVE-ETH"
       },
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
       }
@@ -88,31 +99,37 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemine-NATIVE-KSM"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
         "destAsset": "shiden-LOCAL-KSM"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
         "destAsset": "karura-LOCAL-KSM"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "bifrost-LOCAL-KSM"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
         "destAsset": "amplitude-LOCAL-KSM"
       }
@@ -135,6 +152,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -193,6 +211,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "karura-LOCAL-NEER"
       }
@@ -238,6 +257,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "acala-LOCAL-ASTR"
       }
@@ -267,6 +287,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -298,11 +319,13 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcACA"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "parallel-LOCAL-ACA"
       }
@@ -429,6 +452,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -455,6 +479,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-NATIVE-GLMR"
       }
@@ -481,6 +506,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       }
@@ -623,11 +649,13 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
       }
@@ -654,6 +682,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "interlay-NATIVE-INTR"
       }
@@ -680,6 +709,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "interlay-LOCAL-iBTC"
       }
@@ -706,11 +736,11 @@
     "assetRefs": []
   },
   {
-    "slug": "moonbeam-LOCAL-xcaUSD",
-    "name": "Acala USD",
-    "symbol": "xcaUSD",
+    "slug": "moonbeam-LOCAL-xcaSEED",
+    "name": "aUSD SEED",
+    "symbol": "xcaSEED",
     "decimals": 12,
-    "priceId": "acala-dollar-acala",
+    "priceId": "ausd-seed-acala",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -720,7 +750,7 @@
     },
     "hasValue": true,
     "ordinal": 30,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "moonbeam",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -786,6 +816,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -828,6 +859,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       }
@@ -929,7 +961,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
     "originChain": "rococo",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "bitcountry-NATIVE-NUUM",
@@ -1138,6 +1177,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       }
@@ -1310,11 +1350,11 @@
     "assetRefs": []
   },
   {
-    "slug": "calamari-LOCAL-AUSD",
-    "name": "Acala Dollar",
-    "symbol": "AUSD",
+    "slug": "calamari-LOCAL-aSEED",
+    "name": "aUSD SEED",
+    "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "10000000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -1322,7 +1362,7 @@
     },
     "hasValue": true,
     "ordinal": 62,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "calamari",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
@@ -1660,11 +1700,13 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
       },
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "ethereum_goerli-ERC20-USDC-0x07865c6E87B9F70255377e024ace6630C1Eaa37F"
       }
@@ -1721,6 +1763,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       }
@@ -1766,13 +1809,76 @@
     "priceId": "hydradx",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "assetId": "0"
+    },
     "hasValue": true,
     "ordinal": 87,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-DED"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-USDT",
@@ -1811,8 +1917,69 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-DED"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
       }
     ]
   },
@@ -1853,6 +2020,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-CFG"
       }
@@ -1879,11 +2047,13 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcINTR"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "acala-LOCAL-INTR"
       }
@@ -1930,6 +2100,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       }
@@ -1956,6 +2127,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcIBTC"
       }
@@ -2107,7 +2279,9 @@
     "priceId": "polkadex",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 101,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadex_fc1b411421.png",
@@ -2267,6 +2441,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "kusama-NATIVE-KSM"
       }
@@ -3919,41 +4094,49 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "astar-LOCAL-USDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "parallel-LOCAL-USDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "equilibrium_parachain-LOCAL-USDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "bifrost_dot-LOCAL-USDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "acala-LOCAL-USDT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "interlay-LOCAL-USDT"
       }
@@ -4205,6 +4388,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       }
@@ -4251,11 +4435,11 @@
     "assetRefs": []
   },
   {
-    "slug": "moonriver-LOCAL-xcaSeed",
-    "name": "Karura USD",
+    "slug": "moonriver-LOCAL-xcaSEED",
+    "name": "aUSD SEED",
     "symbol": "xcaSeed",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -4265,7 +4449,7 @@
     },
     "hasValue": true,
     "ordinal": 225,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "moonriver",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
@@ -4332,10 +4516,10 @@
   },
   {
     "slug": "astar-LOCAL-aSEED",
-    "name": "Acala USD",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar-acala",
+    "priceId": "ausd-seed-acala",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -4358,7 +4542,7 @@
     },
     "hasValue": true,
     "ordinal": 229,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "astar",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -4401,10 +4585,10 @@
   },
   {
     "slug": "astarEvm-ERC20-aSEED-0xfFFFFfFF00000000000000010000000000000001",
-    "name": "Acala Dollar",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar-acala",
+    "priceId": "ausd-seed-acala",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -4412,7 +4596,7 @@
     },
     "hasValue": true,
     "ordinal": 232,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "astarEvm",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -4459,10 +4643,10 @@
   },
   {
     "slug": "shiden-LOCAL-aSEED",
-    "name": "Karura USD",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -4471,17 +4655,17 @@
     },
     "hasValue": true,
     "ordinal": 235,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "shiden",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
   },
   {
     "slug": "shidenEvm-ERC20-aSEED-0xfFFfFFfF00000000000000010000000000000000",
-    "name": "Karura USD",
+    "name": "aUSD SEED",
     "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -4489,17 +4673,17 @@
     },
     "hasValue": true,
     "ordinal": 236,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "shidenEvm",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
   },
   {
-    "slug": "bifrost-LOCAL-KUSD",
-    "name": "Karura USD",
-    "symbol": "KUSD",
+    "slug": "bifrost-LOCAL-aSEED",
+    "name": "aUSD SEED",
+    "symbol": "aSEED",
     "decimals": 12,
-    "priceId": "acala-dollar",
+    "priceId": "ausd-seed-karura",
     "minAmount": "100000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -4509,7 +4693,7 @@
     },
     "hasValue": true,
     "ordinal": 237,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChain": "bifrost",
     "multiChainAsset": "aSEED-aSEEDKarura",
     "assetRefs": []
@@ -6340,6 +6524,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -8086,6 +8271,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -8128,6 +8314,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -8154,6 +8341,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
@@ -8168,7 +8356,9 @@
     "minAmount": "17540000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "5"
+      "assetId": "5",
+      "canPayTxFee": true,
+      "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
     "ordinal": 436,
@@ -8178,8 +8368,73 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-DED"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
       }
     ]
   },
@@ -8249,6 +8504,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDC"
       }
@@ -8325,6 +8581,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDC"
       }
@@ -8472,7 +8729,9 @@
     "priceId": null,
     "minAmount": "10000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avl_4f65922c68.png",
@@ -8661,6 +8920,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "interlay-NATIVE-INTR"
       }
@@ -8685,6 +8945,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "acala-NATIVE-ACA"
       }
@@ -8709,6 +8970,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "centrifuge-NATIVE-CFG"
       }
@@ -8738,7 +9000,9 @@
     "priceId": null,
     "minAmount": "1000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/invarch_d95283c9f7.png",
@@ -8788,7 +9052,9 @@
     "priceId": "polkadex",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadex_04756a30d9.png",
@@ -8813,7 +9079,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bncs_c523bed97f.png",
     "originChain": "bifrost_dot",
-    "multiChainAsset": null,
+    "multiChainAsset": "BNCS-InscriptionToken",
     "assetRefs": []
   },
   {
@@ -8837,11 +9103,13 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcMANTA"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "bifrost_dot-LOCAL-MANTA"
       }
@@ -8887,11 +9155,13 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
@@ -8918,6 +9188,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "manta_network-NATIVE-MANTA"
       }
@@ -8957,38 +9228,45 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
         "destAsset": "moonbeam-LOCAL-xcPINK"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
-        "destAsset": null
+        "destAsset": "astar-LOCAL-PINK"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
-        "destAsset": null
+        "destAsset": "bifrost_dot-LOCAL-PINK"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
-        "destAsset": null
+        "destAsset": "acala-LOCAL-PINK"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
-        "destAsset": null
+        "destAsset": "phala-LOCAL-PINK"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
-        "destAsset": null
+        "destAsset": "darwinia2-LOCAL-PINK"
       },
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
-        "destAsset": null
+        "destAsset": "crust-LOCAL-PINK"
       }
     ]
   },
@@ -9013,6 +9291,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
       }
@@ -9059,6 +9338,7 @@
     "assetRefs": [
       {
         "type": "XCM",
+        "metadata": null,
         "disable": false,
         "destAsset": "manta_network-NATIVE-MANTA"
       }
@@ -9179,7 +9459,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/x1_582f1f94b8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/x1_8543ca17c8.png",
     "originChain": "okxTest",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9251,11 +9531,13 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
       },
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
       }
@@ -9280,11 +9562,13 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
       },
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "ethereum_goerli-NATIVE-ETH"
       }
@@ -9299,14 +9583,76 @@
     "minAmount": "147058823529412000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "9"
+      "assetId": "9",
+      "alternativeSwapAsset": "astar-NATIVE-ASTR"
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "ASTR-Astar",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-DED"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-BNC",
@@ -9342,7 +9688,68 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "GLMR-Moonbeam",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-DED"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "tangleTest-NATIVE-tTNT",
@@ -9437,7 +9844,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "astarZkEvm",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
@@ -9459,6 +9866,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
       }
@@ -9483,6 +9891,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
+        "metadata": null,
         "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
       }
@@ -9497,13 +9906,442 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "30"
+      "assetId": "30",
+      "autoEnable": true,
+      "multilocation": {
+        "Concrete": {
+          "parents": 0,
+          "interior": {
+            "X2": [
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 30
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
     "originChain": "statemint",
+    "multiChainAsset": "DED-DED",
+    "assetRefs": []
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Token2": "10"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
+  },
+  {
+    "slug": "astar-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "18446744073709551633",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 23
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "astar",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
+  },
+  {
+    "slug": "phala-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "12",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2000
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "phala",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
+  },
+  {
+    "slug": "acala-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": 13
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "acala",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
+  },
+  {
+    "slug": "crust-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "64174511183114006009298114091987195453"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "crust",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
+  },
+  {
+    "slug": "darwinia2-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1028"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "darwinia2",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PINK"
+      }
+    ]
+  },
+  {
+    "slug": "creditcoinTest-NATIVE-CTC",
+    "name": "Creditcoin testnet",
+    "symbol": "CTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/creditcoin_448a940bb0.png",
+    "originChain": "creditcoinTest",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3",
+    "name": "RMRK",
+    "symbol": "RMRK",
+    "decimals": 18,
+    "priceId": "rmrk",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x524d524B4c9366be706D3A90dcf70076ca037aE3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rmrk_token_a9c5fab4d1.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "RMRK-RMRKApp",
+    "assetRefs": []
+  },
+  {
+    "slug": "astarEvm-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3",
+    "name": "RMRK",
+    "symbol": "RMRK",
+    "decimals": 18,
+    "priceId": "rmrk",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x524d524B4c9366be706D3A90dcf70076ca037aE3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rmrk_token_a9c5fab4d1.png",
+    "originChain": "astarEvm",
+    "multiChainAsset": "RMRK-RMRKApp",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-DED",
+    "name": "DED",
+    "symbol": "DED",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000019",
+      "autoEnable": true,
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 30
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "DED-DED",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": null
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      }
+    ]
+  },
+  {
+    "slug": "xlayer-NATIVE-OKB",
+    "name": "X Layer",
+    "symbol": "OKB",
+    "decimals": 18,
+    "priceId": "okb",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/x1_8543ca17c8.png",
+    "originChain": "xlayer",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "astarZkEvm-ERC20-ASTR-0xdf41220C7e322bFEF933D85D01821ad277f90172",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "priceId": "astar",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xdf41220C7e322bFEF933D85D01821ad277f90172"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "astarZkEvm",
+    "multiChainAsset": "ASTR-Astar",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-DOTA",
+    "name": "DOTA",
+    "symbol": "DOTA",
+    "decimals": 4,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "18",
+      "autoEnable": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dota_33134fdcf0.png",
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcBNCS",
+    "name": "BNCS Inscription Token",
+    "symbol": "xcBNCS",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "142155548796783636521833385094843759961",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xfFfffffF6aF229AE7f0F4e0188157e189a487D59"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bncs_c523bed97f.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "BNCS-InscriptionToken",
     "assetRefs": []
   }
 ]
