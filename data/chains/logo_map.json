@@ -223,5 +223,9 @@
   "sepolia_ethereum": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
   "hydradx_rococo": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
   "creditcoinTest": "https://static-data.subwallet.app/chains/images/icon/creditcoin_448a940bb0.png",
-  "xlayer": "https://static-data.subwallet.app/chains/images/icon/x1_8543ca17c8.png"
+  "xlayer": "https://static-data.subwallet.app/chains/images/icon/x1_8543ca17c8.png",
+  "acurast": "https://static-data.subwallet.app/chains/images/icon/acurast_ea6dbcc424.png",
+  "mythos": "https://static-data.subwallet.app/chains/images/icon/mythos_chain_430c6d1b1e.png",
+  "humanode": "https://static-data.subwallet.app/chains/images/icon/chain_humanode_9202d14ee7.png",
+  "humanodeEvm": "https://static-data.subwallet.app/chains/images/icon/chain_humanode_9202d14ee7.png"
 }
