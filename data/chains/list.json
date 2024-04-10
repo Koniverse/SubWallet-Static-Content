@@ -7368,7 +7368,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
     "providers": {
-      "Avail Goldberg Testnet": "wss://goldberg.avail.tools/ws",
       "Avail Tool Testnet": "wss://rpc-testnet.avail.tools/ws"
     },
     "evmInfo": null,
@@ -7660,7 +7659,7 @@
     },
     "evmInfo": {
       "evmChainId": 195,
-      "blockExplorer": "https://www.okx.com/nl/explorer/x1-test",
+      "blockExplorer": "https://www.okx.com/explorer/xlayer-test/",
       "existentialDeposit": "0",
       "symbol": "OKX",
       "decimals": 18,
@@ -7668,7 +7667,7 @@
         "ERC20",
         "ERC721"
       ],
-      "abiExplorer": "https://www.okx.com/nl/explorer/x1-test"
+      "abiExplorer": "https://www.okx.com/explorer/xlayer-test/"
     },
     "substrateInfo": null,
     "extraInfo": null
@@ -7891,7 +7890,10 @@
       "existentialDeposit": "0",
       "symbol": "ETH",
       "decimals": 18,
-      "supportSmartContract": null,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
       "abiExplorer": "https://astar-zkevm.explorer.startale.com/"
     },
     "substrateInfo": null,
@@ -7956,5 +7958,28 @@
       "subscanSlug": "creditcoin3-testnet",
       "chainBalanceSlug": null
     }
+  },
+  {
+    "slug": "xlayer",
+    "name": "X Layer",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/x1_8543ca17c8.png",
+    "providers": {
+      "X Layer": "https://rpc.xlayer.tech",
+      "X Layer OKX": "https://xlayerrpc.okx.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 196,
+      "blockExplorer": "https://www.okx.com/explorer/xlayer",
+      "existentialDeposit": "0",
+      "symbol": "OKB",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": "https://www.okx.com/explorer/xlayer"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
   }
 ]
