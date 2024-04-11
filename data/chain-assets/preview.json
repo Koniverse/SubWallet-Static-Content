@@ -106,19 +106,19 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "moonriver-LOCAL-xcKSM"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "shiden-LOCAL-KSM"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "karura-LOCAL-KSM"
       },
       {
@@ -130,7 +130,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
@@ -426,7 +426,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 16,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tomochain_4c5626cb9d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/viction_80495dd96b.png",
     "originChain": "tomochain",
     "multiChainAsset": null,
     "assetRefs": []
@@ -4437,7 +4437,7 @@
   {
     "slug": "moonriver-LOCAL-xcaSEED",
     "name": "aUSD SEED",
-    "symbol": "xcaSeed",
+    "symbol": "xcaSEED",
     "decimals": 12,
     "priceId": "ausd-seed-karura",
     "minAmount": "1",
