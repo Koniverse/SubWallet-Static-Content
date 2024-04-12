@@ -10433,7 +10433,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ded_277c75073c.png",
     "originChain": "moonbeam",
-    "multiChainAsset": null,
+    "multiChainAsset": "DED-DED",
     "assetRefs": []
   },
   {
