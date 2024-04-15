@@ -545,7 +545,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 15,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/tomochain_549225abda.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/viction_80495dd96b.png",
     "providers": {
       "TomoChain": "https://rpc.tomochain.com"
     },
@@ -7368,7 +7368,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
     "providers": {
-      "Avail Tool Testnet": "wss://rpc-testnet.avail.tools/ws"
+      "Avail Tool Testnet": "wss://rpc-testnet.avail.tools/ws",
+      "Goldberg testnet": "wss://goldberg-testnet-rpc.avail.tools/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7959,7 +7960,7 @@
   {
     "slug": "hydradx_rococo",
     "name": "HydraDX Rococo",
-    "isTestnet": null,
+    "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
