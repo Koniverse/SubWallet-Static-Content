@@ -227,5 +227,6 @@
   "acurast": "https://static-data.subwallet.app/chains/images/icon/acurast_ea6dbcc424.png",
   "mythos": "https://static-data.subwallet.app/chains/images/icon/mythos_chain_430c6d1b1e.png",
   "humanode": "https://static-data.subwallet.app/chains/images/icon/chain_humanode_9202d14ee7.png",
-  "humanodeEvm": "https://static-data.subwallet.app/chains/images/icon/chain_humanode_9202d14ee7.png"
+  "humanodeEvm": "https://static-data.subwallet.app/chains/images/icon/chain_humanode_9202d14ee7.png",
+  "paseoTest": "https://static-data.subwallet.app/chains/images/icon/Property_1_light_3565d58599.png"
 }

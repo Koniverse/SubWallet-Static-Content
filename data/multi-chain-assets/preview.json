@@ -30,7 +30,8 @@
     "chainAssets": [
       "moonbeam-LOCAL-xcIBTC",
       "interlay-LOCAL-iBTC",
-      "equilibrium_parachain-LOCAL-iBTC"
+      "equilibrium_parachain-LOCAL-iBTC",
+      "hydradx_main-LOCAL-iBTC"
     ]
   },
   {
@@ -137,7 +138,8 @@
       "polygon-ERC20-USDT-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-      "tomochain-ERC20-USDT-0x381B31409e4D220919B2cFF012ED94d70135A59e"
+      "tomochain-ERC20-USDT-0x381B31409e4D220919B2cFF012ED94d70135A59e",
+      "hydradx_main-LOCAL-USDT-23"
     ]
   },
   {
@@ -337,7 +339,7 @@
       "acala-LOCAL-aSEED",
       "astar-LOCAL-aSEED",
       "astarEvm-ERC20-aSEED-0xfFFFFfFF00000000000000010000000000000001",
-      "moonbeam-LOCAL-xcaUSD"
+      "moonbeam-LOCAL-xcaSEED"
     ]
   },
   {
@@ -531,7 +533,8 @@
     "chainAssets": [
       "calamari-LOCAL-WBTC",
       "astarEvm-ERC20-WBTC-0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
-      "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+      "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "hydradx_main-LOCAL-WBTC"
     ]
   },
   {
@@ -544,11 +547,11 @@
     "originChainAsset": "karura-LOCAL-aSEED",
     "chainAssets": [
       "karura-LOCAL-aSEED",
-      "moonriver-LOCAL-xcaSeed",
+      "moonriver-LOCAL-xcaSEED",
       "shidenEvm-ERC20-aSEED-0xfFFfFFfF00000000000000010000000000000000",
       "shiden-LOCAL-aSEED",
-      "calamari-LOCAL-AUSD",
-      "bifrost-LOCAL-KUSD"
+      "calamari-LOCAL-aSEED",
+      "bifrost-LOCAL-aSEED"
     ]
   },
   {
@@ -708,7 +711,8 @@
       "acala-LOCAL-PINK",
       "crust-LOCAL-PINK",
       "darwinia2-LOCAL-PINK",
-      "hydradx_main-LOCAL-PINK"
+      "hydradx_main-LOCAL-PINK",
+      "base_mainnet-ERC20-PINK-0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0"
     ]
   },
   {
@@ -734,7 +738,8 @@
     "originChainAsset": "statemint-LOCAL-DED",
     "chainAssets": [
       "hydradx_main-LOCAL-DED",
-      "statemint-LOCAL-DED"
+      "statemint-LOCAL-DED",
+      "moonbeam-LOCAL-xcDED"
     ]
   },
   {
@@ -761,6 +766,60 @@
     "chainAssets": [
       "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
       "hydradx_main-LOCAL-APE"
+    ]
+  },
+  {
+    "slug": "vDOT-VoucherDot",
+    "name": "Voucher Dot",
+    "symbol": "vDOT",
+    "priceId": "voucher-dot",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/vdot_fdab8d59c8.png",
+    "originChainAsset": "bifrost_dot-LOCAL-vDOT",
+    "chainAssets": [
+      "bifrost_dot-LOCAL-vDOT",
+      "hydradx_main-LOCAL-vDOT",
+      "moonbeam-LOCAL-xcvDOT"
+    ]
+  },
+  {
+    "slug": "BEEFY-BEEFY",
+    "name": "BEEFY",
+    "symbol": "BEEFY",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/beefy2_af29e30ce9.png",
+    "originChainAsset": "statemint-LOCAL-BEEFY",
+    "chainAssets": [
+      "statemint-LOCAL-BEEFY",
+      "hydradx_main-LOCAL-BEEFY"
+    ]
+  },
+  {
+    "slug": "HMND-Humanode",
+    "name": "Humanode",
+    "symbol": "HMND",
+    "priceId": "humanode",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/chain_humanode_9202d14ee7.png",
+    "originChainAsset": "humanode-NATIVE-HMND",
+    "chainAssets": [
+      "humanode-NATIVE-HMND",
+      "humanodeEvm-NATIVE-eHMND",
+      "humanodeEvm-ERC20-WeHMND-0x0000000000000000000000000000000000000802"
+    ]
+  },
+  {
+    "slug": "STINK-STINK",
+    "name": "STINK",
+    "symbol": "STINK",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/stink_65292f21c8.png",
+    "originChainAsset": "statemint-LOCAL-STINK",
+    "chainAssets": [
+      "statemint-LOCAL-STINK",
+      "hydradx_main-LOCAL-STINK"
     ]
   }
 ]
