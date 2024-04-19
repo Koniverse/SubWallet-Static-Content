@@ -121,5 +121,42 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam\n- Warning added: Do not transfer cross-chain to an exchange!",
+    "repeat_every_x_days": null,
+    "media": "https://static-data.subwallet.app/app-popups/images/media/Swap_is_live_2d8184d2c3.png",
+    "position_params": [],
+    "info": {
+      "id": 37,
+      "name": "What's new?",
+      "description": "1",
+      "start_time": "2024-04-20T17:00:00.000Z",
+      "stop_time": "2024-04-27T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ]
+    },
+    "buttons": [
+      {
+        "id": 27,
+        "label": "Skip",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 28,
+        "label": "Update",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
