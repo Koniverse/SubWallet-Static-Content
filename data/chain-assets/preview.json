@@ -1847,7 +1847,8 @@
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": {
-      "assetId": "0"
+      "assetId": "0",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 87,
@@ -1927,6 +1928,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "10",
+      "autoEnable": true,
       "multilocation": {
         "Concrete": {
           "parents": 1,
@@ -8400,6 +8402,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "5",
+      "autoEnable": true,
       "canPayTxFee": true,
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
@@ -9656,6 +9659,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "9",
+      "autoEnable": true,
       "alternativeSwapAsset": "astar-NATIVE-ASTR"
     },
     "hasValue": true,
@@ -9753,7 +9757,8 @@
     "minAmount": "34854864344868000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "16"
+      "assetId": "16",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10594,7 +10599,8 @@
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "100"
+      "assetId": "100",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10673,7 +10679,8 @@
     "minAmount": "5390835579515",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "20"
+      "assetId": "20",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10752,7 +10759,8 @@
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "101"
+      "assetId": "101",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10831,7 +10839,8 @@
     "minAmount": "18761726",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "15"
+      "assetId": "15",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
