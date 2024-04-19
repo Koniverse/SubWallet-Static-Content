@@ -135,7 +135,7 @@
       "id": 37,
       "name": "What's new?",
       "description": "1",
-      "start_time": "2024-04-20T17:00:00.000Z",
+      "start_time": "2024-04-18T17:00:00.000Z",
       "stop_time": "2024-04-27T17:00:00.000Z",
       "platforms": [
         "mobile"
@@ -154,7 +154,13 @@
         "label": "Update",
         "color": "primary",
         "instruction": null,
-        "action": null
+        "action": {
+          "id": 37,
+          "url": "https://apps.apple.com/vn/app/subwallet-polkadot-wallet/id1633050285?l=vi",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
       }
     ],
     "conditions": {}
