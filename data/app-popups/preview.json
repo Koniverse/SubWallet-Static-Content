@@ -127,9 +127,9 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam\n- Warning added: Do not transfer cross-chain to an exchange!",
+    "content": "![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)",
     "repeat_every_x_days": null,
-    "media": "https://static-data.subwallet.app/app-popups/images/media/Swap_is_live_2d8184d2c3.png",
+    "media": null,
     "position_params": [],
     "info": {
       "id": 37,
@@ -156,7 +156,7 @@
         "instruction": null,
         "action": {
           "id": 37,
-          "url": "https://apps.apple.com/vn/app/subwallet-polkadot-wallet/id1633050285?l=vi",
+          "url": "https://mobile.subwallet.app/browser?url=https%3A%2F%2Fapps.apple.com%2Fvn%2Fapp%2Fsubwallet-polkadot-wallet%2Fid1633050285%3Fl%3Dvi",
           "screen": null,
           "params": null,
           "is_cancel": null
