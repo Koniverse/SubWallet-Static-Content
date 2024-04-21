@@ -1,128 +1,5 @@
 [
   {
-    "id": 8,
-    "priority": 3,
-    "position": "token",
-    "repeat": "every_time",
-    "content": "![Stake DOT, earn airdrop.png](https://media-resources.subwallet.app//8/Stake_DOT_earn_airdrop_32cbc1aac1.png)\n",
-    "repeat_every_x_days": 0,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 13,
-      "name": "Stake DOT get VARCH",
-      "description": "show popup",
-      "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-13T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ]
-    },
-    "buttons": [
-      {
-        "id": 13,
-        "label": "Cancel",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 14,
-        "label": "Swap",
-        "color": "primary",
-        "instruction": {
-          "id": 7,
-          "confirm_label": "Stake DOT",
-          "cancel_label": "Cancel",
-          "instruction_id": 36,
-          "group": "earning",
-          "slug": "DEMO_VARA"
-        },
-        "action": {
-          "id": 15,
-          "url": "subwallet://home/main/earning/",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 9,
-    "priority": 2,
-    "position": "token",
-    "repeat": "once",
-    "content": "![Chainflip Swap Announcement (in app).png](https://media-resources.subwallet.app/Chainflip_Swap_Announcement_in_app_801d78dd06.png)",
-    "repeat_every_x_days": 3,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 16,
-      "name": "Swap introduction ",
-      "description": null,
-      "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-13T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ]
-    },
-    "buttons": [
-      {
-        "id": 15,
-        "label": "Cancel",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 16,
-        "label": "Swap",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 18,
-          "url": "subwallet://home/main/earning/",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 11,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "**In-app swap available!**\n\n![Chainflip Swap Announcement (in app).png](https://media-resources.subwallet.app/Chainflip_Swap_Announcement_in_app_801d78dd06.png)\n\n```bash\n- Release v1.1.50 \n  New updates: \n   - Integrate asset online  \n   - Add Swap button  \n   - Add support for RMRK token for Astar EV \n   - Add support for Creditcoin cc3 testnet \n- Bugs fixed: \n  - Fixed bug Do not show balance in case standing on History list to search token  \n  \n```\n",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 20,
-      "name": "What's new?",
-      "description": null,
-      "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-13T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ]
-    },
-    "buttons": [
-      {
-        "id": 18,
-        "label": "I understand ",
-        "color": "primary",
-        "instruction": null,
-        "action": null
-      }
-    ],
-    "conditions": {}
-  },
-  {
     "id": 16,
     "priority": 1,
     "position": "token",
@@ -134,9 +11,9 @@
     "info": {
       "id": 37,
       "name": "What's new?",
-      "description": "1",
-      "start_time": "2024-04-18T17:00:00.000Z",
-      "stop_time": "2024-04-27T17:00:00.000Z",
+      "description": "Update Version v1.1.50(364)",
+      "start_time": "2024-04-20T17:00:00.000Z",
+      "stop_time": "2024-04-28T17:00:00.000Z",
       "platforms": [
         "mobile"
       ]
