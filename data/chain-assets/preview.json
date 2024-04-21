@@ -6570,7 +6570,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
