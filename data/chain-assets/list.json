@@ -71,13 +71,13 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-NATIVE-ETH"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
       }
     ]
@@ -153,7 +153,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -188,7 +188,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
     "originChain": "moonbeam",
     "multiChainAsset": "GLMR-Moonbeam",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      }
+    ]
   },
   {
     "slug": "pioneer-NATIVE-NEER",
@@ -658,6 +665,36 @@
         "metadata": null,
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-NATIVE-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcPINK"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcUSDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
       }
     ]
   },
@@ -1810,7 +1847,8 @@
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": {
-      "assetId": "0"
+      "assetId": "0",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 87,
@@ -1890,6 +1928,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "10",
+      "autoEnable": true,
       "multilocation": {
         "Concrete": {
           "parents": 1,
@@ -4391,6 +4430,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
   },
@@ -6525,7 +6570,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -8357,6 +8402,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "5",
+      "autoEnable": true,
       "canPayTxFee": true,
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
@@ -8671,7 +8717,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stdot_8519a88eba.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      }
+    ]
   },
   {
     "slug": "enjin_matrixchain-NATIVE-ENJ",
@@ -9294,6 +9347,12 @@
         "metadata": null,
         "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
   },
@@ -9584,6 +9643,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "9",
+      "autoEnable": true,
       "alternativeSwapAsset": "astar-NATIVE-ASTR"
     },
     "hasValue": true,
@@ -9681,7 +9741,8 @@
     "minAmount": "34854864344868000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "16"
+      "assetId": "16",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10522,7 +10583,8 @@
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "100"
+      "assetId": "100",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10601,7 +10663,8 @@
     "minAmount": "5390835579515",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "20"
+      "assetId": "20",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10680,7 +10743,8 @@
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "101"
+      "assetId": "101",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10759,7 +10823,8 @@
     "minAmount": "18761726",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "15"
+      "assetId": "15",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11063,14 +11128,36 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "420"
+      "assetId": "420",
+      "multilocation": {
+        "Concrete": {
+          "parents": 0,
+          "interior": {
+            "X2": [
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 420
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/beefy2_af29e30ce9.png",
     "originChain": "statemint",
     "multiChainAsset": "BEEFY-BEEFY",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-BEEFY"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-BEEFY",
@@ -11081,14 +11168,39 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "1000036"
+      "assetId": "1000036",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 420
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/beefy2_af29e30ce9.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "BEEFY-BEEFY",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-BEEFY"
+      }
+    ]
   },
   {
     "slug": "humanode-NATIVE-HMND",
@@ -11138,6 +11250,123 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChain": "humanodeEvm",
     "multiChainAsset": "HMND-Humanode",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-STINK",
+    "name": "STINK",
+    "symbol": "STINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "42069",
+      "multilocation": {
+        "Concrete": {
+          "parents": 0,
+          "interior": {
+            "X2": [
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 42069
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stink_65292f21c8.png",
+    "originChain": "statemint",
+    "multiChainAsset": "STINK-STINK",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-STINK"
+      }
+    ]
+  },
+  {
+    "slug": "hydradx_main-LOCAL-STINK",
+    "name": "STINK",
+    "symbol": "STINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000034",
+      "multilocation": {
+        "Concrete": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 42069
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stink_65292f21c8.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "STINK-STINK",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-STINK"
+      }
+    ]
+  },
+  {
+    "slug": "base_mainnet-ERC20-PINK-0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "paseoTest-NATIVE-PAS",
+    "name": "Paseo Testnet",
+    "symbol": "PAS",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "10000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_3565d58599.png",
+    "originChain": "paseoTest",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
