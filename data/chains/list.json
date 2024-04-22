@@ -7711,7 +7711,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
     "providers": {
-      "Liberland": "wss://mainnet.liberland.org"
+      "Liberland": "wss://mainnet.liberland.org",
+      "Dwellir": "wss://liberland-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8141,5 +8142,41 @@
     },
     "substrateInfo": null,
     "extraInfo": null
+  },
+  {
+    "slug": "paseoTest",
+    "name": "Paseo Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_light_3565d58599.png",
+    "providers": {
+      "Amforc": "wss://paseo.rpc.amforc.com",
+      "Dwellir": "wss://paseo-rpc.dwellir.com",
+      "IBP-GeoDNS1": "wss://rpc.ibp.network/paseo",
+      "IBP-GeoDNS2": "wss://rpc.dotters.network/paseo"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x77afd6190f1554ad45fd0d31aee62aacc33c6db0ea801129acb813f913e0764f",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://paseo.subscan.io/",
+      "existentialDeposit": "10000000000",
+      "symbol": "PAS",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "paseo",
+      "chainBalanceSlug": null
+    }
   }
 ]
