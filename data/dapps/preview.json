@@ -1894,6 +1894,46 @@
     ]
   },
   {
+    "id": 149,
+    "title": "Racing Cars",
+    "description": "A racing car game in which you compete not against a human, but against a smart contract. You will be given the choice to either accelerate or shoot at the nearest car to slow it down.",
+    "url": "https://racing.vara.network/",
+    "subtitle": "Vara Car Racing game",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 76,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/vara_racing_cars_4286b5853c.png",
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Tic-Tac-Toe",
+    "description": "A classic game of tic-tac-toe in which you compete not against a human, but against a smart contract.",
+    "url": "https://tictactoe.vara.network/",
+    "subtitle": "Vara Tic-Tac-Toe game",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 76,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/vara_tic_tac_toe_82f652f871.png",
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
     "id": 70,
     "title": "AzeroPunks",
     "description": "With over 100 Traits, 5 different clans and 30 unique one of ones AzeroPunks brings a fresh look to the CryptoPunks genre. ",
