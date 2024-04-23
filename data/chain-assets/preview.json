@@ -11265,7 +11265,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChain": "humanodeEvm",
-    "multiChainAsset": "HMND-Humanode",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -11409,6 +11409,22 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_3565d58599.png",
     "originChain": "paseoTest",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "commune-NATIVE-C",
+    "name": "Commune AI",
+    "symbol": "C",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "commune",
     "multiChainAsset": null,
     "assetRefs": []
   }

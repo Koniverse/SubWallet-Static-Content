@@ -71,13 +71,13 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "ethereum-NATIVE-ETH"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
       }
     ]
@@ -153,7 +153,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -6570,7 +6570,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
       }
     ]
@@ -11249,7 +11249,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChain": "humanodeEvm",
-    "multiChainAsset": "HMND-Humanode",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
