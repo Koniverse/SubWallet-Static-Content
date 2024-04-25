@@ -1,27 +1,5 @@
 [
   {
-    "id": 126,
-    "title": "SubWallet Swap ",
-    "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
-    "url": "https://web.subwallet.app/transaction/swap",
-    "subtitle": "Swap seamlessly in the SubWallet app",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": true,
-    "ordinal": 1,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
-    "chains": [
-      "polkadot",
-      "ethereum"
-    ],
-    "categories": [
-      "staking",
-      "defi"
-    ]
-  },
-  {
     "id": 59,
     "title": "HydraDX",
     "description": "The HydraDX Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
@@ -30,7 +8,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": true,
-    "ordinal": 2,
+    "ordinal": 1,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/hydradx_a80c4584de.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Hydra_DX_Web_App_and_Mobile_1200x600_68893e627c.png",
@@ -42,26 +20,6 @@
     ]
   },
   {
-    "id": 83,
-    "title": "Grill",
-    "description": "Revolutionary Web3 social finance platform built on Subsocial where bloggers and their followers earn together.",
-    "url": "https://bit.ly/grillxsubwallet",
-    "subtitle": "Monetize Every Like, Comment, Post",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": true,
-    "ordinal": 2,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/grill_a8211ac856.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Dapp_Banner_7a7784bc25.png",
-    "chains": [
-      "subsocial_x"
-    ],
-    "categories": [
-      "socialfi"
-    ]
-  },
-  {
     "id": 25,
     "title": "StellaSwap",
     "description": "StellaSwap is one of the first automated market-making (AMM), decentralized exchange (DEX) for the Moonbeam parachain network. Their main objective is to create a broader range of network effects to address the issues of liquidity in the DeFi space.",
@@ -69,17 +27,98 @@
     "subtitle": "Automated market-making, decentralized exchange on Moonbeam",
     "is_substrate": null,
     "is_evm": true,
-    "is_featured": null,
-    "ordinal": 3,
+    "is_featured": true,
+    "ordinal": 2,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/stellaswap_68aa6c5c5a.png",
-    "preview_image": null,
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/d_App_preview_stellaswap_5865af7a48.png",
     "chains": [
       "moonbeam"
     ],
     "categories": [
       "defi",
       "staking"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Polkasafe",
+    "description": "PolkaSafe is a cross-chain, non-custodial, enterprise-grade multisig platform specifically designed to catalyze the efficiency, security, and ease of digital transactions across the blockchain ecosystem.",
+    "url": "https://app.polkasafe.xyz/",
+    "subtitle": "Multisig Wallet & SDK, empowering businesses and dApps",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 3,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkasafe_2ed7baa407.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/d_App_preview_46d6534502.png",
+    "chains": [
+      "aleph",
+      "astar",
+      "kusama",
+      "polkadot",
+      "rococo",
+      "statemint",
+      "statemine",
+      "westend"
+    ],
+    "categories": [
+      "tooling"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Polkassembly",
+    "description": "An open-source platform to vote and discuss governance proposals, motions, and referenda. You can sign up, link an address, and edit your proposals' description and title.",
+    "url": "https://polkadot.polkassembly.io/",
+    "subtitle": "Open-source Governance Platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 4,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkassembly_f3f87c02b4.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/polkassembly_d_App_preview_f4d0722fdd.png",
+    "chains": [
+      "polkadot",
+      "acala",
+      "astar",
+      "centrifuge",
+      "composableFinance",
+      "equilibrium_parachain",
+      "frequency",
+      "hashedNetwork",
+      "hydradx_main",
+      "kylinNetwork",
+      "moonbeam",
+      "parallel",
+      "pendulum",
+      "kusama",
+      "altair",
+      "amplitude",
+      "basilisk",
+      "calamari",
+      "shadow",
+      "heiko",
+      "integritee",
+      "karura",
+      "khala",
+      "moonriver",
+      "robonomics",
+      "shiden",
+      "picasso",
+      "turing",
+      "automata",
+      "crust_mainnet",
+      "pioneer",
+      "myriad",
+      "polkadex",
+      "polymesh",
+      "xx_network"
+    ],
+    "categories": [
+      "governance"
     ]
   },
   {
@@ -91,7 +130,7 @@
     "is_substrate": true,
     "is_evm": null,
     "is_featured": true,
-    "ordinal": 4,
+    "ordinal": 5,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_63b5dd41ef.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Screenshot_2023_10_05_at_10_57_23_AM_312480fd7b.png",
@@ -113,7 +152,7 @@
     "is_substrate": true,
     "is_evm": true,
     "is_featured": true,
-    "ordinal": 5,
+    "ordinal": 6,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinsights_367a459604.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/dotinsight_1d624aa8ec.jpg",
@@ -458,57 +497,25 @@
     ]
   },
   {
-    "id": 81,
-    "title": "Polkassembly",
-    "description": "An open-source platform to vote and discuss governance proposals, motions, and referenda. You can sign up, link an address, and edit your proposals' description and title.",
-    "url": "https://polkadot.polkassembly.io/",
-    "subtitle": "Open-source Governance Platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": null,
+    "id": 126,
+    "title": "SubWallet Swap ",
+    "description": "SubWallet is a comprehensive Polkadot, Substrate & Ethereum wallet with browser extension, mobile app and web wallet.",
+    "url": "https://web.subwallet.app/transaction/swap",
+    "subtitle": "Swap seamlessly in the SubWallet app",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": false,
     "ordinal": 21,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkassembly_f3f87c02b4.png",
-    "preview_image": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
     "chains": [
       "polkadot",
-      "acala",
-      "astar",
-      "centrifuge",
-      "composableFinance",
-      "equilibrium_parachain",
-      "frequency",
-      "hashedNetwork",
-      "hydradx_main",
-      "kylinNetwork",
-      "moonbeam",
-      "parallel",
-      "pendulum",
-      "kusama",
-      "altair",
-      "amplitude",
-      "basilisk",
-      "calamari",
-      "shadow",
-      "heiko",
-      "integritee",
-      "karura",
-      "khala",
-      "moonriver",
-      "robonomics",
-      "shiden",
-      "picasso",
-      "turing",
-      "automata",
-      "crust_mainnet",
-      "pioneer",
-      "myriad",
-      "polkadex",
-      "polymesh",
-      "xx_network"
+      "ethereum"
     ],
     "categories": [
-      "governance"
+      "staking",
+      "defi"
     ]
   },
   {
@@ -594,30 +601,23 @@
     ]
   },
   {
-    "id": 20,
-    "title": "Polkasafe",
-    "description": "PolkaSafe is a cross-chain, non-custodial, enterprise-grade multisig platform specifically designed to catalyze the efficiency, security, and ease of digital transactions across the blockchain ecosystem.",
-    "url": "https://app.polkasafe.xyz/",
-    "subtitle": "Multisig Wallet & SDK, empowering businesses and dApps",
+    "id": 83,
+    "title": "Grill",
+    "description": "Revolutionary Web3 social finance platform built on Subsocial where bloggers and their followers earn together.",
+    "url": "https://bit.ly/grillxsubwallet",
+    "subtitle": "Monetize Every Like, Comment, Post",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": null,
+    "is_featured": false,
     "ordinal": 24,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkasafe_2ed7baa407.png",
-    "preview_image": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/grill_a8211ac856.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Dapp_Banner_7a7784bc25.png",
     "chains": [
-      "aleph",
-      "astar",
-      "kusama",
-      "polkadot",
-      "rococo",
-      "statemint",
-      "statemine",
-      "westend"
+      "subsocial_x"
     ],
     "categories": [
-      "tooling"
+      "socialfi"
     ]
   },
   {
@@ -1925,6 +1925,46 @@
     "ordinal": 76,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/vara_tic_tac_toe_82f652f871.png",
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Battleship",
+    "description": "Battleship is a strategic board game in which two players compete to sink an opponent's fleet hidden from their view.",
+    "url": "https://battleship.vara.network/",
+    "subtitle": "Vara Battleship Game",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 76,
+    "desktop_mode": null,
+    "icon": null,
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Vara-man",
+    "description": "Welcome, treasure hunter! In this game, you can test your strength in the quest for treasures. The game offers various difficulty levels and game modes. Connect your wallet.",
+    "url": "https://vara-man.vara.network/",
+    "subtitle": "A blockchain implementation of the game Pac-Man",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 76,
+    "desktop_mode": null,
+    "icon": null,
     "preview_image": null,
     "chains": [
       "vara_network"
