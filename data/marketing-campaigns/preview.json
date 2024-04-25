@@ -1290,7 +1290,7 @@
   },
   {
     "id": 73,
-    "name": "Call to swap",
+    "name": "Extension - Call to swap",
     "description": null,
     "start_time": "2024-04-24T17:00:00.000Z",
     "end_time": "2024-05-11T17:00:00.000Z",
@@ -1298,7 +1298,7 @@
     "banners": [
       {
         "id": 137,
-        "alt": "Swap token details",
+        "alt": "Swap screen",
         "action": "open_url",
         "metadata": {
           "url": "/index.html#/transaction/swap"
