@@ -1261,7 +1261,7 @@
   },
   {
     "id": 72,
-    "name": "Call to swap",
+    "name": "Call to swap token detail",
     "description": null,
     "start_time": "2024-04-24T17:00:00.000Z",
     "end_time": "2024-05-11T17:00:00.000Z",
@@ -1284,6 +1284,53 @@
         ],
         "buttons": [],
         "media": "https://media-resources.subwallet.app//8/Trade_DED_on_HDX_8d72cf4969.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 73,
+    "name": "Call to swap",
+    "description": null,
+    "start_time": "2024-04-24T17:00:00.000Z",
+    "end_time": "2024-05-11T17:00:00.000Z",
+    "condition": null,
+    "banners": [
+      {
+        "id": 137,
+        "alt": "Swap token details",
+        "action": "open_url",
+        "metadata": {
+          "url": "/index.html#/transaction/swap"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Swap",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "/index.html#/transaction/swap",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Swap_is_live_ff59dfaaab.png"
       }
     ],
     "notifications": []
