@@ -11127,7 +11127,9 @@
     "priceId": "mythos",
     "minAmount": "1000000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "disableEvmTransfer": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
@@ -11414,10 +11416,10 @@
   },
   {
     "slug": "commune-NATIVE-C",
-    "name": "Commune AI",
+    "name": "COMAI",
     "symbol": "C",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "commune-ai",
     "minAmount": "500",
     "assetType": "NATIVE",
     "metadata": null,
@@ -11470,7 +11472,9 @@
     "priceId": null,
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",

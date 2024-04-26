@@ -544,7 +544,7 @@
   "hydradx_main-LOCAL-STINK": null,
   "base_mainnet-ERC20-PINK-0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0": null,
   "paseoTest-NATIVE-PAS": null,
-  "commune-NATIVE-C": null,
+  "commune-NATIVE-C": "commune-ai",
   "dbcchain-NATIVE-DBC": "deepbrain-chain",
   "dbcchain-LOCAL-DLC": null,
   "availTuringTest-NATIVE-AVAIL": null
