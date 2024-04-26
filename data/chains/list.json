@@ -7287,7 +7287,7 @@
       "addressPrefix": 2135,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://enjin.subscan.io/",
       "existentialDeposit": "100000000000000000",
       "symbol": "ENJ",
       "decimals": 18,
@@ -7297,7 +7297,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "enjin",
+      "chainBalanceSlug": "enjin-relay"
+    }
   },
   {
     "slug": "enjin_matrixchain",
@@ -7318,7 +7321,7 @@
       "addressPrefix": 1110,
       "chainType": null,
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://matrix.subscan.io/",
       "existentialDeposit": "100000000000000000",
       "symbol": "ENJ",
       "decimals": 18,
@@ -7328,7 +7331,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "matrix",
+      "chainBalanceSlug": "enjin-matrix"
+    }
   },
   {
     "slug": "vara_testnet",
@@ -8047,23 +8053,20 @@
   {
     "slug": "mythos",
     "name": "Mythos",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/mythos_chain_430c6d1b1e.png",
     "providers": {
       "Parity": "wss://polkadot-mythos-rpc.polkadot.io"
     },
     "evmInfo": {
-      "evmChainId": 201804,
+      "evmChainId": -1,
       "blockExplorer": null,
       "existentialDeposit": "0",
       "symbol": "MYTH",
       "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
+      "supportSmartContract": null,
       "abiExplorer": null
     },
     "substrateInfo": {
@@ -8115,7 +8118,7 @@
     },
     "extraInfo": {
       "subscanSlug": "humanode",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "humanode"
     }
   },
   {
@@ -8178,5 +8181,98 @@
       "subscanSlug": "paseo",
       "chainBalanceSlug": null
     }
+  },
+  {
+    "slug": "commune",
+    "name": "Commune AI",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/commune_ai_d1b24f0f3f.png",
+    "providers": {
+      "Commune Node 1": "wss://commune-api-node-1.communeai.net"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xbc6eb9753e2417476601485f9f8ef8474701ec199d456f989bd397682c9425c5",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "C",
+      "decimals": 9,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "dbcchain",
+    "name": "DBC Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_2296ab9a21.png",
+    "providers": {
+      "DBC Chain": "wss://info1.dbcwallet.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xd523fa2e0581f069b4f0c7b5944c21e9abc72305a08067868c91b898d1bf1dff",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://dbc.subscan.io/",
+      "existentialDeposit": "10000000000000",
+      "symbol": "DBC",
+      "decimals": 15,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "dbc",
+      "chainBalanceSlug": "deepbrain"
+    }
+  },
+  {
+    "slug": "availTuringTest",
+    "name": "Avail Turing Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "providers": {
+      "Avail Turing ": "wss://turing-rpc.avail.so/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xd3d2f3a3495dc597434a99d7d449ebad6616db45e4e4f178f31cc6fa14378b70",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "AVAIL",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
   }
 ]
