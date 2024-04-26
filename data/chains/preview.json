@@ -8083,23 +8083,20 @@
   {
     "slug": "mythos",
     "name": "Mythos",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/mythos_chain_430c6d1b1e.png",
     "providers": {
       "Parity": "wss://polkadot-mythos-rpc.polkadot.io"
     },
     "evmInfo": {
-      "evmChainId": 201804,
+      "evmChainId": -1,
       "blockExplorer": null,
       "existentialDeposit": "0",
       "symbol": "MYTH",
       "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
+      "supportSmartContract": null,
       "abiExplorer": null
     },
     "substrateInfo": {
@@ -8151,7 +8148,7 @@
     },
     "extraInfo": {
       "subscanSlug": "humanode",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "humanode"
     }
   },
   {
