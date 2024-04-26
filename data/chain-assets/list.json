@@ -11111,7 +11111,9 @@
     "priceId": "mythos",
     "minAmount": "1000000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "disableEvmTransfer": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
@@ -11239,7 +11241,7 @@
     "name": "Wrapped Humanode",
     "symbol": "WeHMND",
     "decimals": 18,
-    "priceId": "wrapped-ehmnd",
+    "priceId": null,
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -11249,7 +11251,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChain": "humanodeEvm",
-    "multiChainAsset": null,
+    "multiChainAsset": "HMND-Humanode",
     "assetRefs": []
   },
   {
@@ -11366,6 +11368,74 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_3565d58599.png",
     "originChain": "paseoTest",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "commune-NATIVE-C",
+    "name": "COMAI",
+    "symbol": "C",
+    "decimals": 9,
+    "priceId": "commune-ai",
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/commune_ai_d1b24f0f3f.png",
+    "originChain": "commune",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "dbcchain-NATIVE-DBC",
+    "name": "DBC Mainnet",
+    "symbol": "DBC",
+    "decimals": 15,
+    "priceId": "deepbrain-chain",
+    "minAmount": "10000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/deepbrain_chain_2296ab9a21.png",
+    "originChain": "dbcchain",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "dbcchain-LOCAL-DLC",
+    "name": "DeepLink Coin",
+    "symbol": "DLC",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "100000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "88"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dlc_27779ff576.png",
+    "originChain": "dbcchain",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "availTuringTest-NATIVE-AVAIL",
+    "name": "Avail Turing Testnet",
+    "symbol": "AVAIL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000000000000",
+    "assetType": "NATIVE",
+    "metadata": {
+      "autoEnable": true
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
+    "originChain": "availTuringTest",
     "multiChainAsset": null,
     "assetRefs": []
   }

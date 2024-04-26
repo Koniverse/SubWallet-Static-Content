@@ -538,11 +538,14 @@
   "hydradx_main-LOCAL-BEEFY": null,
   "humanode-NATIVE-HMND": "humanode",
   "humanodeEvm-NATIVE-eHMND": "humanode",
-  "humanodeEvm-ERC20-WeHMND-0x0000000000000000000000000000000000000802": "wrapped-ehmnd",
+  "humanodeEvm-ERC20-WeHMND-0x0000000000000000000000000000000000000802": null,
   "moonbeam-LOCAL-xcvDOT": "voucher-dot",
   "statemint-LOCAL-STINK": null,
   "hydradx_main-LOCAL-STINK": null,
   "base_mainnet-ERC20-PINK-0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0": null,
   "paseoTest-NATIVE-PAS": null,
-  "commune-NATIVE-C": null
+  "commune-NATIVE-C": "commune-ai",
+  "dbcchain-NATIVE-DBC": "deepbrain-chain",
+  "dbcchain-LOCAL-DLC": null,
+  "availTuringTest-NATIVE-AVAIL": null
 }
