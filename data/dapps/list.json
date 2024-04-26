@@ -1913,6 +1913,46 @@
     ]
   },
   {
+    "id": 151,
+    "title": "Battleship",
+    "description": "Battleship is a strategic board game in which two players compete to sink an opponent's fleet hidden from their view.",
+    "url": "https://battleship.vara.network/",
+    "subtitle": "Vara Battleship Game",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 76,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/battleship_c12eb01f42.png",
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Vara-man",
+    "description": "Welcome, treasure hunter! In this game, you can test your strength in the quest for treasures. The game offers various difficulty levels and game modes. Connect your wallet.",
+    "url": "https://vara-man.vara.network/",
+    "subtitle": "A blockchain implementation of the game Pac-Man",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 76,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/vara_man_a280f2545e.png",
+    "preview_image": null,
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
     "id": 70,
     "title": "AzeroPunks",
     "description": "With over 100 Traits, 5 different clans and 30 unique one of ones AzeroPunks brings a fresh look to the CryptoPunks genre. ",

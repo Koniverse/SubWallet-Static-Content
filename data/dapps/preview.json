@@ -1944,7 +1944,7 @@
     "is_featured": false,
     "ordinal": 76,
     "desktop_mode": null,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/battleship_c12eb01f42.png",
     "preview_image": null,
     "chains": [
       "vara_network"
@@ -1964,7 +1964,7 @@
     "is_featured": false,
     "ordinal": 76,
     "desktop_mode": null,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/vara_man_a280f2545e.png",
     "preview_image": null,
     "chains": [
       "vara_network"
