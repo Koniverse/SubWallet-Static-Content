@@ -8253,7 +8253,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
-      "Avail Turing ": "wss://turing-rpc.avail.so/"
+      "Avail Turing ": "wss://turing-rpc.avail.so/",
+      "Avail Space": "wss://turing-rpc.availspace.app/"
     },
     "evmInfo": null,
     "substrateInfo": {
