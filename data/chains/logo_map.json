@@ -231,5 +231,10 @@
   "paseoTest": "https://static-data.subwallet.app/chains/images/icon/Property_1_light_3565d58599.png",
   "commune": "https://static-data.subwallet.app/chains/images/icon/commune_ai_d1b24f0f3f.png",
   "dbcchain": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_2296ab9a21.png",
-  "availTuringTest": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png"
+  "availTuringTest": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+  "bitlayer": null,
+  "bitlayerTest": null,
+  "bevm": null,
+  "bevmTest": null,
+  "b2": null
 }

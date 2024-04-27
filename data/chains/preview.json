@@ -8283,7 +8283,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
-      "Avail Turing ": "wss://turing-rpc.avail.so/"
+      "Avail Turing ": "wss://turing-rpc.avail.so/",
+      "Avail Space": "wss://turing-rpc.availspace.app/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8303,6 +8304,135 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null
+  },
+  {
+    "slug": "bitlayer",
+    "name": "Bitlayer Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Bitlayer": "https://rpc.bitlayer.org",
+      "Rpc": "https://rpc.bitlayer-rpc.com",
+      "Ankr": "https://rpc.ankr.com/bitlayer"
+    },
+    "evmInfo": {
+      "evmChainId": 200901,
+      "blockExplorer": "https://www.btrscan.com",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://www.btrscan.com"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "bitlayerTest",
+    "name": "Bitlayer Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Rpc testnet": "https://testnet-rpc.bitlayer.org"
+    },
+    "evmInfo": {
+      "evmChainId": 200810,
+      "blockExplorer": "https://testnet-scan.bitlayer.org",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://testnet-scan.bitlayer.org"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "bevm",
+    "name": "BEVM Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Mainnet 1": "https://rpc-mainnet-1.bevm.io",
+      "Mainnet 2": "https://rpc-mainnet-2.bevm.io"
+    },
+    "evmInfo": {
+      "evmChainId": 11501,
+      "blockExplorer": "https://scan-mainnet.bevm.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://scan-mainnet.bevm.io/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "bevmTest",
+    "name": "BEVM Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "BEVM testnet": "https://testnet.bevm.io"
+    },
+    "evmInfo": {
+      "evmChainId": 11503,
+      "blockExplorer": "https://scan-testnet.bevm.io",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://scan-testnet.bevm.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "b2",
+    "name": "B2 Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Bsquared": "https://rpc.bsquared.network",
+      "Alt technology": "https://b2-mainnet.alt.technology"
+    },
+    "evmInfo": {
+      "evmChainId": 223,
+      "blockExplorer": "https://explorer.bsquared.network/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://explorer.bsquared.network/"
+    },
+    "substrateInfo": null,
     "extraInfo": null
   }
 ]
