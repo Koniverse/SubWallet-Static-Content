@@ -30,7 +30,7 @@
     "conditions": {}
   },
   {
-    "id": 17,
+    "id": 18,
     "priority": 1,
     "position": "token",
     "repeat": "once",
@@ -39,18 +39,18 @@
     "media": null,
     "position_params": [],
     "info": {
-      "id": 38,
+      "id": 39,
       "name": "Test - What's new?",
       "description": "Update Version v1.1.50(364)",
       "start_time": "2024-04-20T17:00:00.000Z",
-      "stop_time": "2024-05-03T17:00:00.000Z",
+      "stop_time": "2024-05-02T17:00:00.000Z",
       "platforms": [
         "mobile"
       ]
     },
     "buttons": [
       {
-        "id": 29,
+        "id": 30,
         "label": "I understand",
         "color": "primary",
         "instruction": null,
