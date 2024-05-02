@@ -8467,7 +8467,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {},
+    "providers": {
+      "Avail": "wss://turing-rpc.availspace.app/"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
