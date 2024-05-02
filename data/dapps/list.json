@@ -1560,6 +1560,27 @@
     ]
   },
   {
+    "id": 153,
+    "title": "Tanssi - Let's Forkin Dance",
+    "description": "'Let's Forkin Dance'—the Tanssi Incentivized TestNet Campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.",
+    "url": "https://lfd.tanssi.network/",
+    "subtitle": "Tanssi Incentivized TestNet Campaign",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 62,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
+    "preview_image": null,
+    "chains": [
+      "dancebox"
+    ],
+    "categories": [
+      "community",
+      "utilities"
+    ]
+  },
+  {
     "id": 32,
     "title": "Karura Platform",
     "description": "Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless liquid staking token protocol (liquid KSM), an AMM DEX and an app platform that is EVM-compatible and highly customizable (based on Substrate) – all with micro gas fees that can be paid in any token.",
