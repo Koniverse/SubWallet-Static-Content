@@ -232,9 +232,11 @@
   "commune": "https://static-data.subwallet.app/chains/images/icon/commune_ai_d1b24f0f3f.png",
   "dbcchain": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_2296ab9a21.png",
   "availTuringTest": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-  "bitlayer": null,
-  "bitlayerTest": null,
-  "bevm": null,
-  "bevmTest": null,
-  "b2": null
+  "bitlayer": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
+  "bitlayerTest": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
+  "bevm": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+  "bevmTest": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+  "b2": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
+  "bobMainnet": "https://static-data.subwallet.app/chains/images/icon/build_on_bitcoin_de3e635d9f.png",
+  "avail_mainnet": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png"
 }

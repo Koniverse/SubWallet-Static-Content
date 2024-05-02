@@ -8312,7 +8312,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
     "providers": {
       "Bitlayer": "https://rpc.bitlayer.org",
       "Rpc": "https://rpc.bitlayer-rpc.com",
@@ -8339,7 +8339,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
     "providers": {
       "Rpc testnet": "https://testnet-rpc.bitlayer.org"
     },
@@ -8364,7 +8364,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
     "providers": {
       "Mainnet 1": "https://rpc-mainnet-1.bevm.io",
       "Mainnet 2": "https://rpc-mainnet-2.bevm.io"
@@ -8390,7 +8390,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
     "providers": {
       "BEVM testnet": "https://testnet.bevm.io"
     },
@@ -8415,7 +8415,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
     "providers": {
       "Bsquared": "https://rpc.bsquared.network",
       "Alt technology": "https://b2-mainnet.alt.technology"
@@ -8433,6 +8433,61 @@
       "abiExplorer": "https://explorer.bsquared.network/"
     },
     "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "bobMainnet",
+    "name": "BOB Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/build_on_bitcoin_de3e635d9f.png",
+    "providers": {
+      "Gobob": "https://rpc.gobob.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 60808,
+      "blockExplorer": "https://explorer.gobob.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://explorer.gobob.xyz/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "avail_mainnet",
+    "name": "Avail Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "providers": {
+      "Avail": "wss://turing-rpc.availspace.app/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x128ea318539862c0a06b745981300d527c1041c6f3388a8c49565559e3ea3d10",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "AVAIL",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null
   }
 ]
