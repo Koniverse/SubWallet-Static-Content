@@ -5996,8 +5996,8 @@
     "ordinal": 160,
     "icon": "https://static-data.subwallet.app/chains/images/icon/krest_6217afc787.png",
     "providers": {
-      "Peaq": "wss://wss-krest.peaq.network/",
-      "UnitedBloc": "wss://krest.unitedbloc.com/"
+      "UnitedBloc": "wss://krest.unitedbloc.com/",
+      "OnFinality": "wss://krest.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8261,6 +8261,34 @@
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0xd3d2f3a3495dc597434a99d7d449ebad6616db45e4e4f178f31cc6fa14378b70",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "AVAIL",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "avail_mainnet",
+    "name": "Avail",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x128ea318539862c0a06b745981300d527c1041c6f3388a8c49565559e3ea3d10",
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
