@@ -5996,8 +5996,8 @@
     "ordinal": 160,
     "icon": "https://static-data.subwallet.app/chains/images/icon/krest_6217afc787.png",
     "providers": {
-      "Peaq": "wss://wss-krest.peaq.network/",
-      "UnitedBloc": "wss://krest.unitedbloc.com/"
+      "UnitedBloc": "wss://krest.unitedbloc.com/",
+      "OnFinality": "wss://krest.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
