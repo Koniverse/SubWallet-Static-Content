@@ -91,6 +91,13 @@
     "ordinal": 13
   },
   {
+    "slug": "gaming",
+    "name": "Gaming",
+    "color": "geekblue",
+    "description": null,
+    "ordinal": 13
+  },
+  {
     "slug": "test_env",
     "name": "Test enviroment",
     "color": "orange",

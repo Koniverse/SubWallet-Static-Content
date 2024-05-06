@@ -547,5 +547,20 @@
   "commune-NATIVE-C": "commune-ai",
   "dbcchain-NATIVE-DBC": "deepbrain-chain",
   "dbcchain-LOCAL-DLC": null,
-  "availTuringTest-NATIVE-AVAIL": null
+  "availTuringTest-NATIVE-AVAIL": null,
+  "bitlayer-NATIVE-BTC": null,
+  "bitlayerTest-NATIVE-BTC": null,
+  "bevm-NATIVE-BTC": null,
+  "bevmTest-NATIVE-BTC": null,
+  "b2-NATIVE-BTC": null,
+  "bitlayer-ERC20-USDT-0xfe9f969faf8ad72a83b761138bf25de87eff9dd2": null,
+  "bitlayer-ERC20-USDC-0x9827431e8b77e87c9894bd50b055d6be56be0030": null,
+  "bitlayer-ERC20-ETH-0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2": null,
+  "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD": null,
+  "bevm-ERC20-stBTC-0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C": null,
+  "bevm-ERC20-wstBTC-0x2967E7Bb9DaA5711Ac332cAF874BD47ef99B3820": null,
+  "bobMainnet-NATIVE-ETH": null,
+  "avail_mainnet-NATIVE-AVAIL": null,
+  "merlinEvm-NATIVE-BTC": null,
+  "botanixEvmTest-NATIVE-BTC": null
 }

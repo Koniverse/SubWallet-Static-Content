@@ -8479,5 +8479,55 @@
       "crowdloanFunds": []
     },
     "extraInfo": null
+  },
+  {
+    "slug": "merlinEvm",
+    "name": "Merlin Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/merlin_chain_a885212729.png",
+    "providers": {
+      "Merlin Chain": "https://rpc.merlinchain.io"
+    },
+    "evmInfo": {
+      "evmChainId": 4200,
+      "blockExplorer": "https://scan.merlinchain.io",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://scan.merlinchain.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
+  },
+  {
+    "slug": "botanixEvmTest",
+    "name": "Botanix Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/botanix_0f189648f7.png",
+    "providers": {
+      "Botanix Labs": "https://node.botanixlabs.dev"
+    },
+    "evmInfo": {
+      "evmChainId": 3636,
+      "blockExplorer": "https://blockscout.botanixlabs.dev/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://blockscout.botanixlabs.dev/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null
   }
 ]
