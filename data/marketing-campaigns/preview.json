@@ -459,8 +459,8 @@
     "id": 49,
     "name": "Test - Unlock batch 2 (Extension)",
     "description": null,
-    "start_time": "2024-01-30T05:00:00.000Z",
-    "end_time": "2024-02-07T16:59:00.000Z",
+    "start_time": "2024-05-09T05:00:00.000Z",
+    "end_time": "2024-05-11T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "['DOT-Polkadot']"
     },
@@ -500,22 +500,6 @@
           }
         ],
         "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
-      },
-      {
-        "id": 111,
-        "alt": "Banner in crowdloan tab",
-        "action": "open_url",
-        "metadata": {
-          "url": "https://web.subwallet.app/home/earning/overview?utm_source=extension&utm_medium=crowdloantab&utm_campaign=unlockbatch+2"
-        },
-        "environments": [
-          "extension"
-        ],
-        "position": [
-          "crowdloan"
-        ],
-        "buttons": [],
-        "media": "https://media-resources.subwallet.app/Token_detail_2x_a2656c3257.png"
       }
     ],
     "notifications": []
