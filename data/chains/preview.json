@@ -7,6 +7,7 @@
     "ordinal": 1,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
     "providers": {
+      "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
       "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
@@ -405,7 +406,8 @@
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
       "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
-      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws"
+      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
+      "LuckyFriday": "wss://rpc-acala.luckyfriday.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8462,9 +8464,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {
-      "Avail": "wss://zeref-api.slowops.xyz/ws"
-    },
+    "providers": {},
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
