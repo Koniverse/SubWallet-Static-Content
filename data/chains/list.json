@@ -6667,7 +6667,7 @@
       "addressPrefix": 117,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://invarch.statescan.io/",
       "existentialDeposit": "1000000000",
       "symbol": "VARCH",
       "decimals": 12,
@@ -7387,7 +7387,7 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "avail-testnet",
+      "subscanSlug": "avail-goldberg",
       "chainBalanceSlug": null
     }
   },
@@ -8067,8 +8067,8 @@
       "addressPrefix": 29972,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": "1000000000000000",
+      "blockExplorer": "https://mythos.subscan.io/",
+      "existentialDeposit": "10000000000000000",
       "symbol": "MYTH",
       "decimals": 18,
       "hasNativeNft": null,
@@ -8077,7 +8077,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "mythos",
+      "chainBalanceSlug": "mythos"
+    }
   },
   {
     "slug": "humanode",
@@ -8193,7 +8196,7 @@
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "500",
-      "symbol": "C",
+      "symbol": "COMAI",
       "decimals": 9,
       "hasNativeNft": null,
       "supportStaking": null,
@@ -8255,7 +8258,7 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://avail-turing.subscan.io/",
       "existentialDeposit": "1000000000000",
       "symbol": "AVAIL",
       "decimals": 18,
@@ -8265,7 +8268,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "avail-turing",
+      "chainBalanceSlug": "avail"
+    }
   },
   {
     "slug": "avail_mainnet",
@@ -8289,6 +8295,36 @@
       "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "curio",
+    "name": "Curio",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/curio_8150848526.png",
+    "providers": {
+      "Curio": "wss://parachain.curioinvest.com/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 3339,
+      "genesisHash": "0x1d73b9f5dc392744e0dee00a6d6254fcfa2305386cceba60315894fa4807053a",
+      "addressPrefix": 777,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000000",
+      "symbol": "CGT",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
