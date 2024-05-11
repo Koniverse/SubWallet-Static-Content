@@ -48,7 +48,7 @@
       "platforms": [
         "mobile"
       ],
-      "os": "Android"
+      "os": null
     },
     "buttons": [
       {
@@ -65,7 +65,7 @@
     "id": 20,
     "priority": 1,
     "position": "token",
-    "repeat": "every_time",
+    "repeat": "once",
     "content": null,
     "repeat_every_x_days": null,
     "media": null,
@@ -75,7 +75,7 @@
       "name": "Test earning popup",
       "description": "Earning popup",
       "start_time": "2024-05-07T17:00:00.000Z",
-      "stop_time": "2024-05-21T17:00:00.000Z",
+      "stop_time": "2024-05-09T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -120,7 +120,7 @@
       "name": "Test crowdloan",
       "description": "Description",
       "start_time": "2024-05-08T17:00:00.000Z",
-      "stop_time": "2024-05-30T17:00:00.000Z",
+      "stop_time": "2024-05-09T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
