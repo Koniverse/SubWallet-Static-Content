@@ -16,7 +16,8 @@
       "stop_time": "2024-04-28T17:00:00.000Z",
       "platforms": [
         "mobile"
-      ]
+      ],
+      "os": null
     },
     "buttons": [
       {
@@ -34,7 +35,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "every_time",
-    "content": "![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n\n**Version 1.1.50(364)**\n&ensp;\n- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n&ensp;\n- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n&ensp;\n- Warning added: Do not transfer cross-chain to an exchange!",
+    "content": "#### **Version 1.1.50(364)**\n*   New networks added: Acurast Canary, Humanode Substrate, Humanode EVM \n\n![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n\n*   New assets supported: _BEEFY_ on AssetHub and HydraDX, xcDED on Moonbeam \n*   Warning added: Do not transfer cross-chain to an exchange!\n\n![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n\n>- New assets supported: <u>BEEFY</u> on _AssetHub_ and HydraDX, xcDED on Moonbeam \n>- Warning added: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*   New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>*  Warning added: Do not transfer cross-chain to an exchange!\n",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
@@ -43,10 +44,11 @@
       "name": "Test - What's new?",
       "description": "Update Version v1.1.50(364)",
       "start_time": "2024-04-20T17:00:00.000Z",
-      "stop_time": "2024-05-08T17:00:00.000Z",
+      "stop_time": "2024-05-22T17:00:00.000Z",
       "platforms": [
         "mobile"
-      ]
+      ],
+      "os": "iOS"
     },
     "buttons": [
       {
@@ -55,6 +57,88 @@
         "color": "primary",
         "instruction": null,
         "action": null
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "position": "token",
+    "repeat": "every_time",
+    "content": null,
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 41,
+      "name": "Test earning popup",
+      "description": "Earning popup",
+      "start_time": "2024-05-07T17:00:00.000Z",
+      "stop_time": "2024-05-21T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 32,
+        "label": "Continue",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 38,
+          "url": "subwallet://home/main/earning",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "DOT___native_staking___polkadot",
+          "comparison": "gte",
+          "value": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "position": "token",
+    "repeat": "every_time",
+    "content": null,
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 42,
+      "name": "Test crowdloan",
+      "description": "Description",
+      "start_time": "2024-05-08T17:00:00.000Z",
+      "stop_time": "2024-05-30T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 33,
+        "label": "Continue",
+        "color": null,
+        "instruction": null,
+        "action": {
+          "id": 39,
+          "url": "subwallet://home/main/earning",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
       }
     ],
     "conditions": {}
