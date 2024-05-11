@@ -35,7 +35,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "every_time",
-    "content": "![cgt.png](https://media-resources.subwallet.app/cgt_449ef3b973.png)\n\n![dApp preview - stellaswap.png](https://media-resources.subwallet.app/d_App_preview_stellaswap_5865af7a48.png)\n>### **Version 1.1.50(364)**\n>- **New assets supported**: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>- **Warning added**: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n",
+    "content": "![cgt.png](https://media-resources.subwallet.app/cgt_449ef3b973.png)\n\n![dApp preview - stellaswap.png](https://media-resources.subwallet.app/d_App_preview_stellaswap_5865af7a48.png)\n\n<center>Version 1.1.50(364)</center>\n>- **New assets supported**: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>- **Warning added**: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
