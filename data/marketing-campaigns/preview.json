@@ -459,7 +459,7 @@
     "id": 49,
     "name": "Test - Unlock batch 2 (Extension)",
     "description": null,
-    "start_time": "2024-05-13T17:00:00.000Z",
+    "start_time": "2024-05-12T17:00:00.000Z",
     "end_time": "2024-05-15T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "['DOT-Polkadot']"
