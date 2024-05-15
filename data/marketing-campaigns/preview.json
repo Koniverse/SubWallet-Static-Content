@@ -457,7 +457,7 @@
   },
   {
     "id": 49,
-    "name": "Test - Unlock batch 2 (Extension)",
+    "name": "Test - Currency",
     "description": null,
     "start_time": "2024-05-12T17:00:00.000Z",
     "end_time": "2024-05-15T16:59:00.000Z",
@@ -468,9 +468,9 @@
       {
         "id": 112,
         "alt": "Popup banner in app extension",
-        "action": "open_view",
+        "action": "open_url",
         "metadata": {
-          "url": "/index.html#/transaction/swap"
+          "url": "/index.html#/settings/general"
         },
         "environments": [
           "extension"
@@ -478,7 +478,27 @@
         "position": [
           "home"
         ],
-        "buttons": [],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Currency",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "/index.html#/settings/general",
+              "doneOnClick": true
+            }
+          }
+        ],
         "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
       }
     ],
