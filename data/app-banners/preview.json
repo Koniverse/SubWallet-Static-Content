@@ -12,7 +12,8 @@
       "stop_time": "2024-04-13T17:00:00.000Z",
       "platforms": [
         "mobile"
-      ]
+      ],
+      "os": null
     },
     "action": null,
     "position_params": [
@@ -45,7 +46,8 @@
       "stop_time": "2024-04-13T17:00:00.000Z",
       "platforms": [
         "mobile"
-      ]
+      ],
+      "os": null
     },
     "action": {
       "id": 25,

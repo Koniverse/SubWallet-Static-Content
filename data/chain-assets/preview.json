@@ -1854,7 +1854,7 @@
     "ordinal": 87,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "HDX-HydraDX",
     "assetRefs": [
       {
         "type": "SWAP",
@@ -11125,7 +11125,7 @@
     "symbol": "MYTH",
     "decimals": 18,
     "priceId": "mythos",
-    "minAmount": "1000000000000000",
+    "minAmount": "10000000000000000",
     "assetType": "NATIVE",
     "metadata": {
       "disableEvmTransfer": true
@@ -11415,9 +11415,9 @@
     "assetRefs": []
   },
   {
-    "slug": "commune-NATIVE-C",
+    "slug": "commune-NATIVE-COMAI",
     "name": "COMAI",
-    "symbol": "C",
+    "symbol": "COMAI",
     "decimals": 9,
     "priceId": "commune-ai",
     "minAmount": "500",
@@ -11732,6 +11732,399 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
     "originChain": "botanixEvmTest",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "curio-NATIVE-CGT",
+    "name": "Curio Governance Token",
+    "symbol": "CGT",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cgt_449ef3b973.png",
+    "originChain": "curio",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hyperbridge-NATIVE-NAND",
+    "name": "NAND",
+    "symbol": "NAND",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hyperbridge_fd417d6c23.png",
+    "originChain": "hyperbridge",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cess_testnet-NATIVE-TCESS",
+    "name": "CESS Testnet",
+    "symbol": "TCESS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cess_fca2169d6f.png",
+    "originChain": "cess_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-PINK",
+    "name": "Pink",
+    "symbol": "PINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "7"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pink_e453d7277c.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "PINK-StatemintPink",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-GLMR",
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "decimals": 18,
+    "priceId": "moonbeam",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "6"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "GLMR-Moonbeam",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-HDX",
+    "name": "HydraDX",
+    "symbol": "HDX",
+    "decimals": 12,
+    "priceId": "hydradx",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "8"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_a80c4584de.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "HDX-HydraDX",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "2"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-NGNC.s",
+    "name": "Stellar NGNC",
+    "symbol": "NGNC.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "NGNC",
+            "issuer": "0x241afadf31883f79972545fc64f3b5b0c95704c6fb4917474e42b0057841606b"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ngnc_1e36db9f0f.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "NGNC.s-StellarNGNC",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-AUDD.s",
+    "name": "Stellar AUDD",
+    "symbol": "AUDD.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "AUDD",
+            "issuer": "0xc5fbe9979e240552860221f4fe2f2219f35e40458b8b58fc32da520a154a561d"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/audd_d875c908b9.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "AUDD.s-StellarAUDD",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-BRL.s",
+    "name": "Stellar BRL",
+    "symbol": "BRL.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "0x42524c00",
+            "issuer": "0xeaac68d4d0e37b4c24c2536916e830735f032d0d6b2a1c8fca3bc5a25e083e3a"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brl_6473c8d810.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "BRL.s-StellarBRL",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-EURC.s",
+    "name": "Stellar EURC",
+    "symbol": "EURC.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "EURC",
+            "issuer": "0x2112ee863867e4e219fe254c0918b00bc9ea400775bfc3ab4430971ce505877c"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/eurc_dada4aa275.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "EURC.s-StellarEURC",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-XLM.s",
+    "name": "Stellar Lumen",
+    "symbol": "XLM.s",
+    "decimals": 12,
+    "priceId": "stellar",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": "StellarNative"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xlm_152b847369.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "XLM.s-StellarLumen",
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-XLM.s",
+    "name": "Stellar Lumen",
+    "symbol": "XLM.s",
+    "decimals": 12,
+    "priceId": "stellar",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": "StellarNative"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xlm_152b847369.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "XLM.s-StellarLumen",
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-AUDD.s",
+    "name": "Stellar AUDD",
+    "symbol": "AUDD.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "AUDD",
+            "issuer": "0xc5fbe9979e240552860221f4fe2f2219f35e40458b8b58fc32da520a154a561d"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/audd_d875c908b9.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "AUDD.s-StellarAUDD",
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-EURC.s",
+    "name": "Stellar EURC",
+    "symbol": "EURC.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "EURC",
+            "issuer": "0x2112ee863867e4e219fe254c0918b00bc9ea400775bfc3ab4430971ce505877c"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/eurc_dada4aa275.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "EURC.s-StellarEURC",
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-BRL.s",
+    "name": "Stellar BRL",
+    "symbol": "BRL.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "0x42524c00",
+            "issuer": "0xeaac68d4d0e37b4c24c2536916e830735f032d0d6b2a1c8fca3bc5a25e083e3a"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brl_6473c8d810.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "BRL.s-StellarBRL",
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-NGNC.s",
+    "name": "Stellar NGNC",
+    "symbol": "NGNC.s",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "NGNC",
+            "issuer": "0x241afadf31883f79972545fc64f3b5b0c95704c6fb4917474e42b0057841606b"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ngnc_1e36db9f0f.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "NGNC.s-StellarNGNC",
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-USDC.s",
+    "name": "Stellar USDC",
+    "symbol": "USDC.s",
+    "decimals": 12,
+    "priceId": "usd-coin",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "USDC",
+            "issuer": "0x3b9911380efe988ba0a8900eb1cfe44f366f7dbe946bed077240f7f624df15c5"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
   }
 ]

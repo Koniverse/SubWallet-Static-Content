@@ -1481,7 +1481,7 @@
       "addressPrefix": 172,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crowdloan.parallel.fi/#/auction/contribute/polkadot/2012",
-      "blockExplorer": "https://parallel.subscan.io/",
+      "blockExplorer": null,
       "existentialDeposit": "100000000000",
       "symbol": "PARA",
       "decimals": 12,
@@ -1525,10 +1525,7 @@
         }
       ]
     },
-    "extraInfo": {
-      "subscanSlug": "parallel",
-      "chainBalanceSlug": "parallel"
-    }
+    "extraInfo": null
   },
   {
     "slug": "clover",
@@ -1873,7 +1870,7 @@
     },
     "extraInfo": {
       "subscanSlug": "darwinia",
-      "chainBalanceSlug": "darwinia"
+      "chainBalanceSlug": "darwinia2"
     }
   },
   {
@@ -2296,7 +2293,7 @@
     },
     "extraInfo": {
       "subscanSlug": "crust-parachain",
-      "chainBalanceSlug": "crust"
+      "chainBalanceSlug": "crust-parachain"
     }
   },
   {
@@ -2943,7 +2940,7 @@
       "addressPrefix": 28,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://app.subsocial.network/crowdloan",
-      "blockExplorer": null,
+      "blockExplorer": "https://explorer.subsocial.network",
       "existentialDeposit": "100000000",
       "symbol": "SUB",
       "decimals": 10,
@@ -3232,7 +3229,7 @@
     },
     "extraInfo": {
       "subscanSlug": "integritee",
-      "chainBalanceSlug": "integritee"
+      "chainBalanceSlug": "integritee-para"
     }
   },
   {
@@ -3331,7 +3328,7 @@
     },
     "extraInfo": {
       "subscanSlug": "crab",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "darwinia-crab"
     }
   },
   {
@@ -3466,10 +3463,7 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": {
-      "subscanSlug": null,
-      "chainBalanceSlug": "mangatax"
-    }
+    "extraInfo": null
   },
   {
     "slug": "mangatax_para",
@@ -3525,7 +3519,7 @@
     },
     "extraInfo": {
       "subscanSlug": "mangatax",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "mangata"
     }
   },
   {
@@ -4807,7 +4801,7 @@
       "addressPrefix": 1328,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://ajuna.subscan.io/",
       "existentialDeposit": "1000000000",
       "symbol": "AJUN",
       "decimals": 12,
@@ -4829,7 +4823,10 @@
         }
       ]
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "ajuna",
+      "chainBalanceSlug": "ajuna"
+    }
   },
   {
     "slug": "bitgreen",
@@ -5320,7 +5317,7 @@
     },
     "extraInfo": {
       "subscanSlug": "dock",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "dock-pos"
     }
   },
   {
@@ -5609,7 +5606,7 @@
     },
     "extraInfo": {
       "subscanSlug": "sora",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "sora"
     }
   },
   {
@@ -5878,7 +5875,7 @@
       "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://bridgehub-polkadot.subscan.io/",
       "existentialDeposit": "1000000000",
       "symbol": "DOT",
       "decimals": 10,
@@ -5888,7 +5885,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "bridgehub-polkadot",
+      "chainBalanceSlug": "bridgehub-polkadot"
+    }
   },
   {
     "slug": "bridgeHubKusama",
@@ -5911,7 +5911,7 @@
       "addressPrefix": 2,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://bridgehub-kusama.subscan.io/",
       "existentialDeposit": "33333333",
       "symbol": "KSM",
       "decimals": 12,
@@ -5921,7 +5921,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null
+    "extraInfo": {
+      "subscanSlug": "bridgehub-kusama",
+      "chainBalanceSlug": "bridgehub-kusama"
+    }
   },
   {
     "slug": "fantom_testnet",
@@ -6022,7 +6025,7 @@
     },
     "extraInfo": {
       "subscanSlug": "krest",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "krest"
     }
   },
   {
@@ -6170,7 +6173,7 @@
     },
     "extraInfo": {
       "subscanSlug": "crust",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "crust-main"
     }
   },
   {
@@ -8556,6 +8559,66 @@
       "blockExplorer": null,
       "existentialDeposit": "10000000000000000",
       "symbol": "CGT",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "hyperbridge",
+    "name": "Hyperbridge",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
+    "providers": {
+      "BlockOps": "wss://hyperbridge-nexus-rpc.blockops.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3367,
+      "genesisHash": "0x61ea8a51fd4a058ee8c0e86df0a89cc85b8b67a0a66432893d09719050c9f540",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "NAND",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null
+  },
+  {
+    "slug": "cess_testnet",
+    "name": "CESS Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png",
+    "providers": {
+      "CESS Testnet": "wss://testnet-rpc.cess.cloud/ws/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x33729cc9053c7d698504a31caf79d39f8fc592fb50a2412717734df2be791b8a",
+      "addressPrefix": 11330,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000000000",
+      "symbol": "TCESS",
       "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": null,

@@ -1,5 +1,28 @@
 [
   {
+    "id": 28,
+    "name": "Win $800 in DOT with Polkadot Loves Conor NFT Mint Contest",
+    "status": "live",
+    "ordinal": 1,
+    "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n1️⃣ Create your Unique NFT\n2️⃣ Share on social media\n3️⃣ Follow the ecosystem partners\n\nJoin the NFT contest to support Conor Daly at the Indy 500 race!",
+    "start_time": null,
+    "end_time": null,
+    "url": "https://zealy.io/cw/unique/questboard",
+    "twitter_url": "https://twitter.com/Unique_NFTchain",
+    "reward": "$800 in DOT",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://unique.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Polkadot_Loves_Conor_NFT_Mint_Contest_8ae738ee14.jpg",
+    "chains": [
+      "unique_network"
+    ]
+  },
+  {
     "id": 21,
     "name": "Win $2000 USDT Prize Pool with Creditcoin's Real-World EVM Gamified Testnet campaign",
     "status": "live",
@@ -24,29 +47,6 @@
     ]
   },
   {
-    "id": 23,
-    "name": "Split the pool of 1.1M $PINK with Moonwell is PINK campaign",
-    "status": "live",
-    "ordinal": 82,
-    "description": "Moonwell is PINK!\n\nSupply $25 worth of xcDOT liquidity\nSupply $25 worth of GLMR liquidity\nStake $25 worth of WELL liquidity\nVote on a governance proposal\nLike & retweet the campaign announcement\n\nComplete all tasks to win an equal share of Moonwell's PINK token allocation.",
-    "start_time": "2024-04-06T04:00:00.000Z",
-    "end_time": "2024-05-07T04:00:00.000Z",
-    "url": "https://bit.ly/pink_well_galxe",
-    "twitter_url": "https://twitter.com/MoonwellDeFi",
-    "reward": "1.1M $PINK",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://moonwell.fi/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/moonwell_728c173d60.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Moonwell_is_PINK_Galxe_campaign_98368861cd.png",
-    "chains": [
-      "moonbeam"
-    ]
-  },
-  {
     "id": 25,
     "name": "Win $500 in DOT with The Unique Network NFT contest",
     "status": "live",
@@ -68,6 +68,27 @@
     "chains": [
       "unique_network"
     ]
+  },
+  {
+    "id": 27,
+    "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
+    "status": "live",
+    "ordinal": 83,
+    "description": "StellaSwap is Polkadot’s EVM super-DEX that facilitates low-slippage trading & real yields.\n\nWith over $1.6 B in volume and a 15,000 strong userbase, StellaSwap is the gateway to all things Polkadot.\n\nJoin the StellaSwap Mission and stand a chance to win big! This is your opportunity to dive into the Polkadot ecosystem, be part of our community, and earn rewards.\n\nComplete the tasks to be eligible to win $1,000 in GLMR.",
+    "start_time": "2024-05-05T16:00:00.000Z",
+    "end_time": "2024-06-29T16:00:00.000Z",
+    "url": "https://app.galxe.com/quest/StellaSwap/GCUomtzk4M",
+    "twitter_url": "https://twitter.com/StellaSwap",
+    "reward": "2999 GLMR",
+    "total_winner": "1",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://stellaswap.com/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
+    "chains": []
   },
   {
     "id": 26,
@@ -138,6 +159,29 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Avail_Galxe_campaign_ca74389678.jpg",
     "chains": [
       "goldberg_testnet"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Split the pool of 1.1M $PINK with Moonwell is PINK campaign",
+    "status": "archived",
+    "ordinal": 86,
+    "description": "Moonwell is PINK!\n\nSupply $25 worth of xcDOT liquidity\nSupply $25 worth of GLMR liquidity\nStake $25 worth of WELL liquidity\nVote on a governance proposal\nLike & retweet the campaign announcement\n\nComplete all tasks to win an equal share of Moonwell's PINK token allocation.",
+    "start_time": "2024-04-06T04:00:00.000Z",
+    "end_time": "2024-05-07T04:00:00.000Z",
+    "url": "https://bit.ly/pink_well_galxe",
+    "twitter_url": "https://twitter.com/MoonwellDeFi",
+    "reward": "1.1M $PINK",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://moonwell.fi/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/moonwell_728c173d60.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Moonwell_is_PINK_Galxe_campaign_98368861cd.png",
+    "chains": [
+      "moonbeam"
     ]
   },
   {

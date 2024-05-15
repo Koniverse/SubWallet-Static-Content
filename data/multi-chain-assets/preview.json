@@ -46,7 +46,8 @@
       "moonbeam-NATIVE-GLMR",
       "acala-LOCAL-GLMR",
       "equilibrium_parachain-LOCAL-GLMR",
-      "hydradx_main-LOCAL-GLMR"
+      "hydradx_main-LOCAL-GLMR",
+      "pendulum-LOCAL-GLMR"
     ]
   },
   {
@@ -491,7 +492,9 @@
       "centrifuge-LOCAL-USDC",
       "moonbeam-LOCAL-xcUSDC",
       "polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
-      "hydradx_main-LOCAL-USDC-21"
+      "hydradx_main-LOCAL-USDC-21",
+      "pendulum-LOCAL-USDC",
+      "amplitude-LOCAL-USDC.s"
     ]
   },
   {
@@ -712,7 +715,8 @@
       "crust-LOCAL-PINK",
       "darwinia2-LOCAL-PINK",
       "hydradx_main-LOCAL-PINK",
-      "base_mainnet-ERC20-PINK-0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0"
+      "base_mainnet-ERC20-PINK-0x66fc31b3233c7C001bdD21Ff6E5E66fA08EF85D0",
+      "pendulum-LOCAL-PINK"
     ]
   },
   {
@@ -820,6 +824,84 @@
     "chainAssets": [
       "statemint-LOCAL-STINK",
       "hydradx_main-LOCAL-STINK"
+    ]
+  },
+  {
+    "slug": "HDX-HydraDX",
+    "name": "HydraDX",
+    "symbol": "HDX",
+    "priceId": "hydradx",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/hydradx_a80c4584de.png",
+    "originChainAsset": "hydradx_main-NATIVE-HDX",
+    "chainAssets": [
+      "hydradx_main-NATIVE-HDX",
+      "pendulum-LOCAL-HDX"
+    ]
+  },
+  {
+    "slug": "XLM.s-StellarLumen",
+    "name": "Stellar Lumen",
+    "symbol": "XLM.s",
+    "priceId": "stellar",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/xlm_152b847369.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "pendulum-LOCAL-XLM.s",
+      "amplitude-LOCAL-XLM.s"
+    ]
+  },
+  {
+    "slug": "AUDD.s-StellarAUDD",
+    "name": "Stellar AUDD",
+    "symbol": "AUDD.s",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/audd_d875c908b9.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "pendulum-LOCAL-AUDD.s",
+      "amplitude-LOCAL-AUDD.s"
+    ]
+  },
+  {
+    "slug": "EURC.s-StellarEURC",
+    "name": "Stellar EURC",
+    "symbol": "EURC.s",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/eurc_dada4aa275.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "pendulum-LOCAL-EURC.s",
+      "amplitude-LOCAL-EURC.s"
+    ]
+  },
+  {
+    "slug": "BRL.s-StellarBRL",
+    "name": "Stellar BRL",
+    "symbol": "BRL.s",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/brl_6473c8d810.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "pendulum-LOCAL-BRL.s",
+      "amplitude-LOCAL-BRL.s"
+    ]
+  },
+  {
+    "slug": "NGNC.s-StellarNGNC",
+    "name": "Stellar NGNC",
+    "symbol": "NGNC.s",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ngnc_1e36db9f0f.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "pendulum-LOCAL-NGNC.s",
+      "amplitude-LOCAL-NGNC.s"
     ]
   }
 ]

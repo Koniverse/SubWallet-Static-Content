@@ -241,5 +241,7 @@
   "avail_mainnet": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
   "merlinEvm": "https://static-data.subwallet.app/chains/images/icon/merlin_chain_a885212729.png",
   "botanixEvmTest": "https://static-data.subwallet.app/chains/images/icon/botanix_0f189648f7.png",
-  "curio": "https://static-data.subwallet.app/chains/images/icon/curio_8150848526.png"
+  "curio": "https://static-data.subwallet.app/chains/images/icon/curio_8150848526.png",
+  "hyperbridge": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
+  "cess_testnet": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png"
 }
