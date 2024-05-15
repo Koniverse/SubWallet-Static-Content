@@ -41,14 +41,14 @@
     "position_params": [],
     "info": {
       "id": 40,
-      "name": "Test - What's new?",
+      "name": "Test - What's new?1",
       "description": "Update Version v1.1.50(364)",
       "start_time": "2024-04-20T17:00:00.000Z",
       "stop_time": "2024-05-22T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": "Android"
     },
     "buttons": [
       {
