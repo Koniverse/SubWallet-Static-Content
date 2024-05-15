@@ -494,7 +494,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "/index.html#/settings/general",
+              "url": "/index.html#/settings/list",
               "doneOnClick": true
             }
           }
