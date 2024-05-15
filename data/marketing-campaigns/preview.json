@@ -470,7 +470,7 @@
         "alt": "Popup banner in app extension",
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/home/earning/overview?utm_source=extension&utm_medium=inappbanner&utm_campaign=unlockbatch+2"
+          "url": "/index.html#/transaction/swap"
         },
         "environments": [
           "extension"
@@ -478,27 +478,7 @@
         "position": [
           "home"
         ],
-        "buttons": [
-          {
-            "name": "Dismiss",
-            "icon": "XCircle",
-            "color": "secondary",
-            "type": null,
-            "metadata": {
-              "doneOnClick": true
-            }
-          },
-          {
-            "name": "Earn now",
-            "icon": "ArrowCircleRight",
-            "color": "primary",
-            "type": "open_url",
-            "metadata": {
-              "url": "https://web.subwallet.app/home/earning/overview?utm_source=extension&utm_medium=inappbanner&utm_campaign=unlockbatch+2",
-              "doneOnClick": true
-            }
-          }
-        ],
+        "buttons": [],
         "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
       }
     ],
