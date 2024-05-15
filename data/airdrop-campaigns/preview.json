@@ -1,28 +1,5 @@
 [
   {
-    "id": 28,
-    "name": "Win $800 in DOT with Polkadot Loves Conor NFT Mint Contest",
-    "status": "live",
-    "ordinal": 1,
-    "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n1️⃣ Create your Unique NFT\n2️⃣ Share on social media\n3️⃣ Follow the ecosystem partners\n\nJoin the NFT contest to support Conor Daly at the Indy 500 race!",
-    "start_time": null,
-    "end_time": null,
-    "url": "https://zealy.io/cw/unique/questboard",
-    "twitter_url": "https://twitter.com/Unique_NFTchain",
-    "reward": "$800 in DOT",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://unique.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Polkadot_Loves_Conor_NFT_Mint_Contest_8ae738ee14.jpg",
-    "chains": [
-      "unique_network"
-    ]
-  },
-  {
     "id": 21,
     "name": "Win $2000 USDT Prize Pool with Creditcoin's Real-World EVM Gamified Testnet campaign",
     "status": "live",
@@ -48,21 +25,21 @@
   },
   {
     "id": 25,
-    "name": "Win $500 in DOT with The Unique Network NFT contest",
+    "name": "Win $800 in DOT with Polkadot Loves Conor NFT contest",
     "status": "live",
     "ordinal": 83,
-    "description": "Celebrating Polkadot at the Indianapolis 500! \n\nTo celebrate and show the support for Conor Daly at the Indianapolis 500, Unique Network is hosting an NFT competition to get fans involved in the excitement!\n\nJoin us for a chance to be one of the 25 lucky participants to win $500 in DOT! 🏆\n\nEnter the competition here 👇\nhttps://zealy.io/cw/unique\n\nWeek 1’s Tasks:\n- Share your Polkadot wallet address\n- Mint NFTs\n- Share them on Twitter!\n\nCompetition Details:\n- Runs from April 16 - May 3, 2024\n- Different tasks each week\n- Be in the chance to win $500 in DOT\n- Show your support for Conor, as he races with the Polkadot community behind him!",
-    "start_time": "2024-04-15T17:00:00.000Z",
-    "end_time": "2024-05-15T16:59:00.000Z",
+    "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n1️⃣ Create your Unique NFT\n2️⃣ Share on social media\n3️⃣ Follow our ecosystem partners\n\nJoin us for a chance to be one of the 25 lucky participants to win $800 in DOT! 🏆\n\nEnter the competition here 👇\nhttps://zealy.io/cw/unique",
+    "start_time": "2024-04-16T06:30:00.000Z",
+    "end_time": "2024-05-27T06:30:00.000Z",
     "url": "https://zealy.io/cw/unique/questboard",
     "twitter_url": "https://twitter.com/Unique_NFTchain",
-    "reward": "$500 in DOT",
+    "reward": "$800 in DOT",
     "total_winner": "25",
     "total_supply": null,
     "tags": [
       "lucky_draw"
     ],
-    "campaign_url": "https://unqnft.io/market",
+    "campaign_url": "https://unique.network/",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Unique_NFT_contest_9436e9de22.jpg",
     "chains": [
@@ -538,5 +515,24 @@
     "chains": [
       "subsocial_x"
     ]
+  },
+  {
+    "id": 28,
+    "name": null,
+    "status": null,
+    "ordinal": null,
+    "description": null,
+    "start_time": null,
+    "end_time": null,
+    "url": null,
+    "twitter_url": null,
+    "reward": null,
+    "total_winner": null,
+    "total_supply": null,
+    "tags": null,
+    "campaign_url": null,
+    "logo": null,
+    "backdrop_image": null,
+    "chains": []
   }
 ]

@@ -580,5 +580,6 @@
   "amplitude-LOCAL-EURC.s": null,
   "amplitude-LOCAL-BRL.s": null,
   "amplitude-LOCAL-NGNC.s": null,
-  "amplitude-LOCAL-USDC.s": "usd-coin"
+  "amplitude-LOCAL-USDC.s": "usd-coin",
+  "vara_testnet-GRC20-TOK-0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034": null
 }

@@ -12126,5 +12126,23 @@
     "originChain": "amplitude",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
+  },
+  {
+    "slug": "vara_testnet-GRC20-TOK-0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034",
+    "name": "VARA_TOKEN",
+    "symbol": "TOK",
+    "decimals": 5,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
+    "originChain": "vara_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
