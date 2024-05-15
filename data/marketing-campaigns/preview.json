@@ -468,7 +468,7 @@
       {
         "id": 112,
         "alt": "Popup banner in app extension",
-        "action": "open_url",
+        "action": "open_view",
         "metadata": {
           "url": "/index.html#/transaction/swap"
         },
