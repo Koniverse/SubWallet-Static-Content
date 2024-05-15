@@ -470,7 +470,7 @@
         "alt": "Popup banner in app extension",
         "action": "open_url",
         "metadata": {
-          "url": "/index.html#/settings/general"
+          "url": "/index.html#/settings/list"
         },
         "environments": [
           "extension"
