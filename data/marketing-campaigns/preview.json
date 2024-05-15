@@ -470,7 +470,7 @@
         "alt": "Popup banner in app extension",
         "action": "open_url",
         "metadata": {
-          "url": "/index.html#/settings/list"
+          "url": "/index.html#/settings/general"
         },
         "environments": [
           "extension"
@@ -494,7 +494,7 @@
             "color": "primary",
             "type": "open_url",
             "metadata": {
-              "url": "/index.html#/settings/list",
+              "url": "/index.html#/settings/general",
               "doneOnClick": true
             }
           }
