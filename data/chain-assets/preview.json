@@ -12139,7 +12139,7 @@
     "decimals": 5,
     "priceId": null,
     "minAmount": "0",
-    "assetType": "ERC20",
+    "assetType": "GRC20",
     "metadata": {
       "contractAddress": "0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034"
     },
@@ -12157,7 +12157,7 @@
     "decimals": 18,
     "priceId": null,
     "minAmount": "0",
-    "assetType": "ERC20",
+    "assetType": "GRC20",
     "metadata": {
       "contractAddress": "0x6cd3e8bdfab3963ef94819dbab2a60a639e0edd61ec0b9c3234f7be20f487d69"
     },
@@ -12175,7 +12175,7 @@
     "decimals": 12,
     "priceId": null,
     "minAmount": "0",
-    "assetType": "ERC20",
+    "assetType": "GRC20",
     "metadata": {
       "contractAddress": "0xa10de81234db79ba2726c9410da9005d1a67e53888259818ad2b03ee434ce18f"
     },
@@ -12193,7 +12193,7 @@
     "decimals": 10,
     "priceId": null,
     "minAmount": "0",
-    "assetType": "ERC20",
+    "assetType": "GRC20",
     "metadata": {
       "contractAddress": "0x5fdbe9407c70dd13dc8c95fbe1b6b07dce860d53aa67cf3fb41899c4a61f6eaf"
     },
