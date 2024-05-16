@@ -576,7 +576,7 @@
   "pendulum-LOCAL-EURC.s": null,
   "pendulum-LOCAL-XLM.s": "stellar",
   "amplitude-LOCAL-XLM.s": "stellar",
-  "amplitude-LOCAL-AUDD.s": null,
+  "amplitude-LOCAL-AUDD.s": "novatti-australian-digital-dollar",
   "amplitude-LOCAL-EURC.s": null,
   "amplitude-LOCAL-BRL.s": null,
   "amplitude-LOCAL-NGNC.s": null,

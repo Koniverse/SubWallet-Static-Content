@@ -12012,7 +12012,7 @@
     "name": "Stellar AUDD",
     "symbol": "AUDD.s",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "novatti-australian-digital-dollar",
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
