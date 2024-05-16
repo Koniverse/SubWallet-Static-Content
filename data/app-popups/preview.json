@@ -142,5 +142,36 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "#### ![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png)\n##### **Version 1.1.56(375)**\n9 new currencies supported! Go to Settings/General settings/Currency and choose among USD, BRL, CNY, EUR, GBP, HKD, JPY, RUB  and VND to display your portfolio value.",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 43,
+      "name": "What's new?",
+      "description": "Currency",
+      "start_time": "2024-05-15T17:00:00.000Z",
+      "stop_time": "2024-05-23T16:59:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 34,
+        "label": "Got it!",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
