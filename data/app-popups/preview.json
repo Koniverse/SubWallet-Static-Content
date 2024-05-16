@@ -148,7 +148,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "#### ![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png)\n>----\n#### **Version 1.1.56(375)**\n- 9 new currencies supported!\n- Go to Settings/General settings/Currency and choose among USD, BRL, CNY, EUR, GBP, HKD, JPY, RUB  and VND to display your portfolio value.",
+    "content": "#### ![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png)\n----\n#### **Version 1.1.56(375)**\n- 9 new currencies supported!\n- Go to Settings/General settings/Currency and choose among USD, BRL, CNY, EUR, GBP, HKD, JPY, RUB  and VND to display your portfolio value.",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
