@@ -3368,7 +3368,8 @@
     "metadata": {
       "onChainInfo": {
         "XCM": "1"
-      }
+      },
+      "isDisableTransfer": true
     },
     "hasValue": true,
     "ordinal": 163,
@@ -11675,7 +11676,7 @@
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "ethereum",
     "minAmount": "0",
     "assetType": "NATIVE",
     "metadata": null,
@@ -11683,7 +11684,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "bobMainnet",
-    "multiChainAsset": null,
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   },
   {
@@ -11793,7 +11794,8 @@
     "metadata": {
       "onChainInfo": {
         "XCM": "7"
-      }
+      },
+      "isDisableTransfer": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11813,7 +11815,8 @@
     "metadata": {
       "onChainInfo": {
         "XCM": "6"
-      }
+      },
+      "isDisableTransfer": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11833,7 +11836,8 @@
     "metadata": {
       "onChainInfo": {
         "XCM": "8"
-      }
+      },
+      "isDisableTransfer": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11853,7 +11857,8 @@
     "metadata": {
       "onChainInfo": {
         "XCM": "2"
-      }
+      },
+      "isDisableTransfer": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11892,7 +11897,7 @@
     "name": "Stellar AUDD",
     "symbol": "AUDD.s",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "novatti-australian-digital-dollar",
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
@@ -12142,6 +12147,163 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
     "originChain": "vara_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "vara_testnet-GRC20-SUB1-0x6cd3e8bdfab3963ef94819dbab2a60a639e0edd61ec0b9c3234f7be20f487d69",
+    "name": "SubWallet 01 GRC20",
+    "symbol": "SUB1",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6cd3e8bdfab3963ef94819dbab2a60a639e0edd61ec0b9c3234f7be20f487d69"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
+    "originChain": "vara_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "vara_testnet-GRC20-SUB2-0xa10de81234db79ba2726c9410da9005d1a67e53888259818ad2b03ee434ce18f",
+    "name": "SubWallet 02 GRC20",
+    "symbol": "SUB2",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xa10de81234db79ba2726c9410da9005d1a67e53888259818ad2b03ee434ce18f"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
+    "originChain": "vara_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "vara_testnet-GRC20-SUB3-0x5fdbe9407c70dd13dc8c95fbe1b6b07dce860d53aa67cf3fb41899c4a61f6eaf",
+    "name": "SubWallet 03 GRC20",
+    "symbol": "SUB3",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5fdbe9407c70dd13dc8c95fbe1b6b07dce860d53aa67cf3fb41899c4a61f6eaf"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
+    "originChain": "vara_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-BRZ",
+    "name": "Brazilian Real",
+    "symbol": "BRZ",
+    "decimals": 18,
+    "priceId": "brz",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "4"
+      },
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "pendulum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "amplitude-LOCAL-USDT",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "1"
+      },
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "amplitude",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-USDC.s",
+    "name": "Stellar USDC",
+    "symbol": "USDC.s",
+    "decimals": 12,
+    "priceId": "usd-coin",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "USDC",
+            "issuer": "0x3b9911380efe988ba0a8900eb1cfe44f366f7dbe946bed077240f7f624df15c5"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "bobMainnet-LOCAL-wBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+    "name": "Wrapped BTC",
+    "symbol": "wBTC",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "bobMainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x05D032ac25d322df992303dCa074EE7392C117b9"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "bobMainnet",
     "multiChainAsset": null,
     "assetRefs": []
   }

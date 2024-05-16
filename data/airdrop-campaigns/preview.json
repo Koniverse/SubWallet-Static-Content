@@ -91,6 +91,29 @@
     ]
   },
   {
+    "id": 29,
+    "name": "Share 400 BNC rewards with Bifrost x Mimir campaign on Airlyft",
+    "status": "live",
+    "ordinal": 84,
+    "description": "vDOT x Multisig event on Airlyft is live!\n\nCreate a Multisig account on Mimir\nStart Multisig transactions\n\nComplete the assigned tasks and get a chance to share 400 BNC rewards!",
+    "start_time": "2024-05-16T08:00:00.000Z",
+    "end_time": "2024-05-23T08:00:00.000Z",
+    "url": "https://airlyft.one/bifrost/mimir-multisig",
+    "twitter_url": "https://twitter.com/Bifrost",
+    "reward": "400 BNC",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://bifrost.finance/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_44b3c3fd65.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_x_Mimir_Airlyft_campaign_1969d67dbd.jpg",
+    "chains": [
+      "bifrost_dot"
+    ]
+  },
+  {
     "id": 20,
     "name": "250K $STELLA + 1.19M $PINK rewards + exclusive OG NFTs with stDOT Boost Campaign",
     "status": "archived",

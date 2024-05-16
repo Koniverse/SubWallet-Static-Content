@@ -16,7 +16,8 @@
       "base_mainnet-NATIVE-ETH",
       "manta_network_evm-NATIVE-ETH",
       "astarZkEvm-NATIVE-ETH",
-      "hydradx_main-LOCAL-WETH"
+      "hydradx_main-LOCAL-WETH",
+      "bobMainnet-NATIVE-ETH"
     ]
   },
   {
@@ -140,7 +141,8 @@
       "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "tomochain-ERC20-USDT-0x381B31409e4D220919B2cFF012ED94d70135A59e",
-      "hydradx_main-LOCAL-USDT-23"
+      "hydradx_main-LOCAL-USDT-23",
+      "amplitude-LOCAL-USDT"
     ]
   },
   {
@@ -494,7 +496,8 @@
       "polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "hydradx_main-LOCAL-USDC-21",
       "pendulum-LOCAL-USDC",
-      "amplitude-LOCAL-USDC.s"
+      "amplitude-LOCAL-USDC.s",
+      "pendulum-LOCAL-USDC.s"
     ]
   },
   {
