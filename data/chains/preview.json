@@ -8437,7 +8437,7 @@
   },
   {
     "slug": "bobMainnet",
-    "name": "BOB Mainnet",
+    "name": "BOB",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
