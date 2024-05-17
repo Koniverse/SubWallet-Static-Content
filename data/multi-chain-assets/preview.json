@@ -859,7 +859,7 @@
     "slug": "AUDD.s-StellarAUDD",
     "name": "Stellar AUDD",
     "symbol": "AUDD.s",
-    "priceId": null,
+    "priceId": "novatti-australian-digital-dollar",
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/audd_d875c908b9.png",
     "originChainAsset": null,
