@@ -460,7 +460,7 @@
     "name": "Test - Currency",
     "description": null,
     "start_time": "2024-05-12T17:00:00.000Z",
-    "end_time": "2024-05-16T16:59:00.000Z",
+    "end_time": "2024-05-17T16:59:00.000Z",
     "condition": {
       "allowedTokenSlug": "['DOT-Polkadot']"
     },
