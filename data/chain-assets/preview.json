@@ -12306,5 +12306,37 @@
     "originChain": "bobMainnet",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-NATIVE-BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 8,
+    "priceId": "bitcoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoinTestnet-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "bitcoinTestnet",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

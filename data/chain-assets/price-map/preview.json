@@ -589,5 +589,7 @@
   "amplitude-LOCAL-USDT": "tether",
   "pendulum-LOCAL-USDC.s": "usd-coin",
   "bobMainnet-LOCAL-wBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3": null,
-  "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9": null
+  "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9": null,
+  "bitcoin-NATIVE-BTC": "bitcoin",
+  "bitcoinTestnet-NATIVE-BTC": null
 }

@@ -243,5 +243,7 @@
   "botanixEvmTest": "https://static-data.subwallet.app/chains/images/icon/botanix_0f189648f7.png",
   "curio": "https://static-data.subwallet.app/chains/images/icon/curio_8150848526.png",
   "hyperbridge": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
-  "cess_testnet": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png"
+  "cess_testnet": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png",
+  "bitcoin": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
+  "bitcoinTestnet": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png"
 }
