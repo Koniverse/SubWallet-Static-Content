@@ -1,3 +1,2 @@
 {
-  "backupTimeout": 120000
-}
+  "backupTimeout": 60000
