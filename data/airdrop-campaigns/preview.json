@@ -65,7 +65,9 @@
     "campaign_url": "https://stellaswap.com/",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
-    "chains": []
+    "chains": [
+      "moonbeam"
+    ]
   },
   {
     "id": 26,
