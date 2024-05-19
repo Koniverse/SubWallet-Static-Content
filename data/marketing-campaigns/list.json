@@ -1017,5 +1017,52 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 76,
+    "name": "Extension - Currency",
+    "description": null,
+    "start_time": "2024-05-19T03:00:00.000Z",
+    "end_time": "2024-05-26T16:59:00.000Z",
+    "condition": null,
+    "banners": [
+      {
+        "id": 140,
+        "alt": "Popup banner in app extension",
+        "action": "open_url",
+        "metadata": {
+          "url": "/index.html#/settings/general"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Set up",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "/index.html#/settings/general",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png"
+      }
+    ],
+    "notifications": []
   }
 ]
