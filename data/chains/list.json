@@ -5970,7 +5970,9 @@
       "decimals": 12,
       "hasNativeNft": true,
       "supportStaking": true,
-      "supportSmartContract": null,
+      "supportSmartContract": [
+        "GRC20"
+      ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
@@ -8657,5 +8659,47 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null
+  },
+  {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
+    "providers": {
+      "Blockstream": "https://electrs.openbit.app"
+    },
+    "evmInfo": null,
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": {
+      "blockExplorer": "https://mempool.space",
+      "existentialDeposit": "0",
+      "decimals": 8,
+      "symbol": "BTC",
+      "bitcoinNetwork": "mainnet"
+    }
+  },
+  {
+    "slug": "bitcoinTestnet",
+    "name": "Bitcoin Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
+    "providers": {
+      "Blockstream": "https://blockstream-testnet.openbit.app"
+    },
+    "evmInfo": null,
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": {
+      "blockExplorer": "https://mempool.space/testnet",
+      "existentialDeposit": "0",
+      "decimals": 8,
+      "symbol": "BTC",
+      "bitcoinNetwork": "testnet"
+    }
   }
 ]
