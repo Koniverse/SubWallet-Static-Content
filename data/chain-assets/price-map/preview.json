@@ -581,15 +581,14 @@
   "amplitude-LOCAL-BRL.s": null,
   "amplitude-LOCAL-NGNC.s": null,
   "amplitude-LOCAL-USDC.s": "usd-coin",
-  "vara_testnet-GRC20-TOK-0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034": null,
-  "vara_testnet-GRC20-SUB1-0x6cd3e8bdfab3963ef94819dbab2a60a639e0edd61ec0b9c3234f7be20f487d69": null,
-  "vara_testnet-GRC20-SUB2-0xa10de81234db79ba2726c9410da9005d1a67e53888259818ad2b03ee434ce18f": null,
-  "vara_testnet-GRC20-SUB3-0x5fdbe9407c70dd13dc8c95fbe1b6b07dce860d53aa67cf3fb41899c4a61f6eaf": null,
   "pendulum-LOCAL-BRZ": "brz",
   "amplitude-LOCAL-USDT": "tether",
   "pendulum-LOCAL-USDC.s": "usd-coin",
   "bobMainnet-LOCAL-wBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3": "wrapped-bitcoin",
   "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9": "tether",
   "bitcoin-NATIVE-BTC": "bitcoin",
-  "bitcoinTestnet-NATIVE-BTC": null
+  "bitcoinTestnet-NATIVE-BTC": null,
+  "arbitrum_one-ERC20-SQD-0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1": "subsquid",
+  "aleph-PSP22-CLD-5CJ3DZ4RM4j2cPpQ49ywYiAgDYaTqk7hPud6Y1J1WY8qwDfb": null,
+  "aleph-PSP22-CSD-5DPzHtsvZHtUaGzzKqrxa2JLgpHtEaSPn9mfyNAjX12Vunts": null
 }

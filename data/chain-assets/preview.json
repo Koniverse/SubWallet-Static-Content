@@ -12133,78 +12133,6 @@
     "assetRefs": []
   },
   {
-    "slug": "vara_testnet-GRC20-TOK-0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034",
-    "name": "VARA_TOKEN",
-    "symbol": "TOK",
-    "decimals": 5,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "GRC20",
-    "metadata": {
-      "contractAddress": "0x886261b17ead11cff4487a9ffefc3dc315ce0856b29ef83a070cc607a26ef034"
-    },
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
-    "originChain": "vara_testnet",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "vara_testnet-GRC20-SUB1-0x6cd3e8bdfab3963ef94819dbab2a60a639e0edd61ec0b9c3234f7be20f487d69",
-    "name": "SubWallet 01 GRC20",
-    "symbol": "SUB1",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "GRC20",
-    "metadata": {
-      "contractAddress": "0x6cd3e8bdfab3963ef94819dbab2a60a639e0edd61ec0b9c3234f7be20f487d69"
-    },
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
-    "originChain": "vara_testnet",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "vara_testnet-GRC20-SUB2-0xa10de81234db79ba2726c9410da9005d1a67e53888259818ad2b03ee434ce18f",
-    "name": "SubWallet 02 GRC20",
-    "symbol": "SUB2",
-    "decimals": 12,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "GRC20",
-    "metadata": {
-      "contractAddress": "0xa10de81234db79ba2726c9410da9005d1a67e53888259818ad2b03ee434ce18f"
-    },
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
-    "originChain": "vara_testnet",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "vara_testnet-GRC20-SUB3-0x5fdbe9407c70dd13dc8c95fbe1b6b07dce860d53aa67cf3fb41899c4a61f6eaf",
-    "name": "SubWallet 03 GRC20",
-    "symbol": "SUB3",
-    "decimals": 10,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "GRC20",
-    "metadata": {
-      "contractAddress": "0x5fdbe9407c70dd13dc8c95fbe1b6b07dce860d53aa67cf3fb41899c4a61f6eaf"
-    },
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vara_be88d00224.png",
-    "originChain": "vara_testnet",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "pendulum-LOCAL-BRZ",
     "name": "Brazilian Real",
     "symbol": "BRZ",
@@ -12336,6 +12264,62 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
     "originChain": "bitcoinTestnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "arbitrum_one-ERC20-SQD-0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+    "name": "Subsquid",
+    "symbol": "SQD",
+    "decimals": 18,
+    "priceId": "subsquid",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sqd_c65f973236.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph-PSP22-CLD-5CJ3DZ4RM4j2cPpQ49ywYiAgDYaTqk7hPud6Y1J1WY8qwDfb",
+    "name": "Common LP Drops",
+    "symbol": "CLD",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "PSP22",
+    "metadata": {
+      "contractAddress": "5CJ3DZ4RM4j2cPpQ49ywYiAgDYaTqk7hPud6Y1J1WY8qwDfb",
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/common_lp_drop_fd311b8844.png",
+    "originChain": "aleph",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph-PSP22-CSD-5DPzHtsvZHtUaGzzKqrxa2JLgpHtEaSPn9mfyNAjX12Vunts",
+    "name": "Common Staking Drops",
+    "symbol": "CSD",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "PSP22",
+    "metadata": {
+      "contractAddress": "5DPzHtsvZHtUaGzzKqrxa2JLgpHtEaSPn9mfyNAjX12Vunts",
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/common_staking_drop_e8a1670d41.png",
+    "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
   }
