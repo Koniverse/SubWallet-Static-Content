@@ -216,7 +216,7 @@
     "is_featured": true,
     "ordinal": 8,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonbeam_network_40889ef4a4.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonbeam_5d6a1dcacc.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Moonbeam_screen_255932dc3b.png",
     "chains": [
       "moonbeam"
@@ -989,6 +989,26 @@
     ]
   },
   {
+    "id": 154,
+    "title": "Common",
+    "description": "Common is a multichain set of tools that bring innovation to on-chain trading. Make your trades fast and efficient. ",
+    "url": "https://app.common.fi/",
+    "subtitle": "Aleph Zero's unique DeFi solution",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 38,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/common_da3bacbe30.png",
+    "preview_image": null,
+    "chains": [
+      "aleph"
+    ],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 109,
     "title": "AZERO.ID",
     "description": "With AZERO.ID, you can create & own your on-chain identity on a single platform. Start your journey in the Aleph Zero & Substrate ecosystem by registering your first domain now.",
@@ -1613,7 +1633,7 @@
     "is_featured": null,
     "ordinal": 64,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_4c83e2956f.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/moonriver_06b4e41abc.png",
     "preview_image": null,
     "chains": [
       "moonriver"
