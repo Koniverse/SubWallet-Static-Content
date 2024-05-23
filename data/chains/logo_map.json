@@ -246,5 +246,6 @@
   "cess_testnet": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png",
   "bitcoin": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
   "bitcoinTestnet": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
-  "peopleKusama": null
+  "peopleKusama": null,
+  "lineaZkEvm": "https://static-data.subwallet.app/chains/images/icon/linea_f3fc15cc45.png"
 }

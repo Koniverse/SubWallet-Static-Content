@@ -8710,9 +8710,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {
-      "Avail": "wss://zeref-api.slowops.xyz/ws"
-    },
+    "providers": {},
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
@@ -8950,6 +8948,32 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "lineaZkEvm",
+    "name": "Linea",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/linea_f3fc15cc45.png",
+    "providers": {
+      "Linea": "https://rpc.linea.build/"
+    },
+    "evmInfo": {
+      "evmChainId": 59144,
+      "blockExplorer": "https://lineascan.build/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://lineascan.build/"
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null
   }
