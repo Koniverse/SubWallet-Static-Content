@@ -3,15 +3,16 @@
     "id": 5,
     "position": "token_detail",
     "priority": 2,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/polkassembly_d_App_preview_f4d0722fdd.png",
     "info": {
       "id": 12,
       "name": "Swap introduction ",
       "description": null,
       "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-13T17:00:00.000Z",
+      "stop_time": "2024-05-30T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "mobile",
+        "extension"
       ],
       "os": null
     },
@@ -43,7 +44,7 @@
       "name": "Stake DOT get VARCH",
       "description": null,
       "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-04-13T17:00:00.000Z",
+      "stop_time": "2024-05-30T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -66,5 +67,40 @@
       "group": "earning",
       "slug": "DEMO_VARA"
     }
+  },
+  {
+    "id": 22,
+    "position": "token_detail",
+    "priority": 2,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/d_App_preview_stellaswap_5865af7a48.png",
+    "info": {
+      "id": 46,
+      "name": "Swap introduction 2",
+      "description": null,
+      "start_time": "2024-03-31T17:00:00.000Z",
+      "stop_time": "2024-05-30T17:00:00.000Z",
+      "platforms": [
+        "mobile",
+        "extension"
+      ],
+      "os": null
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "DOT-Polkadot"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "USDC-USDCoin"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ETH-Ethereum"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
   }
 ]

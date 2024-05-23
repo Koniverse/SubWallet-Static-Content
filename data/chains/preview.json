@@ -1834,8 +1834,7 @@
     "ordinal": 46,
     "icon": "https://static-data.subwallet.app/chains/images/icon/nodle_fba7fd5ae5.png",
     "providers": {
-      "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws",
-      "Dwellir": "wss://eden-rpc.dwellir.com"
+      "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4581,7 +4580,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
-      "paraId": 2000,
+      "paraId": 2086,
       "genesisHash": "0xa0c6e3bac382b316a68bca7141af1fba507207594c761076847ce358aeedcc21",
       "addressPrefix": 38,
       "chainType": "PARACHAIN",
@@ -5024,9 +5023,7 @@
     "ordinal": 128,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hashed_78ed238d01.png",
     "providers": {
-      "Hashed Systems": "wss://c1.hashed.live",
-      "Hashed Systems 2": "wss://c2.hashed.network",
-      "Hashed Systems 3": "wss://c3.hashed.live"
+      "Hashed Systems 2": "wss://c2.hashed.network"
     },
     "evmInfo": null,
     "substrateInfo": {

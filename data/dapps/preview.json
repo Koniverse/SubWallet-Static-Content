@@ -508,7 +508,7 @@
     "ordinal": 21,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
+    "preview_image": null,
     "chains": [
       "polkadot",
       "ethereum"

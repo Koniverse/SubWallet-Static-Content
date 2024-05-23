@@ -17,7 +17,8 @@
       "manta_network_evm-NATIVE-ETH",
       "astarZkEvm-NATIVE-ETH",
       "hydradx_main-LOCAL-WETH",
-      "bobMainnet-NATIVE-ETH"
+      "bobMainnet-NATIVE-ETH",
+      "lineaZkEvm-NATIVE-ETH"
     ]
   },
   {
@@ -142,7 +143,8 @@
       "optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "tomochain-ERC20-USDT-0x381B31409e4D220919B2cFF012ED94d70135A59e",
       "hydradx_main-LOCAL-USDT-23",
-      "amplitude-LOCAL-USDT"
+      "amplitude-LOCAL-USDT",
+      "aleph-PSP22-USDT-5Et3dDcXUiThrBCot7g65k3oDSicGy4qC82cq9f911izKNtE"
     ]
   },
   {
@@ -417,7 +419,8 @@
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChainAsset": "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "chainAssets": [
-      "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u"
     ]
   },
   {
@@ -497,7 +500,8 @@
       "hydradx_main-LOCAL-USDC-21",
       "pendulum-LOCAL-USDC",
       "amplitude-LOCAL-USDC.s",
-      "pendulum-LOCAL-USDC.s"
+      "pendulum-LOCAL-USDC.s",
+      "aleph-PSP22-USDC-5FYFojNCJVFR2bBNKfAePZCa72ZcVX5yeTv8K9bzeUo8D83Z"
     ]
   },
   {
@@ -540,7 +544,8 @@
       "calamari-LOCAL-WBTC",
       "astarEvm-ERC20-WBTC-0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
       "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "hydradx_main-LOCAL-WBTC"
+      "hydradx_main-LOCAL-WBTC",
+      "aleph-PSP22-WBTC-5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ"
     ]
   },
   {
@@ -640,7 +645,8 @@
       "karura-LOCAL-KSM",
       "bifrost-LOCAL-KSM",
       "bridgeHubKusama-NATIVE-KSM",
-      "amplitude-LOCAL-KSM"
+      "amplitude-LOCAL-KSM",
+      "peopleKusama-NATIVE-KSM"
     ]
   },
   {
@@ -739,7 +745,7 @@
     "slug": "DED-DED",
     "name": "DED",
     "symbol": "DED",
-    "priceId": null,
+    "priceId": "dot-is-ded",
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ded_277c75073c.png",
     "originChainAsset": "statemint-LOCAL-DED",
@@ -826,7 +832,8 @@
     "originChainAsset": "statemint-LOCAL-STINK",
     "chainAssets": [
       "statemint-LOCAL-STINK",
-      "hydradx_main-LOCAL-STINK"
+      "hydradx_main-LOCAL-STINK",
+      "moonbeam-LOCAL-xcSTINK"
     ]
   },
   {
@@ -905,6 +912,32 @@
     "chainAssets": [
       "pendulum-LOCAL-NGNC.s",
       "amplitude-LOCAL-NGNC.s"
+    ]
+  },
+  {
+    "slug": "WUD-GavunWud",
+    "name": "Gavun Wud",
+    "symbol": "WUD",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/wud_4aa551727c.png",
+    "originChainAsset": "statemint-LOCAL-WUD",
+    "chainAssets": [
+      "statemint-LOCAL-WUD",
+      "hydradx_main-LOCAL-WUD"
+    ]
+  },
+  {
+    "slug": "WIFD-DogWifDots",
+    "name": "Dog Wif Dots",
+    "symbol": "WIFD",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/wifd_6a8eda5e39.png",
+    "originChainAsset": "statemint-LOCAL-WIFD",
+    "chainAssets": [
+      "statemint-LOCAL-WIFD",
+      "hydradx_main-LOCAL-WIFD"
     ]
   }
 ]

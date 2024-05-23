@@ -185,7 +185,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 5,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "moonbeam",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": [
@@ -480,7 +480,7 @@
     },
     "hasValue": true,
     "ordinal": 18,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "acala",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": [
@@ -1124,7 +1124,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 47,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_cbf8e01066.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChain": "moonriver",
     "multiChainAsset": "MOVR-Moonriver",
     "assetRefs": []
@@ -1597,7 +1597,7 @@
     },
     "hasValue": true,
     "ordinal": 73,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_cbf8e01066.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChain": "calamari",
     "multiChainAsset": "MOVR-Moonriver",
     "assetRefs": []
@@ -1615,7 +1615,7 @@
     },
     "hasValue": true,
     "ordinal": 74,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_cbf8e01066.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChain": "calamari",
     "multiChainAsset": "MOVR-Moonriver",
     "assetRefs": []
@@ -5319,7 +5319,7 @@
     },
     "hasValue": true,
     "ordinal": 269,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_cbf8e01066.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChain": "shiden",
     "multiChainAsset": "MOVR-Moonriver",
     "assetRefs": []
@@ -6094,7 +6094,7 @@
     },
     "hasValue": true,
     "ordinal": 313,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": []
@@ -6272,7 +6272,7 @@
     },
     "hasValue": true,
     "ordinal": 323,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_cbf8e01066.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChain": "bifrost",
     "multiChainAsset": "MOVR-Moonriver",
     "assetRefs": []
@@ -9763,7 +9763,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": [
@@ -11820,7 +11820,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "pendulum",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": []
@@ -12323,6 +12323,202 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/common_staking_drop_e8a1670d41.png",
     "originChain": "aleph",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "peopleKusama-NATIVE-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "33333333",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
+    "originChain": "peopleKusama",
+    "multiChainAsset": "KSM-Kusama",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcSTINK",
+    "name": "STINK",
+    "symbol": "xcSTINK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "112679793397406599376365943185137098326",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xFffFffFf54c556bD1d0F64ec6c78f1B477525E56"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stink_65292f21c8.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "STINK-STINK",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-WUD",
+    "name": "Gavun Wud",
+    "symbol": "WUD",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "10000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "31337"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_4aa551727c.png",
+    "originChain": "statemint",
+    "multiChainAsset": "WUD-GavunWud",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-WUD",
+    "name": "Gavun Wud",
+    "symbol": "WUD",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000085"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_4aa551727c.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "WUD-GavunWud",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-WIFD",
+    "name": "Dog Wif Dots",
+    "symbol": "WIFD",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000082"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wifd_6a8eda5e39.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "WIFD-DogWifDots",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-WIFD",
+    "name": "Dog Wif Dots",
+    "symbol": "WIFD",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "17"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wifd_6a8eda5e39.png",
+    "originChain": "statemint",
+    "multiChainAsset": "WIFD-DogWifDots",
+    "assetRefs": []
+  },
+  {
+    "slug": "lineaZkEvm-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "originChain": "lineaZkEvm",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "PSP22",
+    "metadata": {
+      "contractAddress": "5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "originChain": "aleph",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph-PSP22-USDT-5Et3dDcXUiThrBCot7g65k3oDSicGy4qC82cq9f911izKNtE",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "PSP22",
+    "metadata": {
+      "contractAddress": "5Et3dDcXUiThrBCot7g65k3oDSicGy4qC82cq9f911izKNtE"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "aleph",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph-PSP22-USDC-5FYFojNCJVFR2bBNKfAePZCa72ZcVX5yeTv8K9bzeUo8D83Z",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "PSP22",
+    "metadata": {
+      "contractAddress": "5FYFojNCJVFR2bBNKfAePZCa72ZcVX5yeTv8K9bzeUo8D83Z"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
+    "originChain": "aleph",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph-PSP22-WBTC-5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "priceId": "bitcoin",
+    "minAmount": "0",
+    "assetType": "PSP22",
+    "metadata": {
+      "contractAddress": "5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_1637df0b29.png",
+    "originChain": "aleph",
+    "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": []
   }
 ]
