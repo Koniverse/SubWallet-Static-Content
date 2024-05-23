@@ -3,7 +3,7 @@
   "kusama": "https://static-data.subwallet.app/chains/images/icon/kusama_3a65d79366.png",
   "ethereum": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
   "binance": "https://static-data.subwallet.app/chains/images/icon/bnb_d6b4677e85.png",
-  "moonbeam": "https://static-data.subwallet.app/chains/images/icon/moonbeam_4f6ef924fe.png",
+  "moonbeam": "https://static-data.subwallet.app/chains/images/icon/moonbeam_fe54e27668.png",
   "pioneer": "https://static-data.subwallet.app/chains/images/icon/bit_country_pioneer_03e26dad1d.png",
   "aleph": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
   "astar": "https://static-data.subwallet.app/chains/images/icon/astar_network_fbd43df7b3.png",
@@ -25,7 +25,7 @@
   "bitcountry": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_d0a92a8433.png",
   "equilibrium_parachain": "https://static-data.subwallet.app/chains/images/icon/equilibrium_8c9f18b502.png",
   "moonbase": "https://static-data.subwallet.app/chains/images/icon/moonbase_e42c8ad3dc.png",
-  "moonriver": "https://static-data.subwallet.app/chains/images/icon/moonriver_06142a1b4a.png",
+  "moonriver": "https://static-data.subwallet.app/chains/images/icon/moonriver_06b4e41abc.png",
   "turingStaging": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
   "turing": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
   "bifrost": "https://static-data.subwallet.app/chains/images/icon/bifrost_kusama_cc2473707c.png",
@@ -245,5 +245,6 @@
   "hyperbridge": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
   "cess_testnet": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png",
   "bitcoin": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
-  "bitcoinTestnet": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png"
+  "bitcoinTestnet": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
+  "peopleKusama": null
 }

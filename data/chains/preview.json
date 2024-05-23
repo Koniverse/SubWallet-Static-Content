@@ -148,7 +148,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 5,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/moonbeam_4f6ef924fe.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/moonbeam_fe54e27668.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
       "Blast": "wss://moonbeam.public.blastapi.io",
@@ -1021,7 +1021,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 27,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/moonriver_06142a1b4a.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/moonriver_06b4e41abc.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
@@ -8710,7 +8710,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {},
+    "providers": {
+      "Avail": "wss://zeref-api.slowops.xyz/ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
@@ -8918,5 +8920,37 @@
       "symbol": "BTC",
       "bitcoinNetwork": "testnet"
     }
+  },
+  {
+    "slug": "peopleKusama",
+    "name": "Kusama People",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Parity": "wss://kusama-people-rpc.polkadot.io",
+      "Stakeworld": "wss://ksm-rpc.stakeworld.io/people"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 1004,
+      "genesisHash": "0xc1af4cb4eb3918e5db15086c0cc5ec17fb334f728b7c65dd44bfe1e174ff8b3f",
+      "addressPrefix": 2,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "33333333",
+      "symbol": "KSM",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
   }
 ]
