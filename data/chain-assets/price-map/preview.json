@@ -601,5 +601,19 @@
   "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u": "ethereum",
   "aleph-PSP22-USDT-5Et3dDcXUiThrBCot7g65k3oDSicGy4qC82cq9f911izKNtE": "tether",
   "aleph-PSP22-USDC-5FYFojNCJVFR2bBNKfAePZCa72ZcVX5yeTv8K9bzeUo8D83Z": "usd-coin",
-  "aleph-PSP22-WBTC-5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ": "bitcoin"
+  "aleph-PSP22-WBTC-5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ": "bitcoin",
+  "bounceBitEvm-NATIVE-BB": "bouncebit",
+  "bitcoin-RUNE-RUNE•ALPHA•COOK-840000:188": null,
+  "bitcoin-BRC20-ordi": null,
+  "bitcoin-BRC20-sats": null,
+  "bitcoin-BRC20-PUPS": null,
+  "bitcoin-BRC20-trac": null,
+  "bitcoin-BRC20-MUBI": null,
+  "bitcoin-BRC20-wzrd": null,
+  "bitcoin-RUNE-DOG•GO•TO•THE•MOON-840000:3": null,
+  "bitcoin-RUNE-EPIC•EPIC•EPIC•EPIC-842166:27": null,
+  "bitcoin-RUNE-RSIC•GENESIS•RUNE-840000:28": null,
+  "bitcoin-RUNE-UNCOMMON•GOODS-1:0": null,
+  "bitcoin-RUNE-RUNES•X•BITCOIN-840000:142": null,
+  "bounceBitEvmTest-NATIVE-BB": null
 }

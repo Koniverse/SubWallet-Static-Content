@@ -8542,7 +8542,7 @@
   },
   {
     "slug": "bitlayer",
-    "name": "Bitlayer Mainnet",
+    "name": "Bitlayer",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -8596,7 +8596,7 @@
   },
   {
     "slug": "bevm",
-    "name": "BEVM Mainnet",
+    "name": "BEVM",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -8649,7 +8649,7 @@
   },
   {
     "slug": "b2",
-    "name": "B2 Mainnet",
+    "name": "Bsquare Network",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -8731,7 +8731,7 @@
   },
   {
     "slug": "merlinEvm",
-    "name": "Merlin Mainnet",
+    "name": "Merlin Chain",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -8922,7 +8922,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_people_66e51c3245.png",
     "providers": {
       "Parity": "wss://kusama-people-rpc.polkadot.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io/people"
@@ -8969,6 +8969,58 @@
         "ERC721"
       ],
       "abiExplorer": "https://lineascan.build/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bounceBitEvm",
+    "name": "BounceBit",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
+    "providers": {
+      "BounceBit Api": "https://fullnode-mainnet.bouncebitapi.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 6001,
+      "blockExplorer": "https://bbscan.io",
+      "existentialDeposit": "0",
+      "symbol": "BB",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://bbscan.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bounceBitEvmTest",
+    "name": "BounceBit Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
+    "providers": {
+      "BounceBit Api": "https://fullnode-testnet.bouncebitapi.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 6000,
+      "blockExplorer": "https://testnet.bbscan.io",
+      "existentialDeposit": "0",
+      "symbol": "BB",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://testnet.bbscan.io"
     },
     "substrateInfo": null,
     "extraInfo": null,

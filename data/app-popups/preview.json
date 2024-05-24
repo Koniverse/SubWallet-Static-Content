@@ -82,9 +82,10 @@
       "name": "Test earning popup",
       "description": "Earning popup",
       "start_time": "2024-05-07T17:00:00.000Z",
-      "stop_time": "2024-05-09T17:00:00.000Z",
+      "stop_time": "2024-06-12T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "mobile",
+        "extension"
       ],
       "os": null
     },
@@ -103,21 +104,13 @@
         }
       }
     ],
-    "conditions": {
-      "condition-earning": [
-        {
-          "pool_slug": "DOT___native_staking___polkadot",
-          "comparison": "gte",
-          "value": 0
-        }
-      ]
-    }
+    "conditions": {}
   },
   {
     "id": 21,
     "priority": 1,
     "position": "token",
-    "repeat": "every_time",
+    "repeat": "once",
     "content": null,
     "repeat_every_x_days": null,
     "media": null,
@@ -127,9 +120,10 @@
       "name": "Test crowdloan",
       "description": "Description",
       "start_time": "2024-05-08T17:00:00.000Z",
-      "stop_time": "2024-05-09T17:00:00.000Z",
+      "stop_time": "2024-05-29T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "mobile",
+        "extension"
       ],
       "os": null
     },

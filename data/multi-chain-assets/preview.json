@@ -42,7 +42,7 @@
     "symbol": "GLMR",
     "priceId": "moonbeam",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonbeam_bee7b388c0.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChainAsset": "moonbeam-NATIVE-GLMR",
     "chainAssets": [
       "moonbeam-NATIVE-GLMR",
@@ -102,7 +102,7 @@
     "symbol": "MOVR",
     "priceId": "moonriver",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonriver_cbf8e01066.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChainAsset": "moonriver-NATIVE-MOVR",
     "chainAssets": [
       "moonriver-NATIVE-MOVR",
