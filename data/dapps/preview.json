@@ -1770,6 +1770,30 @@
     ]
   },
   {
+    "id": 156,
+    "title": "Täniko Interface",
+    "description": "Create assets, edit metadata, update admin accounts and revoke root privileges. It also allows you to pay tx fees in any asset that has a pool!",
+    "url": "https://taniko.soda.zone/",
+    "subtitle": "Create and manage assets on Asset Hub",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 70,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/taniko_ea796d7559.png",
+    "preview_image": null,
+    "chains": [
+      "statemint",
+      "statemine",
+      "rococo_assethub",
+      "paseoTest",
+      "westend"
+    ],
+    "categories": [
+      "utilities"
+    ]
+  },
+  {
     "id": 55,
     "title": "Dotmarketcap",
     "description": "Dotmarketcap is a website where you can find data of prices, charts, capitalization as well as the news and analysis of entire projects on the Polkadot ecosystem.",
