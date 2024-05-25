@@ -1658,7 +1658,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
     "providers": {
       "Galactic Council": "wss://rpc.hydradx.cloud",
-      "Dwellir": "wss://hydradx-rpc.dwellir.com"
+      "Helikon": "wss://rpc.helikon.io/hydradx",
+      "IBP2": "wss://hydradx.paras.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
