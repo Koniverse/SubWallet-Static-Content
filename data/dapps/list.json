@@ -508,7 +508,7 @@
     "ordinal": 21,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/wallet_connect_9ed43a1b95.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Chainflip_Swap_Announcement_in_app_801d78dd06.png",
+    "preview_image": null,
     "chains": [
       "polkadot",
       "ethereum"
@@ -1891,6 +1891,27 @@
     ],
     "categories": [
       "socialfi"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Flappy Wud",
+    "description": "Tap to jump and dodge the wood! The more $WUD in your connected wallet, the higher your multiplier.\nThere are some powerful items floating around so try not to miss them!",
+    "url": "http://flappywud.lol/",
+    "subtitle": "Gavun Wud's first game",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 75,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wud_4aa551727c.png",
+    "preview_image": null,
+    "chains": [
+      "statemint",
+      "hydradx_main"
+    ],
+    "categories": [
+      "gaming"
     ]
   },
   {
