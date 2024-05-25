@@ -53,6 +53,13 @@
     },
     "buttons": [
       {
+        "id": 37,
+        "label": "Cancel",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
         "id": 31,
         "label": "I understand",
         "color": "primary",
