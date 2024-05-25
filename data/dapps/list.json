@@ -1750,7 +1750,7 @@
   },
   {
     "id": 156,
-    "title": "Täniko Interface",
+    "title": "Täniko",
     "description": "Create assets, edit metadata, update admin accounts and revoke root privileges. It also allows you to pay tx fees in any asset that has a pool!",
     "url": "https://taniko.soda.zone/",
     "subtitle": "Create and manage assets on Asset Hub",
