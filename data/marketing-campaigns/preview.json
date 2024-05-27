@@ -1509,7 +1509,7 @@
       {
         "id": 24,
         "title": "Back up your accounts!",
-        "message": "As required by Google, SubWallet is updating to Manifest V3. Click to learn to back up and secure your accounts ahead of the update.",
+        "message": "As required by Google, SubWallet is updating to Manifest V3. Click to learn how to back up and secure your accounts ahead of the update.",
         "repeat": 1,
         "repeat_after_minutes": 30,
         "action": "open_url",
