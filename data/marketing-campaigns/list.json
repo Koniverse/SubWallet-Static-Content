@@ -1064,5 +1064,75 @@
       }
     ],
     "notifications": []
+  },
+  {
+    "id": 77,
+    "name": "Back up your accounts!",
+    "description": null,
+    "start_time": "2024-05-27T17:00:00.000Z",
+    "end_time": "2024-06-03T17:00:00.000Z",
+    "condition": null,
+    "banners": [
+      {
+        "id": 143,
+        "alt": "Back up your accounts!",
+        "action": "open_url",
+        "metadata": {
+          "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-all-accounts"
+        },
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I've backed up",
+            "icon": "XCircle",
+            "color": "secondary",
+            "type": null,
+            "metadata": {
+              "doneOnClick": true
+            }
+          },
+          {
+            "name": "Learn more",
+            "icon": "ArrowCircleRight",
+            "color": "primary",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-all-accounts",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Back_up_your_accounts_0c03cb20a5.png"
+      }
+    ],
+    "notifications": [
+      {
+        "id": 24,
+        "title": "Back up your accounts!",
+        "message": "As required by Google, SubWallet is updating to Manifest V3. Click to learn how to back up and secure your accounts ahead of the update.",
+        "repeat": 0,
+        "repeat_after_minutes": 0,
+        "action": "open_url",
+        "metadata": {
+          "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-all-accounts"
+        },
+        "buttons": [
+          {
+            "name": "Learn more",
+            "icon": null,
+            "color": "none",
+            "type": "open_url",
+            "metadata": {
+              "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-all-accounts"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
