@@ -151,8 +151,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbeam_fe54e27668.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
-      "Blast": "wss://moonbeam.public.blastapi.io",
-      "UnitedBloc": "wss://moonbeam.unitedbloc.com"
+      "Blast": "wss://moonbeam.public.blastapi.io"
     },
     "evmInfo": {
       "evmChainId": 1284,
@@ -1025,8 +1024,7 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
-      "Dwellir": "wss://moonriver-rpc.dwellir.com",
-      "UnitedBloc": "wss://moonriver.unitedbloc.com:2001"
+      "Dwellir": "wss://moonriver-rpc.dwellir.com"
     },
     "evmInfo": {
       "evmChainId": 1285,
@@ -8650,7 +8648,7 @@
   },
   {
     "slug": "b2",
-    "name": "Bsquare Network",
+    "name": "B² Network",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -8708,7 +8706,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {},
+    "providers": {
+      "Avail": "wss://zeref-api.slowops.xyz/ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
