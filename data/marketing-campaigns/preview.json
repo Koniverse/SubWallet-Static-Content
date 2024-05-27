@@ -1446,7 +1446,7 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app//6/Swap_is_live_ff59dfaaab.png"
+        "media": "https://media-resources.subwallet.app//6/Back_up_your_accounts_0c03cb20a5.png"
       }
     ],
     "notifications": [
@@ -1462,12 +1462,12 @@
         },
         "buttons": [
           {
-            "name": "Join now",
+            "name": "Learn more",
             "icon": null,
             "color": "none",
             "type": "open_url",
             "metadata": {
-              "url": "https://web.subwallet.app/earning-demo?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
+              "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-all-accounts"
             }
           }
         ]
