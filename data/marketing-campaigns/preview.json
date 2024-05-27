@@ -1406,7 +1406,7 @@
   },
   {
     "id": 77,
-    "name": "Test-backup seed phrase",
+    "name": "Test-Back up your accounts!",
     "description": null,
     "start_time": "2024-05-23T04:00:00.000Z",
     "end_time": "2024-05-28T16:00:00.000Z",
@@ -1508,13 +1508,13 @@
     "notifications": [
       {
         "id": 24,
-        "title": "Earn DOT rewards with SubWallet",
-        "message": "Stake DOT now at SubWallet Web Dashboard with top protocols to earn exclusive rewards. Only from Oct 24 to Nov 07, be quick!",
+        "title": "Back up your accounts!",
+        "message": "As required by Google, SubWallet is updating to Manifest V3 which requires you to back up your accounts. Click to learn to back up and secure your accounts ahead of the update.",
         "repeat": 1,
         "repeat_after_minutes": 30,
         "action": "open_url",
         "metadata": {
-          "url": "https://web.subwallet.app/earning-demo?utm_source=extensionnotification&utm_medium=extension&utm_campaign=stakedotearnmany"
+          "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/export-and-backup-accounts#export-all-accounts"
         },
         "buttons": [
           {
