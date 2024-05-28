@@ -138,7 +138,7 @@
       {
         "id": 33,
         "label": "Continue",
-        "color": null,
+        "color": "primary",
         "instruction": null,
         "action": {
           "id": 39,
