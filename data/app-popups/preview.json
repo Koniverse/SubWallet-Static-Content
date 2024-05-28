@@ -143,5 +143,56 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 25,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 48,
+      "name": "Stake AZERO. Get Your Common Drops!",
+      "description": "Stake AZERO. Get Your Common Drops!",
+      "start_time": "2024-05-27T17:00:00.000Z",
+      "stop_time": "2024-06-03T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 38,
+        "label": "Dismiss",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 39,
+        "label": "See more",
+        "color": "secondary",
+        "instruction": {
+          "id": 21,
+          "confirm_label": "Stake A0",
+          "cancel_label": "Dismiss",
+          "instruction_id": 36,
+          "group": "earning",
+          "slug": "DEMO_AZERO"
+        },
+        "action": {
+          "id": 42,
+          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
