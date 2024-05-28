@@ -168,14 +168,14 @@
       {
         "id": 38,
         "label": "Dismiss",
-        "color": "primary",
+        "color": "secondary",
         "instruction": null,
         "action": null
       },
       {
         "id": 39,
         "label": "See more",
-        "color": "secondary",
+        "color": "primary",
         "instruction": {
           "id": 21,
           "confirm_label": "Stake A0",
