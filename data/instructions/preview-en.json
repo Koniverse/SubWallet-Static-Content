@@ -67,15 +67,15 @@
       },
       {
         "id": 172,
-        "icon": "NumberCircleThree",
-        "icon_color": "#e1f1ab",
+        "icon": null,
+        "icon_color": "#1A1A1A",
         "title": "What is Effective Stake?",
-        "description": "Effective Stake is the lower number of either:\n- Your daily average stake of AZERO during a round\n- Your staked AZERO at the time of distribution"
+        "description": "Effective Stake is the lower number of either:\\n\n- Your daily average stake of AZERO during a round\n- Your staked AZERO at the time of distribution"
       },
       {
         "id": 173,
-        "icon": "AddressBook",
-        "icon_color": "#eae996",
+        "icon": null,
+        "icon_color": "#1A1A1A",
         "title": "Common LP Drops Distribution",
         "description": "The Common LP Drops are distributed daily to users who join the farms in Common, marked with the Drops icon. To see them in your wallet, you must manually claim the rewards."
       }
