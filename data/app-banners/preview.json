@@ -102,5 +102,46 @@
     ],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 23,
+    "position": "token_detail",
+    "priority": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "info": {
+      "id": 47,
+      "name": "Get Common Drop airdrop!",
+      "description": "Get Common Drop airdrop!",
+      "start_time": "2024-05-27T17:00:00.000Z",
+      "stop_time": "2024-06-03T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 10,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    },
+    "instruction": {
+      "id": 20,
+      "confirm_label": null,
+      "cancel_label": null,
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "DEMO_VARA"
+    }
   }
 ]
