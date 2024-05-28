@@ -143,7 +143,7 @@
     },
     "instruction": {
       "id": 20,
-      "confirm_label": "Stake AZERO",
+      "confirm_label": "Stake A0",
       "cancel_label": "Dismiss",
       "instruction_id": 36,
       "group": "earning",
