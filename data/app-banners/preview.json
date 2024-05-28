@@ -65,7 +65,7 @@
       "cancel_label": "Cancel",
       "instruction_id": 36,
       "group": "earning",
-      "slug": "DEMO_VARA"
+      "slug": "DEMO_AZERO"
     }
   },
   {
@@ -147,7 +147,7 @@
       "cancel_label": "Dismiss",
       "instruction_id": 36,
       "group": "earning",
-      "slug": "DEMO_VARA"
+      "slug": "DEMO_AZERO"
     }
   }
 ]
