@@ -1312,47 +1312,35 @@
   },
   {
     "id": 75,
-    "name": "Test - Extension - Call to swap",
+    "name": "Test - Mobile - Update version",
     "description": null,
     "start_time": "2024-04-24T17:00:00.000Z",
-    "end_time": "2024-05-11T17:00:00.000Z",
+    "end_time": "2024-05-29T17:00:00.000Z",
     "condition": null,
     "banners": [
       {
         "id": 139,
-        "alt": "Swap screen",
+        "alt": "Update version IOS",
         "action": "open_url",
-        "metadata": {
-          "url": "/index.html#/transaction/swap"
-        },
+        "metadata": null,
         "environments": [
-          "extension"
+          "mobile"
         ],
         "position": [
-          "home"
+          "tokens"
         ],
         "buttons": [
           {
-            "name": "Dismiss",
+            "name": "I understand",
             "icon": "XCircle",
             "color": "secondary",
             "type": null,
             "metadata": {
               "doneOnClick": true
             }
-          },
-          {
-            "name": "Swap",
-            "icon": "ArrowCircleRight",
-            "color": "primary",
-            "type": "open_url",
-            "metadata": {
-              "url": "/index.html#/transaction/swap",
-              "doneOnClick": true
-            }
           }
         ],
-        "media": "https://media-resources.subwallet.app//6/Swap_is_live_ff59dfaaab.png"
+        "media": "https://media-resources.subwallet.app//6/Back_up_your_accounts_c03f91f1e0.png"
       }
     ],
     "notifications": []
