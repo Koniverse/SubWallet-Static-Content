@@ -119,7 +119,13 @@
       ],
       "os": null
     },
-    "action": null,
+    "action": {
+      "id": 41,
+      "url": "subwallet://home/main/earning",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [
       {
         "property": "tokenSlug",
@@ -137,8 +143,8 @@
     },
     "instruction": {
       "id": 20,
-      "confirm_label": null,
-      "cancel_label": null,
+      "confirm_label": "Stake",
+      "cancel_label": "Dismiss",
       "instruction_id": 36,
       "group": "earning",
       "slug": "DEMO_VARA"
