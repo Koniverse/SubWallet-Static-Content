@@ -1327,7 +1327,8 @@
           "mobile"
         ],
         "position": [
-          "tokens"
+          "tokens",
+          "home"
         ],
         "buttons": [
           {
