@@ -76,44 +76,6 @@
     "conditions": {}
   },
   {
-    "id": 20,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": null,
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 41,
-      "name": "Test earning popup",
-      "description": "Earning popup",
-      "start_time": "2024-05-07T17:00:00.000Z",
-      "stop_time": "2024-06-12T17:00:00.000Z",
-      "platforms": [
-        "mobile",
-        "extension"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 32,
-        "label": "Continue",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 38,
-          "url": "subwallet://home/main/earning",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
     "id": 21,
     "priority": 1,
     "position": "token",
