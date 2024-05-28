@@ -47,40 +47,40 @@
   {
     "id": 36,
     "group": "earning",
-    "slug": "DEMO_VARA",
+    "slug": "DEMO_AZERO",
     "locale": "en",
-    "title": "Stake $DOT to get $VARCH 20,000,000 $VARCH airdrop",
+    "title": "Stake AZERO. Provide Liquidity. Get Your Common Drops!",
     "instructions": [
       {
         "id": 166,
         "icon": "NumberCircleOne",
         "icon_color": "#aada62",
-        "title": " Stake vDOT",
-        "description": "To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet "
+        "title": "How to get involved",
+        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you\nstake during a round, the better-and you need to be staking actively when the distribution\nhappens.\nThere are also Common LP Drops (CLD) waiting for you-just add liquidity to the pools with the\nDrops icon, and you'll get them daily, together with additional AZERO from farming.\nBoth CSD and CLD are non-transferable and will be redeemable for CMN tokens after their\nlaunch."
       },
       {
         "id": 167,
         "icon": "NumberCircleTwo",
         "icon_color": "#e6dc25",
-        "title": " Stake vDOT",
-        "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
+        "title": "Common Staking Drops Distribution",
+        "description": "The rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed.\nCheck the Common blog for a detailed breakdown."
       },
       {
         "id": 172,
         "icon": "NumberCircleThree",
         "icon_color": "#e1f1ab",
-        "title": "Stake vDOT",
-        "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
+        "title": "What is Effective Stake?",
+        "description": "Effective Stake is the lower number of either:\n- Your daily average stake of AZERO during a round\n- Your staked AZERO at the time of distribution"
       },
       {
         "id": 173,
         "icon": "AddressBook",
         "icon_color": "#eae996",
-        "title": "Stake vDOT",
-        "description": "$vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot."
+        "title": "Common LP Drops Distribution",
+        "description": "The Common LP Drops are distributed daily to users who join the farms in Common, marked with the Drops icon. To see them in your wallet, you must manually claim the rewards."
       }
     ],
-    "media": "https://static-data.subwallet.app/instructions/images/media/Airlyft_zk_EVM_by_Astar_c1b35d5416.png"
+    "media": "https://static-data.subwallet.app/instructions/images/media/A0_Common_Drops_5a0d80d63a.png"
   },
   {
     "id": 37,
