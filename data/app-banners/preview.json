@@ -121,7 +121,7 @@
     },
     "action": {
       "id": 41,
-      "url": "subwallet://home/main/earning",
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
       "screen": null,
       "params": null,
       "is_cancel": null
@@ -143,7 +143,7 @@
     },
     "instruction": {
       "id": 20,
-      "confirm_label": "Stake",
+      "confirm_label": "Stake AZERO",
       "cancel_label": "Dismiss",
       "instruction_id": 36,
       "group": "earning",
