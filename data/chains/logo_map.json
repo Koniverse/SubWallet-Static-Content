@@ -249,5 +249,6 @@
   "peopleKusama": "https://static-data.subwallet.app/chains/images/icon/kusama_people_66e51c3245.png",
   "lineaZkEvm": "https://static-data.subwallet.app/chains/images/icon/linea_f3fc15cc45.png",
   "bounceBitEvm": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
-  "bounceBitEvmTest": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png"
+  "bounceBitEvmTest": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
+  "kreivo": null
 }

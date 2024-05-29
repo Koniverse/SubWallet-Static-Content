@@ -255,7 +255,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
       "Aleph Zero Foundation": "wss://ws.azero.dev",
-      "Dwellir": "wss://aleph-zero-rpc.dwellir.com"
+      "Onfinality": "wss://aleph-zero.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -897,7 +897,7 @@
     "slug": "bitcountry",
     "name": "Bit.Country - Alpha Net",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 24,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_d0a92a8433.png",
     "providers": {
@@ -1450,7 +1450,7 @@
     "slug": "ethereum_goerli",
     "name": "Ethereum Goerli",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 37,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
     "providers": {
@@ -1656,6 +1656,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
     "providers": {
       "Galactic Council": "wss://rpc.hydradx.cloud",
+      "Dwellir": "wss://hydradx-rpc.dwellir.com",
       "Helikon": "wss://rpc.helikon.io/hydradx",
       "IBP2": "wss://hydradx.paras.dotters.network"
     },
@@ -5792,8 +5793,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
       "3dpass": "wss://rpc.3dpass.org",
-      "3dpscan": "wss://rpc.3dpscan.io",
-      "3dpass2": "wss://rpc2.3dpass.org"
+      "3dpscan": "wss://rpc.3dpscan.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6090,7 +6090,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/ftm_8ccdce4e96.png",
     "providers": {
       "Ankr": "https://rpc.ankr.com/fantom_testnet",
-      "X_API": "https://xapi.testnet.fantom.network/lachesis/",
       "FantomNetwork": "https://rpc.testnet.fantom.network/",
       "BlastApi": "https://fantom-testnet.public.blastapi.io/"
     },
@@ -9022,6 +9021,38 @@
       "abiExplorer": "https://testnet.bbscan.io"
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "kreivo",
+    "name": "Kreivo",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Virto": "wss://kreivo.io/",
+      "Kippu": "wss://kreivo.kippu.rocks/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2281,
+      "genesisHash": "0xc710a5f16adc17bcd212cff0aedcbf1c1212a043cdc0fb2dcba861efe5305b01",
+      "addressPrefix": 2,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "33333333",
+      "symbol": "KSM",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null
   }
