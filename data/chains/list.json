@@ -9,11 +9,10 @@
     "providers": {
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
-      "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
-      "IBP-GeoDNS2": "wss://rpc.dotters.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
-      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
+      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
+      "Allnodes": "wss://polkadot-rpc.publicnode.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -48,12 +47,11 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_3a65d79366.png",
     "providers": {
       "RadiumBlock": "wss://kusama.public.curie.radiumblock.co/ws",
-      "Dwellir Tunisia": "wss://kusama-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "IBP-GeoDNS2": "wss://rpc.dotters.network/kusama",
-      "Light Client": "light://substrate-connect/kusama"
+      "Light Client": "light://substrate-connect/kusama",
+      "Allnodes": "wss://kusama-rpc.publicnode.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -151,8 +149,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbeam_fe54e27668.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
-      "Blast": "wss://moonbeam.public.blastapi.io",
-      "UnitedBloc": "wss://moonbeam.unitedbloc.com"
+      "Blast": "wss://moonbeam.public.blastapi.io"
     },
     "evmInfo": {
       "evmChainId": 1284,
@@ -256,7 +253,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
       "Aleph Zero Foundation": "wss://ws.azero.dev",
-      "Dwellir": "wss://aleph-zero-rpc.dwellir.com"
+      "Onfinality": "wss://aleph-zero.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -375,10 +372,9 @@
     "ordinal": 10,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
-      "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://sys.ibp.network/statemint",
-      "IBP-GeoDNS2": "wss://sys.dotters.network/statemint",
-      "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub"
+      "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub",
+      "OnFinality": "wss://statemint.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -898,7 +894,7 @@
     "slug": "bitcountry",
     "name": "Bit.Country - Alpha Net",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 24,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_d0a92a8433.png",
     "providers": {
@@ -1025,8 +1021,7 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
-      "Dwellir": "wss://moonriver-rpc.dwellir.com",
-      "UnitedBloc": "wss://moonriver.unitedbloc.com:2001"
+      "Dwellir": "wss://moonriver-rpc.dwellir.com"
     },
     "evmInfo": {
       "evmChainId": 1285,
@@ -1452,7 +1447,7 @@
     "slug": "ethereum_goerli",
     "name": "Ethereum Goerli",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 37,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
     "providers": {
@@ -1658,7 +1653,9 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
     "providers": {
       "Galactic Council": "wss://rpc.hydradx.cloud",
-      "Dwellir": "wss://hydradx-rpc.dwellir.com"
+      "Dwellir": "wss://hydradx-rpc.dwellir.com",
+      "Helikon": "wss://rpc.helikon.io/hydradx",
+      "IBP2": "wss://hydradx.paras.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2362,11 +2359,10 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_asset_hub_9ae4528303.png",
     "providers": {
       "Dwellir": "wss://statemine-rpc.dwellir.com",
-      "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://sys.ibp.network/statemine",
-      "IBP-GeoDNS2": "wss://sys.dotters.network/statemine",
       "Lucky Friday": "wss://rpc-asset-hub-kusama.luckyfriday.io",
-      "Stake World": "wss://ksm-rpc.stakeworld.io/assethub"
+      "Stake World": "wss://ksm-rpc.stakeworld.io/assethub",
+      "Parity": "wss://kusama-asset-hub-rpc.polkadot.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5793,8 +5789,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
       "3dpass": "wss://rpc.3dpass.org",
-      "3dpscan": "wss://rpc.3dpscan.io",
-      "3dpass2": "wss://rpc2.3dpass.org"
+      "3dpscan": "wss://rpc.3dpscan.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6091,7 +6086,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/ftm_8ccdce4e96.png",
     "providers": {
       "Ankr": "https://rpc.ankr.com/fantom_testnet",
-      "X_API": "https://xapi.testnet.fantom.network/lachesis/",
       "FantomNetwork": "https://rpc.testnet.fantom.network/",
       "BlastApi": "https://fantom-testnet.public.blastapi.io/"
     },
