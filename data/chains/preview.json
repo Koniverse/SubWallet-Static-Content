@@ -1655,7 +1655,8 @@
       "Galactic Council": "wss://rpc.hydradx.cloud",
       "Dwellir": "wss://hydradx-rpc.dwellir.com",
       "Helikon": "wss://rpc.helikon.io/hydradx",
-      "IBP2": "wss://hydradx.paras.dotters.network"
+      "IBP2": "wss://hydradx.paras.dotters.network",
+      "IBP1": "wss://hydradx.paras.ibp.network"
     },
     "evmInfo": null,
     "substrateInfo": {
