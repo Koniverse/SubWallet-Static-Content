@@ -44,7 +44,7 @@
       "name": "Test - What's new?1",
       "description": "Update Version v1.1.50(364)",
       "start_time": "2024-04-20T17:00:00.000Z",
-      "stop_time": "2024-05-30T17:00:00.000Z",
+      "stop_time": "2024-06-07T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
@@ -79,8 +79,8 @@
     "id": 21,
     "priority": 1,
     "position": "token",
-    "repeat": "every_time",
-    "content": null,
+    "repeat": "once",
+    "content": "Content for testing\n",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
@@ -89,7 +89,7 @@
       "name": "Test crowdloan",
       "description": "Description",
       "start_time": "2024-05-08T17:00:00.000Z",
-      "stop_time": "2024-05-26T17:00:00.000Z",
+      "stop_time": "2024-05-30T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
@@ -191,6 +191,37 @@
           "params": null,
           "is_cancel": null
         }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 26,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![Update your app version.png](https://media-resources.subwallet.app//6/Update_your_app_version_b142589838.png)\n\n",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 49,
+      "name": "What's new?",
+      "description": "Update Your App Version v1.1.61(387)",
+      "start_time": "2024-06-02T17:00:00.000Z",
+      "stop_time": "2024-06-10T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": "iOS"
+    },
+    "buttons": [
+      {
+        "id": 40,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": null
       }
     ],
     "conditions": {}
