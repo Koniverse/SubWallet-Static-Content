@@ -79,7 +79,7 @@
     "id": 21,
     "priority": 1,
     "position": "token",
-    "repeat": "once",
+    "repeat": "every_time",
     "content": "![Back up your accounts!.png](https://media-resources.subwallet.app//6/Back_up_your_accounts_c03f91f1e0.png)",
     "repeat_every_x_days": null,
     "media": null,
@@ -104,7 +104,7 @@
         "instruction": null,
         "action": {
           "id": 39,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+          "url": "subwallet://home/main/earning",
           "screen": null,
           "params": null,
           "is_cancel": null
