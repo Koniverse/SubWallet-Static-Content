@@ -115,7 +115,8 @@
       "start_time": "2024-05-27T17:00:00.000Z",
       "stop_time": "2024-06-03T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "mobile",
+        "extension"
       ],
       "os": null
     },
