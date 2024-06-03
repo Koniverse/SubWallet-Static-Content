@@ -104,7 +104,7 @@
         "instruction": null,
         "action": {
           "id": 39,
-          "url": "subwallet://home/main/earning",
+          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
           "screen": null,
           "params": null,
           "is_cancel": null
