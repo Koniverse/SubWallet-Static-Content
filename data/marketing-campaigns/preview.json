@@ -1488,7 +1488,7 @@
         ],
         "buttons": [
           {
-            "name": "I understand",
+            "name": "Dismiss",
             "icon": null,
             "color": "primary",
             "type": null,
@@ -1498,7 +1498,7 @@
             }
           }
         ],
-        "media": "https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png"
+        "media": "https://media-resources.subwallet.app//6/Update_your_app_version_b142589838.png"
       }
     ],
     "notifications": []
