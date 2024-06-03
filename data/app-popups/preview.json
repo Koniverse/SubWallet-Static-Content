@@ -88,8 +88,8 @@
       "id": 42,
       "name": "Test crowdloan",
       "description": "Description",
-      "start_time": "2024-05-08T17:00:00.000Z",
-      "stop_time": "2024-05-30T17:00:00.000Z",
+      "start_time": "2024-06-02T17:00:00.000Z",
+      "stop_time": "2024-06-09T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
