@@ -146,7 +146,7 @@
   },
   {
     "id": 25,
-    "priority": 2,
+    "priority": 3,
     "position": "token",
     "repeat": "once",
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
