@@ -1465,7 +1465,7 @@
   },
   {
     "id": 78,
-    "name": "Update your app version",
+    "name": "Test - Update your app version",
     "description": null,
     "start_time": "2024-06-02T17:00:00.000Z",
     "end_time": "2024-06-10T16:59:00.000Z",
@@ -1473,6 +1473,44 @@
     "banners": [
       {
         "id": 144,
+        "alt": "popup",
+        "action": null,
+        "metadata": {
+          "url": ""
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "Dismiss",
+            "icon": null,
+            "color": "primary",
+            "type": null,
+            "metadata": {
+              "url": "",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Update_your_app_version_396618b2bb.png"
+      }
+    ],
+    "notifications": []
+  },
+  {
+    "id": 79,
+    "name": "Update your app version",
+    "description": "Update your app version 1.1.62",
+    "start_time": "2024-06-02T17:00:00.000Z",
+    "end_time": "2024-06-10T16:59:00.000Z",
+    "condition": null,
+    "banners": [
+      {
+        "id": 145,
         "alt": "popup",
         "action": null,
         "metadata": {
