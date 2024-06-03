@@ -1462,5 +1462,45 @@
         ]
       }
     ]
+  },
+  {
+    "id": 78,
+    "name": "Update IOS version",
+    "description": null,
+    "start_time": "2024-06-03T17:00:00.000Z",
+    "end_time": "2024-06-11T16:59:00.000Z",
+    "condition": {
+      "hasCrowdloan": true
+    },
+    "banners": [
+      {
+        "id": 144,
+        "alt": "popup",
+        "action": null,
+        "metadata": {
+          "url": ""
+        },
+        "environments": [
+          "mobile"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I understand",
+            "icon": null,
+            "color": "primary",
+            "type": null,
+            "metadata": {
+              "url": "",
+              "doneOnClick": true
+            }
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png"
+      }
+    ],
+    "notifications": []
   }
 ]
