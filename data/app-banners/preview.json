@@ -131,6 +131,10 @@
       {
         "property": "tokenSlug",
         "value": "aleph-NATIVE-AZERO"
+      },
+      {
+        "property": "slug",
+        "value": "DOT-Polkadot"
       }
     ],
     "conditions": {
