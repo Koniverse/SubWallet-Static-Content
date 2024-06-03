@@ -79,7 +79,7 @@
     "id": 21,
     "priority": 1,
     "position": "token",
-    "repeat": "every_time",
+    "repeat": "once",
     "content": "![Back up your accounts!.png](https://media-resources.subwallet.app//6/Back_up_your_accounts_c03f91f1e0.png)",
     "repeat_every_x_days": null,
     "media": null,
