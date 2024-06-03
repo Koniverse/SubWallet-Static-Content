@@ -99,7 +99,7 @@
     "buttons": [
       {
         "id": 33,
-        "label": "Continue",
+        "label": "I understand",
         "color": "primary",
         "instruction": null,
         "action": {
