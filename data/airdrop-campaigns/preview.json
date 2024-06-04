@@ -1,7 +1,7 @@
 [
   {
     "id": 30,
-    "name": "Dive in Skyball Game Challenge by Playnation x Karura and share 42,000 KAR pool prize ",
+    "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
     "status": "live",
     "ordinal": 78,
     "description": "Karura Token Playdrop: Eligibility & Allocation Rules \n\nIt's your time to shine as we reward your contributions and achievements with Airdrop Raffles. Each raffle is your ticket to winning big rewards from this campaign!\n\n🎁 $KAR Airdrop Pool: 42,000 KAR\n\n🔈 AIRDROP MECHANISM:\n⭐️ Top 1500 NPS Holders\n- Snapshot: June 1 -  June 14\n- Raffle Entries: 3 each\n\n⭐️ Top 500 NPS Holders\n- Snapshot: April 15 - May 15\n- Raffle Entries: 3 each\n\n⭐️ Top 100 Inviters\n- Snapshot: April 15 - June 14\n- Raffle Entries: 2 each\n\n⭐️ Social Event Winners\n- Event Period: June 1 - June 14\n- Raffle Entries: 1 each\n\n📆 Time to Claim Your Airdrop Rewards: June 19 - June 25\n\nThe fun doesn't stop. Mark your calendar, get ready to climb up the ranks, and invite more friends for more raffles  - don't miss out!",
@@ -18,7 +18,9 @@
     "campaign_url": "https://acala.network/karura",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/karura_f0db29b6d2.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Karura_x_Playnation_Airdrop_8ed0ca6108.jpg",
-    "chains": []
+    "chains": [
+      "karura"
+    ]
   },
   {
     "id": 27,
