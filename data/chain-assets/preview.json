@@ -12660,7 +12660,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_Alpha_1c75900266.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12676,7 +12676,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_ORDI_acf1945cfe.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12692,7 +12692,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_SATS_1248b2d45a.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12708,7 +12708,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_PU_Ps_555f25be55.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12724,7 +12724,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_TRAC_2a3c17bff3.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12740,7 +12740,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_mubi_76bb47de5d.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12756,7 +12756,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_Wzrd_8327b29dd6.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12774,7 +12774,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_Dog_b07dca20cf.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12792,7 +12792,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_EPIC_6762cfc5c8.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12810,7 +12810,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_RSIC_751c07f4c7.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12828,7 +12828,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_Uncommon_Good_0169d810c9.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12846,7 +12846,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Runes_X_Bitcoin_56fa847c37.png",
     "originChain": "bitcoin",
     "multiChainAsset": null,
     "assetRefs": []
