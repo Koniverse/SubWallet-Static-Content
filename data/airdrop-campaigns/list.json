@@ -1,8 +1,54 @@
 [
   {
+    "id": 27,
+    "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
+    "status": "live",
+    "ordinal": 79,
+    "description": "StellaSwap is Polkadot’s EVM super-DEX that facilitates low-slippage trading & real yields.\n\nWith over $1.6 B in volume and a 15,000 strong userbase, StellaSwap is the gateway to all things Polkadot.\n\nJoin the StellaSwap Mission and stand a chance to win big! This is your opportunity to dive into the Polkadot ecosystem, be part of our community, and earn rewards.\n\nComplete the tasks to be eligible to win $1,000 in GLMR.",
+    "start_time": "2024-05-05T16:00:00.000Z",
+    "end_time": "2024-06-29T16:00:00.000Z",
+    "url": "https://app.galxe.com/quest/StellaSwap/GCUomtzk4M",
+    "twitter_url": "https://twitter.com/StellaSwap",
+    "reward": "2999 GLMR",
+    "total_winner": "1",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://stellaswap.com/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
+    "chains": [
+      "moonbeam"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
+    "status": "live",
+    "ordinal": 80,
+    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
+    "start_time": "2024-04-29T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://lfd.tanssi.network/",
+    "twitter_url": "https://twitter.com/TanssiNetwork",
+    "reward": "4M Tanssi tokens",
+    "total_winner": "4000",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.tanssi.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
+    "chains": [
+      "dancebox"
+    ]
+  },
+  {
     "id": 21,
     "name": "Win $2000 USDT Prize Pool with Creditcoin's Real-World EVM Gamified Testnet campaign",
-    "status": "live",
+    "status": "archived",
     "ordinal": 81,
     "description": "The moment you’ve been waiting for! It’s time to showcase your Testnet credentials for a chance to win from the bonus $2,000 USDT prize pool!\n\nSimply grab Testnet tokens from the Discord Testnet Faucet and start exploring the protocol's and Testnet's main features. Validators and nominators should complete on-chain tasks with your Substrate wallet, while developers can start executing smart contracts using their submitted EVM wallet. Tasks include:\n\n- Using the faucets on Discord to receive Testnet tokens.\n- Completing a range of on-chain activities (e.g. validating, staking, transferring, etc.)\n- Executing smart contracts (developers)\n\nAs you dive deeper into Testnet, write a post or thread on X about Creditcoin with the required tags: $CTC #RWA #Layer1\n\nThen earn bonus points by referring your friends to maximize your chances of winning from the $2k USDT prize pool.\n\nParticipate and win by completing the quest now!",
     "start_time": "2024-04-01T12:00:00.000Z",
@@ -26,7 +72,7 @@
   {
     "id": 25,
     "name": "Win $800 in DOT with Polkadot Loves Conor NFT contest",
-    "status": "live",
+    "status": "archived",
     "ordinal": 83,
     "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n1️⃣ Create your Unique NFT\n2️⃣ Share on social media\n3️⃣ Follow our ecosystem partners\n\nJoin us for a chance to be one of the 25 lucky participants to win $800 in DOT! 🏆\n\nEnter the competition here 👇\nhttps://zealy.io/cw/unique",
     "start_time": "2024-04-16T06:30:00.000Z",
@@ -47,55 +93,9 @@
     ]
   },
   {
-    "id": 27,
-    "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
-    "status": "live",
-    "ordinal": 83,
-    "description": "StellaSwap is Polkadot’s EVM super-DEX that facilitates low-slippage trading & real yields.\n\nWith over $1.6 B in volume and a 15,000 strong userbase, StellaSwap is the gateway to all things Polkadot.\n\nJoin the StellaSwap Mission and stand a chance to win big! This is your opportunity to dive into the Polkadot ecosystem, be part of our community, and earn rewards.\n\nComplete the tasks to be eligible to win $1,000 in GLMR.",
-    "start_time": "2024-05-05T16:00:00.000Z",
-    "end_time": "2024-06-29T16:00:00.000Z",
-    "url": "https://app.galxe.com/quest/StellaSwap/GCUomtzk4M",
-    "twitter_url": "https://twitter.com/StellaSwap",
-    "reward": "2999 GLMR",
-    "total_winner": "1",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://stellaswap.com/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
-    "chains": [
-      "moonbeam"
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
-    "status": "live",
-    "ordinal": 84,
-    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
-    "start_time": "2024-04-29T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://lfd.tanssi.network/",
-    "twitter_url": "https://twitter.com/TanssiNetwork",
-    "reward": "4M Tanssi tokens",
-    "total_winner": "4000",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.tanssi.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
-    "chains": [
-      "dancebox"
-    ]
-  },
-  {
     "id": 29,
     "name": "Share 400 BNC rewards with Bifrost x Mimir campaign on Airlyft",
-    "status": "live",
+    "status": "archived",
     "ordinal": 84,
     "description": "vDOT x Multisig event on Airlyft is live!\n\nCreate a Multisig account on Mimir\nStart Multisig transactions\n\nComplete the assigned tasks and get a chance to share 400 BNC rewards!",
     "start_time": "2024-05-16T08:00:00.000Z",
