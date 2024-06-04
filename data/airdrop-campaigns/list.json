@@ -69,6 +69,30 @@
     ]
   },
   {
+    "id": 31,
+    "name": "Grab a 10M $DED reward with Zealy is $DED campaign",
+    "status": "live",
+    "ordinal": 80,
+    "description": "Zealy is $DED once again!\n\nThe community spoke, and their voices have been heard - join the second Zealy campaign, where 10,000,000 $DED is up for grabs.\n\n📅  24/05 5 PM CEST - 25/06 5 PM CEST\n\nJoin now at: https://zealy.io/cw/dotisded",
+    "start_time": "2024-05-24T15:00:00.000Z",
+    "end_time": "2024-06-25T15:00:00.000Z",
+    "url": "https://zealy.io/cw/dotisded",
+    "twitter_url": "https://x.com/dotisded",
+    "reward": "10M $DED",
+    "total_winner": "400",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "points"
+    ],
+    "campaign_url": "https://www.dotisded.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Zealy_is_DED_campaign_0b01e26a45.jpg",
+    "chains": [
+      "statemint"
+    ]
+  },
+  {
     "id": 21,
     "name": "Win $2000 USDT Prize Pool with Creditcoin's Real-World EVM Gamified Testnet campaign",
     "status": "archived",
