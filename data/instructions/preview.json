@@ -56,14 +56,21 @@
         "icon": null,
         "icon_color": "#1A1A1A",
         "title": "How to get involved",
-        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better-and you need to be staking actively when the distribution\nhappens.\nThere are also Common LP Drops (CLD) waiting for you-just add liquidity to the pools with the Drops icon, and you'll get them daily, together with additional AZERO from farming.\nBoth CSD and CLD are non-transferable and will be redeemable for CMN tokens after their\nlaunch."
+        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better-and you need to be staking actively when the distribution\nhappens"
+      },
+      {
+        "id": 174,
+        "icon": null,
+        "icon_color": null,
+        "title": "How to get the Liquidity Drops?",
+        "description": "There are also Common LP Drops (CLD) waiting for you–just add liquidity to the pools with the Drops icon, and you’ll get them daily, together with additional AZERO from farming.\nBoth CSD and CLD are non-transferable and will be redeemable for CMN tokens after their launch."
       },
       {
         "id": 167,
         "icon": null,
         "icon_color": "#1A1A1A",
         "title": "Common Staking Drops Distribution",
-        "description": "The rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed.\nCheck the Common blog for a detailed breakdown."
+        "description": "The rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed.\nCheck the Common blog for a detailed breakdown.[Click here!](https://common.fi/blog/)"
       },
       {
         "id": 172,
@@ -71,6 +78,13 @@
         "icon_color": "#1A1A1A",
         "title": "What is Effective Stake?",
         "description": "Effective Stake is the lower number of either:\n\n&nbsp;\n\n- Your daily average stake of AZERO during a round\n\n&nbsp;\n\n- Your staked AZERO at the time of distribution"
+      },
+      {
+        "id": 175,
+        "icon": null,
+        "icon_color": null,
+        "title": "How to get the Liquidity Drops?",
+        "description": "There are also Common LP Drops (CLD) waiting for you–just add liquidity to the pools with the Drops icon, and you’ll get them daily, together with additional AZERO from farming.\nBoth CSD and CLD are non-transferable and will be redeemable for CMN tokens after their launch."
       },
       {
         "id": 173,
