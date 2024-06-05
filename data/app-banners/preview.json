@@ -136,7 +136,7 @@
     "conditions": {},
     "instruction": {
       "id": 20,
-      "confirm_label": "Stake A0",
+      "confirm_label": "Stake AZERO",
       "cancel_label": "Dismiss",
       "instruction_id": 36,
       "group": "earning",
