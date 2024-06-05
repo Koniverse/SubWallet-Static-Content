@@ -160,7 +160,12 @@
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
     "repeat_every_x_days": null,
     "media": null,
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
     "info": {
       "id": 48,
       "name": null,
