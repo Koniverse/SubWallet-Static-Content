@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": 36,
+    "group": "earning",
+    "slug": "AZERO_Alephzero",
+    "locale": "en",
+    "title": "Stake AZERO. Get Common Drops!",
+    "instructions": [
+      {
+        "id": 166,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "How to get involved",
+        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
+      },
+      {
+        "id": 167,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Common Staking Drops distribution",
+        "description": "The rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!"
+      },
+      {
+        "id": 172,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "What is Effective Stake?",
+        "description": "Effective Stake is the lower number of either your daily average stake of AZERO during a round, or your staked AZERO at the time of distribution."
+      },
+      {
+        "id": 174,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "How to get the Liquidity Drops?",
+        "description": "There are also Common LP Drops (CLD) waiting for you–just add liquidity to the pools with the Drops icon, and you’ll get them daily, together with additional AZERO from farming.\nBoth CSD and CLD are non-transferable and will be redeemable for CMN tokens after their launch."
+      },
+      {
+        "id": 173,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Common LP Drops distribution",
+        "description": "The Common LP Drops are distributed daily to users who join the farms in Common, marked with the Drops icon. To see them in your wallet, you must manually claim the rewards. Go to Alephoria website to find out more!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instructions/images/media/A0_1_c671ff3eec.png"
+  }
+]
