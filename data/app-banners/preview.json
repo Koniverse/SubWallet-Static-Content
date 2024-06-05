@@ -131,21 +131,9 @@
       {
         "property": "tokenSlug",
         "value": "aleph-NATIVE-AZERO"
-      },
-      {
-        "property": "slug",
-        "value": "DOT-Polkadot"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 10,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 20,
       "confirm_label": "Stake A0",
