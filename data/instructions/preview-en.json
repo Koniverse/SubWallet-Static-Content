@@ -49,7 +49,7 @@
     "group": "earning",
     "slug": "DEMO_AZERO",
     "locale": "en",
-    "title": "Stake AZERO. Get Your Common Drops!",
+    "title": "Stake AZERO. Get Common Drops!",
     "instructions": [
       {
         "id": 166,
@@ -62,7 +62,7 @@
         "id": 167,
         "icon": null,
         "icon_color": "#1A1A1A",
-        "title": "Common Staking Drops Distribution",
+        "title": "Common Staking Drops distribution",
         "description": "The rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!"
       },
       {
@@ -83,7 +83,7 @@
         "id": 173,
         "icon": null,
         "icon_color": "#1A1A1A",
-        "title": "Common LP Drops Distribution",
+        "title": "Common LP Drops distribution",
         "description": "The Common LP Drops are distributed daily to users who join the farms in Common, marked with the Drops icon. To see them in your wallet, you must manually claim the rewards. Go to Alephoria website to find out more!"
       }
     ],
