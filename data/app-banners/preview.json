@@ -65,7 +65,7 @@
       "cancel_label": "Cancel",
       "instruction_id": 36,
       "group": "earning",
-      "slug": "DEMO_AZERO"
+      "slug": "AZERO_Alephzero"
     }
   },
   {
@@ -111,12 +111,11 @@
     "info": {
       "id": 47,
       "name": "Get Common Drop airdrop!",
-      "description": "Get Common Drop airdrop!",
-      "start_time": "2024-05-27T17:00:00.000Z",
-      "stop_time": "2024-06-05T17:00:00.000Z",
+      "description": "Get Common Drop airdrop! - AZERO",
+      "start_time": "2024-06-05T14:00:00.000Z",
+      "stop_time": "2024-06-19T14:00:00.000Z",
       "platforms": [
-        "mobile",
-        "extension"
+        "mobile"
       ],
       "os": null
     },
@@ -140,7 +139,7 @@
       "cancel_label": "Dismiss",
       "instruction_id": 36,
       "group": "earning",
-      "slug": "DEMO_AZERO"
+      "slug": "AZERO_Alephzero"
     }
   }
 ]
