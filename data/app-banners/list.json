@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": 23,
+    "position": "token_detail",
+    "priority": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "info": {
+      "id": 47,
+      "name": "Get Common Drop airdrop!",
+      "description": "Get Common Drop airdrop! - AZERO",
+      "start_time": "2024-06-05T14:00:00.000Z",
+      "stop_time": "2024-06-19T14:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 41,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 20,
+      "confirm_label": "Stake AZERO",
+      "cancel_label": "Dismiss",
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "AZERO_Alephzero"
+    }
+  }
+]
