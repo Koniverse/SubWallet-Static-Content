@@ -282,8 +282,8 @@ const cacheConfigs = [
         ]
     },
     {
-        url: `${STRAPI_URL}/api/list/mobile-button`,
-        folder: 'mobile-buttons',
+        url: `${STRAPI_URL}/api/list/mobile-feature`,
+        folder: 'mobile-features',
         fileName: 'list.json',
         imageFields: [],
         removeFields: ['id'],
