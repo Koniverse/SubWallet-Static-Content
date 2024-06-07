@@ -281,6 +281,15 @@ const cacheConfigs = [
             }
         ]
     },
+    {
+        url: `${STRAPI_URL}/api/list/mobile-button`,
+        folder: 'mobile-buttons',
+        fileName: 'list.json',
+        imageFields: [],
+        removeFields: ['id'],
+        preview: 'preview.json',
+        additionalProcess: []
+    },
 ]
 
 const savePath = (folder, fileName) => `data/${folder}/${fileName || 'list.json'}`;
