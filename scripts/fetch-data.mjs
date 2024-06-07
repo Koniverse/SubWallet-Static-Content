@@ -245,30 +245,37 @@ const cacheConfigs = [
     {
         url: `${STRAPI_URL}/api/list/buy-button`,
         folder: 'buy-buttons',
-        fileName: 'list.json',
+        fileName: '',
         imageFields: [],
         removeFields: ['id'],
-        preview: 'preview.json',
+        preview: '',
         additionalProcess: [
-            async (data, preview_data, config, lang, isProduction) => {
-                if (preview_data.length > 0 || data.length > 0) {
-                    const dataSave = preview_data.map((item) => {
+            async (data, previewData, config, lang, isProduction) => {
+                const {data: _data, fileName} = isProduction ? {
+                    data: data,
+                    fileName: "config.json"
+                } : {
+                    data: previewData,
+                    fileName: "preview.json"
+                };
+
+                if (_data.length > 0) {
+                    const dataSave = _data.map((item) => {
                         return item.version;
-                    });
+                    }).sort((a, b) => a.localeCompare(b, undefined, {numeric: true}));
                     let dataConfig = {
                         address: true,
-                        sell: true,
+                        send: true,
                         buy: []
                     };
+                    const path = savePath('tokens', fileName);
                     try {
-                        const filePath = 'data/tokens/config.json';
-                        dataConfig = JSON.parse(fs.readFileSync(filePath));
+                        dataConfig = JSON.parse(fs.readFileSync(path));
                     } catch (e) {
                         console.log(e)
                     }
 
                     dataConfig.buy = dataSave;
-                    const path = savePath('tokens', `config.json`);
                     writeJSONFile(path, dataConfig).catch(console.error)
                 }
             }
@@ -378,11 +385,8 @@ const main = async () => {
         }
 
         for (const lang of langs) {
-            const path = savePath(folder, getFileNameByLang(config.fileName, lang));
-            const previewPath = config.preview && savePath(folder, getFileNameByLang(config.preview, lang));
-
             const dataContent = await fetchAndProcessData(getUrl(config.url, false, lang), folder, downloadDir, fieldsImage);
-            const previewData = config.preview && (await fetchAndProcessData(getUrl(config.url, true, lang), folder, downloadDir, fieldsImage));
+            const previewData = await fetchAndProcessData(getUrl(config.url, true, lang), folder, downloadDir, fieldsImage);
 
             if (config.additionalProcess) {
                 for (const process of config.additionalProcess) {
@@ -400,9 +404,15 @@ const main = async () => {
                     }
                 }
             }
+            if (config.fileName && isProduction && dataContent) {
+                const path = savePath(folder, getFileNameByLang(config.fileName, lang));
+                await writeJSONFile(path, dataContent);
+            }
+            if (config.preview && previewData) {
+                const previewPath = savePath(folder, getFileNameByLang(config.preview, lang))
+                await writeJSONFile(previewPath, previewData);
+            }
 
-            isProduction && await writeJSONFile(path, dataContent);
-            previewData && await writeJSONFile(previewPath, previewData);
         }
     }
 }
