@@ -1,0 +1,15 @@
+[
+  {
+    "version": "1.1.63",
+    "ios_buy": true,
+    "ios_swap": true,
+    "ios_browser": true,
+    "android_buy": true,
+    "android_swap": true,
+    "android_browser": true,
+    "vuid": "1f71c0ea-6fb6-4317-a997-b56e927ca962",
+    "versionNumber": 1,
+    "versionComment": null,
+    "isVisibleInListView": true
+  }
+]
