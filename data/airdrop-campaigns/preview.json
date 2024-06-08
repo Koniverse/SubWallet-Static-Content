@@ -1,5 +1,30 @@
 [
   {
+    "id": 33,
+    "name": "Share 400 USD pool prize with Archisinal Zealy Sprint",
+    "status": "live",
+    "ordinal": 76,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-06-06T17:00:00.000Z",
+    "end_time": "2024-06-29T17:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
+    "twitter_url": "https://x.com/archisinal/status/1799082251357192314",
+    "reward": "400 USD",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "vuid": "af414487-2bb3-483d-aad6-7ebdeec454f7",
+    "versionNumber": 2,
+    "versionComment": null,
+    "isVisibleInListView": true,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Peb_Tbab_YAA_7_Fud_a5f2bf6588.jpeg",
+    "chains": []
+  },
+  {
     "id": 30,
     "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
     "status": "live",
