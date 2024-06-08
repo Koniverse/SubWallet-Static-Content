@@ -12,7 +12,7 @@ const cacheConfigs = [
         folder: 'chains',
         fileName: 'list.json',
         imageFields: ['icon'],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
         additionalProcess: [
             (data, preview_data, config, lang, isProduction) => {
@@ -29,7 +29,7 @@ const cacheConfigs = [
         folder: 'dapps',
         fileName: 'list.json',
         imageFields: ['icon', 'preview_image'],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -37,7 +37,7 @@ const cacheConfigs = [
         folder: 'categories',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -45,7 +45,7 @@ const cacheConfigs = [
         folder: 'airdrop-campaigns',
         fileName: 'list.json',
         imageFields: ['logo', 'backdrop_image'],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -53,7 +53,7 @@ const cacheConfigs = [
         folder: 'crowdloan-funds',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -61,7 +61,7 @@ const cacheConfigs = [
         folder: 'marketing-campaigns',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -69,7 +69,7 @@ const cacheConfigs = [
         folder: 'buy-service-infos',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -77,7 +77,7 @@ const cacheConfigs = [
         folder: 'buy-token-configs',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
     },
     {
@@ -85,7 +85,7 @@ const cacheConfigs = [
         folder: 'instructions',
         fileName: 'list.json',
         imageFields: ['media'],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
     },
@@ -94,7 +94,7 @@ const cacheConfigs = [
         folder: 'change-logs',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
     },
@@ -103,7 +103,7 @@ const cacheConfigs = [
         folder: 'markdown-contents',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
         additionalProcess: [
@@ -134,7 +134,7 @@ const cacheConfigs = [
         folder: 'chain-assets',
         fileName: 'list.json',
         imageFields: ['icon'],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
         additionalProcess: [
             async (data, preview_data, config, lang, isProduction) => {
@@ -207,7 +207,7 @@ const cacheConfigs = [
         folder: 'multi-chain-assets',
         fileName: 'list.json',
         imageFields: ['icon'],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json'
     },
     {
@@ -215,7 +215,7 @@ const cacheConfigs = [
         folder: 'app-banners',
         fileName: 'list.json',
         imageFields: ['media'],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json'
     },
     {
@@ -223,7 +223,7 @@ const cacheConfigs = [
         folder: 'app-popups',
         fileName: 'list.json',
         imageFields: ['media'],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json'
     },
     {
@@ -231,7 +231,7 @@ const cacheConfigs = [
         folder: 'app-change-logs',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json'
     },
     {
@@ -239,7 +239,7 @@ const cacheConfigs = [
         folder: 'app-confirmations',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: [],
+        removeFields: ['vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json'
     },
     {
@@ -247,7 +247,7 @@ const cacheConfigs = [
         folder: 'buy-buttons',
         fileName: '',
         imageFields: [],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: '',
         additionalProcess: [
             async (data, previewData, config, lang, isProduction) => {
@@ -286,7 +286,7 @@ const cacheConfigs = [
         folder: 'mobile-features',
         fileName: 'list.json',
         imageFields: [],
-        removeFields: ['id'],
+        removeFields: ['id', 'vuid', 'versionNumber', 'versionComment', 'isVisibleInListView'],
         preview: 'preview.json',
         additionalProcess: []
     },
@@ -405,11 +405,15 @@ const main = async () => {
 
             for (const f of config.removeFields) {
                 for (const item of dataContent) {
-                    item[f] && delete item[f];
+                    if (f in item) {
+                        delete item[f];
+                    }
                 }
                 if (previewData) {
                     for (const item of previewData) {
-                        item[f] && delete item[f];
+                        if (f in item) {
+                            delete item[f];
+                        }
                     }
                 }
             }
