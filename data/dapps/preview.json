@@ -1,8 +1,8 @@
 [
   {
     "id": 59,
-    "title": "HydraDX",
-    "description": "The HydraDX Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
+    "title": "Hydratio",
+    "description": "The Hydration Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
     "url": "https://bit.ly/hydradx_wallet2024",
     "subtitle": "DeFi Protocol designed to bring liquidity to Polkadot",
     "is_substrate": null,
@@ -10,7 +10,7 @@
     "is_featured": true,
     "ordinal": 1,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/hydradx_a80c4584de.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/hydration_5513bef59e.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Hydra_DX_Web_App_and_Mobile_1200x600_68893e627c.png",
     "chains": [
       "hydradx_main"
