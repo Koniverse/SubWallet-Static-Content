@@ -11,8 +11,7 @@
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
-      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
-      "Allnodes": "wss://polkadot-rpc.publicnode.com"
+      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -50,8 +49,7 @@
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama",
-      "Allnodes": "wss://kusama-rpc.publicnode.com"
+      "Light Client": "light://substrate-connect/kusama"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -925,7 +923,7 @@
     "slug": "equilibrium_parachain",
     "name": "Equilibrium",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 25,
     "icon": "https://static-data.subwallet.app/chains/images/icon/equilibrium_8c9f18b502.png",
     "providers": {
@@ -1646,16 +1644,15 @@
   },
   {
     "slug": "hydradx_main",
-    "name": "HydraDX",
+    "name": "Hydration",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 42,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_285eea3042.png",
     "providers": {
       "Galactic Council": "wss://rpc.hydradx.cloud",
       "Dwellir": "wss://hydradx-rpc.dwellir.com",
-      "Helikon": "wss://rpc.helikon.io/hydradx",
-      "IBP2": "wss://hydradx.paras.dotters.network"
+      "Helikon": "wss://rpc.helikon.io/hydradx"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1665,7 +1662,7 @@
       "addressPrefix": 63,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://loan.hydradx.io/",
-      "blockExplorer": "https://hydradx.subscan.io/",
+      "blockExplorer": "https://hydration.subscan.io/",
       "existentialDeposit": "1000000000000",
       "symbol": "HDX",
       "decimals": 12,
@@ -1688,7 +1685,7 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "hydradx",
+      "subscanSlug": "hydration",
       "chainBalanceSlug": "hydradx"
     },
     "bitcoinInfo": null
@@ -1701,8 +1698,7 @@
     "ordinal": 43,
     "icon": "https://static-data.subwallet.app/chains/images/icon/edgeware_6a0057274c.png",
     "providers": {
-      "JelliedOwl": "wss://edgeware.jelliedowl.net",
-      "Commonwealth Labs": "wss://mainnet2.edgewa.re"
+      "JelliedOwl": "wss://edgeware.jelliedowl.net"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2724,7 +2720,7 @@
       "paraId": 2092,
       "genesisHash": "0xe3a1cf3db108e3e45c63a4841fe89ba95108b1db14fdec10c2e8a078ff322a67",
       "addressPrefix": 2092,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": null,
@@ -2907,7 +2903,7 @@
     "slug": "genshiro",
     "name": "Genshiro",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 71,
     "icon": "https://static-data.subwallet.app/chains/images/icon/genshiro_1734447125.png",
     "providers": {
@@ -4391,7 +4387,7 @@
       "addressPrefix": 56,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://pendulum.subscan.io/",
       "existentialDeposit": "1000000000",
       "symbol": "PEN",
       "decimals": 12,
@@ -4413,7 +4409,10 @@
         }
       ]
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "pendulum",
+      "chainBalanceSlug": "pendulum"
+    },
     "bitcoinInfo": null
   },
   {
@@ -7506,7 +7505,7 @@
       "paraId": 1000,
       "genesisHash": "0x3af4ff48ec76d2efc8476730f423ac07e25ad48f5f4c9dc39c778b164d808615",
       "addressPrefix": 1110,
-      "chainType": null,
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://matrix.subscan.io/",
       "existentialDeposit": "100000000000000000",
@@ -7543,7 +7542,7 @@
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": "10000000000000",
+      "existentialDeposit": "1000000000000",
       "symbol": "TVARA",
       "decimals": 12,
       "hasNativeNft": null,
@@ -7565,7 +7564,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
     "providers": {
-      "Avail Tool Testnet": "wss://rpc-testnet.avail.tools/ws",
       "Goldberg testnet": "wss://goldberg-testnet-rpc.avail.tools/ws"
     },
     "evmInfo": null,
@@ -7803,7 +7801,7 @@
       "paraId": 3346,
       "genesisHash": "0xae1ca86c936aa252cdc45f4f436220567b2bbbcc4834f5b8f4191462baf19dfb",
       "addressPrefix": 268,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://continuum.subscan.io/",
       "existentialDeposit": "100000000000000000",
@@ -7838,7 +7836,7 @@
       "paraId": 1000,
       "genesisHash": "0x7c34d42fc815d392057c78b49f2755c753440ccd38bcb0405b3bcfb601d08734",
       "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "3333333",
@@ -8146,11 +8144,11 @@
   },
   {
     "slug": "hydradx_rococo",
-    "name": "HydraDX Rococo",
+    "name": "Hydration Rococo",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_721c03c934.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_285eea3042.png",
     "providers": {
       "Hydration Nice": "wss://rpc.nice.hydration.cloud"
     },
@@ -8504,6 +8502,87 @@
     "bitcoinInfo": null
   },
   {
+    "slug": "bitlayer",
+    "name": "Bitlayer",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
+    "providers": {
+      "Bitlayer": "https://rpc.bitlayer.org",
+      "Rpc": "https://rpc.bitlayer-rpc.com",
+      "Ankr": "https://rpc.ankr.com/bitlayer"
+    },
+    "evmInfo": {
+      "evmChainId": 200901,
+      "blockExplorer": "https://www.btrscan.com",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://www.btrscan.com"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bitlayerTest",
+    "name": "Bitlayer Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
+    "providers": {
+      "Rpc testnet": "https://testnet-rpc.bitlayer.org"
+    },
+    "evmInfo": {
+      "evmChainId": 200810,
+      "blockExplorer": "https://testnet-scan.bitlayer.org",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://testnet-scan.bitlayer.org"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "b2",
+    "name": "B² Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
+    "providers": {
+      "Bsquared": "https://rpc.bsquared.network",
+      "Alt technology": "https://b2-mainnet.alt.technology"
+    },
+    "evmInfo": {
+      "evmChainId": 223,
+      "blockExplorer": "https://explorer.bsquared.network/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://explorer.bsquared.network/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
     "slug": "bobMainnet",
     "name": "BOB",
     "isTestnet": false,
@@ -8659,7 +8738,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
     "providers": {
-      "Blockstream": "https://electrs.openbit.app"
+      "Blockstream": "https://api.openbit.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -8748,6 +8827,90 @@
       "abiExplorer": "https://lineascan.build/"
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bounceBitEvm",
+    "name": "BounceBit",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
+    "providers": {
+      "BounceBit Api": "https://fullnode-mainnet.bouncebitapi.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 6001,
+      "blockExplorer": "https://bbscan.io",
+      "existentialDeposit": "0",
+      "symbol": "BB",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://bbscan.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bounceBitEvmTest",
+    "name": "BounceBit Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
+    "providers": {
+      "BounceBit Api": "https://fullnode-testnet.bouncebitapi.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 6000,
+      "blockExplorer": "https://testnet.bbscan.io",
+      "existentialDeposit": "0",
+      "symbol": "BB",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://testnet.bbscan.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "kreivo",
+    "name": "Kreivo",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/kreivo_a2650e40f6.png",
+    "providers": {
+      "Virto": "wss://kreivo.io/",
+      "Kippu": "wss://kreivo.kippu.rocks/"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 2281,
+      "genesisHash": "0xc710a5f16adc17bcd212cff0aedcbf1c1212a043cdc0fb2dcba861efe5305b01",
+      "addressPrefix": 2,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "33333333",
+      "symbol": "KSM",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null
   }
