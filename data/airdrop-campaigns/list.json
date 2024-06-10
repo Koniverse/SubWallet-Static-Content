@@ -21,7 +21,7 @@
     "chains": []
   },
   {
-    "id": 36,
+    "id": 39,
     "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
     "status": "live",
     "ordinal": 77,
@@ -33,7 +33,9 @@
     "reward": "42,000 KAR",
     "total_winner": "N/A",
     "total_supply": null,
-    "tags": "[\n  \"lucky_draw\"\n]",
+    "tags": [
+      "lucky_draw"
+    ],
     "campaign_url": "https://acala.network/karura",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/karura_f0db29b6d2.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Karura_x_Playnation_Airdrop_8ed0ca6108.jpg",
