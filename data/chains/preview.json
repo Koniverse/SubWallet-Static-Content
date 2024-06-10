@@ -8874,7 +8874,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
     "providers": {
-      "Blockstream": "https://electrs.openbit.app"
+      "Blockstream": "https://api.openbit.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
