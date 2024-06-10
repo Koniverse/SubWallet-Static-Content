@@ -44,7 +44,7 @@
       "name": "Test - What's new?1",
       "description": "Update Version v1.1.50(364)",
       "start_time": "2024-04-20T17:00:00.000Z",
-      "stop_time": "2024-06-04T17:00:00.000Z",
+      "stop_time": "2024-06-21T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -65,52 +65,6 @@
         "instruction": null,
         "action": {
           "id": 40,
-          "url": "subwallet://home/main/earning",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "polkadot-NATIVE-DOT"
-        }
-      ]
-    }
-  },
-  {
-    "id": 21,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "![Back up your accounts!.png](https://media-resources.subwallet.app//6/Back_up_your_accounts_c03f91f1e0.png)",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 42,
-      "name": null,
-      "description": "Description",
-      "start_time": "2024-06-02T17:00:00.000Z",
-      "stop_time": "2024-06-04T17:00:00.000Z",
-      "platforms": [
-        "mobile",
-        "extension"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 33,
-        "label": "I understand",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 39,
           "url": "subwallet://home/main/earning",
           "screen": null,
           "params": null,
@@ -152,57 +106,6 @@
     "conditions": {}
   },
   {
-    "id": 25,
-    "priority": 2,
-    "position": "token",
-    "repeat": "once",
-    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 48,
-      "name": null,
-      "description": "Stake AZERO. Get Your Common Drops!",
-      "start_time": "2024-06-05T14:00:00.000Z",
-      "stop_time": "2024-06-19T14:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 38,
-        "label": "Dismiss",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 39,
-        "label": "See more",
-        "color": "primary",
-        "instruction": {
-          "id": 21,
-          "confirm_label": "Stake AZERO",
-          "cancel_label": "Dismiss",
-          "instruction_id": 36,
-          "group": "earning",
-          "slug": "AZERO_Alephzero"
-        },
-        "action": {
-          "id": 42,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
     "id": 26,
     "priority": 1,
     "position": "token",
@@ -232,5 +135,63 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 55,
+      "name": "Extension - Test AZERO",
+      "description": "Description",
+      "start_time": "2024-06-09T17:00:00.000Z",
+      "stop_time": "2024-06-10T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 52,
+        "label": "Stake A0",
+        "color": "secondary",
+        "instruction": {
+          "id": 27,
+          "confirm_label": null,
+          "cancel_label": null,
+          "instruction": null
+        },
+        "action": {
+          "id": 48,
+          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      },
+      {
+        "id": 51,
+        "label": "Dismiss",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    }
   }
 ]
