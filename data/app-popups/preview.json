@@ -137,7 +137,7 @@
     "conditions": {}
   },
   {
-    "id": 32,
+    "id": 33,
     "priority": 1,
     "position": "token",
     "repeat": "once",
@@ -146,7 +146,7 @@
     "media": null,
     "position_params": [],
     "info": {
-      "id": 55,
+      "id": 56,
       "name": "Extension - Test AZERO",
       "description": "Description",
       "start_time": "2024-06-09T17:00:00.000Z",
@@ -159,29 +159,31 @@
     },
     "buttons": [
       {
-        "id": 52,
+        "id": 53,
+        "label": "Dismiss",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 54,
         "label": "Stake A0",
         "color": "secondary",
         "instruction": {
-          "id": 27,
+          "id": 28,
           "confirm_label": null,
           "cancel_label": null,
-          "instruction": null
+          "instruction_id": 36,
+          "group": "earning",
+          "slug": "AZERO_Alephzero"
         },
         "action": {
-          "id": 48,
+          "id": 49,
           "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
           "screen": null,
           "params": null,
           "is_cancel": null
         }
-      },
-      {
-        "id": 51,
-        "label": "Dismiss",
-        "color": "primary",
-        "instruction": null,
-        "action": null
       }
     ],
     "conditions": {
@@ -189,9 +191,40 @@
         {
           "comparison": "gt",
           "value": 1,
-          "chain_asset": "aleph-NATIVE-AZERO"
+          "chain_asset": null
         }
       ]
     }
+  },
+  {
+    "id": 34,
+    "priority": 3,
+    "position": "crowdloan",
+    "repeat": "once",
+    "content": "![Back up your accounts!.png](https://media-resources.subwallet.app//6/Back_up_your_accounts_0c03cb20a5.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 57,
+      "name": "Extension - Test1",
+      "description": null,
+      "start_time": "2024-06-09T17:00:00.000Z",
+      "stop_time": "2024-06-10T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 55,
+        "label": "I understand",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
