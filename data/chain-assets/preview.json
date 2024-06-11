@@ -1034,7 +1034,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-NATIVE-HDX"
       }
     ]
