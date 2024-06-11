@@ -7,7 +7,12 @@
     "priceId": "polkadot",
     "minAmount": "10000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      }
+    },
     "hasValue": true,
     "ordinal": 1,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_63b5dd41ef.png",
@@ -96,7 +101,12 @@
     "priceId": "kusama",
     "minAmount": "333333333",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      }
+    },
     "hasValue": true,
     "ordinal": 2,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
@@ -188,7 +198,12 @@
     "priceId": "moonbeam",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      }
+    },
     "hasValue": true,
     "ordinal": 5,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
@@ -213,7 +228,8 @@
     "assetType": "NATIVE",
     "metadata": {
       "multilocation": {
-        "NativeToken": 0
+        "parents": 0,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -256,10 +272,8 @@
     "assetType": "NATIVE",
     "metadata": {
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": "Here"
-        }
+        "parents": 0,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -286,10 +300,8 @@
     "assetType": "NATIVE",
     "metadata": {
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": "Here"
-        }
+        "parents": 1,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -307,13 +319,13 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "pendulum-LOCAL-DOT"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": null
       }
     ]
@@ -333,7 +345,8 @@
         }
       },
       "multilocation": {
-        "Token": "ACA"
+        "parents": 0,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -857,10 +870,8 @@
     "metadata": {
       "assetId": "340282366920938463463374607431768211455",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": "Here"
-        }
+        "parents": 1,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -888,21 +899,19 @@
     "metadata": {
       "assetId": "4294969280",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1984
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
         }
       }
     },
@@ -1010,7 +1019,12 @@
     "priceId": null,
     "minAmount": "33333333",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      }
+    },
     "hasValue": false,
     "ordinal": 40,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
@@ -1020,7 +1034,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_rococo-NATIVE-HDX"
       }
     ]
@@ -1858,7 +1872,7 @@
   },
   {
     "slug": "hydradx_main-NATIVE-HDX",
-    "name": "HydraDX",
+    "name": "Hydration",
     "symbol": "HDX",
     "decimals": 12,
     "priceId": "hydradx",
@@ -1870,7 +1884,7 @@
     },
     "hasValue": true,
     "ordinal": 87,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_285eea3042.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "HDX-HydraDX",
     "assetRefs": [
@@ -1948,21 +1962,19 @@
       "assetId": "10",
       "autoEnable": true,
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1984
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
         }
       }
     },
@@ -2484,10 +2496,8 @@
     "assetType": "NATIVE",
     "metadata": {
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": "Here"
-        }
+        "parents": 1,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -3374,10 +3384,8 @@
         "XCM": "0"
       },
       "multilocation": {
-        "V2": {
-          "parents": 1,
-          "interior": "Here"
-        }
+        "parents": 1,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -3395,7 +3403,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-NATIVE-DOT"
       }
     ]
@@ -3413,21 +3421,19 @@
         "XCM": "1"
       },
       "multilocation": {
-        "V2": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1984
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
         }
       }
     },
@@ -4178,18 +4184,16 @@
     "metadata": {
       "assetId": "1984",
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": {
-            "X2": [
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1984
-              }
-            ]
-          }
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
         }
       }
     },
@@ -4287,10 +4291,8 @@
       "assetId": "340282366920938463463374607431768211455",
       "assetType": "ForeignAsset",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": "Here"
-        }
+        "parents": 1,
+        "interior": "Here"
       }
     },
     "hasValue": true,
@@ -4644,18 +4646,16 @@
     "metadata": {
       "assetId": "18446744073709551617",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X2": [
-              {
-                "Parachain": 2000
-              },
-              {
-                "GeneralKey": "0x0001"
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X2": [
+            {
+              "Parachain": 2000
+            },
+            {
+              "GeneralKey": "0x0001"
+            }
+          ]
         }
       }
     },
@@ -6237,21 +6237,19 @@
     "metadata": {
       "assetId": "1970496628",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1984
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
         }
       }
     },
@@ -8601,18 +8599,16 @@
     "metadata": {
       "assetId": "1337",
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": {
-            "X2": [
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1337
-              }
-            ]
-          }
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
         }
       }
     },
@@ -8681,21 +8677,19 @@
     "metadata": {
       "assetId": "22",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1337
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
         }
       }
     },
@@ -8958,7 +8952,7 @@
     "symbol": "TVARA",
     "decimals": 12,
     "priceId": null,
-    "minAmount": "10000000000000",
+    "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": false,
@@ -9338,18 +9332,16 @@
     "metadata": {
       "assetId": "23",
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": {
-            "X2": [
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 23
-              }
-            ]
-          }
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 23
+            }
+          ]
         }
       }
     },
@@ -9559,6 +9551,26 @@
     "assetType": "LOCAL",
     "metadata": {
       "isBridged": true,
+      "onChainInfo": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 11155111
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xfff9976782d46cc05630d1f6ebab18b2324d6b14",
+                "network": null
+              }
+            }
+          ]
+        }
+      },
       "multilocation": {
         "parents": 2,
         "interior": {
@@ -10057,18 +10069,16 @@
       "assetId": "30",
       "autoEnable": true,
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": {
-            "X2": [
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 30
-              }
-            ]
-          }
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 30
+            }
+          ]
         }
       }
     },
@@ -10081,7 +10091,7 @@
   },
   {
     "slug": "hydradx_rococo-NATIVE-HDX",
-    "name": "HydraDX Rococo",
+    "name": "Hydration Rococo",
     "symbol": "HDX",
     "decimals": 12,
     "priceId": null,
@@ -10092,7 +10102,7 @@
     },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_decc8f805d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_285eea3042.png",
     "originChain": "hydradx_rococo",
     "multiChainAsset": null,
     "assetRefs": [
@@ -10212,21 +10222,19 @@
     "metadata": {
       "assetId": "18446744073709551633",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 23
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 23
+            }
+          ]
         }
       }
     },
@@ -10255,21 +10263,19 @@
     "metadata": {
       "assetId": "12",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X2": [
-              {
-                "Parachain": 2000
-              },
-              {
-                "GeneralKey": {
-                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
-                  "length": 2
-                }
+        "parents": 1,
+        "interior": {
+          "X2": [
+            {
+              "Parachain": 2000
+            },
+            {
+              "GeneralKey": {
+                "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                "length": 2
               }
-            ]
-          }
+            }
+          ]
         }
       }
     },
@@ -10428,21 +10434,19 @@
       "assetId": "1000019",
       "autoEnable": true,
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 30
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 30
+            }
+          ]
         }
       }
     },
@@ -10982,9 +10986,9 @@
     ]
   },
   {
-    "slug": "hydradx_main-LOCAL-LRNA",
+    "slug": "hydradx_main-LOCAL-H2O",
     "name": "Lerna",
-    "symbol": "LRNA",
+    "symbol": "H2O",
     "decimals": 12,
     "priceId": null,
     "minAmount": "400000000",
@@ -11219,18 +11223,16 @@
     "metadata": {
       "assetId": "420",
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": {
-            "X2": [
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 420
-              }
-            ]
-          }
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 420
+            }
+          ]
         }
       }
     },
@@ -11259,21 +11261,19 @@
     "metadata": {
       "assetId": "1000036",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 420
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 420
+            }
+          ]
         }
       }
     },
@@ -11352,18 +11352,16 @@
     "metadata": {
       "assetId": "42069",
       "multilocation": {
-        "Concrete": {
-          "parents": 0,
-          "interior": {
-            "X2": [
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 42069
-              }
-            ]
-          }
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 42069
+            }
+          ]
         }
       }
     },
@@ -11392,21 +11390,19 @@
     "metadata": {
       "assetId": "1000034",
       "multilocation": {
-        "Concrete": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 42069
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 42069
+            }
+          ]
         }
       }
     },
@@ -11752,7 +11748,7 @@
   },
   {
     "slug": "pendulum-LOCAL-HDX",
-    "name": "HydraDX",
+    "name": "Hydration",
     "symbol": "HDX",
     "decimals": 12,
     "priceId": "hydradx",
@@ -11766,7 +11762,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_a80c4584de.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydradx_285eea3042.png",
     "originChain": "pendulum",
     "multiChainAsset": "HDX-HydraDX",
     "assetRefs": []
@@ -11784,21 +11780,19 @@
         "XCM": "2"
       },
       "multilocation": {
-        "V2": {
-          "parents": 1,
-          "interior": {
-            "X3": [
-              {
-                "Parachain": 1000
-              },
-              {
-                "PalletInstance": 50
-              },
-              {
-                "GeneralIndex": 1337
-              }
-            ]
-          }
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
         }
       }
     },
@@ -12149,9 +12143,9 @@
     "assetRefs": []
   },
   {
-    "slug": "bobMainnet-LOCAL-wBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+    "slug": "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
     "name": "Wrapped BTC",
-    "symbol": "wBTC",
+    "symbol": "WBTC",
     "decimals": 8,
     "priceId": "wrapped-bitcoin",
     "minAmount": "0",
@@ -12163,7 +12157,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
     "originChain": "bobMainnet",
-    "multiChainAsset": null,
+    "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": []
   },
   {
@@ -12534,6 +12528,42 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_07ebdf0656.png",
     "originChain": "kreivo",
     "multiChainAsset": "KSM-Kusama",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-BORK",
+    "name": "BORK",
+    "symbol": "BORK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "690"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bonk_7617a842f7.png",
+    "originChain": "statemint",
+    "multiChainAsset": "BORK-BORK",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-BORK",
+    "name": "BORK",
+    "symbol": "BORK",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000148"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bonk_7617a842f7.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "BORK-BORK",
     "assetRefs": []
   }
 ]
