@@ -68,6 +68,27 @@
     ]
   },
   {
+    "id": 40,
+    "name": "Dive in Alephoria Aleph Zero Quest on Galxe and get rewards",
+    "status": "live",
+    "ordinal": 78,
+    "description": "Alpehoria Aleph Zero Quest: Harness the Power of the Aleph Zero Ecosystem\n\nDive into the heart of Aleph Zero by completing a series of engaging and rewarding activities designed to enhance your understanding and involvement in the Aleph Zero network. This quest is your gateway to earning significant rewards and becoming a part of the vibrant Aleph Zero community.\n\nPoints: 150 Loyalty Points\n\n80 for being a A0 supporter.\nand 70 for supporting common and swapping on mainnet!\n\nThank you for contributing to global change - 1 transaction at a time!\n\nRewards: Completion of this quest grants you loyalty points adding to the total amount you will recieve of the Common airdrop. Your accumulated points reflect your engagement and contribution to the Aleph Zero ecosystem, enhancing your standing within the community.",
+    "start_time": "2024-05-27T14:00:00.000Z",
+    "end_time": null,
+    "url": "https://app.galxe.com/quest/alephzero/GC8jothiTu",
+    "twitter_url": "https://x.com/Aleph__Zero",
+    "reward": "N/A",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://alephzero.org/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/aleph_zero_3a3d7fa6bb.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Aleph_Zero_Alephoria_campaign_18fffeac93.jfif",
+    "chains": []
+  },
+  {
     "id": 27,
     "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
     "status": "live",

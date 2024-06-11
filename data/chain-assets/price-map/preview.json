@@ -525,7 +525,7 @@
   "hydradx_main-LOCAL-WETH": "ethereum",
   "hydradx_main-LOCAL-2Pool": null,
   "hydradx_main-LOCAL-vDOT": "voucher-dot",
-  "hydradx_main-LOCAL-LRNA": null,
+  "hydradx_main-LOCAL-H2O": null,
   "hydradx_main-LOCAL-DAI-18": "dai",
   "hydradx_main-LOCAL-USDC-21": "usd-coin",
   "hydradx_main-LOCAL-USDT-23": "tether",
@@ -584,7 +584,7 @@
   "pendulum-LOCAL-BRZ": "brz",
   "amplitude-LOCAL-USDT": "tether",
   "pendulum-LOCAL-USDC.s": "usd-coin",
-  "bobMainnet-LOCAL-wBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3": "wrapped-bitcoin",
+  "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3": "wrapped-bitcoin",
   "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9": "tether",
   "bitcoin-NATIVE-BTC": "bitcoin",
   "bitcoinTestnet-NATIVE-BTC": null,
@@ -620,5 +620,9 @@
   "statemine-LOCAL-DOT": "polkadot",
   "aleph-PSP22-INW2-5EA7h2xCP9TkAwEQ8Km2b7aQChPKVCqcS2BJWqYavoXiEsfx": null,
   "kreivo-NATIVE-KSM": "kusama",
-  "sepolia_ethereum-ERC20-WETH-0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14": null
+  "sepolia_ethereum-ERC20-WETH-0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14": null,
+  "bitcoin-MEME•MINT•MILLION-840000:212": null,
+  "bitcoin-BRC20-fake": null,
+  "statemint-LOCAL-BORK": null,
+  "hydradx_main-LOCAL-BORK": null
 }

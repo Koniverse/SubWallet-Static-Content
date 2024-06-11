@@ -1,40 +1,5 @@
 [
   {
-    "id": 5,
-    "position": "token_detail",
-    "priority": 2,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/polkassembly_d_App_preview_f4d0722fdd.png",
-    "info": {
-      "id": 12,
-      "name": "Swap introduction ",
-      "description": null,
-      "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-05-30T17:00:00.000Z",
-      "platforms": [
-        "mobile",
-        "extension"
-      ],
-      "os": null
-    },
-    "action": null,
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "DOT-Polkadot"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "USDC-USDCoin"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "ETH-Ethereum"
-      }
-    ],
-    "conditions": {},
-    "instruction": null
-  },
-  {
     "id": 12,
     "position": "crowdloan",
     "priority": 1,
@@ -108,45 +73,42 @@
     }
   },
   {
-    "id": 24,
+    "id": 33,
     "position": "token_detail",
-    "priority": 1,
+    "priority": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
-      "id": 58,
+      "id": 68,
       "name": "Extension - Test banner",
-      "description": null,
+      "description": "Description",
       "start_time": "2024-06-09T17:00:00.000Z",
       "stop_time": "2024-06-10T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "extension",
+        "mobile",
+        "web"
       ],
-      "os": null
+      "os": "Android"
     },
-    "action": null,
+    "action": {
+      "id": 59,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": "\"{}\"",
+      "is_cancel": false
+    },
     "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "DOT-Polkadot"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "USDC-USDCoin"
-      },
       {
         "property": "tokenSlug",
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "lt",
-          "value": 1,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
-    "instruction": null
+    "conditions": {},
+    "instruction": {
+      "id": 38,
+      "confirm_label": "Stake",
+      "cancel_label": "Dismiss",
+      "instruction": null
+    }
   }
 ]
