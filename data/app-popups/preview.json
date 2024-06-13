@@ -32,7 +32,7 @@
   },
   {
     "id": 19,
-    "priority": 1,
+    "priority": 2,
     "position": "token",
     "repeat": "once",
     "content": "![dApp preview - stellaswap.png](https://media-resources.subwallet.app/d_App_preview_stellaswap_5865af7a48.png)\n\nVersion 1.1.50(364)\n>- **New assets supported**: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>- **Warning added**: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>---\n>*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n\n---\n\n#### **Version 1.1.50(364)**\n*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n\n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam\n\n---\n\nWarning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n",
@@ -46,7 +46,8 @@
       "start_time": "2024-04-20T17:00:00.000Z",
       "stop_time": "2024-06-21T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "extension",
+        "mobile"
       ],
       "os": null
     },
@@ -62,9 +63,53 @@
         "id": 31,
         "label": "I understand",
         "color": "primary",
-        "instruction": null,
+        "instruction": {
+          "id": 59,
+          "confirm_label": "Stake AZERO",
+          "cancel_label": "Dismiss",
+          "instruction_id": 38,
+          "group": "earning",
+          "slug": "Test_AZERO"
+        },
         "action": {
           "id": 40,
+          "url": "subwallet://home/main/earning",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 21,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![Back up your accounts!.png](https://media-resources.subwallet.app//6/Back_up_your_accounts_c03f91f1e0.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 42,
+      "name": null,
+      "description": "Description",
+      "start_time": "2024-06-02T17:00:00.000Z",
+      "stop_time": "2024-06-21T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 33,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 39,
           "url": "subwallet://home/main/earning",
           "screen": null,
           "params": null,
@@ -188,38 +233,7 @@
     "conditions": {}
   },
   {
-    "id": 34,
-    "priority": 3,
-    "position": "crowdloan",
-    "repeat": "once",
-    "content": "![Back up your accounts!.png](https://media-resources.subwallet.app//6/Back_up_your_accounts_0c03cb20a5.png)",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 57,
-      "name": "Extension - Test1",
-      "description": null,
-      "start_time": "2024-06-09T17:00:00.000Z",
-      "stop_time": "2024-06-10T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 55,
-        "label": "I understand",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 35,
+    "id": 28,
     "priority": 1,
     "position": "token",
     "repeat": "once",
@@ -228,11 +242,11 @@
     "media": null,
     "position_params": [],
     "info": {
-      "id": 60,
+      "id": 51,
       "name": "Extension - Test AZERO",
-      "description": "Description",
-      "start_time": "2024-06-09T17:00:00.000Z",
-      "stop_time": "2024-06-10T17:00:00.000Z",
+      "description": "Stake AZERO. Get Your Common Drops!",
+      "start_time": "2024-06-09T14:00:00.000Z",
+      "stop_time": "2024-06-13T14:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -241,24 +255,26 @@
     },
     "buttons": [
       {
-        "id": 56,
+        "id": 43,
         "label": "Dismiss",
         "color": "secondary",
         "instruction": null,
         "action": null
       },
       {
-        "id": 57,
-        "label": "Stake A0",
+        "id": 44,
+        "label": "See more",
         "color": "primary",
         "instruction": {
-          "id": 30,
-          "confirm_label": null,
-          "cancel_label": null,
-          "instruction": null
+          "id": 23,
+          "confirm_label": "Stake AZERO",
+          "cancel_label": "Dismiss",
+          "instruction_id": 38,
+          "group": "earning",
+          "slug": "Test_AZERO"
         },
         "action": {
-          "id": 51,
+          "id": 44,
           "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
           "screen": null,
           "params": null,
@@ -266,6 +282,14 @@
         }
       }
     ],
-    "conditions": {}
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "lt",
+          "value": 1,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    }
   }
 ]
