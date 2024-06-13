@@ -7038,35 +7038,6 @@
     "bitcoinInfo": null
   },
   {
-    "slug": "acurast_canary",
-    "name": "Acurast Canary",
-    "isTestnet": false,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_3dd2fdd1f0.png",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": "kusama",
-      "paraId": 2239,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": null,
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": []
-    },
-    "extraInfo": null,
-    "bitcoinInfo": null
-  },
-  {
     "slug": "alpha_network",
     "name": "Alpha Network",
     "isTestnet": false,
@@ -7868,7 +7839,7 @@
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://assethub-rococo.subscan.io/",
       "existentialDeposit": "3333333",
       "symbol": "ROC",
       "decimals": 12,
@@ -7878,7 +7849,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "assethub-rococo",
+      "chainBalanceSlug": null
+    },
     "bitcoinInfo": null
   },
   {
@@ -8269,7 +8243,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_ea6dbcc424.png",
     "providers": {
-      "Acurast": "wss://acurast-canarynet-ws.prod.gke.papers.tech"
+      "Subwallet": "wss://subwallet-rpc.canary.acurast.com"
     },
     "evmInfo": null,
     "substrateInfo": {
