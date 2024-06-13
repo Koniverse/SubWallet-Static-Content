@@ -302,7 +302,8 @@
       "multilocation": {
         "parents": 1,
         "interior": "Here"
-      }
+      },
+      "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
     "ordinal": 9,
@@ -327,6 +328,22 @@
         "metadata": null,
         "disable": true,
         "destAsset": "statemine-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDt"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDC"
       }
     ]
   },
@@ -1029,13 +1046,19 @@
     "ordinal": 40,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
     "originChain": "rococo",
-    "multiChainAsset": null,
+    "multiChainAsset": "ROC-Rococo",
     "assetRefs": [
       {
         "type": "XCM",
         "metadata": null,
         "disable": true,
         "destAsset": "hydradx_rococo-NATIVE-HDX"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo_assethub-NATIVE-ROC"
       }
     ]
   },
@@ -4256,6 +4279,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
       }
     ]
   },
@@ -7816,7 +7845,7 @@
     "name": "Voucher Ethereum 2.0",
     "symbol": "vETH",
     "decimals": 18,
-    "priceId": "voucher-ethereum-2-0",
+    "priceId": null,
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -8629,6 +8658,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
       }
     ]
   },
@@ -9549,13 +9584,34 @@
     "priceId": null,
     "minAmount": "3333333",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": "Here"
+      },
+      "alternativeSwapAsset": "rococo-NATIVE-ROC"
+    },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_asset_hub_50b263697b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
     "originChain": "rococo_assethub",
-    "multiChainAsset": null,
-    "assetRefs": []
+    "multiChainAsset": "ROC-Rococo",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo-NATIVE-ROC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "rococo-NATIVE-ROC"
+        },
+        "disable": false,
+        "destAsset": "rococo_assethub-LOCAL-USDt"
+      }
+    ]
   },
   {
     "slug": "rococo_assethub-LOCAL-WETH",
@@ -12366,7 +12422,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
     "originChain": "bitcoinTestnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -13074,6 +13130,64 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bonk_7617a842f7.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "BORK-BORK",
+    "assetRefs": []
+  },
+  {
+    "slug": "rococo_assethub-LOCAL-USDt",
+    "name": "rTether USD",
+    "symbol": "USDt",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1984",
+      "multilocation": {
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "rococo_assethub",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo_assethub-NATIVE-ROC"
+      }
+    ]
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-vASTR",
+    "name": "Bifrost Voucher ASTR",
+    "symbol": "vASTR",
+    "decimals": 18,
+    "priceId": "bifrost-voucher-astr",
+    "minAmount": "10000000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "VToken2": "3"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vastr_b149fc6113.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]

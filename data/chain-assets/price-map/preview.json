@@ -402,7 +402,7 @@
   "bridgeHubPolkadot-NATIVE-DOT": "polkadot",
   "bridgeHubKusama-NATIVE-KSM": "kusama",
   "bifrost_dot-LOCAL-vFIL": null,
-  "ethereum-ERC20-vETH-0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F": "voucher-ethereum-2-0",
+  "ethereum-ERC20-vETH-0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F": null,
   "kintsugi-LOCAL-LP_KSM_KINT": null,
   "kintsugi-LOCAL-LP_KSM_kBTC": null,
   "kintsugi-LOCAL-LP_kBTC_USDT": null,
@@ -624,5 +624,7 @@
   "bitcoin-MEME•MINT•MILLION-840000:212": null,
   "bitcoin-BRC20-fake": null,
   "statemint-LOCAL-BORK": null,
-  "hydradx_main-LOCAL-BORK": null
+  "hydradx_main-LOCAL-BORK": null,
+  "rococo_assethub-LOCAL-USDt": null,
+  "bifrost_dot-LOCAL-vASTR": "bifrost-voucher-astr"
 }
