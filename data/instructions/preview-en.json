@@ -296,7 +296,7 @@
       {
         "id": 176,
         "icon": "ThumbsUp",
-        "icon_color": "#87bf50",
+        "icon_color": "#1A1A1A",
         "title": "How to get involved",
         "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
       },
@@ -315,7 +315,7 @@
         "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
       }
     ],
-    "media": null
+    "media": "https://static-data.subwallet.app/instructions/images/media/A0_1_c671ff3eec.png"
   },
   {
     "id": 6,
