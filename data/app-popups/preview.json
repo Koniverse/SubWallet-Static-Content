@@ -246,7 +246,7 @@
       "name": "Extension - Test AZERO",
       "description": "Stake AZERO. Get Your Common Drops!",
       "start_time": "2024-06-09T14:00:00.000Z",
-      "stop_time": "2024-06-13T14:00:00.000Z",
+      "stop_time": "2024-06-28T14:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
