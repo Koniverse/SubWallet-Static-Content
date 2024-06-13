@@ -1,5 +1,28 @@
 [
   {
+    "id": 42,
+    "name": "Test - Playnation x Karura",
+    "status": "live",
+    "ordinal": 72,
+    "description": "Karura Token Playdrop: Eligibility & Allocation Rules \n\nIt's your time to shine as we reward your contributions and achievements with Airdrop Raffles. Each raffle is your ticket to winning big rewards from this campaign!\n\n🎁 $KAR Airdrop Pool: 42,000 KAR\n\n🔈 AIRDROP MECHANISM:\n⭐️ Top 1500 NPS Holders\n- Snapshot: June 1 -  June 14\n- Raffle Entries: 3 each\n\n⭐️ Top 500 NPS Holders\n- Snapshot: April 15 - May 15\n- Raffle Entries: 3 each\n\n⭐️ Top 100 Inviters\n- Snapshot: April 15 - June 14\n- Raffle Entries: 2 each\n\n⭐️ Social Event Winners\n- Event Period: June 1 - June 14\n- Raffle Entries: 1 each\n\n📆 Time to Claim Your Airdrop Rewards: June 19 - June 25\n\nThe fun doesn't stop. Mark your calendar, get ready to climb up the ranks, and invite more friends for more raffles  - don't miss out!",
+    "start_time": "2024-06-12T17:00:00.000Z",
+    "end_time": "2024-06-13T17:00:00.000Z",
+    "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+    "twitter_url": "https://x.com/KaruraNetwork",
+    "reward": "42,000 KAR",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://acala.network/karura",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/hydration_5513bef59e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/karura_share_f97fbf55c7.jpeg",
+    "chains": [
+      "karura"
+    ]
+  },
+  {
     "id": 35,
     "name": "Share 400 USD pool prize with Archisinal Zealy Sprint",
     "status": "live",
@@ -66,27 +89,6 @@
     "chains": [
       "statemint"
     ]
-  },
-  {
-    "id": 40,
-    "name": "Dive in Alephoria Aleph Zero Quest on Galxe and get rewards",
-    "status": "live",
-    "ordinal": 78,
-    "description": "Alpehoria Aleph Zero Quest: Harness the Power of the Aleph Zero Ecosystem\n\nDive into the heart of Aleph Zero by completing a series of engaging and rewarding activities designed to enhance your understanding and involvement in the Aleph Zero network. This quest is your gateway to earning significant rewards and becoming a part of the vibrant Aleph Zero community.\n\nPoints: 150 Loyalty Points\n\n80 for being a A0 supporter.\nand 70 for supporting common and swapping on mainnet!\n\nThank you for contributing to global change - 1 transaction at a time!\n\nRewards: Completion of this quest grants you loyalty points adding to the total amount you will recieve of the Common airdrop. Your accumulated points reflect your engagement and contribution to the Aleph Zero ecosystem, enhancing your standing within the community.",
-    "start_time": "2024-05-27T14:00:00.000Z",
-    "end_time": null,
-    "url": "https://app.galxe.com/quest/alephzero/GC8jothiTu",
-    "twitter_url": "https://x.com/Aleph__Zero",
-    "reward": "N/A",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://alephzero.org/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/aleph_zero_3a3d7fa6bb.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Aleph_Zero_Alephoria_campaign_18fffeac93.jfif",
-    "chains": []
   },
   {
     "id": 27,
@@ -584,29 +586,6 @@
     ]
   },
   {
-    "id": 17,
-    "name": "Test mission pool",
-    "status": "upcoming",
-    "ordinal": 99,
-    "description": "Hop in to explore DOT Is $DED Zealy community, and pledge yourself to $DED!\n\nOver 4000 DOT in rewards across 3 stages!\n\nPhase $DED is LIVE - Reward Pool: 1.400 DOT\n\n📅 Duration: 02/12 - 02/26 (3pm CET)\n",
-    "start_time": "2024-03-04T13:00:00.000Z",
-    "end_time": "2024-03-22T12:15:00.000Z",
-    "url": "https://bit.ly/zealyded",
-    "twitter_url": "https://twitter.com/dotisded",
-    "reward": "1,400 DOT",
-    "total_winner": null,
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.dotisded.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
-    "chains": [
-      "polkadot"
-    ]
-  },
-  {
     "id": 18,
     "name": "80,000 SUB up for grabs: Join Grill x SubWallet content contest now!",
     "status": "archived",
@@ -629,24 +608,5 @@
     "chains": [
       "subsocial_x"
     ]
-  },
-  {
-    "id": 28,
-    "name": null,
-    "status": null,
-    "ordinal": null,
-    "description": null,
-    "start_time": null,
-    "end_time": null,
-    "url": null,
-    "twitter_url": null,
-    "reward": null,
-    "total_winner": null,
-    "total_supply": null,
-    "tags": null,
-    "campaign_url": null,
-    "logo": null,
-    "backdrop_image": null,
-    "chains": []
   }
 ]
