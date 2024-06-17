@@ -245,15 +245,7 @@
         }
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "lte",
-          "value": 1,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    }
+    "conditions": {}
   },
   {
     "id": 47,
