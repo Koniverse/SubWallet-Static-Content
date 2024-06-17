@@ -973,5 +973,18 @@
       "statemint-LOCAL-BORK",
       "hydradx_main-LOCAL-BORK"
     ]
+  },
+  {
+    "slug": "ROC-Rococo",
+    "name": "Rococo",
+    "symbol": "ROC",
+    "priceId": null,
+    "hasValue": false,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/rococo_5a873f69ee.png",
+    "originChainAsset": "rococo-NATIVE-ROC",
+    "chainAssets": [
+      "rococo-NATIVE-ROC",
+      "rococo_assethub-NATIVE-ROC"
+    ]
   }
 ]

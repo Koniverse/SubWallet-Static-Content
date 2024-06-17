@@ -1749,27 +1749,6 @@
     "categories": []
   },
   {
-    "id": 125,
-    "title": "Test_ArtZero.io",
-    "description": "Discover, create, collect and trade NFTs on Aleph Zero and Astar Blockchain with ArtZero.io",
-    "url": "https://a0.artzero.io/",
-    "subtitle": "ArtZero - NFT Marketplace for Aleph Zero and Astar Blockchains",
-    "is_substrate": true,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 70,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
-    "chains": [
-      "aleph",
-      "astar"
-    ],
-    "categories": [
-      "nft"
-    ]
-  },
-  {
     "id": 156,
     "title": "Täniko",
     "description": "Create assets, edit metadata, update admin accounts and revoke root privileges. It also allows you to pay tx fees in any asset that has a pool!",
