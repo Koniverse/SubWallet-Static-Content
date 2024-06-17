@@ -261,10 +261,9 @@
       "name": "Extension - Test banner",
       "description": null,
       "start_time": "2024-06-13T17:00:00.000Z",
-      "stop_time": "2024-06-14T17:00:00.000Z",
+      "stop_time": "2024-06-18T17:00:00.000Z",
       "platforms": [
-        "extension",
-        "mobile"
+        "extension"
       ],
       "os": null
     },
