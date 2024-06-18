@@ -326,7 +326,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemine-LOCAL-DOT"
       },
       {
@@ -12955,7 +12955,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemine-NATIVE-KSM"
       }
     ]
@@ -12998,7 +12998,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-NATIVE-DOT"
       }
     ]
