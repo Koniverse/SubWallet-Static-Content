@@ -291,7 +291,7 @@
     "group": "earning",
     "slug": "Test_AZERO",
     "locale": "en",
-    "title": "Stake AZERO.",
+    "title": "Stake AZERO",
     "instructions": [
       {
         "id": 176,
@@ -315,7 +315,7 @@
         "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
       }
     ],
-    "media": "https://static-data.subwallet.app/instructions/images/media/A0_1_c671ff3eec.png"
+    "media": "https://static-data.subwallet.app/instructions/images/media/Update_your_app_version_b142589838.png"
   },
   {
     "id": 6,
