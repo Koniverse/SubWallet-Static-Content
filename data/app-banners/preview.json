@@ -109,15 +109,7 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "lte",
-          "value": 1,
-          "chain_asset": "polkadot-NATIVE-DOT"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 60,
       "confirm_label": "Stake",
