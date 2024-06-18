@@ -114,7 +114,7 @@
   {
     "id": 48,
     "position": "crowdloan",
-    "priority": 2,
+    "priority": 1,
     "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
     "info": {
       "id": 94,
