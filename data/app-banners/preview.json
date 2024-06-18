@@ -8,8 +8,8 @@
       "id": 25,
       "name": "Stake DOT get VARCH",
       "description": null,
-      "start_time": "2024-03-31T17:00:00.000Z",
-      "stop_time": "2024-06-14T17:00:00.000Z",
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-06-19T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -81,8 +81,8 @@
       "id": 59,
       "name": "Extension - Test banner",
       "description": null,
-      "start_time": "2024-06-09T17:00:00.000Z",
-      "stop_time": "2024-06-28T17:00:00.000Z",
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-06-19T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -120,7 +120,7 @@
       "id": 94,
       "name": "Stake DOT get VARCH 1",
       "description": null,
-      "start_time": "2024-03-31T17:00:00.000Z",
+      "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-06-19T17:00:00.000Z",
       "platforms": [
         "extension"
