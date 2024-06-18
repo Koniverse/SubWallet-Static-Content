@@ -95,20 +95,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "DOT-Polkadot"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "USDC-USDCoin"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "aleph-NATIVE-AZERO"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": {
       "id": 60,
