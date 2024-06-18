@@ -1,12 +1,12 @@
 [
   {
     "id": 12,
-    "position": "crowdloan",
+    "position": "token_detail",
     "priority": 1,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/crowdloan_banner_f4e4f4e6de.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
       "id": 25,
-      "name": "Stake DOT get VARCH",
+      "name": "Stake AZERO",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-06-19T17:00:00.000Z",
@@ -23,11 +23,24 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
-    "conditions": {},
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    },
     "instruction": {
       "id": 14,
-      "confirm_label": "Stake DOT",
+      "confirm_label": "Stake AZERO",
       "cancel_label": "Cancel",
       "instruction_id": 36,
       "group": "earning",
@@ -97,12 +110,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": null,
-        "value": null
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": {
       "id": 60,
@@ -143,6 +151,46 @@
       "id": 58,
       "confirm_label": "Stake DOT",
       "cancel_label": "Cancel",
+      "instruction_id": 38,
+      "group": "earning",
+      "slug": "Test_AZERO"
+    }
+  },
+  {
+    "id": 49,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
+    "info": {
+      "id": 96,
+      "name": "Stake AZERO 2",
+      "description": null,
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-06-19T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 82,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 61,
+      "confirm_label": "Stake",
+      "cancel_label": "Dismiss",
       "instruction_id": 38,
       "group": "earning",
       "slug": "Test_AZERO"
