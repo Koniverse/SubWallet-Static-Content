@@ -285,5 +285,37 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 48,
+    "priority": 1,
+    "position": "earning",
+    "repeat": "once",
+    "content": "![A0-Common_Drops 1.png](https://media-resources.subwallet.app/A0_Common_Drops_1_4c9ec231da.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 97,
+      "name": "Test - Earning",
+      "description": null,
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-06-19T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 79,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
