@@ -8245,6 +8245,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_ea6dbcc424.png",
     "providers": {
+      "Acurast": "wss://acurast-canarynet-ws.prod.gke.papers.tech",
       "Subwallet": "wss://subwallet-rpc.canary.acurast.com"
     },
     "evmInfo": null,
