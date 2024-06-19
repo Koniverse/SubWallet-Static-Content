@@ -1,6 +1,5 @@
 [
   "statemint-NATIVE-DOT___pendulum-LOCAL-DOT",
-  "statemint-NATIVE-DOT___statemine-LOCAL-DOT",
   "rococo-NATIVE-ROC___hydradx_rococo-NATIVE-HDX",
   "ethereum_goerli-NATIVE-ETH___chainflip_dot-NATIVE-pDOT",
   "ethereum_goerli-NATIVE-ETH___ethereum_goerli-ERC20-USDC-0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
@@ -73,7 +72,5 @@
   "statemint-LOCAL-BEEFY___hydradx_main-LOCAL-BEEFY",
   "hydradx_main-LOCAL-BEEFY___statemint-LOCAL-BEEFY",
   "statemint-LOCAL-STINK___hydradx_main-LOCAL-STINK",
-  "hydradx_main-LOCAL-STINK___statemint-LOCAL-STINK",
-  "statemint-LOCAL-KSM___statemine-NATIVE-KSM",
-  "statemine-LOCAL-DOT___statemint-NATIVE-DOT"
+  "hydradx_main-LOCAL-STINK___statemint-LOCAL-STINK"
 ]

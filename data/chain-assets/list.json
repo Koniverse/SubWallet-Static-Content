@@ -302,7 +302,8 @@
       "multilocation": {
         "parents": 1,
         "interior": "Here"
-      }
+      },
+      "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
     "ordinal": 9,
@@ -325,8 +326,24 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
-        "destAsset": null
+        "disable": false,
+        "destAsset": "statemine-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDt"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "polkadot-NATIVE-DOT"
+        },
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDC"
       }
     ]
   },
@@ -857,7 +874,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "ethereum",
     "multiChainAsset": "WETH-WrappedEther",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "astar-LOCAL-DOT",
@@ -1036,6 +1060,12 @@
         "metadata": null,
         "disable": true,
         "destAsset": "hydradx_rococo-NATIVE-HDX"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo_assethub-NATIVE-ROC"
       }
     ]
   },
@@ -2516,7 +2546,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "statemint-LOCAL-KSM"
       }
     ]
   },
@@ -4256,6 +4286,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
       }
     ]
   },
@@ -6717,7 +6753,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wsteth_cc7cdc4e01.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "ethereum-ERC20-stETH-0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
@@ -7041,7 +7084,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
     "originChain": "ethereum",
     "multiChainAsset": "WBTC-WrappedBTC",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "ethereum-ERC20-ENS-0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
@@ -7103,7 +7153,7 @@
     "symbol": "SHIB",
     "decimals": 18,
     "priceId": "shiba-inu",
-    "minAmount": null,
+    "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
       "contractAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
@@ -7113,7 +7163,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/shiba_88c462bd10.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "moonbeam-ERC20-TFA-0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493",
@@ -7816,7 +7873,7 @@
     "name": "Voucher Ethereum 2.0",
     "symbol": "vETH",
     "decimals": 18,
-    "priceId": "voucher-ethereum-2-0",
+    "priceId": null,
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -8629,6 +8686,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
       }
     ]
   },
@@ -9533,13 +9596,34 @@
     "priceId": null,
     "minAmount": "3333333",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": "Here"
+      },
+      "alternativeSwapAsset": "rococo-NATIVE-ROC"
+    },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_asset_hub_50b263697b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
     "originChain": "rococo_assethub",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo-NATIVE-ROC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": {
+          "alternativeAsset": "rococo-NATIVE-ROC"
+        },
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "rococo_assethub-LOCAL-WETH",
@@ -12205,7 +12289,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
     "originChain": "bitcoinTestnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12497,6 +12581,92 @@
     "assetRefs": []
   },
   {
+    "slug": "statemint-LOCAL-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "1000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "onChainInfo": {
+        "parents": 2,
+        "interior": {
+          "X1": {
+            "GlobalConsensus": "Kusama"
+          }
+        }
+      },
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X1": [
+            {
+              "GlobalConsensus": "Kusama"
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_07ebdf0656.png",
+    "originChain": "statemint",
+    "multiChainAsset": "KSM-Kusama",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
+      }
+    ]
+  },
+  {
+    "slug": "statemine-LOCAL-DOT",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "10000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "onChainInfo": {
+        "parents": 2,
+        "interior": {
+          "X1": {
+            "GlobalConsensus": "Polkadot"
+          }
+        }
+      },
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X1": [
+            {
+              "GlobalConsensus": "Polkadot"
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_63b5dd41ef.png",
+    "originChain": "statemine",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      }
+    ]
+  },
+  {
     "slug": "aleph-PSP22-INW2-5EA7h2xCP9TkAwEQ8Km2b7aQChPKVCqcS2BJWqYavoXiEsfx",
     "name": "Ink Whale Token V2",
     "symbol": "INW2",
@@ -12564,6 +12734,26 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bonk_7617a842f7.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "BORK-BORK",
+    "assetRefs": []
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-vASTR",
+    "name": "Bifrost Voucher ASTR",
+    "symbol": "vASTR",
+    "decimals": 18,
+    "priceId": "bifrost-voucher-astr",
+    "minAmount": "10000000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "VToken2": "3"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vastr_b149fc6113.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
