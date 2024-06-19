@@ -281,7 +281,13 @@
         "label": "I understand",
         "color": "primary",
         "instruction": null,
-        "action": null
+        "action": {
+          "id": 85,
+          "url": "subwallet://home/main/tokens/token-groups-detail?slug=DOT-Polkadot&address=5HbcGs2QXVAc6Q6eoTzLYNAJWpN17AkCFRLnWDaHCiGYXvNc",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
       }
     ],
     "conditions": {}
