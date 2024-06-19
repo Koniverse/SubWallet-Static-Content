@@ -340,20 +340,13 @@
     },
     "buttons": [
       {
-        "id": 80,
+        "id": 81,
         "label": "Got it!",
-        "color": "secondary",
-        "instruction": {
-          "id": 62,
-          "confirm_label": "Change",
-          "cancel_label": "Dismiss",
-          "instruction_id": 38,
-          "group": "earning",
-          "slug": "Test_AZERO"
-        },
+        "color": null,
+        "instruction": null,
         "action": {
-          "id": 83,
-          "url": "/index.html#/settings/general",
+          "id": 84,
+          "url": "subwallet://home/main/tokens/token-groups-detail?slug=DOT-Polkadot&address=5HbcGs2QXVAc6Q6eoTzLYNAJWpN17AkCFRLnWDaHCiGYXvNc",
           "screen": null,
           "params": null,
           "is_cancel": null
