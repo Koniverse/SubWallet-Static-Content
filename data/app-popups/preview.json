@@ -321,7 +321,7 @@
   {
     "id": 49,
     "priority": 1,
-    "position": null,
+    "position": "token",
     "repeat": "once",
     "content": "![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png)",
     "repeat_every_x_days": null,
