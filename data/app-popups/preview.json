@@ -343,7 +343,14 @@
         "id": 80,
         "label": "Got it!",
         "color": "secondary",
-        "instruction": null,
+        "instruction": {
+          "id": 62,
+          "confirm_label": "Change",
+          "cancel_label": "Dismiss",
+          "instruction_id": 38,
+          "group": "earning",
+          "slug": "Test_AZERO"
+        },
         "action": {
           "id": 83,
           "url": "/index.html#/settings/general",
