@@ -317,5 +317,42 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 49,
+    "priority": 1,
+    "position": null,
+    "repeat": "once",
+    "content": "![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 98,
+      "name": "Curency",
+      "description": null,
+      "start_time": "2024-06-18T17:00:00.000Z",
+      "stop_time": "2024-06-19T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 80,
+        "label": "Got it!",
+        "color": "secondary",
+        "instruction": null,
+        "action": {
+          "id": 83,
+          "url": "/index.html#/settings/general",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
