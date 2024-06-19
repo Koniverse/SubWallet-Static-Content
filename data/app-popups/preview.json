@@ -334,7 +334,8 @@
       "start_time": "2024-06-18T17:00:00.000Z",
       "stop_time": "2024-06-19T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "extension",
+        "mobile"
       ],
       "os": null
     },
