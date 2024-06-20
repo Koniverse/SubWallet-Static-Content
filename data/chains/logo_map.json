@@ -174,7 +174,6 @@
   "moonsama": "https://static-data.subwallet.app/chains/images/icon/Moonsama_network_07fdb265d8.png",
   "oak_network": "https://static-data.subwallet.app/chains/images/icon/oak_network_9fd08adbbf.png",
   "omnibtc": "https://static-data.subwallet.app/chains/images/icon/omnibtc_b480074463.png",
-  "peaq": "https://static-data.subwallet.app/chains/images/icon/peaq_31a6e2dff3.png",
   "quantum_portal": "https://static-data.subwallet.app/chains/images/icon/Quantum_Portal_6c3b1feb1d.png",
   "virto_network": "https://static-data.subwallet.app/chains/images/icon/Virto_network_dfe70c92e9.png",
   "energy_web_x": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
@@ -249,5 +248,7 @@
   "lineaZkEvm": "https://static-data.subwallet.app/chains/images/icon/linea_f3fc15cc45.png",
   "bounceBitEvm": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
   "bounceBitEvmTest": "https://static-data.subwallet.app/chains/images/icon/bouncebit_4ee84c7354.png",
-  "kreivo": "https://static-data.subwallet.app/chains/images/icon/kreivo_a2650e40f6.png"
+  "kreivo": "https://static-data.subwallet.app/chains/images/icon/kreivo_a2650e40f6.png",
+  "analog_testnet": "https://static-data.subwallet.app/chains/images/icon/uniport_network_a3766e32c9.png",
+  "peaq": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png"
 }

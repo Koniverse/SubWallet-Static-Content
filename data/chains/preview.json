@@ -6683,47 +6683,6 @@
     "bitcoinInfo": null
   },
   {
-    "slug": "peaq",
-    "name": "peaq",
-    "isTestnet": false,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/peaq_31a6e2dff3.png",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": "polkadot",
-      "paraId": 3338,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": "PARACHAIN",
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": [
-        {
-          "relayChain": "polkadot",
-          "fundId": "3338-66",
-          "paraId": 3338,
-          "status": "won",
-          "startTime": "2023-08-01T01:48:00.000Z",
-          "endTime": "2025-06-03T01:48:00.000Z",
-          "auctionIndex": 45,
-          "firstPeriod": 13,
-          "lastPeriod": 20
-        }
-      ]
-    },
-    "extraInfo": null,
-    "bitcoinInfo": null
-  },
-  {
     "slug": "quantum_portal",
     "name": "Quantum Portal",
     "isTestnet": false,
@@ -9017,6 +8976,79 @@
       "existentialDeposit": "33333333",
       "symbol": "KSM",
       "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "analog_testnet",
+    "name": "Analog Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/uniport_network_a3766e32c9.png",
+    "providers": {
+      "Analog": "wss://rpc.testnet.analog.one"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943",
+      "addressPrefix": 12850,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "TANLOG",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "peaq",
+    "name": "peaq",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
+    "providers": {
+      "Onfinality": "https://peaq.api.onfinality.io/public"
+    },
+    "evmInfo": {
+      "evmChainId": 3338,
+      "blockExplorer": "https://peaq.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "PEAQ",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xd2a5d385932d1f650dae03ef8e2748983779ee342c614f80854d32b8cd8fa48c",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://peaq.subscan.io/",
+      "existentialDeposit": "500",
+      "symbol": "PEAQ",
+      "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
