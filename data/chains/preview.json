@@ -9024,7 +9024,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
     "providers": {
-      "Onfinality": "https://peaq.api.onfinality.io/public"
+      "Onfinality": "wss://peaq.api.onfinality.io/public-ws"
     },
     "evmInfo": {
       "evmChainId": 3338,
