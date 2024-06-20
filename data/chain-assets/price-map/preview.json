@@ -638,5 +638,21 @@
   "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1": "the-open-network",
   "statemint-LOCAL-wstETH": "wrapped-steth",
   "statemint-LOCAL-tBTC": "tbtc",
-  "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88": "tbtc"
+  "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88": "tbtc",
+  "moonbeam-ERC20-USDC.axl-0xCa01a1D0993565291051daFF390892518ACfAD3A": "axelar-bridged-usdc",
+  "moonbeam-ERC20-USDT.wh-0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f": null,
+  "moonbeam-ERC20-USDC.wh-0x931715fee2d06333043d11f658c8ce934ac61d0c": null,
+  "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d": null,
+  "moonbeam-ERC20-ETH.wh-0xab3f0245b83feb11d15aaffefd7ad465a59817ed": null,
+  "moonbeam-ERC20-FRAX-0x322e86852e492a7ee17f28a78c663da38fb33bfb": "frax",
+  "analog_testnet": null,
+  "hydradx_main-LOCAL-PHA": "phala",
+  "hydradx_main-LOCAL-KILT": "kilt-protocol",
+  "hydradx_main-LOCAL-ZTG": "zeitgeist",
+  "hydradx_main-LOCAL-CRU": "crust-network",
+  "hydradx_main-LOCAL-RING": "darwinia-network-native-token",
+  "hydradx_main-LOCAL-UNQ": "unique-network",
+  "peaq-NATIVE-PEAQ": null,
+  "karura-LOCAL-USDCet": "usd-coin",
+  "karura-LOCAL-USDT": "tether"
 }
