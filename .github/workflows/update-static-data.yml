@@ -38,20 +38,58 @@ jobs:
         run: |
           yarn install --immutable | grep -v 'YN0013'
           yarn update-data ${{ github.event.inputs.environment }} ${{ github.event.inputs.folder }}
-      - name: Deploy to Cloudflare Pages
-        id: cloudflare_deployment
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: 'sw-static-data'
-          gitHubToken: ${{ secrets.GH_AUTOMATION_TOKEN }}
-          branch: ${{ github.event.inputs.branch }}
-          directory: './data'
-          wranglerVersion: '3'
+      - name: Install jq and texterify
+        if: ${{ !github.event.inputs.folder || github.event.inputs.folder == 'localization-contents'}}
+        run: |
+          sudo apt-get install -y jq
+          sudo yarn global add texterify
+      - name: Update data texterify
+        if: ${{ !github.event.inputs.folder || github.event.inputs.folder == 'localization-contents'}}
+        run: |
+          if [ ${{ github.event.inputs.environment }} == "production" ]; then
+            JSON_FILE="data/localization-contents/list.json"
+            SUFFIX="/prod"
+          else
+            JSON_FILE="data/localization-contents/preview.json"
+            SUFFIX="/dev"
+          fi
+          # Read and loop through each item in the selected JSON file
+          jq -c '.[]' $JSON_FILE | while read -r item; do
+            # Update the export_directory field
+            updated_item=$(echo $item | jq --arg suffix "$SUFFIX" '.export_directory = (.export_directory + $suffix)')
+          
+            # Save each JSON object to file.json
+            echo $updated_item > texterify.json
+          
+            # Run the required commands
+            texterify download --auth-email="${{ secrets.TEXTERIFY_MAIL }}" --auth-secret="${{ secrets.TEXTERIFY_TOKEN }}"
+          
+          done
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: Scheduler
           author_email: scheduler@github.io
           message: 'Update Static Data'
+      - name: Get Project name cloudflare
+        id: get_project_name_cf
+        run: |
+          echo ${{ github.event.repository.name }}
+          if [ ${{ github.event.repository.name }} == "SubWallet-Static-Content" ]; then
+            PROJECT_NAME="sw-static-data"
+          else
+            PROJECT_NAME="sw-static-data-dev"
+          fi
+          echo $PROJECT_NAME
+          echo "project_name=$PROJECT_NAME" >> $GITHUB_OUTPUT
+      - name: Deploy to Cloudflare Pages
+        id: cloudflare_deployment
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: ${{ steps.get_project_name_cf.outputs.project_name}}
+          gitHubToken: ${{ secrets.GH_AUTOMATION_TOKEN }}
+          branch: ${{ github.event.inputs.branch }}
+          directory: './data'
+          wranglerVersion: '3'
