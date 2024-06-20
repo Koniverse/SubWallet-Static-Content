@@ -20,6 +20,18 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/karura_share_f97fbf55c7.jpeg",
     "chains": [
       "karura"
+    ],
+    "categories": [
+      {
+        "color": "warning",
+        "name": "Bridge",
+        "slug": "bridge"
+      },
+      {
+        "color": "volcano",
+        "name": "Community",
+        "slug": "community"
+      }
     ]
   },
   {
@@ -44,7 +56,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/The_Sky_is_PINK_Moonrise_Edition_Airlyft_campaign_dda775e072.png",
     "chains": [
       "moonbeam"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 43,
@@ -67,7 +80,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Mimir_x_Acala_Multisig_Contest_6c66a58ca6.png",
     "chains": [
       "acala"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 35,
@@ -88,7 +102,8 @@
     "campaign_url": "https://www.archisinal.io/",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Peb_Tbab_YAA_7_Fud_a5f2bf6588.jpeg",
-    "chains": []
+    "chains": [],
+    "categories": []
   },
   {
     "id": 39,
@@ -111,7 +126,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Karura_x_Playnation_Airdrop_8ed0ca6108.jpg",
     "chains": [
       "karura"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 31,
@@ -135,7 +151,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Zealy_is_DED_campaign_0b01e26a45.jpg",
     "chains": [
       "statemint"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 27,
@@ -158,7 +175,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
     "chains": [
       "moonbeam"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 26,
@@ -181,7 +199,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
     "chains": [
       "dancebox"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 21,
@@ -205,7 +224,8 @@
     "chains": [
       "creditcoinTest",
       "creditcoinTestEvm"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 25,
@@ -228,7 +248,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Unique_NFT_contest_9436e9de22.jpg",
     "chains": [
       "unique_network"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 29,
@@ -251,7 +272,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_x_Mimir_Airlyft_campaign_1969d67dbd.jpg",
     "chains": [
       "bifrost_dot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 20,
@@ -276,7 +298,8 @@
     "chains": [
       "moonbeam",
       "polkadot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 22,
@@ -299,7 +322,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Avail_Galxe_campaign_ca74389678.jpg",
     "chains": [
       "goldberg_testnet"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 23,
@@ -322,7 +346,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Moonwell_is_PINK_Galxe_campaign_98368861cd.png",
     "chains": [
       "moonbeam"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 24,
@@ -345,7 +370,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Airlyft_is_PINK_campaign_8ca0addbbd.png",
     "chains": [
       "moonbeam"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 19,
@@ -368,7 +394,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Airlyft_zk_EVM_by_Astar_c1b35d5416.png",
     "chains": [
       "astarZkEvm"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 13,
@@ -391,7 +418,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/vdotisded_e4faf83730.webp",
     "chains": [
       "bifrost_dot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 15,
@@ -415,7 +443,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/mnet_campaign_d269d1136a.png",
     "chains": [
       "continuum_network"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 16,
@@ -439,7 +468,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/mnet_zealy_campaign_1e2101ab35.jpeg",
     "chains": [
       "continuum_network"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 3,
@@ -463,7 +493,8 @@
     "chains": [
       "bifrost_dot",
       "moonbeam"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 6,
@@ -486,7 +517,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 8,
@@ -514,7 +546,8 @@
       "parallel",
       "interlay",
       "moonbeam"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 7,
@@ -537,7 +570,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zeitgeist_6ca1f96bd6.webp",
     "chains": [
       "zeitgeist"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 5,
@@ -560,7 +594,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 4,
@@ -583,7 +618,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 10,
@@ -606,7 +642,8 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
     "chains": [
       "polkadot"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 11,
@@ -630,7 +667,8 @@
     "chains": [
       "bifrost_dot",
       "zeitgeist"
-    ]
+    ],
+    "categories": []
   },
   {
     "id": 18,
@@ -654,6 +692,7 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Revised_641a84b12b.png",
     "chains": [
       "subsocial_x"
-    ]
+    ],
+    "categories": []
   }
 ]
