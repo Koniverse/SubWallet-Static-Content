@@ -9,7 +9,7 @@
       "name": "Stake AZERO",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-19T17:00:00.000Z",
+      "stop_time": "2024-06-21T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -96,7 +96,7 @@
       "name": "Extension - Test banner",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-19T17:00:00.000Z",
+      "stop_time": "2024-06-21T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -131,7 +131,7 @@
       "name": "Stake DOT get VARCH 1",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-20T17:00:00.000Z",
+      "stop_time": "2024-06-21T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -166,7 +166,7 @@
       "name": "Stake AZERO 2",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-20T17:00:00.000Z",
+      "stop_time": "2024-06-21T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
