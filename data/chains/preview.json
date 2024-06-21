@@ -10,8 +10,7 @@
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
-      "Light Client": "light://substrate-connect/polkadot",
-      "SubWallet": "wss://polkadot-rpc.subwallet.app"
+      "Light Client": "light://substrate-connect/polkadot"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -49,8 +48,7 @@
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama",
-      "SubWallet": "wss://kusama-rpc.subwallet.app"
+      "Light Client": "light://substrate-connect/kusama"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9026,18 +9024,7 @@
     "providers": {
       "Onfinality": "wss://peaq.api.onfinality.io/public-ws"
     },
-    "evmInfo": {
-      "evmChainId": 3338,
-      "blockExplorer": "https://peaq.subscan.io/",
-      "existentialDeposit": "0",
-      "symbol": "PEAQ",
-      "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
-      "abiExplorer": null
-    },
+    "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
       "paraId": null,
