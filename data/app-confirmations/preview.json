@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 4,
+    "name": "Confirmation",
+    "position": "crowdloan",
+    "repeat": "everytime",
+    "confirm_label": "OK",
+    "cancel_label": "Cancel",
+    "content": null,
+    "repeat_every_x_days": null,
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      },
+      {
+        "property": null,
+        "value": null
+      }
+    ],
+    "conditions": {}
+  }
+]
