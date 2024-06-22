@@ -8806,7 +8806,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
     "providers": {
-      "Blockstream": "https://api.openbit.app"
+      "Blockstream": "https://apix.openbit.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -8827,7 +8827,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Blockstream": "https://api-testnet.openbit.app"
+      "Blockstream": "https://apix-testnet.openbit.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
