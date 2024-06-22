@@ -23,19 +23,14 @@
     ],
     "categories": [
       {
-        "color": "warning",
-        "name": "Bridge",
-        "slug": "bridge"
-      },
-      {
-        "color": "volcano",
-        "name": "Community",
-        "slug": "community"
-      },
-      {
         "color": "magenta",
         "name": "Gaming",
         "slug": "gaming"
+      },
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
       }
     ]
   },
