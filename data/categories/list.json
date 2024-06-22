@@ -89,5 +89,19 @@
     "color": "success",
     "description": null,
     "ordinal": 13
+  },
+  {
+    "slug": "gaming",
+    "name": "Gaming",
+    "color": "magenta",
+    "description": null,
+    "ordinal": 13
+  },
+  {
+    "slug": "meme",
+    "name": "Meme",
+    "color": "lime",
+    "description": null,
+    "ordinal": 99
   }
 ]
