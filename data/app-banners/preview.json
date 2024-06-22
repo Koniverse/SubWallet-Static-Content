@@ -195,5 +195,26 @@
       "group": "earning",
       "slug": "Test_AZERO"
     }
+  },
+  {
+    "id": 50,
+    "position": "crowdloan",
+    "priority": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Crowdloan_tabbar_81fec4cc6b.png",
+    "info": {
+      "id": 99,
+      "name": "Crowdloan",
+      "description": null,
+      "start_time": "2024-06-21T17:00:00.000Z",
+      "stop_time": "2024-06-22T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
