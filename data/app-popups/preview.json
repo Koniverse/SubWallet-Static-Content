@@ -209,7 +209,7 @@
       "name": "Extension - Test AZERO",
       "description": "Stake AZERO. Get Your Common Drops!",
       "start_time": "2024-06-18T14:00:00.000Z",
-      "stop_time": "2024-06-21T14:00:00.000Z",
+      "stop_time": "2024-06-22T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -269,7 +269,7 @@
       "name": "Extension - Test banner",
       "description": null,
       "start_time": "2024-06-13T17:00:00.000Z",
-      "stop_time": "2024-06-21T17:00:00.000Z",
+      "stop_time": "2024-06-22T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -306,7 +306,7 @@
       "name": "Test - Earning",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-21T17:00:00.000Z",
+      "stop_time": "2024-06-22T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
