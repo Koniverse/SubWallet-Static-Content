@@ -6,6 +6,7 @@
     "geo:",
     "sms:",
     "tg:",
-    "https://apps.apple.com"
+    "https://apps.apple.com",
+    "vnd.youtube:"
   ]
 }
