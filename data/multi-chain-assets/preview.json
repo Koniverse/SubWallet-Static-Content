@@ -20,7 +20,8 @@
       "bobMainnet-NATIVE-ETH",
       "lineaZkEvm-NATIVE-ETH",
       "bitlayer-ERC20-ETH-0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2",
-      "statemint-LOCAL-WETH"
+      "statemint-LOCAL-WETH",
+      "moonbeam-ERC20-ETH.wh-0xab3f0245b83feb11d15aaffefd7ad465a59817ed"
     ]
   },
   {
@@ -150,7 +151,8 @@
       "aleph-PSP22-USDT-5Et3dDcXUiThrBCot7g65k3oDSicGy4qC82cq9f911izKNtE",
       "bitlayer-ERC20-USDT-0xfe9f969faf8ad72a83b761138bf25de87eff9dd2",
       "karura-LOCAL-USDT",
-      "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9"
+      "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9",
+      "moonbeam-ERC20-USDT.wh-0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f"
     ]
   },
   {
@@ -511,7 +513,8 @@
       "pendulum-LOCAL-USDC.s",
       "aleph-PSP22-USDC-5FYFojNCJVFR2bBNKfAePZCa72ZcVX5yeTv8K9bzeUo8D83Z",
       "bitlayer-ERC20-USDC-0x9827431e8b77e87c9894bd50b055d6be56be0030",
-      "karura-LOCAL-USDCet"
+      "karura-LOCAL-USDCet",
+      "moonbeam-ERC20-USDC.wh-0x931715fee2d06333043d11f658c8ce934ac61d0c"
     ]
   },
   {
@@ -558,7 +561,8 @@
       "aleph-PSP22-WBTC-5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ",
       "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
       "statemint-LOCAL-WBTC",
-      "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
+      "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+      "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d"
     ]
   },
   {
@@ -1125,7 +1129,7 @@
     "originChainAsset": null,
     "chainAssets": [
       "unique_network-NATIVE-UNQ",
-      "uniqueNft-NATIVE-UNQ"
+      "hydradx_main-LOCAL-UNQ"
     ]
   },
   {

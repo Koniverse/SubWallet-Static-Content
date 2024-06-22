@@ -238,7 +238,7 @@
         },
         "action": {
           "id": 44,
-          "url": "subwallet://home/main/tokens/token-groups-detail?slug=DOT-Polkadot&address=5HbcGs2QXVAc6Q6eoTzLYNAJWpN17AkCFRLnWDaHCiGYXvNc",
+          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
           "screen": null,
           "params": null,
           "is_cancel": null
