@@ -3,7 +3,7 @@
     "id": 4,
     "name": "Confirmation",
     "position": "missionPools",
-    "repeat": "everytime",
+    "repeat": "one",
     "confirm_label": "OK",
     "cancel_label": "Cancel",
     "content": null,
@@ -12,10 +12,6 @@
       {
         "property": "id",
         "value": "72"
-      },
-      {
-        "property": null,
-        "value": null
       }
     ],
     "conditions": {}
