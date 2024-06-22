@@ -346,7 +346,7 @@
     "lastPeriod": 20,
     "startTime": "2023-08-01T01:48:00.000Z",
     "endTime": "2025-06-03T01:48:00.000Z",
-    "chain": "peaq"
+    "chain": null
   },
   {
     "paraId": 3340,

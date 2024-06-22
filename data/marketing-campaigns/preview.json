@@ -456,55 +456,6 @@
     "notifications": []
   },
   {
-    "id": 49,
-    "name": "Test - Currency",
-    "description": null,
-    "start_time": "2024-05-12T17:00:00.000Z",
-    "end_time": "2024-05-24T16:59:00.000Z",
-    "condition": {
-      "allowedTokenSlug": "['DOT-Polkadot']"
-    },
-    "banners": [
-      {
-        "id": 112,
-        "alt": "Popup banner in app extension",
-        "action": "open_url",
-        "metadata": {
-          "url": "/index.html#/settings/general"
-        },
-        "environments": [
-          "extension"
-        ],
-        "position": [
-          "home"
-        ],
-        "buttons": [
-          {
-            "name": "Dismiss",
-            "icon": "XCircle",
-            "color": "secondary",
-            "type": null,
-            "metadata": {
-              "doneOnClick": true
-            }
-          },
-          {
-            "name": "Currency",
-            "icon": "ArrowCircleRight",
-            "color": "primary",
-            "type": "open_url",
-            "metadata": {
-              "url": "/index.html#/settings/general",
-              "doneOnClick": true
-            }
-          }
-        ],
-        "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
-      }
-    ],
-    "notifications": []
-  },
-  {
     "id": 50,
     "name": "[Test] Using bit.ly url to open deeplink - DOT token detail banner (mobile app)",
     "description": null,
@@ -1257,55 +1208,6 @@
           }
         ],
         "media": "https://media-resources.subwallet.app//6/Swap_is_live_ff59dfaaab.png"
-      }
-    ],
-    "notifications": []
-  },
-  {
-    "id": 74,
-    "name": "Test - Currency 2",
-    "description": null,
-    "start_time": "2024-05-12T17:00:00.000Z",
-    "end_time": "2024-05-17T16:59:00.000Z",
-    "condition": {
-      "allowedTokenSlug": "['DOT-Polkadot']"
-    },
-    "banners": [
-      {
-        "id": 138,
-        "alt": "Popup banner in app extension",
-        "action": "open_url",
-        "metadata": {
-          "url": "/index.html#/settings/general"
-        },
-        "environments": [
-          "extension"
-        ],
-        "position": [
-          "earning"
-        ],
-        "buttons": [
-          {
-            "name": "Dismiss",
-            "icon": "XCircle",
-            "color": "secondary",
-            "type": null,
-            "metadata": {
-              "doneOnClick": true
-            }
-          },
-          {
-            "name": "Currency",
-            "icon": "ArrowCircleRight",
-            "color": "primary",
-            "type": "open_url",
-            "metadata": {
-              "url": "/index.html#/settings/general",
-              "doneOnClick": true
-            }
-          }
-        ],
-        "media": "https://media-resources.subwallet.app/Home_screen_74335f9a45.png"
       }
     ],
     "notifications": []

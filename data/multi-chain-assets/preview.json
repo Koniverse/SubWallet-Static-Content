@@ -19,7 +19,8 @@
       "hydradx_main-LOCAL-WETH",
       "bobMainnet-NATIVE-ETH",
       "lineaZkEvm-NATIVE-ETH",
-      "bitlayer-ERC20-ETH-0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2"
+      "bitlayer-ERC20-ETH-0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2",
+      "statemint-LOCAL-WETH"
     ]
   },
   {
@@ -147,7 +148,9 @@
       "hydradx_main-LOCAL-USDT-23",
       "amplitude-LOCAL-USDT",
       "aleph-PSP22-USDT-5Et3dDcXUiThrBCot7g65k3oDSicGy4qC82cq9f911izKNtE",
-      "bitlayer-ERC20-USDT-0xfe9f969faf8ad72a83b761138bf25de87eff9dd2"
+      "bitlayer-ERC20-USDT-0xfe9f969faf8ad72a83b761138bf25de87eff9dd2",
+      "karura-LOCAL-USDT",
+      "bobMainnet-LOCAL-USDT-0x05D032ac25d322df992303dCa074EE7392C117b9"
     ]
   },
   {
@@ -249,7 +252,8 @@
     "chainAssets": [
       "crust-NATIVE-CRU",
       "equilibrium_parachain-LOCAL-CRU",
-      "crust_mainnet-NATIVE-CRU"
+      "crust_mainnet-NATIVE-CRU",
+      "hydradx_main-LOCAL-CRU"
     ]
   },
   {
@@ -410,7 +414,8 @@
     "chainAssets": [
       "phala-NATIVE-PHA",
       "equilibrium_parachain-LOCAL-PHA",
-      "bifrost-LOCAL-PHA"
+      "bifrost-LOCAL-PHA",
+      "hydradx_main-LOCAL-PHA"
     ]
   },
   {
@@ -505,7 +510,8 @@
       "amplitude-LOCAL-USDC.s",
       "pendulum-LOCAL-USDC.s",
       "aleph-PSP22-USDC-5FYFojNCJVFR2bBNKfAePZCa72ZcVX5yeTv8K9bzeUo8D83Z",
-      "bitlayer-ERC20-USDC-0x9827431e8b77e87c9894bd50b055d6be56be0030"
+      "bitlayer-ERC20-USDC-0x9827431e8b77e87c9894bd50b055d6be56be0030",
+      "karura-LOCAL-USDCet"
     ]
   },
   {
@@ -550,7 +556,9 @@
       "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "hydradx_main-LOCAL-WBTC",
       "aleph-PSP22-WBTC-5EEtCdKLyyhQnNQWWWPM1fMDx1WdVuiaoR9cA6CWttgyxtuJ",
-      "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3"
+      "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+      "statemint-LOCAL-WBTC",
+      "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
     ]
   },
   {
@@ -958,7 +966,9 @@
     "chainAssets": [
       "bitcoin-NATIVE-BTC",
       "b2-NATIVE-BTC",
-      "bitlayer-NATIVE-BTC"
+      "bitlayer-NATIVE-BTC",
+      "merlinEvm-NATIVE-BTC",
+      "bevm-NATIVE-BTC"
     ]
   },
   {
@@ -985,6 +995,166 @@
     "chainAssets": [
       "rococo-NATIVE-ROC",
       "rococo_assethub-NATIVE-ROC"
+    ]
+  },
+  {
+    "slug": "MYTH-Mythos",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "priceId": "mythos",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChainAsset": "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
+    "chainAssets": [
+      "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
+      "mythos-NATIVE-MYTH",
+      "statemint-LOCAL-MYTH"
+    ]
+  },
+  {
+    "slug": "SHIB-SHIBAINU",
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "priceId": "shiba-inu",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/shiba_88c462bd10.png",
+    "originChainAsset": "ethereum-ERC20-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "chainAssets": [
+      "ethereum-ERC20-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "statemint-LOCAL-SHIB"
+    ]
+  },
+  {
+    "slug": "PEPE-Pepe",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "priceId": "pepe",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/pepe_27d5fba27f.png",
+    "originChainAsset": "ethereum-ERC20-PEPE-0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "chainAssets": [
+      "ethereum-ERC20-PEPE-0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "statemint-LOCAL-PEPE"
+    ]
+  },
+  {
+    "slug": "TON-TONCoin",
+    "name": "TON Coin",
+    "symbol": "TON",
+    "priceId": "the-open-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ton_050d3ba698.png",
+    "originChainAsset": "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+    "chainAssets": [
+      "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+      "statemint-LOCAL-TON"
+    ]
+  },
+  {
+    "slug": "wstETH-WrappedLiquidEther",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "priceId": "wrapped-steth",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/wsteth_cc7cdc4e01.png",
+    "originChainAsset": "ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "chainAssets": [
+      "ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "statemint-LOCAL-wstETH"
+    ]
+  },
+  {
+    "slug": "tBTC-tBTCv2",
+    "name": "tBTC v2",
+    "symbol": "tBTC",
+    "priceId": "tbtc",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/tbtc_489b01746a.png",
+    "originChainAsset": "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+    "chainAssets": [
+      "statemint-LOCAL-tBTC",
+      "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88"
+    ]
+  },
+  {
+    "slug": "FRAX-Frax",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "priceId": "frax",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/frax_finance_dbdd800b27.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "moonbeam-ERC20-FRAX-0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+      "moonriver-ERC20-FRAX-0x1A93B23281CC1CDE4C4741353F3064709A16197d"
+    ]
+  },
+  {
+    "slug": "ZTG-Zeitgeist",
+    "name": "Zeitgeist",
+    "symbol": "ZTG",
+    "priceId": "zeitgeist",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/zeitgeist_dfd051f93d.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "zeitgeist-NATIVE-ZTG",
+      "hydradx_main-LOCAL-ZTG"
+    ]
+  },
+  {
+    "slug": "RING-DarwiniaNetwork",
+    "name": "DarwiniaNetwork",
+    "symbol": "RING",
+    "priceId": "darwinia-network-native-token",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/darwinia_36aff831b2.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "hydradx_main-LOCAL-RING",
+      "darwinia2-NATIVE-RING"
+    ]
+  },
+  {
+    "slug": "UNQ-UniqueNetwork",
+    "name": "Unique Network",
+    "symbol": "UNQ",
+    "priceId": "unique-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/unq_c16e1add2a.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "unique_network-NATIVE-UNQ",
+      "uniqueNft-NATIVE-UNQ"
+    ]
+  },
+  {
+    "slug": "KILT-KILTProtocol",
+    "name": "KILT Protocol",
+    "symbol": "KILT",
+    "priceId": "kilt-protocol",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/kilt_00b4f01b3e.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "hydradx_main-LOCAL-KILT",
+      "kilt-NATIVE-KILT"
+    ]
+  },
+  {
+    "slug": "BTC-BitcoinTestnet",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "priceId": null,
+    "hasValue": false,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bitcoin_testnet_b9799e9a57.png",
+    "originChainAsset": "bitcoinTestnet-NATIVE-BTC",
+    "chainAssets": [
+      "bitcoinTestnet-NATIVE-BTC",
+      "bitlayerTest-NATIVE-BTC",
+      "botanixEvmTest-NATIVE-BTC",
+      "bevmTest-NATIVE-BTC",
+      "layerEdge_testnet-NATIVE-BTC"
     ]
   }
 ]

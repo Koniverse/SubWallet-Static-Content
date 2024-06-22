@@ -9044,5 +9044,31 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null
+  },
+  {
+    "slug": "layerEdge_testnet",
+    "name": "LayerEdge Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/layeredge_9ad4004b15.png",
+    "providers": {
+      "LayerEdge Testnet": "https://testnet-rpc.layeredge.io"
+    },
+    "evmInfo": {
+      "evmChainId": 3456,
+      "blockExplorer": "https://testnet-explorer.layeredge.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
   }
 ]
