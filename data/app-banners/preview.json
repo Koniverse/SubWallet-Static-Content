@@ -230,5 +230,39 @@
       "group": "earning",
       "slug": "Test_AZERO"
     }
+  },
+  {
+    "id": 51,
+    "position": "nft",
+    "priority": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "info": {
+      "id": 100,
+      "name": "NFT",
+      "description": null,
+      "start_time": "2024-06-21T17:00:00.000Z",
+      "stop_time": "2024-06-22T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 87,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": {
+      "id": 64,
+      "confirm_label": "Stake",
+      "cancel_label": "Dismiss",
+      "instruction_id": 38,
+      "group": "earning",
+      "slug": "Test_AZERO"
+    }
   }
 ]
