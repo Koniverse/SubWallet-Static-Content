@@ -9020,9 +9020,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
-    "providers": {
-      "Onfinality": "wss://peaq.api.onfinality.io/public-ws"
-    },
+    "providers": {},
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
