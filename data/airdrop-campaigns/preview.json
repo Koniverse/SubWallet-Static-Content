@@ -31,6 +31,11 @@
         "color": "volcano",
         "name": "Community",
         "slug": "community"
+      },
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
       }
     ]
   },
