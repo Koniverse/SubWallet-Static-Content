@@ -12,7 +12,9 @@
     "reward": "42,000 KAR",
     "total_winner": null,
     "total_supply": null,
-    "tags": null,
+    "tags": [
+      "fcfs"
+    ],
     "campaign_url": "https://acala.network/karura",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/hydration_5513bef59e.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/karura_share_f97fbf55c7.jpeg",
