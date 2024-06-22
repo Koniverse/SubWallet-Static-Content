@@ -2894,7 +2894,7 @@
     "ordinal": 130,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unique_network_4dcd32301d.png",
     "originChain": "uniqueNft",
-    "multiChainAsset": "UNQ-UniqueNetwork",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -3556,7 +3556,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 169,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pilt_a7a7a7ba40.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_00b4f01b3e.png",
     "originChain": "kilt_peregrine",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12696,7 +12696,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "priceId": "bitcoin",
+    "priceId": "wrapped-bitcoin",
     "minAmount": "0",
     "assetType": "PSP22",
     "metadata": {
@@ -13683,7 +13683,7 @@
     "name": "Axelar Wrapped USDC",
     "symbol": "USDC.axl",
     "decimals": 6,
-    "priceId": "axelar-bridged-usdc",
+    "priceId": "axlusdc",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -13701,7 +13701,7 @@
     "name": "Tether USD",
     "symbol": "USDT.wh",
     "decimals": 6,
-    "priceId": null,
+    "priceId": "tether",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -13711,7 +13711,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
     "originChain": "moonbeam",
-    "multiChainAsset": null,
+    "multiChainAsset": "USDT-Tether",
     "assetRefs": []
   },
   {
@@ -13719,7 +13719,7 @@
     "name": "USDC (Wormhole)",
     "symbol": "USDC.wh",
     "decimals": 6,
-    "priceId": null,
+    "priceId": "usd-coin",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -13729,7 +13729,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
     "originChain": "moonbeam",
-    "multiChainAsset": null,
+    "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
   },
   {
@@ -13737,7 +13737,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC.wh",
     "decimals": 8,
-    "priceId": null,
+    "priceId": "wrapped-bitcoin",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -13747,7 +13747,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
     "originChain": "moonbeam",
-    "multiChainAsset": null,
+    "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": []
   },
   {
@@ -13755,7 +13755,7 @@
     "name": "Wrapped Ether",
     "symbol": "ETH.wh",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "ethereum",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -13765,7 +13765,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
     "originChain": "moonbeam",
-    "multiChainAsset": null,
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   },
   {
@@ -13807,7 +13807,7 @@
     "name": "Phala",
     "symbol": "PHA",
     "decimals": 12,
-    "priceId": "phala",
+    "priceId": "pha",
     "minAmount": "54945054945",
     "assetType": "LOCAL",
     "metadata": {
@@ -13907,7 +13907,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unq_c16e1add2a.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "UNQ-UniqueNetwork",
     "assetRefs": []
   },
   {
