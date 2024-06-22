@@ -88,7 +88,7 @@
   },
   {
     "id": 25,
-    "position": "crowdloan",
+    "position": "token",
     "priority": 2,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
@@ -96,7 +96,7 @@
       "name": "Extension - Test banner",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-21T17:00:00.000Z",
+      "stop_time": "2024-06-22T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -200,7 +200,7 @@
     "id": 50,
     "position": "crowdloan",
     "priority": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Crowdloan_tabbar_81fec4cc6b.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Extension_crowdloan_tabbar_x4_d1059ee4b5.png",
     "info": {
       "id": 99,
       "name": "Crowdloan",
