@@ -656,5 +656,7 @@
   "karura-LOCAL-USDCet": "usd-coin",
   "karura-LOCAL-USDT": "tether",
   "layerEdge_testnet-NATIVE-BTC": null,
-  "bitlayer-ERC721-LuckyHelmet-0x260ac1a14a89fd24c72b84092629f14964556299": null
+  "bitlayer-ERC721-LuckyHelmet-0x260ac1a14a89fd24c72b84092629f14964556299": null,
+  "bevm_testnet-NATIVE-WBTC": null,
+  "merlinEvm-ERC20-MERL-0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378": "merlin-chain"
 }

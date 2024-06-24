@@ -7088,7 +7088,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-LOCAL-WBTC"
       }
     ]
@@ -13373,7 +13373,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
       }
     ]
@@ -13997,6 +13997,40 @@
     "ordinal": 9999,
     "icon": null,
     "originChain": "bitlayer",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm_testnet-NATIVE-WBTC",
+    "name": "Wrapped BTC Testnet",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bevm_610aea8f62.png",
+    "originChain": "bevm_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "merlinEvm-ERC20-MERL-0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378",
+    "name": "MERL",
+    "symbol": "MERL",
+    "decimals": 18,
+    "priceId": "merlin-chain",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/merlin_chain_a885212729.png",
+    "originChain": "merlinEvm",
     "multiChainAsset": null,
     "assetRefs": []
   }
