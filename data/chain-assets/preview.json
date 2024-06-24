@@ -14033,5 +14033,21 @@
     "originChain": "merlinEvm",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "berachain_testnet-NATIVE-BERA",
+    "name": "BERA Token",
+    "symbol": "BERA",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "berachain_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

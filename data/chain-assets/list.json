@@ -879,7 +879,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "statemint-LOCAL-WETH"
       }
     ]
   },
@@ -1053,7 +1053,7 @@
     "ordinal": 40,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
     "originChain": "rococo",
-    "multiChainAsset": null,
+    "multiChainAsset": "ROC-Rococo",
     "assetRefs": [
       {
         "type": "XCM",
@@ -2270,7 +2270,7 @@
   },
   {
     "slug": "darwinia2-NATIVE-RING",
-    "name": "Darwinia",
+    "name": "Darwinia Network",
     "symbol": "RING",
     "decimals": 18,
     "priceId": "darwinia-network-native-token",
@@ -2281,7 +2281,7 @@
     "ordinal": 97,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/darwinia_1d4de7604c.png",
     "originChain": "darwinia2",
-    "multiChainAsset": null,
+    "multiChainAsset": "RING-DarwiniaNetwork",
     "assetRefs": []
   },
   {
@@ -2593,7 +2593,7 @@
   },
   {
     "slug": "kilt-NATIVE-KILT",
-    "name": "KILT Spiritnet",
+    "name": "KILT Protocol",
     "symbol": "KILT",
     "decimals": 15,
     "priceId": "kilt-protocol",
@@ -2604,7 +2604,7 @@
     "ordinal": 113,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_f4e47d8ad2.png",
     "originChain": "kilt",
-    "multiChainAsset": null,
+    "multiChainAsset": "KILT-KILTProtocol",
     "assetRefs": []
   },
   {
@@ -2749,7 +2749,7 @@
   },
   {
     "slug": "unique_network-NATIVE-UNQ",
-    "name": "Unique",
+    "name": "Unique Network",
     "symbol": "UNQ",
     "decimals": 18,
     "priceId": "unique-network",
@@ -2760,7 +2760,7 @@
     "ordinal": 122,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unique_network_4dcd32301d.png",
     "originChain": "unique_network",
-    "multiChainAsset": null,
+    "multiChainAsset": "UNQ-UniqueNetwork",
     "assetRefs": []
   },
   {
@@ -2846,7 +2846,7 @@
     "ordinal": 127,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zeitgeist_7f424ac84c.png",
     "originChain": "zeitgeist",
-    "multiChainAsset": null,
+    "multiChainAsset": "ZTG-Zeitgeist",
     "assetRefs": []
   },
   {
@@ -3556,7 +3556,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 169,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pilt_a7a7a7ba40.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_00b4f01b3e.png",
     "originChain": "kilt_peregrine",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5338,7 +5338,7 @@
     "ordinal": 264,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frax_finance_86d52dc5fc.png",
     "originChain": "moonriver",
-    "multiChainAsset": null,
+    "multiChainAsset": "FRAX-Frax",
     "assetRefs": []
   },
   {
@@ -6752,13 +6752,13 @@
     "ordinal": 343,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wsteth_cc7cdc4e01.png",
     "originChain": "ethereum",
-    "multiChainAsset": null,
+    "multiChainAsset": "wstETH-WrappedLiquidEther",
     "assetRefs": [
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
-        "destAsset": null
+        "disable": true,
+        "destAsset": "statemint-LOCAL-wstETH"
       }
     ]
   },
@@ -7089,7 +7089,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "statemint-LOCAL-WBTC"
       }
     ]
   },
@@ -7162,13 +7162,13 @@
     "ordinal": 365,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/shiba_88c462bd10.png",
     "originChain": "ethereum",
-    "multiChainAsset": null,
+    "multiChainAsset": "SHIB-SHIBAINU",
     "assetRefs": [
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
-        "destAsset": null
+        "disable": true,
+        "destAsset": "statemint-LOCAL-SHIB"
       }
     ]
   },
@@ -9607,7 +9607,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rococo_5a873f69ee.png",
     "originChain": "rococo_assethub",
-    "multiChainAsset": null,
+    "multiChainAsset": "ROC-Rococo",
     "assetRefs": [
       {
         "type": "XCM",
@@ -9621,7 +9621,7 @@
           "alternativeAsset": "rococo-NATIVE-ROC"
         },
         "disable": false,
-        "destAsset": null
+        "destAsset": "rococo_assethub-LOCAL-USDt"
       }
     ]
   },
@@ -9686,7 +9686,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "sepolia_ethereum-ERC20-WETH-0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14"
       }
     ]
   },
@@ -11293,7 +11293,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
     "originChain": "mythos",
-    "multiChainAsset": null,
+    "multiChainAsset": "MYTH-Mythos",
     "assetRefs": []
   },
   {
@@ -11624,7 +11624,7 @@
   },
   {
     "slug": "bitlayerTest-NATIVE-BTC",
-    "name": "Bitcoin testnet",
+    "name": "Bitcoin Testnet",
     "symbol": "BTC",
     "decimals": 18,
     "priceId": null,
@@ -11633,7 +11633,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_b9799e9a57.png",
     "originChain": "bitlayerTest",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12175,7 +12175,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brz_e3d50edebb.png",
     "originChain": "pendulum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -12259,7 +12259,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
     "originChain": "bobMainnet",
-    "multiChainAsset": null,
+    "multiChainAsset": "USDT-Tether",
     "assetRefs": []
   },
   {
@@ -12535,7 +12535,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "priceId": "bitcoin",
+    "priceId": "wrapped-bitcoin",
     "minAmount": "0",
     "assetType": "PSP22",
     "metadata": {
@@ -12701,6 +12701,31 @@
     "assetRefs": []
   },
   {
+    "slug": "sepolia_ethereum-ERC20-WETH-0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_39914b7817.png",
+    "originChain": "sepolia_ethereum",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo_assethub-LOCAL-WETH"
+      }
+    ]
+  },
+  {
     "slug": "statemint-LOCAL-BORK",
     "name": "BORK",
     "symbol": "BORK",
@@ -12737,6 +12762,44 @@
     "assetRefs": []
   },
   {
+    "slug": "rococo_assethub-LOCAL-USDt",
+    "name": "rTether USD",
+    "symbol": "USDt",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1984",
+      "multilocation": {
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "originChain": "rococo_assethub",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "rococo_assethub-NATIVE-ROC"
+      }
+    ]
+  },
+  {
     "slug": "bifrost_dot-LOCAL-vASTR",
     "name": "Bifrost Voucher ASTR",
     "symbol": "vASTR",
@@ -12754,6 +12817,754 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vastr_b149fc6113.png",
     "originChain": "bifrost_dot",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-WETH",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "originChain": "statemint",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-MYTH",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "statemint",
+    "multiChainAsset": "MYTH-Mythos",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003"
+      }
+    ]
+  },
+  {
+    "slug": "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "MYTH-Mythos",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-MYTH"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-WBTC",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "priceId": "wrapped-bitcoin",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "statemint",
+    "multiChainAsset": "WBTC-WrappedBTC",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-SHIB",
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "priceId": "shiba-inu",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/shiba_88c462bd10.png",
+    "originChain": "statemint",
+    "multiChainAsset": "SHIB-SHIBAINU",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-PEPE",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "priceId": "pepe",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pepe_27d5fba27f.png",
+    "originChain": "statemint",
+    "multiChainAsset": "PEPE-Pepe",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-PEPE-0x6982508145454Ce325dDbE47a25d4ec3d2311933"
+      }
+    ]
+  },
+  {
+    "slug": "ethereum-ERC20-PEPE-0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "priceId": "pepe",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pepe_27d5fba27f.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "PEPE-Pepe",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-PEPE"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-TON",
+    "name": "TON Coin",
+    "symbol": "TON",
+    "decimals": 9,
+    "priceId": "the-open-network",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ton_050d3ba698.png",
+    "originChain": "statemint",
+    "multiChainAsset": "TON-TONCoin",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1"
+      }
+    ]
+  },
+  {
+    "slug": "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+    "name": "TON Coin",
+    "symbol": "TON",
+    "decimals": 9,
+    "priceId": "the-open-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ton_050d3ba698.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "TON-TONCoin",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-TON"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "priceId": "wrapped-steth",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wsteth_cc7cdc4e01.png",
+    "originChain": "statemint",
+    "multiChainAsset": "wstETH-WrappedLiquidEther",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+      }
+    ]
+  },
+  {
+    "slug": "statemint-LOCAL-tBTC",
+    "name": "tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "priceId": "tbtc",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbtc_489b01746a.png",
+    "originChain": "statemint",
+    "multiChainAsset": "tBTC-tBTCv2",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88"
+      }
+    ]
+  },
+  {
+    "slug": "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+    "name": "tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "priceId": "tbtc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbtc_489b01746a.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "tBTC-tBTCv2",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-tBTC"
+      }
+    ]
+  },
+  {
+    "slug": "moonbeam-ERC20-USDC.axl-0xCa01a1D0993565291051daFF390892518ACfAD3A",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "USDC.axl",
+    "decimals": 6,
+    "priceId": "axlusdc",
+    "minAmount": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xCa01a1D0993565291051daFF390892518ACfAD3A"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_axl_31827f8df1.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-USDT.wh-0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f",
+    "name": "Tether USD",
+    "symbol": "USDT.wh",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-USDC.wh-0x931715fee2d06333043d11f658c8ce934ac61d0c",
+    "name": "USDC (Wormhole)",
+    "symbol": "USDC.wh",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x931715fee2d06333043d11f658c8ce934ac61d0c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC.wh",
+    "decimals": 8,
+    "priceId": "wrapped-bitcoin",
+    "minAmount": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "WBTC-WrappedBTC",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-ETH.wh-0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
+    "name": "Wrapped Ether",
+    "symbol": "ETH.wh",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xab3f0245b83feb11d15aaffefd7ad465a59817ed"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-FRAX-0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "priceId": "frax",
+    "minAmount": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frax_finance_dbdd800b27.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "FRAX-Frax",
+    "assetRefs": []
+  },
+  {
+    "slug": "analog_testnet-NATIVE-TANLOG",
+    "name": "Analog Testnet",
+    "symbol": "TANLOG",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/uniport_network_a3766e32c9.png",
+    "originChain": "analog_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-PHA",
+    "name": "Phala",
+    "symbol": "PHA",
+    "decimals": 12,
+    "priceId": "pha",
+    "minAmount": "54945054945",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pha_34ca537dd7.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "PHA-Phala",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-KILT",
+    "name": "KILT Protocol",
+    "symbol": "KILT",
+    "decimals": 15,
+    "priceId": "kilt-protocol",
+    "minAmount": "21358393848783",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "28"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_00b4f01b3e.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "KILT-KILTProtocol",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-ZTG",
+    "name": "Zeitgeist",
+    "symbol": "ZTG",
+    "decimals": 10,
+    "priceId": "zeitgeist",
+    "minAmount": "1204151916",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "12"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zeitgeist_dfd051f93d.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "ZTG-Zeitgeist",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-CRU",
+    "name": "Crust Network",
+    "symbol": "CRU",
+    "decimals": 12,
+    "priceId": "crust-network",
+    "minAmount": "7874015748",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "27"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/crust_7a61ae94c2.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "CRU-Crust",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-RING",
+    "name": "Darwinia Network",
+    "symbol": "RING",
+    "decimals": 18,
+    "priceId": "darwinia-network-native-token",
+    "minAmount": "1000000000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "31"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/darwinia_36aff831b2.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "RING-DarwiniaNetwork",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-UNQ",
+    "name": "Unique Network",
+    "symbol": "UNQ",
+    "decimals": 18,
+    "priceId": "unique-network",
+    "minAmount": "1224384348939740000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "25"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unq_c16e1add2a.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "UNQ-UniqueNetwork",
+    "assetRefs": []
+  },
+  {
+    "slug": "peaq-NATIVE-PEAQ",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
+    "originChain": "peaq",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "karura-LOCAL-USDCet",
+    "name": "USD Coin (Portal from Ethereum)",
+    "symbol": "USDCet",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Erc20": "0x1f3a10587a20114ea25ba1b388ee2dd4a337ce27"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
+    "originChain": "karura",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "karura-LOCAL-USDT",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": "7"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "originChain": "karura",
+    "multiChainAsset": "USDT-Tether",
     "assetRefs": []
   }
 ]
