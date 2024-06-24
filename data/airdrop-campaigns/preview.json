@@ -66,6 +66,11 @@
         "color": "lime",
         "name": "Meme",
         "slug": "meme"
+      },
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
       }
     ]
   },
