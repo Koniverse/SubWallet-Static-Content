@@ -31,67 +31,6 @@
     ]
   },
   {
-    "id": 39,
-    "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
-    "status": "live",
-    "ordinal": 77,
-    "description": "Karura Token Playdrop: Eligibility & Allocation Rules \n\nIt's your time to shine as we reward your contributions and achievements with Airdrop Raffles. Each raffle is your ticket to winning big rewards from this campaign!\n\n🎁 KAR Airdrop Pool: 42,000 KAR\n\n🔈 AIRDROP MECHANISM:\n⭐️ Top 1500 NPS Holders\n- Snapshot: June 1 -  June 14\n- Raffle Entries: 3 each\n\n⭐️ Top 500 NPS Holders\n- Snapshot: April 15 - May 15\n- Raffle Entries: 3 each\n\n⭐️ Top 100 Inviters\n- Snapshot: April 15 - June 14\n- Raffle Entries: 2 each\n\n⭐️ Social Event Winners\n- Event Period: June 1 - June 14\n- Raffle Entries: 1 each\n\n📆 Time to Claim Your Airdrop Rewards: June 19 - June 25\n\nThe fun doesn't stop. Mark your calendar, get ready to climb up the ranks, and invite more friends for more raffles  - don't miss out!",
-    "start_time": "2024-05-31T17:00:00.000Z",
-    "end_time": "2024-06-24T17:00:00.000Z",
-    "url": "https://x.playnation.app/playnation-share-karura",
-    "twitter_url": "https://x.com/KaruraNetwork",
-    "reward": "42,000 KAR",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://acala.network/karura",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/karura_f0db29b6d2.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Karura_x_Playnation_Airdrop_8ed0ca6108.jpg",
-    "chains": [
-      "karura"
-    ],
-    "categories": [
-      {
-        "color": "magenta",
-        "name": "Gaming",
-        "slug": "gaming"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "name": "Grab 10M DED reward with Zealy is $DED campaign",
-    "status": "live",
-    "ordinal": 78,
-    "description": "Zealy is $DED once again!\n\nThe community spoke, and their voices have been heard - join the second Zealy campaign, where 10,000,000 DED is up for grabs.\n\n📅  24/05 5 PM CEST - 25/06 5 PM CEST\n\nJoin now at: https://zealy.io/cw/dotisded",
-    "start_time": "2024-05-24T15:00:00.000Z",
-    "end_time": "2024-06-25T15:00:00.000Z",
-    "url": "https://zealy.io/cw/dotisded",
-    "twitter_url": "https://x.com/dotisded",
-    "reward": "10M DED",
-    "total_winner": "400",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw",
-      "points"
-    ],
-    "campaign_url": "https://bit.ly/dotisded_zealy",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Zealy_is_DED_campaign_0b01e26a45.jpg",
-    "chains": [
-      "statemint"
-    ],
-    "categories": [
-      {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      }
-    ]
-  },
-  {
     "id": 27,
     "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
     "status": "live",
@@ -169,6 +108,67 @@
       "creditcoinTestEvm"
     ],
     "categories": []
+  },
+  {
+    "id": 31,
+    "name": "Grab 10M DED reward with Zealy is $DED campaign",
+    "status": "live",
+    "ordinal": 81,
+    "description": "Zealy is $DED once again!\n\nThe community spoke, and their voices have been heard - join the second Zealy campaign, where 10,000,000 DED is up for grabs.\n\n📅  24/05 5 PM CEST - 25/06 5 PM CEST\n\nJoin now at: https://zealy.io/cw/dotisded",
+    "start_time": "2024-05-24T15:00:00.000Z",
+    "end_time": "2024-06-25T15:00:00.000Z",
+    "url": "https://zealy.io/cw/dotisded",
+    "twitter_url": "https://x.com/dotisded",
+    "reward": "10M DED",
+    "total_winner": "400",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "points"
+    ],
+    "campaign_url": "https://bit.ly/dotisded_zealy",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Zealy_is_DED_campaign_0b01e26a45.jpg",
+    "chains": [
+      "statemint"
+    ],
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
+    "status": "live",
+    "ordinal": 81,
+    "description": "Karura Token Playdrop: Eligibility & Allocation Rules \n\nIt's your time to shine as we reward your contributions and achievements with Airdrop Raffles. Each raffle is your ticket to winning big rewards from this campaign!\n\n🎁 KAR Airdrop Pool: 42,000 KAR\n\n🔈 AIRDROP MECHANISM:\n⭐️ Top 1500 NPS Holders\n- Snapshot: June 1 -  June 14\n- Raffle Entries: 3 each\n\n⭐️ Top 500 NPS Holders\n- Snapshot: April 15 - May 15\n- Raffle Entries: 3 each\n\n⭐️ Top 100 Inviters\n- Snapshot: April 15 - June 14\n- Raffle Entries: 2 each\n\n⭐️ Social Event Winners\n- Event Period: June 1 - June 14\n- Raffle Entries: 1 each\n\n📆 Time to Claim Your Airdrop Rewards: June 19 - June 25\n\nThe fun doesn't stop. Mark your calendar, get ready to climb up the ranks, and invite more friends for more raffles  - don't miss out!",
+    "start_time": "2024-05-31T17:00:00.000Z",
+    "end_time": "2024-06-24T17:00:00.000Z",
+    "url": "https://x.playnation.app/playnation-share-karura",
+    "twitter_url": "https://x.com/KaruraNetwork",
+    "reward": "42,000 KAR",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://acala.network/karura",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/karura_f0db29b6d2.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Karura_x_Playnation_Airdrop_8ed0ca6108.jpg",
+    "chains": [
+      "karura"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
   },
   {
     "id": 43,
