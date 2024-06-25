@@ -106,30 +106,6 @@
     ]
   },
   {
-    "id": 43,
-    "name": "Get $100 in ACA rewards with Mimir x Acala Multisig Contest",
-    "status": "live",
-    "ordinal": 75,
-    "description": "🔒Acala x Mimir Multisig Contest🎆\n\n👨🏻💻Complete Galxe tasks and enter Mimir through the exclusive Acala link to create a multisig account, and you can share 100 USD in ACA rewards!\n\n🔐Multisig is a safer account structure!",
-    "start_time": "2024-06-17T16:00:00.000Z",
-    "end_time": "2024-06-24T16:00:00.000Z",
-    "url": "https://app.galxe.com/quest/amn47k6L8KDbFMQpKhsMDx/GCrxwtgiz4",
-    "twitter_url": "https://x.com/Mimir_global",
-    "reward": "$100 in ACA",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://app.mimir.global/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/mimir_bb3a6835d9.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Mimir_x_Acala_Multisig_Contest_6c66a58ca6.png",
-    "chains": [
-      "acala"
-    ],
-    "categories": []
-  },
-  {
     "id": 35,
     "name": "Share $400 in DOT pool prize with Archisinal Zealy Sprint",
     "status": "archived",
@@ -288,6 +264,30 @@
     "chains": [
       "creditcoinTest",
       "creditcoinTestEvm"
+    ],
+    "categories": []
+  },
+  {
+    "id": 43,
+    "name": "Get $100 in ACA rewards with Mimir x Acala Multisig Contest",
+    "status": "live",
+    "ordinal": 81,
+    "description": "🔒Acala x Mimir Multisig Contest🎆\n\n👨🏻💻Complete Galxe tasks and enter Mimir through the exclusive Acala link to create a multisig account, and you can share 100 USD in ACA rewards!\n\n🔐Multisig is a safer account structure!",
+    "start_time": "2024-06-17T16:00:00.000Z",
+    "end_time": "2024-06-24T16:00:00.000Z",
+    "url": "https://app.galxe.com/quest/amn47k6L8KDbFMQpKhsMDx/GCrxwtgiz4",
+    "twitter_url": "https://x.com/Mimir_global",
+    "reward": "$100 in ACA",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://app.mimir.global/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/mimir_bb3a6835d9.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Mimir_x_Acala_Multisig_Contest_6c66a58ca6.png",
+    "chains": [
+      "acala"
     ],
     "categories": []
   },
