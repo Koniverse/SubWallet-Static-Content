@@ -14036,7 +14036,7 @@
   },
   {
     "slug": "berachain_testnet-NATIVE-BERA",
-    "name": "BERA Token",
+    "name": "BERA",
     "symbol": "BERA",
     "decimals": 18,
     "priceId": null,
@@ -14045,8 +14045,24 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bera_chain_7e961b084f.png",
     "originChain": "berachain_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "atletaOlympia_testnet-NATIVE-ATLA",
+    "name": "ATLA",
+    "symbol": "ATLA",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/atleta_765414417e.png",
+    "originChain": "atletaOlympia_testnet",
     "multiChainAsset": null,
     "assetRefs": []
   }

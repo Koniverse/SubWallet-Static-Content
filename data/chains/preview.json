@@ -9067,5 +9067,96 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null
+  },
+  {
+    "slug": "bevm_testnet",
+    "name": "BEVM OP Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+    "providers": {
+      "BEVM OP Testnet": "https://sepolia-wbtc-testnet.bevm.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 11505,
+      "blockExplorer": "https://scan-op-testnet.vercel.app",
+      "existentialDeposit": "0",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "berachain_testnet",
+    "name": "Berachain bArtio",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bera_chain_7e961b084f.png",
+    "providers": {
+      "Berachain": "https://bartio.rpc.berachain.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 80084,
+      "blockExplorer": "https://bartio.beratrail.io/",
+      "existentialDeposit": "0",
+      "symbol": "BERA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "atletaOlympia_testnet",
+    "name": "Atleta Olympia",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/atleta_765414417e.png",
+    "providers": {
+      "Atleta": "wss://testnet-rpc.atleta.network"
+    },
+    "evmInfo": {
+      "evmChainId": 2340,
+      "blockExplorer": "https://blockscout.atleta.network/",
+      "existentialDeposit": "0",
+      "symbol": "ATLA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xc2f8ae3bd9710abaebfa2b323e16894492fbbb67ef2857ed6491bb31f3901749",
+      "addressPrefix": 2340,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://blockscout.atleta.network/",
+      "existentialDeposit": "0",
+      "symbol": "ATLA",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
   }
 ]

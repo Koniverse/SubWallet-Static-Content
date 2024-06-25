@@ -251,5 +251,8 @@
   "kreivo": "https://static-data.subwallet.app/chains/images/icon/kreivo_a2650e40f6.png",
   "analog_testnet": "https://static-data.subwallet.app/chains/images/icon/uniport_network_a3766e32c9.png",
   "peaq": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
-  "layerEdge_testnet": "https://static-data.subwallet.app/chains/images/icon/layeredge_9ad4004b15.png"
+  "layerEdge_testnet": "https://static-data.subwallet.app/chains/images/icon/layeredge_9ad4004b15.png",
+  "bevm_testnet": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+  "berachain_testnet": "https://static-data.subwallet.app/chains/images/icon/bera_chain_7e961b084f.png",
+  "atletaOlympia_testnet": "https://static-data.subwallet.app/chains/images/icon/atleta_765414417e.png"
 }
