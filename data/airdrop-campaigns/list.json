@@ -22,7 +22,13 @@
     "chains": [
       "moonbeam"
     ],
-    "categories": []
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      }
+    ]
   },
   {
     "id": 43,
@@ -49,28 +55,6 @@
     "categories": []
   },
   {
-    "id": 35,
-    "name": "Share $400 in DOT pool prize with Archisinal Zealy Sprint",
-    "status": "archived",
-    "ordinal": 76,
-    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
-    "start_time": "2024-06-07T13:00:00.000Z",
-    "end_time": "2024-06-30T07:00:00.000Z",
-    "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
-    "twitter_url": "https://x.com/archisinal/status/1799082251357192314",
-    "reward": "$400 in DOT",
-    "total_winner": "20",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.archisinal.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Peb_Tbab_YAA_7_Fud_a5f2bf6588.jpeg",
-    "chains": [],
-    "categories": []
-  },
-  {
     "id": 39,
     "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
     "status": "live",
@@ -92,7 +76,13 @@
     "chains": [
       "karura"
     ],
-    "categories": []
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
   },
   {
     "id": 31,
@@ -117,7 +107,13 @@
     "chains": [
       "statemint"
     ],
-    "categories": []
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      }
+    ]
   },
   {
     "id": 27,
@@ -141,7 +137,13 @@
     "chains": [
       "moonbeam"
     ],
-    "categories": []
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
   },
   {
     "id": 26,
