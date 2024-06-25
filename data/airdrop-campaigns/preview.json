@@ -75,41 +75,6 @@
     ]
   },
   {
-    "id": 46,
-    "name": "Test - X",
-    "status": "live",
-    "ordinal": 72,
-    "description": "Karura Token Playdrop: Eligibility & Allocation Rules \n\nIt's your time to shine as we reward your contributions and achievements with Airdrop Raffles. Each raffle is your ticket to winning big rewards from this campaign!\n\n🎁 $KAR Airdrop Pool: 42,000 KAR\n\n🔈 AIRDROP MECHANISM:\n⭐️ Top 1500 NPS Holders\n- Snapshot: June 1 -  June 14\n- Raffle Entries: 3 each\n\n⭐️ Top 500 NPS Holders\n- Snapshot: April 15 - May 15\n- Raffle Entries: 3 each\n\n⭐️ Top 100 Inviters\n- Snapshot: April 15 - June 14\n- Raffle Entries: 2 each\n\n⭐️ Social Event Winners\n- Event Period: June 1 - June 14\n- Raffle Entries: 1 each\n\n📆 Time to Claim Your Airdrop Rewards: June 19 - June 25\n\nThe fun doesn't stop. Mark your calendar, get ready to climb up the ranks, and invite more friends for more raffles  - don't miss out!",
-    "start_time": "2024-06-12T17:00:00.000Z",
-    "end_time": "2024-06-25T17:00:00.000Z",
-    "url": "https://x.com/BabyAlt001/status/1798607992537194831",
-    "twitter_url": "https://x.com/KaruraNetwork",
-    "reward": "42,000 KAR",
-    "total_winner": null,
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://acala.network/karura",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/hydration_5513bef59e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/karura_share_f97fbf55c7.jpeg",
-    "chains": [
-      "karura"
-    ],
-    "categories": [
-      {
-        "color": "magenta",
-        "name": "Gaming",
-        "slug": "gaming"
-      },
-      {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      }
-    ]
-  },
-  {
     "id": 44,
     "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
     "status": "live",
@@ -161,7 +126,7 @@
   {
     "id": 35,
     "name": "Share $400 in DOT pool prize with Archisinal Zealy Sprint",
-    "status": "live",
+    "status": "archived",
     "ordinal": 76,
     "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
     "start_time": "2024-06-07T13:00:00.000Z",
