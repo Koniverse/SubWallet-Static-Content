@@ -7786,7 +7786,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
     "providers": {
-      "Dwellir": "wss://rococo-asset-hub-rpc.dwellir.com",
       "Parity": "wss://rococo-asset-hub-rpc.polkadot.io"
     },
     "evmInfo": null,
