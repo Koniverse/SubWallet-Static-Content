@@ -10,8 +10,7 @@
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
-      "Light Client": "light://substrate-connect/polkadot",
-      "SubWallet": "wss://polkadot-rpc.subwallet.app"
+      "Light Client": "light://substrate-connect/polkadot"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -49,8 +48,7 @@
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama",
-      "SubWallet": "wss://kusama-rpc.subwallet.app"
+      "Light Client": "light://substrate-connect/kusama"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -365,7 +363,7 @@
   },
   {
     "slug": "statemint",
-    "name": "Polkadot Asset Hub (Statemint)",
+    "name": "Polkadot Asset Hub",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 10,
@@ -1707,7 +1705,7 @@
       "paraId": null,
       "genesisHash": "0x742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
       "addressPrefix": 7,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://edgeware.subscan.io/",
       "existentialDeposit": "10000000000000",
@@ -1875,7 +1873,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/darwinia_8a711cb162.png",
     "providers": {
       "Darwinia Network": "wss://rpc.darwinia.network",
-      "Darwinia Community": "wss://darwinia-rpc.darwiniacommunitydao.xyz",
       "Dwellir": "wss://darwinia-rpc.dwellir.com"
     },
     "evmInfo": {
@@ -1983,7 +1980,7 @@
       "paraId": null,
       "genesisHash": "0x0f3665e2e57fb38fd638145b69e567fb05bbadfd457624f90f15e5dbb31320bb",
       "addressPrefix": 34,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": "https://polkadot.js.org/apps/#/parachains/crowdloan",
       "blockExplorer": null,
       "existentialDeposit": "500",
@@ -2349,7 +2346,7 @@
   },
   {
     "slug": "statemine",
-    "name": "Kusama Asset Hub (Statemine)",
+    "name": "Kusama Asset Hub",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 59,
@@ -5483,24 +5480,24 @@
   },
   {
     "slug": "logion",
-    "name": "logion Standalone",
+    "name": "Logion",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 141,
     "icon": "https://static-data.subwallet.app/chains/images/icon/logion_950fffea89.png",
     "providers": {
-      "Logion": "wss://rpc01.logion.network"
+      "Logion 1": "wss://para-rpc01.logion.network"
     },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
-      "paraId": null,
-      "genesisHash": "0xe9d7420a5f73edef005ccb8e043500aa5b2458f173912184ea93c14dc035a203",
-      "addressPrefix": 42,
+      "paraId": 3354,
+      "genesisHash": "0x28e1d199bc6066751490ae2112010464ee8950f76ae9e2f11a03e9ea336b528b",
+      "addressPrefix": 2021,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
-      "existentialDeposit": "500",
+      "existentialDeposit": "1000000000000000",
       "symbol": "LGNT",
       "decimals": 18,
       "hasNativeNft": false,
@@ -5704,11 +5701,11 @@
     },
     "evmInfo": null,
     "substrateInfo": {
-      "relaySlug": "polkadot",
+      "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x7e4e32d0feafd4f9c9414b0be86373f9a1efa904809b683453a9af6856d38ad5",
       "addressPrefix": 69,
-      "chainType": "PARACHAIN",
+      "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://sora.subscan.io/",
       "existentialDeposit": "0",
@@ -6683,47 +6680,6 @@
     "bitcoinInfo": null
   },
   {
-    "slug": "peaq",
-    "name": "peaq",
-    "isTestnet": false,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/peaq_31a6e2dff3.png",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": "polkadot",
-      "paraId": 3338,
-      "genesisHash": null,
-      "addressPrefix": null,
-      "chainType": "PARACHAIN",
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": null,
-      "symbol": null,
-      "decimals": null,
-      "hasNativeNft": null,
-      "supportStaking": null,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": [
-        {
-          "relayChain": "polkadot",
-          "fundId": "3338-66",
-          "paraId": 3338,
-          "status": "won",
-          "startTime": "2023-08-01T01:48:00.000Z",
-          "endTime": "2025-06-03T01:48:00.000Z",
-          "auctionIndex": 45,
-          "firstPeriod": 13,
-          "lastPeriod": 20
-        }
-      ]
-    },
-    "extraInfo": null,
-    "bitcoinInfo": null
-  },
-  {
     "slug": "quantum_portal",
     "name": "Quantum Portal",
     "isTestnet": false,
@@ -7477,7 +7433,7 @@
       "paraId": 1000,
       "genesisHash": "0x3af4ff48ec76d2efc8476730f423ac07e25ad48f5f4c9dc39c778b164d808615",
       "addressPrefix": 1110,
-      "chainType": "RELAYCHAIN",
+      "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://matrix.subscan.io/",
       "existentialDeposit": "100000000000000000",
@@ -7799,7 +7755,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
     "providers": {
-      "Dwellir": "wss://rococo-asset-hub-rpc.dwellir.com",
       "Parity": "wss://rococo-asset-hub-rpc.polkadot.io"
     },
     "evmInfo": null,
@@ -8881,6 +8836,66 @@
       "existentialDeposit": "33333333",
       "symbol": "KSM",
       "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "analog_testnet",
+    "name": "Analog Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/uniport_network_a3766e32c9.png",
+    "providers": {
+      "Analog": "wss://rpc.testnet.analog.one"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943",
+      "addressPrefix": 12850,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "TANLOG",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "peaq",
+    "name": "peaq",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
+    "providers": {},
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3338,
+      "genesisHash": "0xd2a5d385932d1f650dae03ef8e2748983779ee342c614f80854d32b8cd8fa48c",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://peaq.subscan.io/",
+      "existentialDeposit": "500",
+      "symbol": "PEAQ",
+      "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,

@@ -363,7 +363,7 @@
   },
   {
     "slug": "statemint",
-    "name": "Polkadot Asset Hub (Statemint)",
+    "name": "Polkadot Asset Hub",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 10,
@@ -2346,7 +2346,7 @@
   },
   {
     "slug": "statemine",
-    "name": "Kusama Asset Hub (Statemine)",
+    "name": "Kusama Asset Hub",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 59,
