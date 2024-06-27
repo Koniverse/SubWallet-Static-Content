@@ -45,6 +45,11 @@ jobs:
           sudo yarn global add texterify
       - name: Update data texterify
         if: ${{ !github.event.inputs.folder || github.event.inputs.folder == 'localization-contents'}}
+        env:
+          TEXTERIFY_MAIL_TEST: ${{ secrets.TEXTERIFY_MAIL_TEST }}
+          TEXTERIFY_TOKEN_TEST: ${{ secrets.TEXTERIFY_TOKEN_TEST }}
+          TEXTERIFY_MAIL_SW_EXTENSION: ${{ secrets.TEXTERIFY_MAIL_SW_EXTENSION }}
+          TEXTERIFY_TOKEN_SW_EXTENSION: ${{ secrets.TEXTERIFY_TOKEN_SW_EXTENSION }}
         run: |
           if [ ${{ github.event.inputs.environment }} == "production" ]; then
             JSON_FILE="data/localization-contents/list.json"
@@ -62,7 +67,14 @@ jobs:
             echo $updated_item > texterify.json
           
             # Run the required commands
-            texterify download --auth-email="${{ secrets.TEXTERIFY_MAIL }}" --auth-secret="${{ secrets.TEXTERIFY_TOKEN }}"
+            email='TEXTERIFY_MAIL_'"$(echo $updated_item | jq -r '.texterify_key')"
+            token='TEXTERIFY_TOKEN_'"$(echo $updated_item | jq -r '.texterify_key')"
+            echo $email
+            echo $token
+            auth_email="${!email}"
+            auth_secret="${!token}"
+            echo $auth_email
+            texterify download --auth-email="$auth_email" --auth-secret="$auth_secret"
           
           done
       - name: Commit changes
