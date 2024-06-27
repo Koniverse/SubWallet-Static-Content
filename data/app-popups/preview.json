@@ -198,7 +198,7 @@
   {
     "id": 28,
     "priority": 2,
-    "position": "token",
+    "position": "dapp",
     "repeat": "once",
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
     "repeat_every_x_days": null,
@@ -209,7 +209,7 @@
       "name": "Extension - Test AZERO",
       "description": "Stake AZERO. Get Your Common Drops!",
       "start_time": "2024-06-18T14:00:00.000Z",
-      "stop_time": "2024-06-26T17:00:00.000Z",
+      "stop_time": "2024-06-27T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
