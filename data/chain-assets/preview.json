@@ -213,7 +213,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -241,7 +241,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
@@ -292,7 +292,7 @@
   },
   {
     "slug": "statemint-NATIVE-DOT",
-    "name": "Statemint",
+    "name": "Polkadot",
     "symbol": "DOT",
     "decimals": 10,
     "priceId": "polkadot",
@@ -717,31 +717,31 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-NATIVE-GLMR"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcPINK"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcUSDT"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcvDOT"
       }
     ]
@@ -2518,7 +2518,7 @@
   },
   {
     "slug": "statemine-NATIVE-KSM",
-    "name": "Statemine",
+    "name": "Kusama",
     "symbol": "KSM",
     "decimals": 12,
     "priceId": "kusama",
@@ -4011,11 +4011,11 @@
   },
   {
     "slug": "logion-NATIVE-LGNT",
-    "name": "logion Standalone",
+    "name": "Logion",
     "symbol": "LGNT",
     "decimals": 18,
     "priceId": null,
-    "minAmount": "500",
+    "minAmount": "1000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -4546,7 +4546,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -8858,7 +8858,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -9502,7 +9502,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -11454,7 +11454,7 @@
       "assetType": "ForeignAsset",
       "contractAddress": "0xFFFfffFf15e1b7E3dF971DD813Bc394deB899aBf"
     },
-    "hasValue": null,
+    "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
     "originChain": "moonbeam",
@@ -11463,7 +11463,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -13091,7 +13091,7 @@
     ]
   },
   {
-    "slug": "bitcoin-MEME•MINT•MILLION-840000:212",
+    "slug": "bitcoin-RUNE-MEME•MINT•MILLION-840000:212",
     "name": "MEME•MINT•MILLION",
     "symbol": "MEME•MINT•MILLION",
     "decimals": 3,
@@ -14063,6 +14063,96 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/atleta_765414417e.png",
     "originChain": "atletaOlympia_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm-ERC20-ORDINALS•RU-0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
+    "name": "ORDINALS•RUNES",
+    "symbol": "ORDINALS•RU",
+    "decimals": 0,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "bevm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-BBTC-0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
+    "name": "BounceBit BTC",
+    "symbol": "BBTC",
+    "decimals": 18,
+    "priceId": "bouncebit-btc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bbtc_509a028868.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-BBUSD-0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222",
+    "name": "BounceBit USD",
+    "symbol": "BBUSD",
+    "decimals": 18,
+    "priceId": "bouncebit-usd",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bbusd_75c1d150fd.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-stBBTC-0x7F150c293c97172C75983BD8ac084c187107eA19",
+    "name": "Liquid Staking BBTC",
+    "symbol": "stBBTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x7F150c293c97172C75983BD8ac084c187107eA19"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stbbtc_8b80dee5a1.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-stBB-0x22aAC17E571D6651880d057e310703fF4C7c3483",
+    "name": "Liquid Staking BB",
+    "symbol": "stBB",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x22aAC17E571D6651880d057e310703fF4C7c3483"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stbb_0b7a36b77f.png",
+    "originChain": "bounceBitEvm",
     "multiChainAsset": null,
     "assetRefs": []
   }

@@ -621,7 +621,7 @@
   "aleph-PSP22-INW2-5EA7h2xCP9TkAwEQ8Km2b7aQChPKVCqcS2BJWqYavoXiEsfx": null,
   "kreivo-NATIVE-KSM": "kusama",
   "sepolia_ethereum-ERC20-WETH-0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14": null,
-  "bitcoin-MEME•MINT•MILLION-840000:212": null,
+  "bitcoin-RUNE-MEME•MINT•MILLION-840000:212": null,
   "bitcoin-BRC20-fake": null,
   "statemint-LOCAL-BORK": null,
   "hydradx_main-LOCAL-BORK": null,
@@ -660,5 +660,10 @@
   "bevm_testnet-NATIVE-WBTC": null,
   "merlinEvm-ERC20-MERL-0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378": "merlin-chain",
   "berachain_testnet-NATIVE-BERA": null,
-  "atletaOlympia_testnet-NATIVE-ATLA": null
+  "atletaOlympia_testnet-NATIVE-ATLA": null,
+  "bevm-ERC20-ORDINALS•RU-0x041bbB9c16fDBa8C805565D0bB34931e37895EC9": null,
+  "bounceBitEvm-ERC20-BBTC-0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC": "bouncebit-btc",
+  "bounceBitEvm-ERC20-BBUSD-0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222": "bouncebit-usd",
+  "bounceBitEvm-ERC20-stBBTC-0x7F150c293c97172C75983BD8ac084c187107eA19": null,
+  "bounceBitEvm-ERC20-stBB-0x22aAC17E571D6651880d057e310703fF4C7c3483": null
 }
