@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": 48,
+    "name": "Test- Mission pool",
+    "status": "live",
+    "ordinal": 73,
+    "description": "✈️  The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4,750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
+    "start_time": "2024-06-26T03:00:00.000Z",
+    "end_time": "2024-07-10T16:59:00.000Z",
+    "url": "https://t.me/Playnation_bot/app?startapp=4f2QBuMlU",
+    "twitter_url": "https://x.com/dotisded",
+    "reward": "$4,750 in DED",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://www.dotisded.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/DED_x_Playnation_Airdrop_2f3db3294a.png",
+    "chains": [
+      "statemint",
+      "moonbeam"
+    ],
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      },
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
     "status": "live",
