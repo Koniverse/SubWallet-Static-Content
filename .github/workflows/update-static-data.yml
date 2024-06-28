@@ -46,10 +46,10 @@ jobs:
       - name: Update data texterify
         if: ${{ !github.event.inputs.folder || github.event.inputs.folder == 'localization-contents'}}
         env:
-          TEXTERIFY_MAIL_TEST: ${{ secrets.TEXTERIFY_MAIL_TEST }}
-          TEXTERIFY_TOKEN_TEST: ${{ secrets.TEXTERIFY_TOKEN_TEST }}
           TEXTERIFY_MAIL_SW_EXTENSION: ${{ secrets.TEXTERIFY_MAIL_SW_EXTENSION }}
           TEXTERIFY_TOKEN_SW_EXTENSION: ${{ secrets.TEXTERIFY_TOKEN_SW_EXTENSION }}
+          TEXTERIFY_MAIL_AVAILSPACE_WEB: ${{ secrets.TEXTERIFY_MAIL_AVAILSPACE_WEB }}
+          TEXTERIFY_TOKEN_AVAILSPACE_WEB: ${{ secrets.TEXTERIFY_TOKEN_AVAILSPACE_WEB }}
         run: |
           if [ ${{ github.event.inputs.environment }} == "production" ]; then
             JSON_FILE="data/localization-contents/list.json"
