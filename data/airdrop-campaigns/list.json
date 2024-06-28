@@ -1,5 +1,41 @@
 [
   {
+    "id": 47,
+    "name": "Share $4750 pool prize in DED with $DED Egg Hunt Airdrop campaign",
+    "status": "live",
+    "ordinal": 73,
+    "description": "✈️  The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
+    "start_time": "2024-06-26T03:00:00.000Z",
+    "end_time": "2024-07-10T16:59:00.000Z",
+    "url": "https://t.me/Playnation_bot/app?startapp=4f2QBuMlU",
+    "twitter_url": "https://x.com/dotisded",
+    "reward": "$4750 in DED",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://www.dotisded.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/DED_x_Playnation_Airdrop_2f3db3294a.png",
+    "chains": [
+      "statemint",
+      "moonbeam"
+    ],
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      },
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
     "status": "live",
@@ -112,7 +148,7 @@
   {
     "id": 31,
     "name": "Grab 10M DED reward with Zealy is $DED campaign",
-    "status": "live",
+    "status": "archived",
     "ordinal": 81,
     "description": "Zealy is $DED once again!\n\nThe community spoke, and their voices have been heard - join the second Zealy campaign, where 10,000,000 DED is up for grabs.\n\n📅  24/05 5 PM CEST - 25/06 5 PM CEST\n\nJoin now at: https://zealy.io/cw/dotisded",
     "start_time": "2024-05-24T15:00:00.000Z",
@@ -173,7 +209,7 @@
   {
     "id": 43,
     "name": "Get $100 in ACA rewards with Mimir x Acala Multisig Contest",
-    "status": "live",
+    "status": "archived",
     "ordinal": 81,
     "description": "🔒Acala x Mimir Multisig Contest🎆\n\n👨🏻💻Complete Galxe tasks and enter Mimir through the exclusive Acala link to create a multisig account, and you can share 100 USD in ACA rewards!\n\n🔐Multisig is a safer account structure!",
     "start_time": "2024-06-17T16:00:00.000Z",
