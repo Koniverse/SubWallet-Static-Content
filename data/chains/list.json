@@ -776,7 +776,7 @@
     "ordinal": 21,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.mainnet.aventus.io"
+      "Aventus": "wss://public-rpc.mainnet.aventus.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5911,7 +5911,7 @@
     "ordinal": 153,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.public-testnet.aventus.io"
+      "Aventus": "wss://public-rpc.testnet.aventus.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7680,6 +7680,37 @@
     "bitcoinInfo": null
   },
   {
+    "slug": "bittensor_testnet",
+    "name": "Bittensor Testnet",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png",
+    "providers": {
+      "Testnet": "wss://test.finney.opentensor.ai:443"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x8f9cf856bf558a14440e75569c9e58594757048d7b3a84b5d25f6bd978263105",
+      "addressPrefix": 42,
+      "chainType": null,
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "TAO",
+      "decimals": 9,
+      "hasNativeNft": null,
+      "supportStaking": true,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
     "slug": "subspace_gemini_3h",
     "name": "Subspace Gemini 3h",
     "isTestnet": true,
@@ -8050,7 +8081,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_c2910543ab.png",
     "providers": {
       "Asia RPC": "https://rpc.sepolia.org",
       "Europe RPC 2": "https://rpc2.sepolia.org",
@@ -8487,6 +8518,59 @@
     "bitcoinInfo": null
   },
   {
+    "slug": "bevm",
+    "name": "BEVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+    "providers": {
+      "Mainnet 1": "https://rpc-mainnet-1.bevm.io",
+      "Mainnet 2": "https://rpc-mainnet-2.bevm.io"
+    },
+    "evmInfo": {
+      "evmChainId": 11501,
+      "blockExplorer": "https://scan-mainnet.bevm.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://scan-mainnet.bevm.io/"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bevmTest",
+    "name": "BEVM Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+    "providers": {
+      "BEVM testnet": "https://testnet.bevm.io"
+    },
+    "evmInfo": {
+      "evmChainId": 11503,
+      "blockExplorer": "https://scan-testnet.bevm.io",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://scan-testnet.bevm.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
     "slug": "b2",
     "name": "B² Network",
     "isTestnet": false,
@@ -8565,6 +8649,58 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "merlinEvm",
+    "name": "Merlin Chain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/merlin_chain_a885212729.png",
+    "providers": {
+      "Merlin Chain": "https://rpc.merlinchain.io"
+    },
+    "evmInfo": {
+      "evmChainId": 4200,
+      "blockExplorer": "https://scan.merlinchain.io",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://scan.merlinchain.io"
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "botanixEvmTest",
+    "name": "Botanix Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/botanix_0f189648f7.png",
+    "providers": {
+      "Botanix Labs": "https://node.botanixlabs.dev"
+    },
+    "evmInfo": {
+      "evmChainId": 3636,
+      "blockExplorer": "https://blockscout.botanixlabs.dev/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": "https://blockscout.botanixlabs.dev/"
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null
   },
@@ -8895,6 +9031,123 @@
       "blockExplorer": "https://peaq.subscan.io/",
       "existentialDeposit": "500",
       "symbol": "PEAQ",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "layerEdge_testnet",
+    "name": "LayerEdge Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/layeredge_9ad4004b15.png",
+    "providers": {
+      "LayerEdge Testnet": "https://testnet-rpc.layeredge.io"
+    },
+    "evmInfo": {
+      "evmChainId": 3456,
+      "blockExplorer": "https://testnet-explorer.layeredge.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "bevm_testnet",
+    "name": "BEVM OP Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
+    "providers": {
+      "BEVM OP Testnet": "https://sepolia-wbtc-testnet.bevm.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 11505,
+      "blockExplorer": "https://scan-op-testnet.vercel.app",
+      "existentialDeposit": "0",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "supportSmartContract": null,
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "berachain_testnet",
+    "name": "Berachain bArtio",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bera_chain_7e961b084f.png",
+    "providers": {
+      "Berachain": "https://bartio.rpc.berachain.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 80084,
+      "blockExplorer": "https://bartio.beratrail.io/",
+      "existentialDeposit": "0",
+      "symbol": "BERA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "atletaOlympia_testnet",
+    "name": "Atleta Olympia",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/atleta_765414417e.png",
+    "providers": {
+      "Atleta": "wss://testnet-rpc.atleta.network"
+    },
+    "evmInfo": {
+      "evmChainId": 2340,
+      "blockExplorer": "https://blockscout.atleta.network/",
+      "existentialDeposit": "0",
+      "symbol": "ATLA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xc2f8ae3bd9710abaebfa2b323e16894492fbbb67ef2857ed6491bb31f3901749",
+      "addressPrefix": 2340,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://blockscout.atleta.network/",
+      "existentialDeposit": "0",
+      "symbol": "ATLA",
       "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": null,
