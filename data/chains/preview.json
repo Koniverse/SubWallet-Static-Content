@@ -776,7 +776,7 @@
     "ordinal": 21,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.mainnet.aventus.io"
+      "Aventus": "wss://public-rpc.mainnet.aventus.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5911,7 +5911,7 @@
     "ordinal": 153,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.public-testnet.aventus.io"
+      "Aventus": "wss://public-rpc.testnet.aventus.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8081,7 +8081,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_c2910543ab.png",
     "providers": {
       "Asia RPC": "https://rpc.sepolia.org",
       "Europe RPC 2": "https://rpc2.sepolia.org",
