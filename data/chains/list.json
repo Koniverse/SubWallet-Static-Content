@@ -7,10 +7,15 @@
     "ordinal": 1,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_63b5dd41ef.png",
     "providers": {
+      "Dwellir": "wss://polkadot-rpc.dwellir.com",
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
+      "LuckyFriday": "wss://rpc-polkadot.luckyfriday.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
-      "Light Client": "light://substrate-connect/polkadot"
+      "Light Client": "light://substrate-connect/polkadot",
+      "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
+      "Allnodes": "wss://polkadot-rpc.publicnode.com",
+      "Onfinality": "wss://polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7205,7 +7210,7 @@
   },
   {
     "slug": "polimec",
-    "name": "Polimec Polkadot",
+    "name": "Polimec",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
