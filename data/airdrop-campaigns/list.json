@@ -3,11 +3,11 @@
     "id": 47,
     "name": "Share $4,750 pool prize in DED with $DED Egg Hunt Airdrop campaign",
     "status": "live",
-    "ordinal": 73,
-    "description": "✈️  The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4,750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
+    "ordinal": 70,
+    "description": "✈️ The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4,750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
     "start_time": "2024-06-26T03:00:00.000Z",
     "end_time": "2024-07-10T16:59:00.000Z",
-    "url": "https://t.me/Playnation_bot/app?startapp=4f2QBuMlU",
+    "url": "https://t.me/Playnation_bot/app",
     "twitter_url": "https://x.com/dotisded",
     "reward": "$4,750 in DED",
     "total_winner": "N/A",
@@ -32,6 +32,66 @@
         "color": "magenta",
         "name": "Gaming",
         "slug": "gaming"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Split the pool prize of $400 in DOT with Archisinal July Zealy campaign",
+    "status": "live",
+    "ordinal": 72,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 July 🚦\nEnds: 31 July 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-07-01T11:00:00.000Z",
+    "end_time": "2024-07-31T02:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$400 in DOT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Rafii0bs_AAOGSB_11d8cce4c0.jpg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Win ASTR token with Astar Stake campaign on AirLyft",
+    "status": "live",
+    "ordinal": 73,
+    "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
+    "start_time": "2024-06-18T19:55:00.000Z",
+    "end_time": "2024-07-19T18:29:00.000Z",
+    "url": "https://airlyft.one/community/astar-stake-on-airlyft",
+    "twitter_url": "https://x.com/airlyftone",
+    "reward": "N/A",
+    "total_winner": "50",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://airlyft.one/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Astar_Stake_on_Airlyft_campaign_1d91ee54fd.png",
+    "chains": [
+      "astarZkEvm",
+      "astar",
+      "astarEvm"
+    ],
+    "categories": [
+      {
+        "color": "geekblue",
+        "name": "Staking",
+        "slug": "staking"
       }
     ]
   },
@@ -67,9 +127,33 @@
     ]
   },
   {
+    "id": 26,
+    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
+    "status": "live",
+    "ordinal": 75,
+    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
+    "start_time": "2024-04-29T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://lfd.tanssi.network/",
+    "twitter_url": "https://twitter.com/TanssiNetwork",
+    "reward": "4M Tanssi tokens",
+    "total_winner": "4000",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.tanssi.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
+    "chains": [
+      "dancebox"
+    ],
+    "categories": []
+  },
+  {
     "id": 27,
     "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
-    "status": "live",
+    "status": "archived",
     "ordinal": 79,
     "description": "StellaSwap is Polkadot’s EVM super-DEX that facilitates low-slippage trading & real yields.\n\nWith over $1.6B in volume and a 15,000-strong userbase, StellaSwap is the gateway to all things Polkadot.\n\nJoin the StellaSwap Mission and stand a chance to win big! This is your opportunity to dive into the Polkadot ecosystem, be part of our community, and earn rewards.\n\nComplete the tasks to be eligible to win $1,000 in GLMR.",
     "start_time": "2024-05-05T16:00:00.000Z",
@@ -95,30 +179,6 @@
         "slug": "defi"
       }
     ]
-  },
-  {
-    "id": 26,
-    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
-    "status": "live",
-    "ordinal": 80,
-    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
-    "start_time": "2024-04-29T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://lfd.tanssi.network/",
-    "twitter_url": "https://twitter.com/TanssiNetwork",
-    "reward": "4M Tanssi tokens",
-    "total_winner": "4000",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.tanssi.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
-    "chains": [
-      "dancebox"
-    ],
-    "categories": []
   },
   {
     "id": 21,
@@ -179,7 +239,7 @@
   {
     "id": 39,
     "name": "Share 42,000 KAR pool prize with Skyball Game Challenge by Playnation x Karura",
-    "status": "live",
+    "status": "archived",
     "ordinal": 81,
     "description": "Karura Token Playdrop: Eligibility & Allocation Rules \n\nIt's your time to shine as we reward your contributions and achievements with Airdrop Raffles. Each raffle is your ticket to winning big rewards from this campaign!\n\n🎁 KAR Airdrop Pool: 42,000 KAR\n\n🔈 AIRDROP MECHANISM:\n⭐️ Top 1500 NPS Holders\n- Snapshot: June 1 -  June 14\n- Raffle Entries: 3 each\n\n⭐️ Top 500 NPS Holders\n- Snapshot: April 15 - May 15\n- Raffle Entries: 3 each\n\n⭐️ Top 100 Inviters\n- Snapshot: April 15 - June 14\n- Raffle Entries: 2 each\n\n⭐️ Social Event Winners\n- Event Period: June 1 - June 14\n- Raffle Entries: 1 each\n\n📆 Time to Claim Your Airdrop Rewards: June 19 - June 25\n\nThe fun doesn't stop. Mark your calendar, get ready to climb up the ranks, and invite more friends for more raffles  - don't miss out!",
     "start_time": "2024-05-31T17:00:00.000Z",
