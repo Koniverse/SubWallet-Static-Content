@@ -269,6 +269,34 @@
     ]
   },
   {
+    "id": 56,
+    "name": "[TEST1]Share $400 in DOT pool prize with Archisinal Zealy Sprint",
+    "status": "live",
+    "ordinal": 76,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-02-07T13:00:00.000Z",
+    "end_time": "2024-08-30T07:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$400 in DOT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Peb_Tbab_YAA_7_Fud_a5f2bf6588.jpeg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
     "id": 27,
     "name": "Follow StellaSwap on Twitter and win $1000 in GLMR",
     "status": "archived",
