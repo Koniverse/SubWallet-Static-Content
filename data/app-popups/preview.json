@@ -31,66 +31,6 @@
     "conditions": {}
   },
   {
-    "id": 19,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "![dApp preview - stellaswap.png](https://media-resources.subwallet.app/d_App_preview_stellaswap_5865af7a48.png)\n\nVersion 1.1.50(364)\n>- **New assets supported**: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>- **Warning added**: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>---\n>*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw)\n\n---\n\n#### **Version 1.1.50(364)**\n*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n\n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam\n\n---\n\nWarning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 40,
-      "name": "Test - What's new?1",
-      "description": "Update Version v1.1.50(364)",
-      "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-05T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 37,
-        "label": "Cancel",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 31,
-        "label": "Stake",
-        "color": "primary",
-        "instruction": {
-          "id": 59,
-          "confirm_label": "Stake AZERO",
-          "cancel_label": "Dismiss",
-          "instruction_id": 38,
-          "group": "earning",
-          "slug": "Test_AZERO"
-        },
-        "action": {
-          "id": 40,
-          "url": "subwallet://home/main/nfts/collection?collectionId=Polkadot%20Power%20Passport-80971274db0b27d618-SWEKXV",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {
-      "condition-has-money": [
-        {
-          "has_money": [
-            "balance",
-            "earning"
-          ]
-        }
-      ]
-    }
-  },
-  {
     "id": 24,
     "priority": 1,
     "position": "token",
@@ -256,113 +196,6 @@
     "conditions": {}
   },
   {
-    "id": 47,
-    "priority": 3,
-    "position": "nft",
-    "repeat": "once",
-    "content": "![Update your app version.png](https://media-resources.subwallet.app//6/Update_your_app_version_396618b2bb.png)",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 95,
-      "name": "Extension - Test banner",
-      "description": null,
-      "start_time": "2024-06-13T17:00:00.000Z",
-      "stop_time": "2024-06-22T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 78,
-        "label": "I understand",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 85,
-          "url": "subwallet://home/main/tokens/token-groups-detail?slug=DOT-Polkadot&address=5HbcGs2QXVAc6Q6eoTzLYNAJWpN17AkCFRLnWDaHCiGYXvNc",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 48,
-    "priority": 1,
-    "position": "earning",
-    "repeat": "once",
-    "content": "![A0_1.png](https://media-resources.subwallet.app//6/A0_1_c671ff3eec.png)",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 97,
-      "name": "Test - Earning",
-      "description": null,
-      "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-22T17:00:00.000Z",
-      "platforms": [
-        "extension",
-        "mobile"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 79,
-        "label": "I understand",
-        "color": "primary",
-        "instruction": null,
-        "action": null
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 49,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "![Swap is live.png](https://media-resources.subwallet.app//6/Swap_is_live_ff59dfaaab.png)",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 98,
-      "name": "Swap",
-      "description": null,
-      "start_time": "2024-06-18T17:00:00.000Z",
-      "stop_time": "2024-06-21T17:00:00.000Z",
-      "platforms": [
-        "extension",
-        "mobile"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 81,
-        "label": "Got it!",
-        "color": "secondary",
-        "instruction": null,
-        "action": {
-          "id": 84,
-          "url": "index.html#/transaction/swap",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
     "id": 50,
     "priority": 1,
     "position": "token",
@@ -375,7 +208,7 @@
       "id": 101,
       "name": null,
       "description": "Sync desktop to mobile",
-      "start_time": "2024-07-03T17:00:00.000Z",
+      "start_time": "2024-07-04T17:00:00.000Z",
       "stop_time": "2024-08-03T17:00:00.000Z",
       "platforms": [
         "extension"
@@ -419,7 +252,7 @@
       "id": 103,
       "name": null,
       "description": "Sync mobile",
-      "start_time": "2024-07-03T17:00:00.000Z",
+      "start_time": "2024-07-04T17:00:00.000Z",
       "stop_time": "2024-08-03T17:00:00.000Z",
       "platforms": [
         "mobile"
