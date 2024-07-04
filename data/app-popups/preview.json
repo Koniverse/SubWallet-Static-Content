@@ -373,7 +373,7 @@
     "position_params": [],
     "info": {
       "id": 101,
-      "name": null,
+      "name": "Sync desktop to mobile",
       "description": "Sync desktop to mobile",
       "start_time": "2024-07-03T17:00:00.000Z",
       "stop_time": "2024-08-03T17:00:00.000Z",
