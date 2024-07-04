@@ -97,9 +97,7 @@
           "id": 21,
           "confirm_label": "Stake AZERO",
           "cancel_label": "Dismiss",
-          "instruction_id": 36,
-          "group": "earning",
-          "slug": "AZERO_Alephzero"
+          "instruction": null
         },
         "action": {
           "id": 42,
@@ -139,6 +137,94 @@
         "color": "primary",
         "instruction": null,
         "action": null
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 50,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![Extension.png](https://media-resources.subwallet.app/6/Extension_f44922cd1a.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 101,
+      "name": null,
+      "description": "Sync desktop to mobile",
+      "start_time": "2024-07-04T17:00:00.000Z",
+      "stop_time": "2024-08-03T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 83,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 82,
+        "label": "Learn more",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 88,
+          "url": "https://docs.subwallet.app/main/extension-user-guide/faqs#how-do-i-sync-my-account-on-the-extension-to-the-mobile-app-using-the-qr-code",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 52,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![MOBILE.png](https://media-resources.subwallet.app/6/MOBILE_07293aca2a.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 103,
+      "name": null,
+      "description": "Sync mobile",
+      "start_time": "2024-07-04T17:00:00.000Z",
+      "stop_time": "2024-08-03T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 86,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 87,
+        "label": "Learn more",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 90,
+          "url": "https://docs.subwallet.app/main/mobile-app-user-guide/faqs#how-do-i-sync-my-account-on-the-mobile-app-to-the-extension-using-the-qr-code",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
       }
     ],
     "conditions": {}
