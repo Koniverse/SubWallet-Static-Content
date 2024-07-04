@@ -1773,6 +1773,26 @@
     ]
   },
   {
+    "id": 170,
+    "title": "Analog Watch Testnet",
+    "description": "Access data from multiple blockchains through one interface with Analog Watch, revolutionizing decentralized applications with seamless, trust-free data queries.",
+    "url": "https://watch.testnet.analog.one/",
+    "subtitle": "Universal gateway to on-chain data",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 70,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/analog_d9aa882625.png",
+    "preview_image": null,
+    "chains": [
+      "analog_testnet"
+    ],
+    "categories": [
+      "data"
+    ]
+  },
+  {
     "id": 55,
     "title": "Dotmarketcap",
     "description": "Dotmarketcap is a website where you can find data of prices, charts, capitalization as well as the news and analysis of entire projects on the Polkadot ecosystem.",
@@ -1788,6 +1808,27 @@
     "chains": [],
     "categories": [
       "data"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Archisinal Testnet",
+    "description": "A marketplace for architects and engineers to tokenize and monetize their digital designs",
+    "url": "https://marketplace-app-client.vercel.app/",
+    "subtitle": "Buy, sell and discover exclusive digital items",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 71,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/archisinal_be406c1577.png",
+    "preview_image": null,
+    "chains": [
+      "shibuya"
+    ],
+    "categories": [
+      "rwa",
+      "nft"
     ]
   },
   {
