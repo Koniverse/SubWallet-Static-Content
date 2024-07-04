@@ -72,7 +72,7 @@
     "status": "live",
     "ordinal": 71,
     "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and help us gather valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\nSetup a wallet\nStart testing! \nSuggested wallets (you can use different wallets for different tasks):\nSubwallet\nTalisman\nReward Structure:\nTotal Pool: $2000 in PEN\n\nTwo Ways to Win:\n$1500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n$500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
-    "start_time": "2024-07-01T14:00:00.000Z",
+    "start_time": "2024-05-01T14:00:00.000Z",
     "end_time": "2024-07-10T16:00:00.000Z",
     "url": "https://airlyft.one/pendulum/spacewalk-product-pioneers-1706078974093",
     "twitter_url": "https://x.com/pendulum_chain",
@@ -213,6 +213,34 @@
     "categories": []
   },
   {
+    "id": 56,
+    "name": "[TEST1]Share $400 in DOT pool prize with Archisinal Zealy Sprint",
+    "status": "live",
+    "ordinal": 75,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-10-07T13:00:00.000Z",
+    "end_time": "2024-08-30T07:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$400 in DOT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Peb_Tbab_YAA_7_Fud_a5f2bf6588.jpeg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
     "id": 35,
     "name": "Share $400 in DOT pool prize with Archisinal Zealy Sprint",
     "status": "archived",
@@ -247,34 +275,6 @@
     "ordinal": 76,
     "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
     "start_time": "2024-10-07T13:00:00.000Z",
-    "end_time": "2024-08-30T07:00:00.000Z",
-    "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
-    "twitter_url": "https://x.com/archisinal",
-    "reward": "$400 in DOT",
-    "total_winner": "20",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.archisinal.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Peb_Tbab_YAA_7_Fud_a5f2bf6588.jpeg",
-    "chains": [],
-    "categories": [
-      {
-        "color": "purple",
-        "name": "RWA",
-        "slug": "rwa"
-      }
-    ]
-  },
-  {
-    "id": 56,
-    "name": "[TEST1]Share $400 in DOT pool prize with Archisinal Zealy Sprint",
-    "status": "live",
-    "ordinal": 76,
-    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
-    "start_time": "2024-02-07T13:00:00.000Z",
     "end_time": "2024-08-30T07:00:00.000Z",
     "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
     "twitter_url": "https://x.com/archisinal",
