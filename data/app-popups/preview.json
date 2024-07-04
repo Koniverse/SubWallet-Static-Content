@@ -373,9 +373,9 @@
     "position_params": [],
     "info": {
       "id": 101,
-      "name": "Sync desktop to mobile",
+      "name": null,
       "description": "Sync desktop to mobile",
-      "start_time": "2024-07-03T17:00:00.000Z",
+      "start_time": "2024-07-04T17:00:00.000Z",
       "stop_time": "2024-08-03T17:00:00.000Z",
       "platforms": [
         "extension"
@@ -417,9 +417,9 @@
     "position_params": [],
     "info": {
       "id": 102,
-      "name": "Sync mobile to desktop",
+      "name": null,
       "description": "Sync mobile to desktop\n",
-      "start_time": "2024-07-03T17:00:00.000Z",
+      "start_time": "2024-07-04T17:00:00.000Z",
       "stop_time": "2024-08-03T17:00:00.000Z",
       "platforms": [
         "mobile"
