@@ -384,9 +384,16 @@
     },
     "buttons": [
       {
+        "id": 83,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
         "id": 82,
         "label": "Learn more",
-        "color": "secondary",
+        "color": "primary",
         "instruction": null,
         "action": {
           "id": 88,
@@ -395,13 +402,6 @@
           "params": null,
           "is_cancel": null
         }
-      },
-      {
-        "id": 83,
-        "label": "Dismiss",
-        "color": "primary",
-        "instruction": null,
-        "action": null
       }
     ],
     "conditions": {}
