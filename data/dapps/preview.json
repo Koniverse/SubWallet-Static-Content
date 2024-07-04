@@ -2388,5 +2388,23 @@
     "categories": [
       "defi"
     ]
+  },
+  {
+    "id": 169,
+    "title": "UQUID",
+    "description": "UQUID is an E-commerce platform with a Shop-to-Earn experience.\nVerified merchants, exclusive deals, cashback and Payin3 with Crypto on 167M+ physical products, 468k+ digital products & NFTs.",
+    "url": "https://shop.uquid.com/",
+    "subtitle": "Web3 Shopping Infrastructure",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/uquid_7131bf05bb.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "utilities"
+    ]
   }
 ]
