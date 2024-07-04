@@ -461,6 +461,30 @@
     "categories": []
   },
   {
+    "id": 57,
+    "name": "[TEST] Win $800 in DOT with Polkadot Loves Conor NFT contest",
+    "status": "archived",
+    "ordinal": 83,
+    "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n\n1️⃣ Create your Unique NFT /n\n\n2️⃣ Share on social media\n\n3️⃣ Follow our ecosystem partners\n\nJoin us for a chance to be one of the 25 lucky participants to win $800 in DOT! 🏆\n\nEnter the competition here 👇\nhttps://zealy.io/cw/unique",
+    "start_time": "2024-04-16T06:30:00.000Z",
+    "end_time": "2024-05-27T06:30:00.000Z",
+    "url": "https://zealy.io/cw/unique/questboard",
+    "twitter_url": "https://twitter.com/Unique_NFTchain",
+    "reward": "$800 in DOT",
+    "total_winner": "25",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://unique.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Unique_NFT_contest_9436e9de22.jpg",
+    "chains": [
+      "unique_network"
+    ],
+    "categories": []
+  },
+  {
     "id": 29,
     "name": "Share 400 BNC rewards with Bifrost x Mimir campaign on Airlyft",
     "status": "archived",
