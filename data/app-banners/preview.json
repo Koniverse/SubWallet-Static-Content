@@ -88,7 +88,7 @@
   },
   {
     "id": 25,
-    "position": "nft",
+    "position": "missionPools",
     "priority": 2,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
@@ -96,9 +96,8 @@
       "name": "Extension - Test banner",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-22T17:00:00.000Z",
+      "stop_time": "2024-07-05T17:00:00.000Z",
       "platforms": [
-        "extension",
         "mobile"
       ],
       "os": null
@@ -111,7 +110,18 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "kusama"
+        },
+        {
+          "collection_id": null,
+          "chain": "kusama"
+        }
+      ]
+    },
     "instruction": {
       "id": 60,
       "confirm_label": "Stake",
@@ -205,7 +215,7 @@
       "name": "Crowdloan",
       "description": null,
       "start_time": "2024-06-21T17:00:00.000Z",
-      "stop_time": "2024-06-24T17:00:00.000Z",
+      "stop_time": "2024-07-05T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
@@ -234,13 +244,13 @@
     "id": 51,
     "position": "nft",
     "priority": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/G_Rafii0bs_AAOGSB_11d8cce4c0.jpg",
     "info": {
       "id": 100,
       "name": "NFT",
       "description": null,
       "start_time": "2024-06-21T17:00:00.000Z",
-      "stop_time": "2024-06-22T17:00:00.000Z",
+      "stop_time": "2024-07-05T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
