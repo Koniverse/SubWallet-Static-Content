@@ -67,12 +67,12 @@
     ]
   },
   {
-    "id": 55,
-    "name": "[TEST2]Share the total pool of $2000 in PEN with Break testnet on Pendulum's Forex AMM campaign on Airlyft",
+    "id": 58,
+    "name": "test2",
     "status": "live",
     "ordinal": 71,
-    "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and help us gather valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\nSetup a wallet\nStart testing! \nSuggested wallets (you can use different wallets for different tasks):\nSubwallet\nTalisman\nReward Structure:\nTotal Pool: $2000 in PEN\n\nTwo Ways to Win:\n$1500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n$500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
-    "start_time": "2024-05-01T14:00:00.000Z",
+    "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and provide valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\n1. Setup a wallet (suggested wallet: SubWallet)\n2. Start testing! \n\nReward Structure:\nTotal Pool: $2000 in PEN\n\nTwo Ways to Win:\n- $1500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n- $500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
+    "start_time": "2024-07-01T14:00:00.000Z",
     "end_time": "2024-07-10T16:00:00.000Z",
     "url": "https://airlyft.one/pendulum/spacewalk-product-pioneers-1706078974093",
     "twitter_url": "https://x.com/pendulum_chain",
@@ -85,7 +85,7 @@
     ],
     "campaign_url": "https://pendulumchain.org/",
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/pendulum_a813a4cfd4.png",
-    "backdrop_image": null,
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Pendulum_Break_Testnet_Airlyft_campaign_26e971b74f.jfif",
     "chains": [
       "pendulum"
     ],
