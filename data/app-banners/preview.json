@@ -267,8 +267,8 @@
     "conditions": {
       "condition-balance": [
         {
-          "comparison": "lt",
-          "value": 10,
+          "comparison": "gt",
+          "value": 0,
           "chain_asset": "vara_network-NATIVE-VARA"
         }
       ],
