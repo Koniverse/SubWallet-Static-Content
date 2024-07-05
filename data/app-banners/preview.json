@@ -267,8 +267,8 @@
     "conditions": {
       "condition-nft": [
         {
-          "collection_id": "80971274db0b27d618-SWLOKA",
-          "chain": null
+          "collection_id": null,
+          "chain": "statemine"
         }
       ]
     },
