@@ -265,11 +265,11 @@
     },
     "position_params": [],
     "conditions": {
-      "condition-has-money": [
+      "condition-earning": [
         {
-          "has_money": [
-            "crowdloan"
-          ]
+          "pool_slug": "DOT___native_staking___polkadot",
+          "comparison": null,
+          "value": null
         }
       ]
     },
