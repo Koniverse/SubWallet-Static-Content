@@ -267,7 +267,7 @@
     "conditions": {
       "condition-earning": [
         {
-          "pool_slug": "DOT___native_staking___polkadot",
+          "pool_slug": "DOT___nomination_pool___polkadot",
           "comparison": "gt",
           "value": 0
         }
