@@ -265,10 +265,17 @@
     },
     "position_params": [],
     "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "lt",
+          "value": 10,
+          "chain_asset": "vara_network-NATIVE-VARA"
+        }
+      ],
       "condition-nft": [
         {
           "collection_id": null,
-          "chain": "statemine"
+          "chain": "vara_network"
         }
       ]
     },
