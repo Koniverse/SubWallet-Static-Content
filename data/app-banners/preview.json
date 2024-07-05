@@ -268,7 +268,7 @@
       "condition-nft": [
         {
           "collection_id": null,
-          "chain": "kusama"
+          "chain": "continuum_network"
         }
       ]
     },
