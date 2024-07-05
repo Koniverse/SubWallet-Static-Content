@@ -69,7 +69,7 @@
   {
     "id": 58,
     "name": "test2",
-    "status": "live",
+    "status": "archived",
     "ordinal": 71,
     "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and provide valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\n1. Setup a wallet (suggested wallet: SubWallet)\n2. Start testing! \n\nReward Structure:\nTotal Pool: $2000 in PEN\n\nTwo Ways to Win:\n- $1500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n- $500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
     "start_time": "2024-07-01T14:00:00.000Z",
@@ -128,6 +128,38 @@
   {
     "id": 50,
     "name": "Win ASTR token with Astar Stake campaign on AirLyft",
+    "status": "live",
+    "ordinal": 73,
+    "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
+    "start_time": "2024-06-18T19:55:00.000Z",
+    "end_time": "2024-07-19T18:29:00.000Z",
+    "url": "https://airlyft.one/community/astar-stake-on-airlyft",
+    "twitter_url": "https://x.com/airlyftone",
+    "reward": "N/A",
+    "total_winner": "50",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://airlyft.one/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Astar_Stake_on_Airlyft_campaign_1d91ee54fd.png",
+    "chains": [
+      "astarZkEvm",
+      "astar",
+      "astarEvm"
+    ],
+    "categories": [
+      {
+        "color": "geekblue",
+        "name": "Staking",
+        "slug": "staking"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "[TEST] Win ASTR token with Astar Stake campaign on AirLyft",
     "status": "live",
     "ordinal": 73,
     "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
