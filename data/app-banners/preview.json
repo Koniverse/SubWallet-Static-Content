@@ -268,7 +268,7 @@
       "condition-nft": [
         {
           "collection_id": null,
-          "chain": "vara_network"
+          "chain": "bridgeHubKusama"
         }
       ]
     },
