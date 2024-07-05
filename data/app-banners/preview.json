@@ -32,7 +32,7 @@
     "conditions": {
       "condition-balance": [
         {
-          "comparison": "gt",
+          "comparison": "lt",
           "value": 1,
           "chain_asset": "aleph-NATIVE-AZERO"
         }
