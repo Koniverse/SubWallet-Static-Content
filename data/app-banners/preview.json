@@ -271,12 +271,6 @@
           "value": 0,
           "chain_asset": "vara_network-NATIVE-VARA"
         }
-      ],
-      "condition-nft": [
-        {
-          "collection_id": null,
-          "chain": "vara_network"
-        }
       ]
     },
     "instruction": {
