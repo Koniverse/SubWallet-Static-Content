@@ -268,8 +268,8 @@
       "condition-earning": [
         {
           "pool_slug": "DOT___native_staking___polkadot",
-          "comparison": null,
-          "value": null
+          "comparison": "gt",
+          "value": 0
         }
       ]
     },
