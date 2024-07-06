@@ -7,7 +7,7 @@
     "description": "✈️ The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4,750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
     "start_time": "2024-06-26T03:00:00.000Z",
     "end_time": "2024-07-10T16:59:00.000Z",
-    "url": "https://t.me/Playnation_bot/app",
+    "url": "https://t.me/Playnation_bot/app?startapp=9PC9uVeRx",
     "twitter_url": "https://x.com/dotisded",
     "reward": "$4,750 in DED",
     "total_winner": "N/A",
@@ -32,6 +32,37 @@
         "color": "magenta",
         "name": "Gaming",
         "slug": "gaming"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Share the pool of $2,000 in PEN with Break testnet on Pendulum's Forex AMM campaign on Airlyft",
+    "status": "live",
+    "ordinal": 71,
+    "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and provide valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\n1. Setup a wallet (suggested wallet: SubWallet)\n2. Start testing! \n\nReward Structure:\nTotal Pool: $2,000 in PEN\n\nTwo Ways to Win:\n- $1,500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n- $500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
+    "start_time": "2024-07-01T14:00:00.000Z",
+    "end_time": "2024-07-10T16:00:00.000Z",
+    "url": "https://airlyft.one/pendulum/spacewalk-product-pioneers-1706078974093",
+    "twitter_url": "https://x.com/pendulum_chain",
+    "reward": "$2,000 in PEN",
+    "total_winner": "10",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "manual_selection"
+    ],
+    "campaign_url": "https://pendulumchain.org/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/pendulum_a813a4cfd4.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Pendulum_Break_Testnet_Airlyft_campaign_26e971b74f.jfif",
+    "chains": [
+      "pendulum"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
       }
     ]
   },
@@ -96,10 +127,34 @@
     ]
   },
   {
-    "id": 44,
-    "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
+    "id": 26,
+    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
     "status": "live",
     "ordinal": 74,
+    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
+    "start_time": "2024-04-29T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://lfd.tanssi.network/",
+    "twitter_url": "https://twitter.com/TanssiNetwork",
+    "reward": "4M Tanssi tokens",
+    "total_winner": "4000",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.tanssi.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
+    "chains": [
+      "dancebox"
+    ],
+    "categories": []
+  },
+  {
+    "id": 44,
+    "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
+    "status": "archived",
+    "ordinal": 75,
     "description": "The excitement continues! Moonbeam and Airlyft are back with part 2 of the PINK token giveaway. This time, the prize pool explodes to a whopping 697,000 PINK tokens 🎀 Participate Now!\n\nRewards:\n15 winners selected manually will receive 13,133 PINK each.\n100 winners from the random raffle will be eligible for a 500,000 PINK pool.\nDon't miss this chance to score big on PINK! The more you participate, the better your odds. Let's make this the PINKest part of the frenzy yet!\n\nP.S. Remember, consistency is key! Make those transactions a daily ritual to maximize your chances of winning.",
     "start_time": "2024-06-13T18:30:00.000Z",
     "end_time": "2024-07-04T18:29:00.000Z",
@@ -125,30 +180,6 @@
         "slug": "meme"
       }
     ]
-  },
-  {
-    "id": 26,
-    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
-    "status": "live",
-    "ordinal": 75,
-    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
-    "start_time": "2024-04-29T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://lfd.tanssi.network/",
-    "twitter_url": "https://twitter.com/TanssiNetwork",
-    "reward": "4M Tanssi tokens",
-    "total_winner": "4000",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.tanssi.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
-    "chains": [
-      "dancebox"
-    ],
-    "categories": []
   },
   {
     "id": 27,
