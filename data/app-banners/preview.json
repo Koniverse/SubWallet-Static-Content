@@ -246,10 +246,11 @@
     },
     "position_params": [],
     "conditions": {
-      "condition-nft": [
+      "condition-earning": [
         {
-          "collection_id": null,
-          "chain": "vara_network"
+          "pool_slug": "DOT___nomination_pool___polkadot",
+          "comparison": "gt",
+          "value": 5
         }
       ]
     },
