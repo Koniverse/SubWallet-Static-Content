@@ -250,7 +250,7 @@
     "conditions": {
       "condition-nft": [
         {
-          "collection_id": "409",
+          "collection_id": "0xcefdca25159fd78f5fd09c77628c4fc6fc6b46414b42949b877849decf048a96",
           "chain": null
         }
       ]
