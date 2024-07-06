@@ -29,15 +29,7 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "lt",
-          "value": 1,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 14,
       "confirm_label": "Stake AZERO",
@@ -96,7 +88,7 @@
       "name": "Extension - Test banner",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-05T17:00:00.000Z",
+      "stop_time": "2024-07-30T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -110,18 +102,7 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {
-      "condition-nft": [
-        {
-          "collection_id": null,
-          "chain": "kusama"
-        },
-        {
-          "collection_id": null,
-          "chain": "kusama"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 60,
       "confirm_label": "Stake",
@@ -141,7 +122,7 @@
       "name": "Stake DOT get VARCH 1",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-03T17:00:00.000Z",
+      "stop_time": "2024-07-31T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -215,7 +196,7 @@
       "name": "Crowdloan",
       "description": null,
       "start_time": "2024-06-21T17:00:00.000Z",
-      "stop_time": "2024-07-05T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
@@ -250,7 +231,7 @@
       "name": "NFT",
       "description": null,
       "start_time": "2024-06-21T17:00:00.000Z",
-      "stop_time": "2024-07-05T17:00:00.000Z",
+      "stop_time": "2024-07-19T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -265,11 +246,10 @@
     },
     "position_params": [],
     "conditions": {
-      "condition-earning": [
+      "condition-nft": [
         {
-          "pool_slug": "DOT___nomination_pool___polkadot",
-          "comparison": "gt",
-          "value": 0
+          "collection_id": null,
+          "chain": "vara_network"
         }
       ]
     },
