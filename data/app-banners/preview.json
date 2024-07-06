@@ -156,7 +156,7 @@
   },
   {
     "id": 49,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
     "info": {
@@ -164,9 +164,8 @@
       "name": "Stake AZERO 2",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-06-22T17:00:00.000Z",
+      "stop_time": "2024-07-22T17:00:00.000Z",
       "platforms": [
-        "extension",
         "mobile"
       ],
       "os": null
@@ -178,12 +177,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "aleph-NATIVE-AZERO"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": {
       "id": 61,
@@ -254,11 +248,10 @@
     },
     "position_params": [],
     "conditions": {
-      "condition-earning": [
+      "condition-nft": [
         {
-          "pool_slug": "DOT___nomination_pool___polkadot",
-          "comparison": "gt",
-          "value": 5
+          "collection_id": null,
+          "chain": "kusama"
         }
       ]
     },
