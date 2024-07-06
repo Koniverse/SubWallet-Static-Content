@@ -76,7 +76,15 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {},
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0.5,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    },
     "instruction": {
       "id": 20,
       "confirm_label": "Stake AZERO",
