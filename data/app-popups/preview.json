@@ -316,7 +316,7 @@
       "condition-nft": [
         {
           "collection_id": null,
-          "chain": "acala"
+          "chain": "aleph"
         }
       ]
     }
