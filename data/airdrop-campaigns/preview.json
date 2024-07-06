@@ -127,74 +127,34 @@
     ]
   },
   {
-    "id": 59,
-    "name": "[TEST] Win ASTR token with Astar Stake campaign on AirLyft",
+    "id": 26,
+    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
     "status": "live",
-    "ordinal": 73,
-    "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
-    "start_time": "2024-06-18T19:55:00.000Z",
-    "end_time": "2024-07-19T18:29:00.000Z",
-    "url": "https://airlyft.one/community/astar-stake-on-airlyft",
-    "twitter_url": "https://x.com/airlyftone",
-    "reward": "N/A",
-    "total_winner": "50",
+    "ordinal": 74,
+    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
+    "start_time": "2024-04-29T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://lfd.tanssi.network/",
+    "twitter_url": "https://twitter.com/TanssiNetwork",
+    "reward": "4M Tanssi tokens",
+    "total_winner": "4000",
     "total_supply": null,
     "tags": [
-      "lucky_draw"
+      "points"
     ],
-    "campaign_url": "https://airlyft.one/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Astar_Stake_on_Airlyft_campaign_1d91ee54fd.png",
+    "campaign_url": "https://www.tanssi.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
     "chains": [
-      "astarZkEvm",
-      "astar",
-      "astarEvm"
+      "dancebox"
     ],
-    "categories": [
-      {
-        "color": "geekblue",
-        "name": "Staking",
-        "slug": "staking"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "name": "2-[TEST] Win ASTR token with Astar Stake campaign on AirLyft",
-    "status": "live",
-    "ordinal": 73,
-    "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
-    "start_time": "2024-06-18T19:55:00.000Z",
-    "end_time": "2024-07-19T18:29:00.000Z",
-    "url": "https://airlyft.one/community/astar-stake-on-airlyft",
-    "twitter_url": "https://x.com/airlyftone",
-    "reward": "N/A",
-    "total_winner": "50",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://airlyft.one/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Astar_Stake_on_Airlyft_campaign_1d91ee54fd.png",
-    "chains": [
-      "astarZkEvm",
-      "astar",
-      "astarEvm"
-    ],
-    "categories": [
-      {
-        "color": "geekblue",
-        "name": "Staking",
-        "slug": "staking"
-      }
-    ]
+    "categories": []
   },
   {
     "id": 44,
     "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
-    "status": "live",
-    "ordinal": 74,
+    "status": "archived",
+    "ordinal": 75,
     "description": "The excitement continues! Moonbeam and Airlyft are back with part 2 of the PINK token giveaway. This time, the prize pool explodes to a whopping 697,000 PINK tokens 🎀 Participate Now!\n\nRewards:\n15 winners selected manually will receive 13,133 PINK each.\n100 winners from the random raffle will be eligible for a 500,000 PINK pool.\nDon't miss this chance to score big on PINK! The more you participate, the better your odds. Let's make this the PINKest part of the frenzy yet!\n\nP.S. Remember, consistency is key! Make those transactions a daily ritual to maximize your chances of winning.",
     "start_time": "2024-06-13T18:30:00.000Z",
     "end_time": "2024-07-04T18:29:00.000Z",
@@ -220,30 +180,6 @@
         "slug": "meme"
       }
     ]
-  },
-  {
-    "id": 26,
-    "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
-    "status": "live",
-    "ordinal": 75,
-    "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
-    "start_time": "2024-04-29T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://lfd.tanssi.network/",
-    "twitter_url": "https://twitter.com/TanssiNetwork",
-    "reward": "4M Tanssi tokens",
-    "total_winner": "4000",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://www.tanssi.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
-    "chains": [
-      "dancebox"
-    ],
-    "categories": []
   },
   {
     "id": 56,
@@ -475,30 +411,6 @@
     "status": "archived",
     "ordinal": 83,
     "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n1️⃣ Create your Unique NFT\n2️⃣ Share on social media\n3️⃣ Follow our ecosystem partners\n\nJoin us for a chance to be one of the 25 lucky participants to win $800 in DOT! 🏆\n\nEnter the competition here 👇\nhttps://zealy.io/cw/unique",
-    "start_time": "2024-04-16T06:30:00.000Z",
-    "end_time": "2024-05-27T06:30:00.000Z",
-    "url": "https://zealy.io/cw/unique/questboard",
-    "twitter_url": "https://twitter.com/Unique_NFTchain",
-    "reward": "$800 in DOT",
-    "total_winner": "25",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://unique.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Unique_NFT_contest_9436e9de22.jpg",
-    "chains": [
-      "unique_network"
-    ],
-    "categories": []
-  },
-  {
-    "id": 57,
-    "name": "[TEST] Win $800 in DOT with Polkadot Loves Conor NFT contest",
-    "status": "archived",
-    "ordinal": 83,
-    "description": "There are only a few days left until the Indianapolis 500 race and Polkadot's superstar Conor Daly is hitting the races in an all-Polkadot pink race car!\n\nCelebrate with us and join the ecosystem mint contest; mint an NFT to show your support, follow our partners & perform tasks, and don’t forget to share your NFT on social media!\n\nIt’s easy to join:\n\n1️⃣ Create your Unique NFT \n2️⃣ Share on social media\n\n3️⃣ Follow our ecosystem partners\n\nJoin us for a chance to be one of the 25 lucky participants to win $800 in DOT! 🏆\n\nEnter the competition here 👇\nhttps://zealy.io/cw/unique",
     "start_time": "2024-04-16T06:30:00.000Z",
     "end_time": "2024-05-27T06:30:00.000Z",
     "url": "https://zealy.io/cw/unique/questboard",
