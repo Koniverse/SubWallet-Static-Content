@@ -313,11 +313,11 @@
       }
     ],
     "conditions": {
-      "condition-balance": [
+      "condition-earning": [
         {
-          "comparison": "eq",
-          "value": 1,
-          "chain_asset": "aleph-NATIVE-AZERO"
+          "pool_slug": "DOT___nomination_pool___polkadot",
+          "comparison": "gt",
+          "value": 0
         }
       ]
     }
