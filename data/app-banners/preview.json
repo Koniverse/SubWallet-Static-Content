@@ -252,6 +252,10 @@
         {
           "collection_id": null,
           "chain": "kusama"
+        },
+        {
+          "collection_id": "409",
+          "chain": null
         }
       ]
     },
