@@ -313,10 +313,11 @@
       }
     ],
     "conditions": {
-      "condition-nft": [
+      "condition-balance": [
         {
-          "collection_id": "342f12106eab6d904c-YOUDLEEARS",
-          "chain": null
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "aleph-NATIVE-AZERO"
         }
       ]
     }
