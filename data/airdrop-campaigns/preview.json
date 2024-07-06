@@ -159,6 +159,38 @@
     ]
   },
   {
+    "id": 60,
+    "name": "2-[TEST] Win ASTR token with Astar Stake campaign on AirLyft",
+    "status": "live",
+    "ordinal": 73,
+    "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
+    "start_time": "2024-06-18T19:55:00.000Z",
+    "end_time": "2024-07-19T18:29:00.000Z",
+    "url": "https://airlyft.one/community/astar-stake-on-airlyft",
+    "twitter_url": "https://x.com/airlyftone",
+    "reward": "N/A",
+    "total_winner": "50",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://airlyft.one/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Astar_Stake_on_Airlyft_campaign_1d91ee54fd.png",
+    "chains": [
+      "astarZkEvm",
+      "astar",
+      "astarEvm"
+    ],
+    "categories": [
+      {
+        "color": "geekblue",
+        "name": "Staking",
+        "slug": "staking"
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "Win 697,000 PINK prize pool with The Sky is $PINK 🎀 (Moonrise Edition) campaign by Airlyft",
     "status": "live",
