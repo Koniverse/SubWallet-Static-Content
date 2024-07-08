@@ -213,7 +213,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -241,7 +241,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
@@ -292,7 +292,7 @@
   },
   {
     "slug": "statemint-NATIVE-DOT",
-    "name": "Statemint",
+    "name": "Polkadot",
     "symbol": "DOT",
     "decimals": 10,
     "priceId": "polkadot",
@@ -397,7 +397,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 11,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_66024badc0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_633a5b16a9.png",
     "originChain": "polygon",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -717,32 +717,32 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-NATIVE-GLMR"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcPINK"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcUSDT"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
-        "destAsset": null
+        "disable": true,
+        "destAsset": "moonbeam-LOCAL-xcvDOT"
       }
     ]
   },
@@ -2518,7 +2518,7 @@
   },
   {
     "slug": "statemine-NATIVE-KSM",
-    "name": "Statemine",
+    "name": "Kusama",
     "symbol": "KSM",
     "decimals": 12,
     "priceId": "kusama",
@@ -4011,11 +4011,11 @@
   },
   {
     "slug": "logion-NATIVE-LGNT",
-    "name": "logion Standalone",
+    "name": "Logion",
     "symbol": "LGNT",
     "decimals": 18,
     "priceId": null,
-    "minAmount": "500",
+    "minAmount": "1000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -4546,7 +4546,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -8858,7 +8858,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -9385,6 +9385,22 @@
     ]
   },
   {
+    "slug": "bittensor_testnet-NATIVE-TAO",
+    "name": "Bittensor Testnet",
+    "symbol": "TAO",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "bittensor_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "statemint-LOCAL-PINK",
     "name": "Statemint Pink",
     "symbol": "PINK",
@@ -9486,7 +9502,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
@@ -11426,6 +11442,33 @@
     "assetRefs": []
   },
   {
+    "slug": "moonbeam-LOCAL-xcvDOT",
+    "name": "Bifrost Voucher DOT",
+    "symbol": "xcvDOT",
+    "decimals": 10,
+    "priceId": "voucher-dot",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "29085784439601774464560083082574142143",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xFFFfffFf15e1b7E3dF971DD813Bc394deB899aBf"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "vDOT-VoucherDot",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      }
+    ]
+  },
+  {
     "slug": "statemint-LOCAL-STINK",
     "name": "STINK",
     "symbol": "STINK",
@@ -11635,7 +11678,39 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_b9799e9a57.png",
     "originChain": "bitlayerTest",
-    "multiChainAsset": null,
+    "multiChainAsset": "BTC-BitcoinTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm-NATIVE-BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": "bitcoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "bevm",
+    "multiChainAsset": "BTC-Bitcoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "bevmTest-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
+    "originChain": "bevmTest",
+    "multiChainAsset": "BTC-BitcoinTestnet",
     "assetRefs": []
   },
   {
@@ -11709,6 +11784,60 @@
     "assetRefs": []
   },
   {
+    "slug": "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "priceId": "wrapped-bitcoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_1637df0b29.png",
+    "originChain": "bevm",
+    "multiChainAsset": "WBTC-WrappedBTC",
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm-ERC20-stBTC-0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C",
+    "name": "Liquid staked BTC",
+    "symbol": "stBTC",
+    "decimals": 18,
+    "priceId": "bido-staked-bitcoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stbtc_4b92369563.png",
+    "originChain": "bevm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm-ERC20-wstBTC-0x2967E7Bb9DaA5711Ac332cAF874BD47ef99B3820",
+    "name": "Wrapped liquid staked BTC 2.0",
+    "symbol": "wstBTC",
+    "decimals": 18,
+    "priceId": "wrapped-stbtc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x2967E7Bb9DaA5711Ac332cAF874BD47ef99B3820"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wstbtc_331a319100.png",
+    "originChain": "bevm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "bobMainnet-NATIVE-ETH",
     "name": "Ethereum",
     "symbol": "ETH",
@@ -11738,6 +11867,38 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "avail_mainnet",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "merlinEvm-NATIVE-BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": "bitcoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_3cd8607524.png",
+    "originChain": "merlinEvm",
+    "multiChainAsset": "BTC-Bitcoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "botanixEvmTest-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
+    "originChain": "botanixEvmTest",
+    "multiChainAsset": "BTC-BitcoinTestnet",
     "assetRefs": []
   },
   {
@@ -12291,7 +12452,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
     "originChain": "bitcoinTestnet",
-    "multiChainAsset": null,
+    "multiChainAsset": "BTC-BitcoinTestnet",
     "assetRefs": []
   },
   {
@@ -12565,6 +12726,210 @@
     "assetRefs": []
   },
   {
+    "slug": "bitcoin-RUNE-RUNE•ALPHA•COOK-840000:188",
+    "name": "RUNE•ALPHA•COOK",
+    "symbol": "RUNE•ALPHA•COOK",
+    "decimals": 3,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "840000:188"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_Alpha_1c75900266.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-ordi",
+    "name": "ordi",
+    "symbol": "ordi",
+    "decimals": 18,
+    "priceId": "ordinals",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_ORDI_acf1945cfe.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": "ordi-ordi",
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-sats",
+    "name": "sats",
+    "symbol": "sats",
+    "decimals": 18,
+    "priceId": "sats-ordinals",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_SATS_1248b2d45a.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": "sats-sats",
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-PUPS",
+    "name": "PUPS",
+    "symbol": "PUPS",
+    "decimals": 18,
+    "priceId": "pups-ordinals",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_PU_Ps_555f25be55.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-trac",
+    "name": "trac",
+    "symbol": "trac",
+    "decimals": 18,
+    "priceId": "trac",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_TRAC_2a3c17bff3.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-MUBI",
+    "name": "MUBI",
+    "symbol": "MUBI",
+    "decimals": 18,
+    "priceId": "multibit",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_mubi_76bb47de5d.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-wzrd",
+    "name": "wzrd",
+    "symbol": "wzrd",
+    "decimals": 18,
+    "priceId": "bitcoin-wizards",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_Wzrd_8327b29dd6.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-RUNE-DOG•GO•TO•THE•MOON-840000:3",
+    "name": "DOG•GO•TO•THE•MOON",
+    "symbol": "DOG•GO•TO•THE•MOON",
+    "decimals": 5,
+    "priceId": "dog-go-to-the-moon-rune",
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "840000:3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_Dog_b07dca20cf.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-RUNE-EPIC•EPIC•EPIC•EPIC-842166:27",
+    "name": "EPIC•EPIC•EPIC•EPIC",
+    "symbol": "EPIC•EPIC•EPIC•EPIC",
+    "decimals": 2,
+    "priceId": "epic-epic-epic-epic",
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "842166:27"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_EPIC_6762cfc5c8.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-RUNE-RSIC•GENESIS•RUNE-840000:28",
+    "name": "RSIC•GENESIS•RUNE",
+    "symbol": "RSIC•GENESIS•RUNE",
+    "decimals": 0,
+    "priceId": "runecoin",
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "840000:28"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_RSIC_751c07f4c7.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-RUNE-UNCOMMON•GOODS-1:0",
+    "name": "UNCOMMON•GOODS",
+    "symbol": "UNCOMMON•GOODS",
+    "decimals": 0,
+    "priceId": "uncommon-goods",
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "1:0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Rune_Uncommon_Good_0169d810c9.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-RUNE-RUNES•X•BITCOIN-840000:142",
+    "name": "RUNES•X•BITCOIN",
+    "symbol": "RUNES•X•BITCOIN",
+    "decimals": 0,
+    "priceId": "runes-x-bitcoin",
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "840000:142"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Runes_X_Bitcoin_56fa847c37.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "bounceBitEvmTest-NATIVE-BB",
     "name": "BounceBit Testnet",
     "symbol": "BB",
@@ -12724,6 +13089,40 @@
         "destAsset": "rococo_assethub-LOCAL-WETH"
       }
     ]
+  },
+  {
+    "slug": "bitcoin-RUNE-MEME•MINT•MILLION-840000:212",
+    "name": "MEME•MINT•MILLION",
+    "symbol": "MEME•MINT•MILLION",
+    "decimals": 3,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "RUNE",
+    "metadata": {
+      "runeId": "840000:212"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-fake",
+    "name": "fake",
+    "symbol": "fake",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
   },
   {
     "slug": "statemint-LOCAL-BORK",
@@ -13565,6 +13964,428 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
     "originChain": "karura",
     "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "layerEdge_testnet-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
+    "originChain": "layerEdge_testnet",
+    "multiChainAsset": "BTC-BitcoinTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "bitlayer-ERC721-LuckyHelmet-0x260ac1a14a89fd24c72b84092629f14964556299",
+    "name": "Bitlayer Lucky Helmet NFT",
+    "symbol": "LuckyHelmet",
+    "decimals": null,
+    "priceId": null,
+    "minAmount": null,
+    "assetType": "ERC721",
+    "metadata": {
+      "contractAddress": "0x260ac1a14a89fd24c72b84092629f14964556299"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "bitlayer",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm_testnet-NATIVE-WBTC",
+    "name": "Wrapped BTC Testnet",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bevm_610aea8f62.png",
+    "originChain": "bevm_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "merlinEvm-ERC20-MERL-0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378",
+    "name": "MERL",
+    "symbol": "MERL",
+    "decimals": 18,
+    "priceId": "merlin-chain",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/merlin_chain_a885212729.png",
+    "originChain": "merlinEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "berachain_testnet-NATIVE-BERA",
+    "name": "BERA",
+    "symbol": "BERA",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bera_chain_7e961b084f.png",
+    "originChain": "berachain_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "atletaOlympia_testnet-NATIVE-ATLA",
+    "name": "ATLA",
+    "symbol": "ATLA",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/atleta_765414417e.png",
+    "originChain": "atletaOlympia_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bevm-ERC20-ORDINALS•RU-0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
+    "name": "ORDINALS•RUNES",
+    "symbol": "ORDINALS•RU",
+    "decimals": 0,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "bevm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-BBTC-0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
+    "name": "BounceBit BTC",
+    "symbol": "BBTC",
+    "decimals": 18,
+    "priceId": "bouncebit-btc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bbtc_509a028868.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-BBUSD-0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222",
+    "name": "BounceBit USD",
+    "symbol": "BBUSD",
+    "decimals": 18,
+    "priceId": "bouncebit-usd",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bbusd_75c1d150fd.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-stBBTC-0x7F150c293c97172C75983BD8ac084c187107eA19",
+    "name": "Liquid Staking BBTC",
+    "symbol": "stBBTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x7F150c293c97172C75983BD8ac084c187107eA19"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stbbtc_8b80dee5a1.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bounceBitEvm-ERC20-stBB-0x22aAC17E571D6651880d057e310703fF4C7c3483",
+    "name": "Liquid Staking BB",
+    "symbol": "stBB",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x22aAC17E571D6651880d057e310703fF4C7c3483"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stbb_0b7a36b77f.png",
+    "originChain": "bounceBitEvm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitlayer-ERC20-ordi-0xde9f57a5b8844ebf607eceffaa2505bb961701a4",
+    "name": "Bitlayer-peg ORDI",
+    "symbol": "ordi",
+    "decimals": 18,
+    "priceId": "ordinals",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xde9f57a5b8844ebf607eceffaa2505bb961701a4"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_ORDI_d0c681b58d.png",
+    "originChain": "bitlayer",
+    "multiChainAsset": "ordi-ordi",
+    "assetRefs": []
+  },
+  {
+    "slug": "bitlayer-ERC20-sats-0x8dae8b60f16a10edfac1714394688e006ff369fa",
+    "name": "Bitlayer-peg SATS",
+    "symbol": "sats",
+    "decimals": 18,
+    "priceId": "sats-ordinals",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x8dae8b60f16a10edfac1714394688e006ff369fa"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/BRC_20_SATS_3e8d2a0c22.png",
+    "originChain": "bitlayer",
+    "multiChainAsset": "sats-sats",
+    "assetRefs": []
+  },
+  {
+    "slug": "bitlayer-ERC20-rats-0x0d922f10d86243ceff899f15571f51951e8b20f6",
+    "name": "Bitlayer-peg RATS",
+    "symbol": "rats",
+    "decimals": 18,
+    "priceId": "rats",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x0d922f10d86243ceff899f15571f51951e8b20f6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rats_4b1ed51244.png",
+    "originChain": "bitlayer",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-tshx",
+    "name": "ToshiPad",
+    "symbol": "tshx",
+    "decimals": 18,
+    "priceId": "toshipad",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": {
+      "autoEnable": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tshx_aea7ec07d7.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bitcoin-BRC20-Cncl",
+    "name": "The Ordinals Council",
+    "symbol": "Cncl",
+    "decimals": 18,
+    "priceId": "cncl",
+    "minAmount": "0",
+    "assetType": "BRC20",
+    "metadata": {
+      "autoEnable": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cncl_04a33b709e.png",
+    "originChain": "bitcoin",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-MYTH",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "21367521367521400",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "30"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "MYTH-Mythos",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcWIFD",
+    "name": "Dog Wif Dots",
+    "symbol": "xcWIFD",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "61295607754960722617854661686514597014",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xfffffffF2e1D1ac9eA1686255bEfe995B31abc96"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wifd_6a8eda5e39.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "WIFD-DogWifDots",
+    "assetRefs": []
+  },
+  {
+    "slug": "syscoin_evm-NATIVE-SYS",
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18,
+    "priceId": "syscoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_white_f038e102d4.png",
+    "originChain": "syscoin_evm",
+    "multiChainAsset": "SYS-Syscoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "rollux_evm-NATIVE-SYS",
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18,
+    "priceId": "syscoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_white_f038e102d4.png",
+    "originChain": "rollux_evm",
+    "multiChainAsset": "SYS-Syscoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "bobMainnet-ERC20-tBTC-0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
+    "name": "tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "priceId": "tbtc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbtc_b0e987e81f.png",
+    "originChain": "bobMainnet",
+    "multiChainAsset": "tBTC-tBTCv2",
+    "assetRefs": []
+  },
+  {
+    "slug": "bobMainnet-ERC20-rETH-0xb5686c4f60904ec2bda6277d6fe1f7caa8d1b41a",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "priceId": "rocket-pool-eth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xb5686c4f60904ec2bda6277d6fe1f7caa8d1b41a"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/reth_91eb639bed.png",
+    "originChain": "bobMainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bobMainnet-ERC20-STONE-0x96147a9ae9a42d7da551fd2322ca15b71032f342",
+    "name": "StakeStone Ether",
+    "symbol": "STONE",
+    "decimals": 18,
+    "priceId": "stakestone-ether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x96147a9ae9a42d7da551fd2322ca15b71032f342"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stone_8a307b99d7.png",
+    "originChain": "bobMainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bobMainnet-ERC20-DAI-0x6c851f501a3f24e29a8e39a29591cddf09369080",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6c851f501a3f24e29a8e39a29591cddf09369080"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "bobMainnet",
+    "multiChainAsset": "DAI-DaiStablecoin",
     "assetRefs": []
   }
 ]
