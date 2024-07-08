@@ -397,7 +397,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 11,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_66024badc0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_633a5b16a9.png",
     "originChain": "polygon",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -14218,7 +14218,9 @@
     "priceId": "toshipad",
     "minAmount": "0",
     "assetType": "BRC20",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tshx_aea7ec07d7.png",
@@ -14234,7 +14236,9 @@
     "priceId": "cncl",
     "minAmount": "0",
     "assetType": "BRC20",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cncl_04a33b709e.png",
@@ -14382,6 +14386,148 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
     "originChain": "bobMainnet",
     "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "b2_testnet-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
+    "originChain": "b2_testnet",
+    "multiChainAsset": "BTC-BitcoinTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-USDT-0x681202351a488040Fa4FdCc24188AfB582c9DD62",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x681202351a488040Fa4FdCc24188AfB582c9DD62"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "originChain": "b2",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-USDC-0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
+    "originChain": "b2",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-MATIC-0xc3ee2Df14B1Bc526c24ED802f1873d49664a0d5c",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "priceId": "matic-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xc3ee2Df14B1Bc526c24ED802f1873d49664a0d5c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_633a5b16a9.png",
+    "originChain": "b2",
+    "multiChainAsset": "MATIC-Polygon",
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-uBTC-0x796e4D53067FF374B89b2Ac101ce0c1f72ccaAc2",
+    "name": "UniRouter BTC",
+    "symbol": "uBTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x796e4D53067FF374B89b2Ac101ce0c1f72ccaAc2"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ubtc_fe0b530197.png",
+    "originChain": "b2",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-FDUSD-0xC2Fe4f673455Ef92299770a09CDB5E8756A525D5",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "priceId": "first-digital-usd",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xC2Fe4f673455Ef92299770a09CDB5E8756A525D5"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/fdusd_4759c5fb6e.png",
+    "originChain": "b2",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-BSTONE-0x7537C1F80c9E157ED7AFD93a494be3e1f04f1462",
+    "name": "STONE ETH",
+    "symbol": "BSTONE",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x7537C1F80c9E157ED7AFD93a494be3e1f04f1462"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bstone_52c0f4d97a.png",
+    "originChain": "b2",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "b2-ERC20-ETH-0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A",
+    "name": "Wrapped Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "b2",
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   }
 ]
