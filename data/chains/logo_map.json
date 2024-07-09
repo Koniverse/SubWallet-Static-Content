@@ -256,5 +256,6 @@
   "berachain_testnet": "https://static-data.subwallet.app/chains/images/icon/bera_chain_7e961b084f.png",
   "atletaOlympia_testnet": "https://static-data.subwallet.app/chains/images/icon/atleta_765414417e.png",
   "syscoin_evm": "https://static-data.subwallet.app/chains/images/icon/Color_blue_209314303a.png",
-  "rollux_evm": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png"
+  "rollux_evm": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png",
+  "b2_testnet": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png"
 }

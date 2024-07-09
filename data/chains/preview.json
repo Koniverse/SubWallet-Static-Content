@@ -10,7 +10,6 @@
       "Dwellir": "wss://polkadot-rpc.dwellir.com",
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
-      "LuckyFriday": "wss://rpc-polkadot.luckyfriday.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
@@ -9204,6 +9203,34 @@
       "blockExplorer": "https://explorer.rollux.com",
       "existentialDeposit": "0",
       "symbol": "SYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "b2_testnet",
+    "name": "B² Network Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
+    "providers": {
+      "Alt Technology": "https://b2-testnet.alt.technology/",
+      "Ankr": "https://rpc.ankr.com/b2_testnet",
+      "Bsquared": "https://testnet-rpc.bsquared.network"
+    },
+    "evmInfo": {
+      "evmChainId": 1123,
+      "blockExplorer": "https://testnet-explorer.bsquared.network",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
