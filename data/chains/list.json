@@ -10,7 +10,6 @@
       "Dwellir": "wss://polkadot-rpc.dwellir.com",
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
-      "LuckyFriday": "wss://rpc-polkadot.luckyfriday.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
@@ -9160,6 +9159,58 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "syscoin_evm",
+    "name": "Syscoin NEVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_blue_209314303a.png",
+    "providers": {
+      "Syscoin": "https://rpc.syscoin.org"
+    },
+    "evmInfo": {
+      "evmChainId": 57,
+      "blockExplorer": "https://explorer.syscoin.org/",
+      "existentialDeposit": "0",
+      "symbol": "SYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "rollux_evm",
+    "name": "Rollux",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png",
+    "providers": {
+      "Rollux": "https://rpc.rollux.com"
+    },
+    "evmInfo": {
+      "evmChainId": 570,
+      "blockExplorer": "https://explorer.rollux.com",
+      "existentialDeposit": "0",
+      "symbol": "SYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null
   }
