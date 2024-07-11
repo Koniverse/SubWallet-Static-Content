@@ -145,9 +145,9 @@
   },
   {
     "id": 28,
-    "priority": 2,
-    "position": "dapp",
-    "repeat": "once",
+    "priority": 1,
+    "position": "token",
+    "repeat": "every_time",
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
     "repeat_every_x_days": null,
     "media": null,
@@ -157,9 +157,8 @@
       "name": "Extension - Test AZERO",
       "description": "Stake AZERO. Get Your Common Drops!",
       "start_time": "2024-06-18T14:00:00.000Z",
-      "stop_time": "2024-06-27T17:00:00.000Z",
+      "stop_time": "2024-07-25T17:00:00.000Z",
       "platforms": [
-        "extension",
         "mobile"
       ],
       "os": null
@@ -326,12 +325,11 @@
     "info": {
       "id": 109,
       "name": null,
-      "description": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-10T17:00:00.000Z",
       "stop_time": "2024-07-23T17:00:00.000Z",
       "platforms": [
-        "mobile",
-        "extension"
+        "mobile"
       ],
       "os": null
     },
@@ -351,12 +349,63 @@
           "id": 70,
           "confirm_label": "Play",
           "cancel_label": "Cancel",
+          "instruction_id": 40,
+          "group": null,
+          "slug": "Vara_Campaign_Mobile"
+        },
+        "action": {
+          "id": 96,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 55,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 110,
+      "name": null,
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+      "start_time": "2024-07-10T17:00:00.000Z",
+      "stop_time": "2024-07-23T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 91,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 92,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 71,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
           "instruction_id": 39,
           "group": null,
           "slug": "Vara_Campaign"
         },
         "action": {
-          "id": 96,
+          "id": 97,
           "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
           "screen": null,
           "params": null,
