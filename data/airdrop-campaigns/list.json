@@ -1,33 +1,27 @@
 [
   {
-    "id": 47,
-    "name": "Share $4,750 pool prize in DED with $DED Egg Hunt Airdrop campaign",
+    "id": 61,
+    "name": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
     "status": "live",
-    "ordinal": 70,
-    "description": "✈️ The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4,750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
-    "start_time": "2024-06-26T03:00:00.000Z",
-    "end_time": "2024-07-10T16:59:00.000Z",
-    "url": "https://t.me/Playnation_bot/app?startapp=9PC9uVeRx",
-    "twitter_url": "https://x.com/dotisded",
-    "reward": "$4,750 in DED",
+    "ordinal": 68,
+    "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\n\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\n\nThe detailed mechanism is as follows:\n\n1. Based on Vara Football Leaderboard: The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries.\n2. Based on Vara Onchain Check-In Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS.\n3. Based on Invite Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased.\n4. Social Event Activities: Participate in social activities to earn additional raffle entries with NPS.\n\nNote: Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited.",
+    "start_time": "2024-07-10T10:00:00.000Z",
+    "end_time": "2024-07-24T16:59:00.000Z",
+    "url": "https://t.me/Playnation_bot/app",
+    "twitter_url": "https://x.com/playnationapp",
+    "reward": "$9,500 in VARA",
     "total_winner": "N/A",
     "total_supply": null,
     "tags": [
       "lucky_draw"
     ],
-    "campaign_url": "https://www.dotisded.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/DED_x_Playnation_Airdrop_2f3db3294a.png",
+    "campaign_url": "https://t.me/Playnation_bot",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/vara_f9bf9c78f7.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Vara_Kick_to_airdrop_1dc9946dc7.jfif",
     "chains": [
-      "statemint",
-      "moonbeam"
+      "vara_network"
     ],
     "categories": [
-      {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      },
       {
         "color": "magenta",
         "name": "Gaming",
@@ -36,41 +30,10 @@
     ]
   },
   {
-    "id": 54,
-    "name": "Share the pool of $2,000 in PEN with Break testnet on Pendulum's Forex AMM campaign on Airlyft",
-    "status": "live",
-    "ordinal": 71,
-    "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and provide valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\n1. Setup a wallet (suggested wallet: SubWallet)\n2. Start testing! \n\nReward Structure:\nTotal Pool: $2,000 in PEN\n\nTwo Ways to Win:\n- $1,500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n- $500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
-    "start_time": "2024-07-01T14:00:00.000Z",
-    "end_time": "2024-07-10T16:00:00.000Z",
-    "url": "https://airlyft.one/pendulum/spacewalk-product-pioneers-1706078974093",
-    "twitter_url": "https://x.com/pendulum_chain",
-    "reward": "$2,000 in PEN",
-    "total_winner": "10",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw",
-      "manual_selection"
-    ],
-    "campaign_url": "https://pendulumchain.org/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/pendulum_a813a4cfd4.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Pendulum_Break_Testnet_Airlyft_campaign_26e971b74f.jfif",
-    "chains": [
-      "pendulum"
-    ],
-    "categories": [
-      {
-        "color": "cyan",
-        "name": "DeFi",
-        "slug": "defi"
-      }
-    ]
-  },
-  {
     "id": 51,
     "name": "Split the pool prize of $400 in DOT with Archisinal July Zealy campaign",
     "status": "live",
-    "ordinal": 72,
+    "ordinal": 70,
     "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 July 🚦\nEnds: 31 July 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
     "start_time": "2024-07-01T11:00:00.000Z",
     "end_time": "2024-07-31T02:00:00.000Z",
@@ -98,7 +61,7 @@
     "id": 50,
     "name": "Win ASTR token with Astar Stake campaign on AirLyft",
     "status": "live",
-    "ordinal": 73,
+    "ordinal": 71,
     "description": "Stake ASTR tokens on the AirLyft dApp, and stand a chance to win more ASTR tokens!\n\n🤯 Rewards:\n- Winners will share 50% of the amount received from dApp staking to the AirLyft Dapp in 4 weeks. We don't know the final amount, that's up to you\n\n🏆 How To Win:\n- Score more XP by proving your stake.\n- Refer friends and perform the bonus tasks for EVEN more XP.\n- Climb the leaderboard for a Ranked Random Raffle at the end of the campaign to choose the winners. The pool will be equally divided amongst all of the 50 drawn winners.\n- Winners will be drawn after a few days of the campaign. \n- Remember to come back when we announce the winners to claim your reward!",
     "start_time": "2024-06-18T19:55:00.000Z",
     "end_time": "2024-07-19T18:29:00.000Z",
@@ -130,7 +93,7 @@
     "id": 26,
     "name": "Join Tanssi's Let's Forkin' Dance incentivized testnet campaign to share the pool of 4M tokens",
     "status": "live",
-    "ordinal": 74,
+    "ordinal": 72,
     "description": "Let's Forkin' Dance Is Here!\n\n'Let's Forkin' Dance' - Tanssi's incentivized testnet campaign is a mix of on-chain and off-chain quests designed for the Tanssi community. Whether you're a developer, a casual user, or a key network supporter, there's something for you.\n\n1% of the Tanssi Network is reserved for this campaign - which is the first campaign ever hosted by the Tanssi Foundation. 40% of the incentives pool, which amounts to 4M tokens, will be allocated to the Tanssians track with only the top 4000 participants receiving it. Stay tuned that more is coming up!\n\nThe campaign launches on April 30, 2024. To stay ahead, set an alert or join the Tanssi communities, ensuring you're one of the first to access the LFD campaign portal.\n\nLFD plays a critical role in the upcoming launch of the Tanssi Network. Engaged participants not only earn incentives but also get to significantly contribute to the network's live environment.",
     "start_time": "2024-04-29T17:00:00.000Z",
     "end_time": null,
@@ -149,6 +112,73 @@
       "dancebox"
     ],
     "categories": []
+  },
+  {
+    "id": 47,
+    "name": "Share $4,750 pool prize in DED with $DED Egg Hunt Airdrop campaign",
+    "status": "archived",
+    "ordinal": 73,
+    "description": "✈️ The '$DED Egg Hunt Airdrop' campaign is now live! ✈️\n\nDon't let our beloved users wait anymore! We're pleased to announce - The DED Airdrop event has officially started with a prize pool of $4,750 (distributed in $DED token).\n\nDuration: June 26 - July 10\n\nWhy you shouldn't miss it?\n🔥 Guaranteed 100% TOKEN Wins.\n🔥 Each raffle now ranges from $2.5 to $10. \n🔥 A completely new mechanism: Raffle Purchase  \n\nWho's eligible to get Airdrop?\n1. Top DED Huntdrop Leaderboard\n- Time: 26 June - 10 July\n- Top 265 NPS holders can purchase raffles with $NPS. Higher ranks get more raffles.\n\n2. Early Adopter Leaderboard\n- Time: 15 Apr - 14 June\n- Top 150 (Apr 15 - May 15) and Top 100 (June 1 - 14) NPS holders can purchase up to 3 raffles. \n\n3. Social Event Winners\n- Time: 26 June - 10 July\n- Participate in events on Playnation's channels to earn raffles.\n\n4. Top Inviters\n- Time: 15 Apr - 10 July\n- Top inviters will receive raffle gifts from Playnation.\n\n‼️ NOTE: \n- For Top Leaderboards who are eligible for Raffle Purchase, you can buy with 30,000 NPS/ raffle, which will be open for sale from July 12 - July 19.\n- You can win multiple types of raffle, depending on your efforts.",
+    "start_time": "2024-06-26T03:00:00.000Z",
+    "end_time": "2024-07-10T16:59:00.000Z",
+    "url": "https://t.me/Playnation_bot/app?startapp=9PC9uVeRx",
+    "twitter_url": "https://x.com/playnationapp",
+    "reward": "$4,750 in DED",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://t.me/Playnation_bot",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/DED_x_Playnation_Airdrop_2f3db3294a.png",
+    "chains": [
+      "statemint",
+      "moonbeam"
+    ],
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      },
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Share the pool of $2,000 in PEN with Break testnet on Pendulum's Forex AMM campaign on Airlyft",
+    "status": "archived",
+    "ordinal": 74,
+    "description": "Welcome to the Break testnet on Pendulum for testing the Forex AMM powered by Nabla tech. \n\nJoin in testing the Forex AMM powered by Nabla and provide valuable feedback.\n\nJoining in is easy, just grab a wallet and you are good to go!\n\nHow to Participate:\n1. Setup a wallet (suggested wallet: SubWallet)\n2. Start testing! \n\nReward Structure:\nTotal Pool: $2,000 in PEN\n\nTwo Ways to Win:\n- $1,500 Raffle:\nComplete all tasks to enter.\nAll participants who complete the tasks will be entered into a raffle.\n5 winners will be randomly selected, each receiving $300 worth of PEN.\n- $500 Best Feedback:\nThe final task is to provide feedback.\nThe top 5 most detailed feedback submissions will each win $100 worth of PEN.",
+    "start_time": "2024-07-01T14:00:00.000Z",
+    "end_time": "2024-07-10T16:00:00.000Z",
+    "url": "https://airlyft.one/pendulum/spacewalk-product-pioneers-1706078974093",
+    "twitter_url": "https://x.com/pendulum_chain",
+    "reward": "$2,000 in PEN",
+    "total_winner": "10",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "manual_selection"
+    ],
+    "campaign_url": "https://pendulumchain.org/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/pendulum_a813a4cfd4.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Pendulum_Break_Testnet_Airlyft_campaign_26e971b74f.jfif",
+    "chains": [
+      "pendulum"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
   },
   {
     "id": 44,
