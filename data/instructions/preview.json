@@ -391,13 +391,6 @@
         "description": "Participate in social activities to earn additional raffle entries with NPS."
       },
       {
-        "id": 180,
-        "icon": null,
-        "icon_color": "#1A1A1A",
-        "title": null,
-        "description": "The detailed mechanism is as follows\n\n**Based on Vara Football Leaderboard**\n\nThe top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries.\n\n**Based on Vara Onchain Check-In Leaderboard**\n\nThe top 50 participants will have the right to purchase raffle entries with NPS.\n\n**Based on Invite Leaderboard**\n\nThe top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased.\n\n**Social Event Activities**\n\nParticipate in social activities to earn additional raffle entries with NPS."
-      },
-      {
         "id": 181,
         "icon": null,
         "icon_color": "#1A1A1A",
