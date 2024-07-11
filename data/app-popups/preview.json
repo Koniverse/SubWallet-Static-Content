@@ -337,10 +337,17 @@
     "buttons": [
       {
         "id": 89,
-        "label": "Cancel",
+        "label": "Dismiss",
         "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 90,
+        "label": "Explore",
+        "color": "primary",
         "instruction": {
-          "id": 69,
+          "id": 70,
           "confirm_label": "Play",
           "cancel_label": "Cancel",
           "instruction_id": 39,
@@ -348,7 +355,7 @@
           "slug": "Vara_Campaign"
         },
         "action": {
-          "id": 95,
+          "id": 96,
           "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
           "screen": null,
           "params": null,
