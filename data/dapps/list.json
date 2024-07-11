@@ -20,6 +20,26 @@
     ]
   },
   {
+    "id": 172,
+    "title": "DOTphin",
+    "description": "DOTphin: Merging Dynamic NFTs with Sustainability to Drive Marine Conservation and Transform Community Engagement.",
+    "url": "https://sovereignnature.com/dotphin",
+    "subtitle": "Claim your Polkadot Decoded badge!",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 1,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_sni_a5be103971.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Subwallet_1200x600_1_7dde54a65e.png",
+    "chains": [
+      "unique_network"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 25,
     "title": "StellaSwap",
     "description": "StellaSwap is one of the first automated market-making (AMM), decentralized exchange (DEX) for the Moonbeam parachain network. Their main objective is to create a broader range of network effects to address the issues of liquidity in the DeFi space.",
