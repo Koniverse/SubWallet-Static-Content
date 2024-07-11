@@ -98,7 +98,7 @@
           "confirm_label": "Stake AZERO",
           "cancel_label": "Dismiss",
           "instruction_id": 36,
-          "group": "earning",
+          "group": null,
           "slug": "AZERO_Alephzero"
         },
         "action": {
@@ -181,7 +181,7 @@
           "confirm_label": "Stake AZERO",
           "cancel_label": "Dismiss",
           "instruction_id": 38,
-          "group": "earning",
+          "group": null,
           "slug": "Test_AZERO"
         },
         "action": {
@@ -286,7 +286,7 @@
   {
     "id": 53,
     "priority": 1,
-    "position": "token",
+    "position": "history",
     "repeat": "every_time",
     "content": ">##### **Version 1.1.51(365)**\n> ![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n> \n> **New networks added:**\n>- **New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n> **New networks added:**\n>- **New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n- Warning added: Do not transfer cross-chain to an exchange!",
     "repeat_every_x_days": null,
@@ -312,14 +312,50 @@
         "action": null
       }
     ],
-    "conditions": {
-      "condition-earning": [
-        {
-          "pool_slug": "DOT___nomination_pool___polkadot",
-          "comparison": "gt",
-          "value": 2
+    "conditions": {}
+  },
+  {
+    "id": 54,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 109,
+      "name": null,
+      "description": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+      "start_time": "2024-07-10T17:00:00.000Z",
+      "stop_time": "2024-07-23T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 89,
+        "label": "Cancel",
+        "color": "secondary",
+        "instruction": {
+          "id": 69,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 39,
+          "group": null,
+          "slug": "Vara_Campaign"
+        },
+        "action": {
+          "id": 95,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
         }
-      ]
-    }
+      }
+    ],
+    "conditions": {}
   }
 ]
