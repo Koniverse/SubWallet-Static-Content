@@ -9,7 +9,7 @@
       "name": "Stake AZERO",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-09T17:00:00.000Z",
+      "stop_time": "2024-07-19T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -263,6 +263,120 @@
       "instruction_id": 36,
       "group": null,
       "slug": "AZERO_Alephzero"
+    }
+  },
+  {
+    "id": 53,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png",
+    "info": {
+      "id": 106,
+      "name": "Stake AZERO-1",
+      "description": null,
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-07-19T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 92,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 66,
+      "confirm_label": "Stake AZERO",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": null,
+      "slug": "AZERO_Alephzero"
+    }
+  },
+  {
+    "id": 54,
+    "position": "missionPools",
+    "priority": 2,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
+    "info": {
+      "id": 107,
+      "name": "Extension - Test banner2",
+      "description": null,
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-07-30T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 93,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": {
+      "id": 67,
+      "confirm_label": "Stake",
+      "cancel_label": "Dismiss",
+      "instruction_id": 38,
+      "group": null,
+      "slug": "Test_AZERO"
+    }
+  },
+  {
+    "id": 55,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
+    "info": {
+      "id": 108,
+      "name": "VARA Campaign",
+      "description": null,
+      "start_time": "2024-07-10T17:00:00.000Z",
+      "stop_time": "2024-07-23T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 94,
+      "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 68,
+      "confirm_label": "Play",
+      "cancel_label": "Cancel",
+      "instruction_id": 39,
+      "group": null,
+      "slug": "Vara_Campaign"
     }
   }
 ]
