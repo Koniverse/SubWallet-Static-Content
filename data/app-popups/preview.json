@@ -326,8 +326,8 @@
       "id": 109,
       "name": null,
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
-      "start_time": "2024-07-10T17:00:00.000Z",
-      "stop_time": "2024-07-23T17:00:00.000Z",
+      "start_time": "2024-07-11T13:00:00.000Z",
+      "stop_time": "2024-07-24T13:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -377,8 +377,8 @@
       "id": 110,
       "name": null,
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
-      "start_time": "2024-07-10T17:00:00.000Z",
-      "stop_time": "2024-07-23T17:00:00.000Z",
+      "start_time": "2024-07-11T13:00:00.000Z",
+      "stop_time": "2024-07-24T13:00:00.000Z",
       "platforms": [
         "extension"
       ],
