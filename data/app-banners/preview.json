@@ -152,7 +152,14 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "continuum_network"
+        }
+      ]
+    },
     "instruction": {
       "id": 58,
       "confirm_label": "Stake DOT",
@@ -346,12 +353,11 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 108,
-      "name": "VARA Campaign",
+      "name": "VARA Campaign - Mobile",
       "description": null,
       "start_time": "2024-07-10T17:00:00.000Z",
       "stop_time": "2024-07-23T17:00:00.000Z",
       "platforms": [
-        "extension",
         "mobile"
       ],
       "os": null
@@ -374,9 +380,9 @@
       "id": 68,
       "confirm_label": "Play",
       "cancel_label": "Cancel",
-      "instruction_id": 39,
+      "instruction_id": 40,
       "group": null,
-      "slug": "Vara_Campaign"
+      "slug": "Vara_Campaign_Mobile"
     }
   }
 ]
