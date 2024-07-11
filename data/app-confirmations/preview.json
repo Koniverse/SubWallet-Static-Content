@@ -15,5 +15,39 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 5,
+    "name": "SendFund confirmation",
+    "position": "earning",
+    "repeat": "everytime",
+    "confirm_label": "Continue",
+    "cancel_label": "Cancel",
+    "content": "Send Fund confirmation",
+    "repeat_every_x_days": null,
+    "position_params": [
+      {
+        "property": "poolSlug",
+        "value": "BNC___native_staking___bifrost"
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 6,
+    "name": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "position": "token",
+    "repeat": "everytime",
+    "confirm_label": "Play",
+    "cancel_label": "Cancel",
+    "content": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\n\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\n\nThe detailed mechanism is as follows:\n\n1. Based on Vara Football Leaderboard: The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries.\n2. Based on Vara Onchain Check-In Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS.\n3. Based on Invite Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased.\n4. Social Event Activities: Participate in social activities to earn additional raffle entries with NPS.\n\nNote: Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited.",
+    "repeat_every_x_days": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {}
   }
 ]
