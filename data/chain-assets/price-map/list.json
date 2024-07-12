@@ -655,7 +655,7 @@
   "peaq-NATIVE-PEAQ": null,
   "karura-LOCAL-USDCet": "usd-coin",
   "karura-LOCAL-USDT": "tether",
-  "layerEdge_testnet-NATIVE-BTC": null,
+  "layerEdge_testnet-NATIVE-LBTC": null,
   "bitlayer-ERC721-LuckyHelmet-0x260ac1a14a89fd24c72b84092629f14964556299": null,
   "bevm_testnet-NATIVE-WBTC": null,
   "merlinEvm-ERC20-MERL-0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378": "merlin-chain",
@@ -686,5 +686,11 @@
   "b2-ERC20-uBTC-0x796e4D53067FF374B89b2Ac101ce0c1f72ccaAc2": null,
   "b2-ERC20-FDUSD-0xC2Fe4f673455Ef92299770a09CDB5E8756A525D5": "first-digital-usd",
   "b2-ERC20-BSTONE-0x7537C1F80c9E157ED7AFD93a494be3e1f04f1462": null,
-  "b2-ERC20-ETH-0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A": "ethereum"
+  "b2-ERC20-ETH-0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A": "ethereum",
+  "boolAlpha-NATIVE-tBOL": null,
+  "boolBeta_testnet-NATIVE-tBOL": null,
+  "rollux_testnet-NATIVE-TSYS": null,
+  "syscoin_evm_testnet-NATIVE-TSYS": null,
+  "aura-NATIVE-AURA": "aura-network",
+  "unique_evm-NATIVE-UNQ": "unique-network"
 }
