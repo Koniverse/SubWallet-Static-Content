@@ -228,5 +228,107 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 54,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 109,
+      "name": null,
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
+      "start_time": "2024-07-11T13:00:00.000Z",
+      "stop_time": "2024-07-24T13:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 89,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 90,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 70,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 40,
+          "group": null,
+          "slug": "Vara_Campaign_Mobile"
+        },
+        "action": {
+          "id": 96,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 55,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 110,
+      "name": null,
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+      "start_time": "2024-07-11T13:00:00.000Z",
+      "stop_time": "2024-07-24T13:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 91,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 92,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 71,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 39,
+          "group": null,
+          "slug": "Vara_Campaign"
+        },
+        "action": {
+          "id": 97,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
