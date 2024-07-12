@@ -81,12 +81,15 @@
   "hydradx_main-LOCAL-PINK___hydradx_main-LOCAL-vDOT",
   "hydradx_main-LOCAL-PINK___hydradx_main-LOCAL-ASTR",
   "hydradx_main-LOCAL-PINK___hydradx_main-LOCAL-GLMR",
+  "mythos-NATIVE-MYTH___hydradx_main-LOCAL-MYTH",
+  "mythos-NATIVE-MYTH___statemint-LOCAL-MYTH",
   "statemint-LOCAL-BEEFY___hydradx_main-LOCAL-BEEFY",
   "hydradx_main-LOCAL-BEEFY___statemint-LOCAL-BEEFY",
   "moonbeam-LOCAL-xcvDOT___moonbeam-LOCAL-xcDOT",
   "statemint-LOCAL-STINK___hydradx_main-LOCAL-STINK",
   "hydradx_main-LOCAL-STINK___statemint-LOCAL-STINK",
   "statemint-LOCAL-MYTH___ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
+  "statemint-LOCAL-MYTH___mythos-NATIVE-MYTH",
   "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003___statemint-LOCAL-MYTH",
   "statemint-LOCAL-SHIB___ethereum-ERC20-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
   "statemint-LOCAL-PEPE___ethereum-ERC20-PEPE-0x6982508145454Ce325dDbE47a25d4ec3d2311933",
@@ -95,5 +98,6 @@
   "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1___statemint-LOCAL-TON",
   "statemint-LOCAL-wstETH___ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
   "statemint-LOCAL-tBTC___ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-  "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88___statemint-LOCAL-tBTC"
+  "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88___statemint-LOCAL-tBTC",
+  "hydradx_main-LOCAL-MYTH___mythos-NATIVE-MYTH"
 ]

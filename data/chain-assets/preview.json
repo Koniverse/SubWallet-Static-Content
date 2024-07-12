@@ -7144,7 +7144,7 @@
     "ordinal": 364,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_66024badc0.png",
     "originChain": "ethereum",
-    "multiChainAsset": null,
+    "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
   },
   {
@@ -11303,6 +11303,10 @@
     "minAmount": "10000000000000000",
     "assetType": "NATIVE",
     "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      },
       "disableEvmTransfer": true
     },
     "hasValue": true,
@@ -11310,7 +11314,20 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
     "originChain": "mythos",
     "multiChainAsset": "MYTH-Mythos",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "statemint-LOCAL-MYTH"
+      }
+    ]
   },
   {
     "slug": "statemint-LOCAL-BEEFY",
@@ -12468,7 +12485,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sqd_c65f973236.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sqd_5676aa1b5f.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": null,
     "assetRefs": []
@@ -13305,6 +13322,12 @@
         "metadata": null,
         "disable": true,
         "destAsset": "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
   },
@@ -13967,9 +13990,9 @@
     "assetRefs": []
   },
   {
-    "slug": "layerEdge_testnet-NATIVE-BTC",
+    "slug": "layerEdge_testnet-NATIVE-LBTC",
     "name": "Bitcoin Testnet",
-    "symbol": "BTC",
+    "symbol": "LBTC",
     "decimals": 18,
     "priceId": null,
     "minAmount": "0",
@@ -14255,14 +14278,31 @@
     "minAmount": "21367521367521400",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "30"
+      "assetId": "30",
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X1": [
+            {
+              "Parachain": 3369
+            }
+          ]
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "MYTH-Mythos",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "mythos-NATIVE-MYTH"
+      }
+    ]
   },
   {
     "slug": "moonbeam-LOCAL-xcWIFD",
@@ -14528,6 +14568,102 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
     "originChain": "b2",
     "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "boolAlpha-NATIVE-tBOL",
+    "name": "tBOL",
+    "symbol": "tBOL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbol_706789b073.png",
+    "originChain": "boolAlpha",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "boolBeta_testnet-NATIVE-tBOL",
+    "name": "Bool Beta Testnet",
+    "symbol": "tBOL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbol_706789b073.png",
+    "originChain": "boolBeta_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "rollux_testnet-NATIVE-TSYS",
+    "name": "Test Syscoin",
+    "symbol": "TSYS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_white_f038e102d4.png",
+    "originChain": "rollux_testnet",
+    "multiChainAsset": "TSYS-TestSyscoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "syscoin_evm_testnet-NATIVE-TSYS",
+    "name": "Test Syscoin",
+    "symbol": "TSYS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_white_f038e102d4.png",
+    "originChain": "syscoin_evm_testnet",
+    "multiChainAsset": "TSYS-TestSyscoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "aura-NATIVE-AURA",
+    "name": "Aura Network",
+    "symbol": "AURA",
+    "decimals": 18,
+    "priceId": "aura-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aura_network_95ba1ee12a.png",
+    "originChain": "aura",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "unique_evm-NATIVE-UNQ",
+    "name": "Unique Network",
+    "symbol": "UNQ",
+    "decimals": 18,
+    "priceId": "unique-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unique_network_b207ab1ac7.png",
+    "originChain": "unique_evm",
+    "multiChainAsset": "UNQ-UniqueNetwork",
     "assetRefs": []
   }
 ]
