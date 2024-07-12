@@ -82,5 +82,44 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile"
     }
+  },
+  {
+    "id": 56,
+    "position": "token_detail",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
+    "info": {
+      "id": 111,
+      "name": "VARA Campaign ",
+      "description": null,
+      "start_time": "2024-07-10T17:00:00.000Z",
+      "stop_time": "2024-07-23T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 98,
+      "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 72,
+      "confirm_label": "Play",
+      "cancel_label": "Cancel",
+      "instruction_id": 39,
+      "group": null,
+      "slug": "Vara_Campaign"
+    }
   }
 ]
