@@ -256,6 +256,65 @@
     "media": null
   },
   {
+    "id": 39,
+    "group": null,
+    "slug": "Vara_Campaign",
+    "locale": "en",
+    "title": "$9,500 pool prize in VARA",
+    "instructions": [
+      {
+        "id": 179,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 183,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 184,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 185,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 186,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 187,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 181,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instructions/images/media/1432_480_b162ce7765.png"
+  },
+  {
     "id": 40,
     "group": null,
     "slug": "Vara_Campaign_Mobile",
