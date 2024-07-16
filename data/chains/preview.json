@@ -14,6 +14,7 @@
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
+      "SubWallet": "wss://polkadot-rpc.subwallet.app",
       "Onfinality": "wss://polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -52,7 +53,8 @@
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama"
+      "Light Client": "light://substrate-connect/kusama",
+      "SubWallet": "wss://kusama-rpc.subwallet.app"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9059,7 +9061,7 @@
       "evmChainId": 3456,
       "blockExplorer": "https://testnet-explorer.layeredge.io/",
       "existentialDeposit": "0",
-      "symbol": "BTC",
+      "symbol": "LBTC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
@@ -9229,6 +9231,243 @@
     "evmInfo": {
       "evmChainId": 1123,
       "blockExplorer": "https://testnet-explorer.bsquared.network",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "boolAlpha",
+    "name": "Bool Alpha Mainnet",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bool_aa116273ae.png",
+    "providers": {
+      "Bool Alpha": "https://alpha-rpc-node-http.bool.network"
+    },
+    "evmInfo": {
+      "evmChainId": 479,
+      "blockExplorer": "https://www.boolscan.com",
+      "existentialDeposit": "0",
+      "symbol": "tBOL",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "boolBeta_testnet",
+    "name": "Bool Beta Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bool_aa116273ae.png",
+    "providers": {
+      "Bool Alpha": "https://betatest-rpc-node-http.bool.network"
+    },
+    "evmInfo": {
+      "evmChainId": 481,
+      "blockExplorer": "https://beta-testnet.boolscan.com",
+      "existentialDeposit": "0",
+      "symbol": "tBOL",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "rollux_testnet",
+    "name": "Rollux Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png",
+    "providers": {
+      "Rollux": "https://rpc-tanenbaum.rollux.com"
+    },
+    "evmInfo": {
+      "evmChainId": 57000,
+      "blockExplorer": "https://rollux.tanenbaum.io",
+      "existentialDeposit": "0",
+      "symbol": "TSYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "syscoin_evm_testnet",
+    "name": "Syscoin NEVM Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_blue_209314303a.png",
+    "providers": {
+      "Syscoin": "https://rpc.tanenbaum.io"
+    },
+    "evmInfo": {
+      "evmChainId": 5700,
+      "blockExplorer": "https://tanenbaum.io",
+      "existentialDeposit": "0",
+      "symbol": "TSYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "aura",
+    "name": "Aura Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/aura_network_95ba1ee12a.png",
+    "providers": {
+      "Aura Network": "https://jsonrpc.aura.network"
+    },
+    "evmInfo": {
+      "evmChainId": 6322,
+      "blockExplorer": "https://aurascan.io",
+      "existentialDeposit": "0",
+      "symbol": "AURA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "unique_evm",
+    "name": "Unique - EVM",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/unique_network_b207ab1ac7.png",
+    "providers": {
+      "Unique": "https://rpc.unique.network",
+      "Asia": "https://asia-rpc.unique.network",
+      "EU": "https://eu-rpc.unique.network",
+      "US": "https://us-rpc.unique.network"
+    },
+    "evmInfo": {
+      "evmChainId": 8880,
+      "blockExplorer": "https://uniquescan.io/unique",
+      "existentialDeposit": "0",
+      "symbol": "UNQ",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "core",
+    "name": "Core Blockchain Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/core_dao_5e1b5d8709.png",
+    "providers": {
+      "Core Dao": "https://rpc.coredao.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 1116,
+      "blockExplorer": "https://scan.coredao.org",
+      "existentialDeposit": "0",
+      "symbol": "CORE",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "satoshivm",
+    "name": "SatoshiVM Alpha Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
+    "providers": {
+      "Alpha Rpc Node": "https://alpha-rpc-node-http.svmscan.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 3109,
+      "blockExplorer": "https://svmscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "satoshivm_testnet",
+    "name": "SatoshiVM Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
+    "providers": {
+      "Test Rpc Node": "https://test-rpc-node-http.svmscan.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 3110,
+      "blockExplorer": "https://testnet.svmscan.io/",
       "existentialDeposit": "0",
       "symbol": "BTC",
       "decimals": 18,

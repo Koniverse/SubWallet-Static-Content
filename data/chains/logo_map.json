@@ -257,5 +257,14 @@
   "atletaOlympia_testnet": "https://static-data.subwallet.app/chains/images/icon/atleta_765414417e.png",
   "syscoin_evm": "https://static-data.subwallet.app/chains/images/icon/Color_blue_209314303a.png",
   "rollux_evm": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png",
-  "b2_testnet": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png"
+  "b2_testnet": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
+  "boolAlpha": "https://static-data.subwallet.app/chains/images/icon/bool_aa116273ae.png",
+  "boolBeta_testnet": "https://static-data.subwallet.app/chains/images/icon/bool_aa116273ae.png",
+  "rollux_testnet": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png",
+  "syscoin_evm_testnet": "https://static-data.subwallet.app/chains/images/icon/Color_blue_209314303a.png",
+  "aura": "https://static-data.subwallet.app/chains/images/icon/aura_network_95ba1ee12a.png",
+  "unique_evm": "https://static-data.subwallet.app/chains/images/icon/unique_network_b207ab1ac7.png",
+  "core": "https://static-data.subwallet.app/chains/images/icon/core_dao_5e1b5d8709.png",
+  "satoshivm": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
+  "satoshivm_testnet": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png"
 }
