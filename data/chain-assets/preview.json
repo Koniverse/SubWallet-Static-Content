@@ -241,7 +241,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
@@ -678,7 +678,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 25,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_ea0888883e.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_3a3d7fa6bb.png",
     "originChain": "alephTest",
     "multiChainAsset": null,
     "assetRefs": []
@@ -14664,6 +14664,158 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unique_network_b207ab1ac7.png",
     "originChain": "unique_evm",
     "multiChainAsset": "UNQ-UniqueNetwork",
+    "assetRefs": []
+  },
+  {
+    "slug": "core-NATIVE-CORE",
+    "name": "Core",
+    "symbol": "CORE",
+    "decimals": 18,
+    "priceId": "coredaoorg",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/core_dao_5e1b5d8709.png",
+    "originChain": "core",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "satoshivm-NATIVE-BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": "bitcoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "satoshivm",
+    "multiChainAsset": "BTC-Bitcoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "satoshivm_testnet-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
+    "originChain": "satoshivm_testnet",
+    "multiChainAsset": "BTC-BitcoinTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "satoshivm-ERC20-SAVM-0x0E02765992f946397E6d2e65642eABb9cc674928",
+    "name": "SatoshiVM",
+    "symbol": "SAVM",
+    "decimals": 18,
+    "priceId": "satoshivm",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x0E02765992f946397E6d2e65642eABb9cc674928"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/savm_3f1f81c4f5.png",
+    "originChain": "satoshivm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-CERE-0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
+    "name": "Cere Network",
+    "symbol": "CERE",
+    "decimals": 10,
+    "priceId": "cere-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cere_network_5feb6aadb1.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "CERE-CereNetwork",
+    "assetRefs": []
+  },
+  {
+    "slug": "cere-NATIVE-CERE",
+    "name": "Cere Network",
+    "symbol": "CERE",
+    "decimals": 10,
+    "priceId": "cere-network",
+    "minAmount": "10000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cere_network_5feb6aadb1.png",
+    "originChain": "cere",
+    "multiChainAsset": "CERE-CereNetwork",
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph_testnet_evm-NATIVE-TZERO",
+    "name": "Aleph Zero Testnet - EVM",
+    "symbol": "TZERO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_3a3d7fa6bb.png",
+    "originChain": "aleph_testnet_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-KOL",
+    "name": "Kolkadot",
+    "symbol": "KOL",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "2007900000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "86"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kol_48b19a40b9.png",
+    "originChain": "statemint",
+    "multiChainAsset": "KOL-Kolkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-KOL",
+    "name": "Kolkadot",
+    "symbol": "KOL",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000199"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kol_48b19a40b9.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "KOL-Kolkadot",
     "assetRefs": []
   }
 ]
