@@ -5966,7 +5966,8 @@
       "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": [
-        "GRC20"
+        "GRC20",
+        "VFT"
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -7482,7 +7483,8 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": [
-        "GRC20"
+        "GRC20",
+        "VFT"
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -8636,7 +8638,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {},
+    "providers": {
+      "Avail": "wss://zeref-api.slowops.xyz/ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
