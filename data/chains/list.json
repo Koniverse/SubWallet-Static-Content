@@ -5964,7 +5964,8 @@
       "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": [
-        "GRC20"
+        "GRC20",
+        "VFT"
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -7480,7 +7481,8 @@
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": [
-        "GRC20"
+        "GRC20",
+        "VFT"
       ],
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -7492,7 +7494,7 @@
     "slug": "goldberg_testnet",
     "name": "Avail Goldberg Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avl_4f65922c68.png",
     "providers": {
@@ -8634,12 +8636,14 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {},
+    "providers": {
+      "Avail": "wss://zeref-api.slowops.xyz/ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
       "paraId": null,
-      "genesisHash": "0x128ea318539862c0a06b745981300d527c1041c6f3388a8c49565559e3ea3d10",
+      "genesisHash": "0xb91746b45e0346cc2f815a520b9c6cb4d5c0902af848db0a80f85932d2e8276a",
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
@@ -9059,7 +9063,7 @@
       "evmChainId": 3456,
       "blockExplorer": "https://testnet-explorer.layeredge.io/",
       "existentialDeposit": "0",
-      "symbol": "BTC",
+      "symbol": "LBTC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
@@ -9203,6 +9207,251 @@
       "blockExplorer": "https://explorer.rollux.com",
       "existentialDeposit": "0",
       "symbol": "SYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "b2_testnet",
+    "name": "B² Network Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
+    "providers": {
+      "Alt Technology": "https://b2-testnet.alt.technology/",
+      "Ankr": "https://rpc.ankr.com/b2_testnet",
+      "Bsquared": "https://testnet-rpc.bsquared.network"
+    },
+    "evmInfo": {
+      "evmChainId": 1123,
+      "blockExplorer": "https://testnet-explorer.bsquared.network",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "boolAlpha",
+    "name": "Bool Alpha Mainnet",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bool_aa116273ae.png",
+    "providers": {
+      "Bool Alpha": "https://alpha-rpc-node-http.bool.network"
+    },
+    "evmInfo": {
+      "evmChainId": 479,
+      "blockExplorer": "https://www.boolscan.com",
+      "existentialDeposit": "0",
+      "symbol": "tBOL",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "boolBeta_testnet",
+    "name": "Bool Beta Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bool_aa116273ae.png",
+    "providers": {
+      "Bool Alpha": "https://betatest-rpc-node-http.bool.network"
+    },
+    "evmInfo": {
+      "evmChainId": 481,
+      "blockExplorer": "https://beta-testnet.boolscan.com",
+      "existentialDeposit": "0",
+      "symbol": "tBOL",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "rollux_testnet",
+    "name": "Rollux Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rollux_5b72d03c0c.png",
+    "providers": {
+      "Rollux": "https://rpc-tanenbaum.rollux.com"
+    },
+    "evmInfo": {
+      "evmChainId": 57000,
+      "blockExplorer": "https://rollux.tanenbaum.io",
+      "existentialDeposit": "0",
+      "symbol": "TSYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "syscoin_evm_testnet",
+    "name": "Syscoin NEVM Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_blue_209314303a.png",
+    "providers": {
+      "Syscoin": "https://rpc.tanenbaum.io"
+    },
+    "evmInfo": {
+      "evmChainId": 5700,
+      "blockExplorer": "https://tanenbaum.io",
+      "existentialDeposit": "0",
+      "symbol": "TSYS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "aura",
+    "name": "Aura Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/aura_network_95ba1ee12a.png",
+    "providers": {
+      "Aura Network": "https://jsonrpc.aura.network"
+    },
+    "evmInfo": {
+      "evmChainId": 6322,
+      "blockExplorer": "https://aurascan.io",
+      "existentialDeposit": "0",
+      "symbol": "AURA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "unique_evm",
+    "name": "Unique - EVM",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/unique_network_b207ab1ac7.png",
+    "providers": {
+      "Unique": "https://rpc.unique.network",
+      "Asia": "https://asia-rpc.unique.network",
+      "EU": "https://eu-rpc.unique.network",
+      "US": "https://us-rpc.unique.network"
+    },
+    "evmInfo": {
+      "evmChainId": 8880,
+      "blockExplorer": "https://uniquescan.io/unique",
+      "existentialDeposit": "0",
+      "symbol": "UNQ",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "cere",
+    "name": "Cere Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cere_network_5feb6aadb1.png",
+    "providers": {
+      "Cere Network": "wss://rpc.mainnet.cere.network/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x81443836a9a24caaa23f1241897d1235717535711d1d3fe24eae4fdc942c092c",
+      "addressPrefix": 54,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000",
+      "symbol": "CERE",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "aleph_testnet_evm",
+    "name": "Aleph Zero Testnet - EVM",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_3a3d7fa6bb.png",
+    "providers": {
+      "Sepolia": "https://alephzero-sepolia.drpc.org/",
+      "Gelato": "https://rpc.alephzero-testnet.gelato.digital/"
+    },
+    "evmInfo": {
+      "evmChainId": 2039,
+      "blockExplorer": "https://aleph-zero.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "TZERO",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
