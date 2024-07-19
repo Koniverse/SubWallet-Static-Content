@@ -87,8 +87,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
     "providers": {
       "PublicNode": "https://ethereum.publicnode.com",
-      "BlastApi": "https://eth-mainnet.public.blastapi.io",
-      "Infura": "https://mainnet.infura.io/v3/b6bf7d3508c941499b10025c0776eaf8"
+      "BlastApi": "https://eth-mainnet.public.blastapi.io"
     },
     "evmInfo": {
       "evmChainId": 1,
