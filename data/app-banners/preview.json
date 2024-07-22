@@ -1,7 +1,7 @@
 [
   {
     "id": 12,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
@@ -9,7 +9,7 @@
       "name": "Stake AZERO",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-19T17:00:00.000Z",
+      "stop_time": "2024-07-22T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
