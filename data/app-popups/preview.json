@@ -287,7 +287,7 @@
     "priority": 1,
     "position": "history",
     "repeat": "every_time",
-    "content": ">##### **Version 1.1.51(365)**\n> ![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n> \n> **New networks added:**\n>- **New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n> **New networks added:**\n>- **New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n- Warning added: Do not transfer cross-chain to an exchange!",
+    "content": ">##### **Version 1.1.51(365)**\n> ![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n> \n> **New networks added:**\n>- **New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n**New networks added:**\n**New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\nNew assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n- Warning added: Do not transfer cross-chain to an exchange!",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
