@@ -42,9 +42,9 @@
       "id": 14,
       "confirm_label": "Stake AZERO",
       "cancel_label": "Cancel",
-      "instruction_id": 36,
+      "instruction_id": 38,
       "group": null,
-      "slug": "AZERO_Alephzero"
+      "slug": "Test_AZERO"
     }
   },
   {
