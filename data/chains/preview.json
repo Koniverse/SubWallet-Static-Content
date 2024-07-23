@@ -8651,17 +8651,20 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://avail.subscan.io/",
       "existentialDeposit": "1000000000000",
       "symbol": "AVAIL",
       "decimals": 18,
-      "hasNativeNft": null,
+      "hasNativeNft": true,
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "avail",
+      "chainBalanceSlug": "avail"
+    },
     "bitcoinInfo": null
   },
   {
