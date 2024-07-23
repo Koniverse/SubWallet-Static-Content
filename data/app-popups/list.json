@@ -346,5 +346,58 @@
         }
       ]
     }
+  },
+  {
+    "id": 56,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![Stake to earn up to 29.95% APY.png](https://media-resources.subwallet.app/6/Stake_to_earn_up_to_29_95_APY_d6d15c2e24.png)",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 119,
+      "name": null,
+      "description": "Avail Staking Campaign",
+      "start_time": "2024-07-22T17:00:00.000Z",
+      "stop_time": "2024-08-14T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null
+    },
+    "buttons": [
+      {
+        "id": 93,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 94,
+        "label": "Stake now",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 106,
+          "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "avail_mainnet-NATIVE-AVAIL"
+        }
+      ]
+    }
   }
 ]
