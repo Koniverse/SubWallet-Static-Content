@@ -560,7 +560,7 @@
   "bevm-ERC20-stBTC-0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C": "bido-staked-bitcoin",
   "bevm-ERC20-wstBTC-0x2967E7Bb9DaA5711Ac332cAF874BD47ef99B3820": "wrapped-stbtc",
   "bobMainnet-NATIVE-ETH": "ethereum",
-  "avail_mainnet-NATIVE-AVAIL": null,
+  "avail_mainnet-NATIVE-AVAIL": "avail",
   "merlinEvm-NATIVE-BTC": "bitcoin",
   "botanixEvmTest-NATIVE-BTC": null,
   "curio-NATIVE-CGT": null,
@@ -692,5 +692,14 @@
   "rollux_testnet-NATIVE-TSYS": null,
   "syscoin_evm_testnet-NATIVE-TSYS": null,
   "aura-NATIVE-AURA": "aura-network",
-  "unique_evm-NATIVE-UNQ": "unique-network"
+  "unique_evm-NATIVE-UNQ": "unique-network",
+  "core-NATIVE-CORE": "coredaoorg",
+  "satoshivm-NATIVE-BTC": "bitcoin",
+  "satoshivm_testnet-NATIVE-BTC": null,
+  "satoshivm-ERC20-SAVM-0x0E02765992f946397E6d2e65642eABb9cc674928": "satoshivm",
+  "ethereum-ERC20-CERE-0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6": "cere-network",
+  "cere-NATIVE-CERE": "cere-network",
+  "aleph_testnet_evm-NATIVE-TZERO": null,
+  "statemint-LOCAL-KOL": null,
+  "hydradx_main-LOCAL-KOL": null
 }
