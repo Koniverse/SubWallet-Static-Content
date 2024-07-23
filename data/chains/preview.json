@@ -8637,6 +8637,11 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
       "Avail": "wss://zeref-api.slowops.xyz/ws",
+      "SubWallet Avail": "wss://mainnet-rpc.availspace.app",
+      "SubWallet Avail 2": "wss://mainnet-rpc-2.availspace.app",
+      "SubWallet Avail 3": "wss://mainnet-rpc-3.availspace.app",
+      "SubWallet Avail 4": "wss://mainnet-rpc-4.availspace.app",
+      "SubWallet Avail 5": "wss://mainnet-rpc-5.availspace.app",
       "Blast Api": "wss://avail-mainnet.public.blastapi.io/"
     },
     "evmInfo": null,
