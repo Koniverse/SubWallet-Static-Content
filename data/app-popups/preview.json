@@ -456,14 +456,14 @@
       {
         "id": 93,
         "label": "Dismiss",
-        "color": "primary",
+        "color": "secondary",
         "instruction": null,
         "action": null
       },
       {
         "id": 94,
         "label": "Stake now",
-        "color": "secondary",
+        "color": "primary",
         "instruction": null,
         "action": {
           "id": 106,
