@@ -8636,8 +8636,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
-      "Avail": "wss://zeref-api.slowops.xyz/ws",
-      "SubWallet Avail": "wss://mainnet-rpc.availspace.app"
+      "Avail": "wss://zeref-api.slowops.xyz/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
