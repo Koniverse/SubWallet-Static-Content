@@ -560,7 +560,7 @@
   "bevm-ERC20-stBTC-0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C": "bido-staked-bitcoin",
   "bevm-ERC20-wstBTC-0x2967E7Bb9DaA5711Ac332cAF874BD47ef99B3820": "wrapped-stbtc",
   "bobMainnet-NATIVE-ETH": "ethereum",
-  "avail_mainnet-NATIVE-AVAIL": null,
+  "avail_mainnet-NATIVE-AVAIL": "avail",
   "merlinEvm-NATIVE-BTC": "bitcoin",
   "botanixEvmTest-NATIVE-BTC": null,
   "curio-NATIVE-CGT": null,
