@@ -1,0 +1,8 @@
+{
+  polkadot: [39],
+  kusama: [80],
+  vara_network: [62, 29, 50],
+  aleph: [82],
+  availTuringTest: [11],
+  avail_mainnet: [30, 12, 4]
+}
