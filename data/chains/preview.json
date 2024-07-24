@@ -8639,8 +8639,7 @@
       "SubWallet Avail 3": "wss://mainnet-rpc-3.availspace.app",
       "SubWallet Avail 4": "wss://mainnet-rpc-4.availspace.app",
       "SubWallet Avail 5": "wss://mainnet-rpc-5.availspace.app",
-      "Blast Api": "wss://avail-mainnet.public.blastapi.io/",
-      "Avail Community": "wss://mainnet.avail-rpc.com/"
+      "Blast Api": "wss://avail-mainnet.public.blastapi.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
