@@ -17,7 +17,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -48,7 +49,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -79,7 +81,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -130,7 +133,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": "iOS"
+      "os": "iOS",
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -148,7 +152,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
+    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)\n>![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>\n> &ensp;\n> \n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n  \n>\n> &ensp;\n> \n>#### **Reminder to back up your accounts**\n>- If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>- Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
@@ -161,7 +165,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": "Android",
+      "is_changelog_popup": true
     },
     "buttons": [
       {
@@ -212,7 +217,8 @@
       "platforms": [
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -256,7 +262,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -300,7 +307,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -331,7 +339,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -390,7 +399,8 @@
       "platforms": [
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -450,7 +460,8 @@
         "extension",
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -483,5 +494,57 @@
         }
       ]
     }
+  },
+  {
+    "id": 57,
+    "priority": 1,
+    "position": "token",
+    "repeat": "every_time",
+    "content": "> <div style=\"flex: 1; justify-content: space-between; flex-direction: row\"><div style=\"color: white; font-weight: 600\">Release version</div><div style=\"color: rgba(255, 255, 255, 0.65)\">Version 1.1.51(365)<div></div>\n> \n>###### **Change log:**\n>- `**New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM`\n>- `New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam`",
+    "repeat_every_x_days": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 120,
+      "name": "New version available",
+      "description": "Change log test",
+      "start_time": "2024-07-23T17:00:00.000Z",
+      "stop_time": "2024-08-07T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": false
+    },
+    "buttons": [
+      {
+        "id": 95,
+        "label": "Cancel",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 96,
+        "label": "Update",
+        "color": "primary",
+        "instruction": {
+          "id": 79,
+          "confirm_label": "Confirm",
+          "cancel_label": "Cancel",
+          "instruction_id": 38,
+          "group": null,
+          "slug": "Test_AZERO"
+        },
+        "action": {
+          "id": 107,
+          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
