@@ -331,7 +331,7 @@
     "slug": "Test_AZERO",
     "locale": "en",
     "title": "Stake AZERO",
-    "faq_url": "https://www.npmjs.com/package/react-native-markdown-display",
+    "faq_url": null,
     "instructions": [
       {
         "id": 176,
