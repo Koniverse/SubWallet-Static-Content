@@ -5,6 +5,7 @@
     "slug": "DAPP_STAKING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 29,
@@ -50,6 +51,7 @@
     "slug": "DEMO_VARCH",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 171,
@@ -67,6 +69,7 @@
     "slug": "LENDING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 16,
@@ -112,6 +115,7 @@
     "slug": "LIQUID_STAKING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 11,
@@ -157,6 +161,7 @@
     "slug": "NATIVE_STAKING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 6,
@@ -202,6 +207,7 @@
     "slug": "NOMINATION_POOL",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 1,
@@ -247,6 +253,7 @@
     "slug": "UNSTAKE_INFO",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 26,
@@ -278,6 +285,7 @@
     "slug": "AZERO_Alephzero",
     "locale": "en",
     "title": "Stake AZERO. Get Common Drops!",
+    "faq_url": null,
     "instructions": [
       {
         "id": 166,
@@ -323,6 +331,7 @@
     "slug": "Test_AZERO",
     "locale": "en",
     "title": "Stake AZERO",
+    "faq_url": "https://www.npmjs.com/package/react-native-markdown-display",
     "instructions": [
       {
         "id": 176,
@@ -354,6 +363,7 @@
     "slug": "Vara_Campaign",
     "locale": "en",
     "title": "$9,500 pool prize in VARA",
+    "faq_url": null,
     "instructions": [
       {
         "id": 179,
@@ -413,6 +423,7 @@
     "slug": "Vara_Campaign_Mobile",
     "locale": "en",
     "title": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "faq_url": null,
     "instructions": [
       {
         "id": 188,

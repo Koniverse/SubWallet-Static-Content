@@ -5,6 +5,7 @@
     "slug": "DAPP_STAKING",
     "locale": "ja",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 156,
@@ -50,6 +51,7 @@
     "slug": "LENDING",
     "locale": "ja",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 124,
@@ -95,6 +97,7 @@
     "slug": "LIQUID_STAKING",
     "locale": "ja",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 104,
@@ -140,6 +143,7 @@
     "slug": "NATIVE_STAKING",
     "locale": "ja",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 84,
@@ -185,6 +189,7 @@
     "slug": "NOMINATION_POOL",
     "locale": "ja",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 64,
@@ -230,6 +235,7 @@
     "slug": "UNSTAKE_INFO",
     "locale": "ja",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 140,
