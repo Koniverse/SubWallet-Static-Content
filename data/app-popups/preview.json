@@ -528,14 +528,7 @@
         "id": 96,
         "label": "Update",
         "color": "primary",
-        "instruction": {
-          "id": 79,
-          "confirm_label": "Confirm",
-          "cancel_label": "Cancel",
-          "instruction_id": 38,
-          "group": null,
-          "slug": "Test_AZERO"
-        },
+        "instruction": null,
         "action": null
       }
     ],
