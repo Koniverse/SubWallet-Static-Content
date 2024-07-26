@@ -14,7 +14,8 @@
         "extension",
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 25,
@@ -56,7 +57,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 41,
@@ -103,7 +105,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 81,
@@ -132,7 +135,7 @@
   },
   {
     "id": 49,
-    "position": "token",
+    "position": "dapp",
     "priority": 1,
     "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
     "info": {
@@ -140,11 +143,12 @@
       "name": "Stake AZERO 2",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-24T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 82,
@@ -179,7 +183,8 @@
         "mobile",
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 86,
@@ -213,7 +218,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 91,
@@ -248,7 +254,8 @@
         "extension",
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 92,
@@ -287,7 +294,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 93,
@@ -321,7 +329,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 94,
@@ -368,7 +377,8 @@
       "platforms": [
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 98,
@@ -415,7 +425,8 @@
       "platforms": [
         "web"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 99,
@@ -462,7 +473,8 @@
       "platforms": [
         "web"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 100,
@@ -509,7 +521,8 @@
       "platforms": [
         "web"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 101,
@@ -556,7 +569,8 @@
       "platforms": [
         "web"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 102,
@@ -603,7 +617,8 @@
       "platforms": [
         "web"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 103,
@@ -650,7 +665,8 @@
       "platforms": [
         "web"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 104,
@@ -698,7 +714,8 @@
         "extension",
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 105,
