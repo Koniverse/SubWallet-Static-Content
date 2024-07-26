@@ -128,7 +128,7 @@
   },
   {
     "id": 49,
-    "position": "dapp",
+    "position": "crowdloan",
     "priority": 1,
     "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
     "info": {
@@ -151,7 +151,13 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-crowdloan": [
+        {
+          "chain": "ajunaPolkadot"
+        }
+      ]
+    },
     "instruction": {
       "id": 61,
       "confirm_label": "Stake",
@@ -464,7 +470,8 @@
       "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
-        "web"
+        "web",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -476,21 +483,8 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "aleph-NATIVE-AZERO"
-      }
-    ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
+    "position_params": [],
+    "conditions": {},
     "instruction": {
       "id": 74,
       "confirm_label": "Stake AZERO",
