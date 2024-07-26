@@ -9,7 +9,7 @@
       "name": "Stake AZERO",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-24T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -101,7 +101,7 @@
       "name": "Stake DOT get VARCH 1",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-19T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -116,14 +116,7 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {
-      "condition-nft": [
-        {
-          "collection_id": null,
-          "chain": "continuum_network"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 58,
       "confirm_label": "Stake DOT",
@@ -175,10 +168,10 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/Extension_crowdloan_tabbar_x4_d1059ee4b5.png",
     "info": {
       "id": 99,
-      "name": "Crowdloan",
+      "name": "NFT",
       "description": null,
       "start_time": "2024-06-21T17:00:00.000Z",
-      "stop_time": "2024-07-19T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
@@ -214,7 +207,7 @@
       "name": "NFT",
       "description": null,
       "start_time": "2024-07-04T17:00:00.000Z",
-      "stop_time": "2024-07-19T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -249,7 +242,7 @@
       "name": "Stake AZERO-1",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-07-24T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "extension",
         "mobile"
@@ -633,15 +626,7 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 77,
       "confirm_label": "Stake AZERO",
@@ -740,5 +725,46 @@
       ]
     },
     "instruction": null
+  },
+  {
+    "id": 64,
+    "position": "earning",
+    "priority": 1,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "info": {
+      "id": 121,
+      "name": "Stake AZERO",
+      "description": null,
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 108,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 80,
+      "confirm_label": "Stake AZERO",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": null,
+      "slug": "AZERO_Alephzero"
+    }
   }
 ]
