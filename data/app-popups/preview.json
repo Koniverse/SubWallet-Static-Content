@@ -536,58 +536,6 @@
           "group": null,
           "slug": "Test_AZERO"
         },
-        "action": {
-          "id": 107,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 58,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "> <div style=\"flex: 1; justify-content: space-between; flex-direction: row\"><div style=\"color: white; font-weight: 600\">Release version</div><div style=\"color: rgba(255, 255, 255, 0.65)\">Version 1.1.51(365)<div></div>\n> \n>###### **Change log:**\n>- `New networks added: Acurast Canary, Humanode Substrate, Humanode EVM`\n>- `New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam`",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 122,
-      "name": "New version available",
-      "description": "Change log test",
-      "start_time": "2024-07-23T17:00:00.000Z",
-      "stop_time": "2024-07-26T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null,
-      "is_changelog_popup": true
-    },
-    "buttons": [
-      {
-        "id": 97,
-        "label": "Cancel",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 98,
-        "label": "Update",
-        "color": "primary",
-        "instruction": {
-          "id": 81,
-          "confirm_label": "Confirm",
-          "cancel_label": "Cancel",
-          "instruction_id": 38,
-          "group": null,
-          "slug": "Test_AZERO"
-        },
         "action": null
       }
     ],
