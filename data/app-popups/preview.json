@@ -500,7 +500,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "> <div style=\"flex: 1; justify-content: space-between; flex-direction: row\"><div style=\"color: white; font-weight: 600;\">Release version</div><div style=\"color: rgba(255, 255, 255, 0.65)\">Version 1.1.51(365)<div></div>\n> \n>###### **Change log:**\n>- `New networks added: Acurast Canary, Humanode Substrate, Humanode EVM`\n>- `New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam`",
+    "content": "> <div style=\"flex: 1; justify-content: space-between; flex-direction: row\"><div style=\"color: white; font-weight: 600;\">Release version</div><div style=\"color: rgba(255, 255, 255, 0.65)\">Version 1.1.74)<div></div>\n> \n>###### **Change log:**\n>- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
