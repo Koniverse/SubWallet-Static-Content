@@ -509,7 +509,7 @@
       "name": "New version available",
       "description": "Change log test",
       "start_time": "2024-07-23T17:00:00.000Z",
-      "stop_time": "2024-07-24T17:00:00.000Z",
+      "stop_time": "2024-07-26T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
