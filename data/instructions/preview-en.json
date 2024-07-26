@@ -331,7 +331,7 @@
     "slug": "Test_AZERO",
     "locale": "en",
     "title": "Stake AZERO",
-    "faq_url": "https://docs.subwallet.app/main/mobile-app-user-guide/manage-staking",
+    "faq_url": "https://github.com/Koniverse/SubWallet-Static-Content/actions/workflows/update-static-data.yml",
     "instructions": [
       {
         "id": 176,
