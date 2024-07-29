@@ -19,7 +19,7 @@
   {
     "id": 5,
     "name": "Earning confirmation",
-    "position": "stake",
+    "position": "unstake",
     "repeat": "everytime",
     "confirm_label": "Continue",
     "cancel_label": "Cancel",
@@ -31,7 +31,7 @@
   {
     "id": 6,
     "name": "Sendfund",
-    "position": "withdraw",
+    "position": "send-fund",
     "repeat": "everytime",
     "confirm_label": "Confirm",
     "cancel_label": "Cancel",
