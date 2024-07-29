@@ -180,17 +180,10 @@
         "id": 44,
         "label": "Stake",
         "color": "primary",
-        "instruction": {
-          "id": 23,
-          "confirm_label": "Stake AZERO",
-          "cancel_label": "Dismiss",
-          "instruction_id": 38,
-          "group": null,
-          "slug": "Test_AZERO"
-        },
+        "instruction": null,
         "action": {
           "id": 44,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+          "url": "https://github.com/Koniverse/SubWallet-Mobile/releases",
           "screen": null,
           "params": null,
           "is_cancel": null
