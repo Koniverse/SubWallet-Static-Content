@@ -150,7 +150,7 @@
   {
     "id": 28,
     "priority": 1,
-    "position": "mission_pool",
+    "position": "history",
     "repeat": "once",
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)\n>![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n\n>\n>#### **Reminder to back up your accounts**\n> If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!\n> \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
     "repeat_every_x_days": null,
