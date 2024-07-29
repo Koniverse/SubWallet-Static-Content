@@ -116,7 +116,14 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "pioneer"
+        }
+      ]
+    },
     "instruction": {
       "id": 58,
       "confirm_label": "Stake DOT",
@@ -193,7 +200,14 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "vara_network"
+        }
+      ]
+    },
     "instruction": {
       "id": 63,
       "confirm_label": "Stake",
