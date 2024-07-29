@@ -30,6 +30,36 @@
     ]
   },
   {
+    "id": 65,
+    "name": "[TEST 1 ]Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "status": "upcoming",
+    "ordinal": 68,
+    "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 10,000 NPS for 1 raffle entry.\n\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\n\nThe detailed mechanism is as follows:\n\n1. Based on Vara Football Leaderboard: The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries.\n2. Based on Vara Onchain Check-In Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS.\n3. Based on Invite Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased.\n4. Social Event Activities: Participate in social activities to earn additional raffle entries with NPS.\n\nNote: Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited.",
+    "start_time": "2024-08-01T10:00:00.000Z",
+    "end_time": "2024-08-08T16:59:00.000Z",
+    "url": "https://t.me/Playnation_bot/app?startapp=5Hl6vgFZw",
+    "twitter_url": "https://x.com/playnationapp",
+    "reward": "$9,500 in VARA",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://t.me/Playnation_bot",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/vara_f9bf9c78f7.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Vara_x_Playnation_Campaign_833e796599.jfif",
+    "chains": [
+      "vara_network"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 51,
     "name": "Split the pool prize of $400 in DOT with Archisinal July Zealy campaign",
     "status": "live",
@@ -304,8 +334,8 @@
     "status": "upcoming",
     "ordinal": 76,
     "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\nJoin now and take your experience to the next level!\n\nStarts: 7 June 🚦\nEnds: 30 June 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
-    "start_time": "2024-10-17T13:00:00.000Z",
-    "end_time": "2024-08-30T07:00:00.000Z",
+    "start_time": "2024-08-30T13:00:00.000Z",
+    "end_time": "2024-10-17T07:00:00.000Z",
     "url": "https://zealy.io/cw/archisinal/invite/DSbbRM5_z5g6G3gNUt-xO",
     "twitter_url": "https://x.com/archisinal",
     "reward": "$400 in DOT",
