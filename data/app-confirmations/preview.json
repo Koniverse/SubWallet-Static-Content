@@ -19,11 +19,11 @@
   {
     "id": 5,
     "name": "SendFund confirmation",
-    "position": "earning",
+    "position": "stake",
     "repeat": "everytime",
     "confirm_label": "Continue",
     "cancel_label": "Cancel",
-    "content": "Send Fund confirmation",
+    "content": "Send Fund confirmation\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!\nThe rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!",
     "repeat_every_x_days": null,
     "position_params": [
       {
