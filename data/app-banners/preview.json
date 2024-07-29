@@ -170,14 +170,14 @@
   {
     "id": 50,
     "position": "nft",
-    "priority": null,
+    "priority": 1,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Extension_crowdloan_tabbar_x4_d1059ee4b5.png",
     "info": {
       "id": 99,
       "name": "NFT",
       "description": null,
       "start_time": "2024-06-21T17:00:00.000Z",
-      "stop_time": "2024-07-26T17:00:00.000Z",
+      "stop_time": "2024-07-30T17:00:00.000Z",
       "platforms": [
         "mobile",
         "extension"
@@ -195,7 +195,7 @@
     "position_params": [
       {
         "property": "tokenSlug",
-        "value": "pioneer"
+        "value": "pioneer-NATIVE-NEER"
       }
     ],
     "conditions": {},
