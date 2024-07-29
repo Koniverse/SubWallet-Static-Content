@@ -86,8 +86,11 @@
     "ordinal": 3,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_39914b7817.png",
     "providers": {
+      "Llamarpc": "https://eth.llamarpc.com",
       "PublicNode": "https://ethereum.publicnode.com",
-      "BlastApi": "https://eth-mainnet.public.blastapi.io"
+      "DRPC": "https://eth.drpc.org/",
+      "MevBlocker": "https://rpc.mevblocker.io/",
+      "1rpc": "https://1rpc.io/eth"
     },
     "evmInfo": {
       "evmChainId": 1,
