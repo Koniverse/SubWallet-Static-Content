@@ -31,7 +31,7 @@
   {
     "id": 6,
     "name": "Sendfund",
-    "position": "unstake",
+    "position": "withdraw",
     "repeat": "everytime",
     "confirm_label": "Confirm",
     "cancel_label": "Cancel",
