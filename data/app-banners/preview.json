@@ -642,7 +642,8 @@
       "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
       "platforms": [
-        "web"
+        "web",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
