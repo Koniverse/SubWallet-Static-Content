@@ -8443,7 +8443,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
-    "providers": {},
+    "providers": {
+      "Avail Turing ": "wss://turing-rpc.avail.so/ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
