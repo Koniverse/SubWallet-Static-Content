@@ -887,9 +887,9 @@
       "id": 83,
       "confirm_label": "Play",
       "cancel_label": "Cancel",
-      "instruction_id": 39,
+      "instruction_id": 42,
       "group": null,
-      "slug": "Vara_Campaign"
+      "slug": "Vara_Campaign Extension 2"
     }
   },
   {
@@ -954,9 +954,9 @@
       "id": 84,
       "confirm_label": "Play",
       "cancel_label": "Cancel",
-      "instruction_id": 40,
+      "instruction_id": 41,
       "group": null,
-      "slug": "Vara_Campaign_Mobile"
+      "slug": "Vara_Campaign_Mobile - 2"
     }
   }
 ]
