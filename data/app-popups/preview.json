@@ -549,7 +549,7 @@
   },
   {
     "id": 59,
-    "priority": 2,
+    "priority": 3,
     "position": "token",
     "repeat": "once",
     "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
@@ -628,7 +628,7 @@
   },
   {
     "id": 60,
-    "priority": 2,
+    "priority": 3,
     "position": "token",
     "repeat": "once",
     "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
