@@ -6,6 +6,7 @@
     "repeat": "once",
     "content": "![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n\n**Version 1.1.50(364)**\n&ensp;\n- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n&ensp;\n- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n&ensp;\n- Warning added: Do not transfer cross-chain to an exchange!",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -17,7 +18,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -37,6 +39,7 @@
     "repeat": "once",
     "content": "#### ![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png) \n\n&nbsp;\n\n#### **Version 1.1.56(375)**\n- 9 new currencies supported!\n- Go to Settings/General settings/Currency and choose among USD, BRL, CNY, EUR, GBP, HKD, JPY, RUB  and VND to display your portfolio value.",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -48,7 +51,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -68,6 +72,7 @@
     "repeat": "once",
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -79,7 +84,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -117,6 +123,7 @@
     "repeat": "once",
     "content": ">![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>\n> &ensp;\n> \n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n  \n>\n> &ensp;\n> \n>#### **Reminder to back up your accounts**\n>- If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>- Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -128,7 +135,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": "iOS"
+      "os": "iOS",
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -148,6 +156,7 @@
     "repeat": "once",
     "content": "![Extension.png](https://media-resources.subwallet.app/6/Extension_f44922cd1a.png)",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -159,7 +168,8 @@
       "platforms": [
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -192,6 +202,7 @@
     "repeat": "once",
     "content": "![MOBILE.png](https://media-resources.subwallet.app/6/MOBILE_07293aca2a.png)",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -203,7 +214,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -236,6 +248,7 @@
     "repeat": "once",
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -247,7 +260,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -295,6 +309,7 @@
     "repeat": "once",
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -306,7 +321,8 @@
       "platforms": [
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -354,6 +370,7 @@
     "repeat": "once",
     "content": "![Stake to earn up to 29.95% APY.png](https://media-resources.subwallet.app/6/Stake_to_earn_up_to_29_95_APY_d6d15c2e24.png)",
     "repeat_every_x_days": null,
+    "locations": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -366,7 +383,8 @@
         "extension",
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "buttons": [
       {
@@ -396,6 +414,146 @@
           "comparison": "gt",
           "value": 0,
           "chain_asset": "avail_mainnet-NATIVE-AVAIL"
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 126,
+      "name": null,
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
+      "start_time": "2024-07-29T17:00:00.000Z",
+      "stop_time": "2024-08-04T22:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 99,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 100,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 85,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 41,
+          "group": null,
+          "slug": "Vara_Campaign_Mobile - 2"
+        },
+        "action": {
+          "id": 114,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "vara_network-NATIVE-VARA"
+        }
+      ],
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "vara_network"
+        }
+      ],
+      "condition-earning": [
+        {
+          "pool_slug": "VARA___nomination_pool___vara_network",
+          "comparison": "gt",
+          "value": 0
+        },
+        {
+          "pool_slug": "VARA___native_staking___vara_network",
+          "comparison": "gt",
+          "value": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 127,
+      "name": null,
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Extension 2",
+      "start_time": "2024-07-29T17:00:00.000Z",
+      "stop_time": "2024-08-04T22:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 101,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 102,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 86,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 42,
+          "group": null,
+          "slug": "Vara_Campaign Extension 2"
+        },
+        "action": {
+          "id": 115,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "vara_network-NATIVE-VARA"
         }
       ]
     }
