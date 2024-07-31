@@ -506,7 +506,9 @@
     "repeat": "every_time",
     "content": "> <div style=\"flex: 1; justify-content: space-between; flex-direction: row; padding-top: 4px\"><div style=\"color: white; font-weight: 600;\">Release version</div><div style=\"color: rgba(255, 255, 255, 0.65); font-weight: 500; font-size: 12px; font-family: PlusJakartaSans,serif\">New networks<div></div>\n> \n>###### **Change log:**\n>- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam",
     "repeat_every_x_days": null,
-    "locations": null,
+    "locations": [
+      "Vietnam_VN"
+    ],
     "media": null,
     "position_params": [],
     "info": {
@@ -514,7 +516,7 @@
       "name": "New version available",
       "description": "Change log test",
       "start_time": "2024-07-23T17:00:00.000Z",
-      "stop_time": "2024-07-26T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
