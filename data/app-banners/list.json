@@ -3,6 +3,7 @@
     "id": 23,
     "position": "token_detail",
     "priority": null,
+    "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
       "id": 47,
@@ -13,7 +14,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 41,
@@ -48,6 +50,7 @@
     "id": 55,
     "position": "token_detail",
     "priority": 1,
+    "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 108,
@@ -58,7 +61,8 @@
       "platforms": [
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 94,
@@ -95,6 +99,7 @@
     "id": 56,
     "position": "token_detail",
     "priority": 1,
+    "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 111,
@@ -105,7 +110,8 @@
       "platforms": [
         "extension"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 98,
@@ -142,6 +148,7 @@
     "id": 63,
     "position": "token_detail",
     "priority": 1,
+    "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
       "id": 118,
@@ -153,7 +160,8 @@
         "extension",
         "mobile"
       ],
-      "os": null
+      "os": null,
+      "is_changelog_popup": null
     },
     "action": {
       "id": 105,
@@ -178,5 +186,121 @@
       ]
     },
     "instruction": null
+  },
+  {
+    "id": 66,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_147_f16fbf84af.png",
+    "info": {
+      "id": 124,
+      "name": "VARA Campaign 2 - Extension",
+      "description": null,
+      "start_time": "2024-07-30T05:00:00.000Z",
+      "stop_time": "2024-08-04T22:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 112,
+      "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "vara_network-NATIVE-VARA"
+        }
+      ]
+    },
+    "instruction": {
+      "id": 83,
+      "confirm_label": "Play",
+      "cancel_label": "Cancel",
+      "instruction_id": 42,
+      "group": null,
+      "slug": "Vara_Campaign Extension 2"
+    }
+  },
+  {
+    "id": 67,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 125,
+      "name": "VARA Campaign - Mobile 2",
+      "description": null,
+      "start_time": "2024-07-29T17:00:00.000Z",
+      "stop_time": "2024-08-04T22:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 113,
+      "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "vara_network-NATIVE-VARA"
+        }
+      ],
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "vara_network"
+        }
+      ],
+      "condition-earning": [
+        {
+          "pool_slug": "VARA___nomination_pool___vara_network",
+          "comparison": "gt",
+          "value": 0
+        },
+        {
+          "pool_slug": "VARA___native_staking___vara_network",
+          "comparison": "gt",
+          "value": 0
+        }
+      ]
+    },
+    "instruction": {
+      "id": 84,
+      "confirm_label": "Play",
+      "cancel_label": "Cancel",
+      "instruction_id": 41,
+      "group": null,
+      "slug": "Vara_Campaign_Mobile - 2"
+    }
   }
 ]
