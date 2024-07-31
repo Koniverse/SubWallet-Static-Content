@@ -5,6 +5,7 @@
     "slug": "DAPP_STAKING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 29,
@@ -50,6 +51,7 @@
     "slug": "LENDING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 16,
@@ -95,6 +97,7 @@
     "slug": "LIQUID_STAKING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 11,
@@ -140,6 +143,7 @@
     "slug": "NATIVE_STAKING",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 6,
@@ -185,6 +189,7 @@
     "slug": "NOMINATION_POOL",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 1,
@@ -230,6 +235,7 @@
     "slug": "UNSTAKE_INFO",
     "locale": "en",
     "title": null,
+    "faq_url": null,
     "instructions": [
       {
         "id": 26,
@@ -261,6 +267,7 @@
     "slug": "Vara_Campaign",
     "locale": "en",
     "title": "$9,500 pool prize in VARA",
+    "faq_url": null,
     "instructions": [
       {
         "id": 179,
@@ -315,11 +322,72 @@
     "media": "https://static-data.subwallet.app/instructions/images/media/1432_480_b162ce7765.png"
   },
   {
+    "id": 42,
+    "group": null,
+    "slug": "Vara_Campaign Extension 2",
+    "locale": "en",
+    "title": "$9,500 pool prize in VARA",
+    "faq_url": null,
+    "instructions": [
+      {
+        "id": 202,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 203,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 204,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 206,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 207,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 205,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 208,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instructions/images/media/1432_480_1_246c478270.png"
+  },
+  {
     "id": 40,
     "group": null,
     "slug": "Vara_Campaign_Mobile",
     "locale": "en",
     "title": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "faq_url": null,
     "instructions": [
       {
         "id": 188,
@@ -372,5 +440,65 @@
       }
     ],
     "media": "https://static-data.subwallet.app/instructions/images/media/1432_480_b162ce7765.png"
+  },
+  {
+    "id": 41,
+    "group": null,
+    "slug": "Vara_Campaign_Mobile - 2",
+    "locale": "en",
+    "title": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "faq_url": null,
+    "instructions": [
+      {
+        "id": 195,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 199,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 196,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 197,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 198,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 200,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 201,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instructions/images/media/1432_480_1_246c478270.png"
   }
 ]
