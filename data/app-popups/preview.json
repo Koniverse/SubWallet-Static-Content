@@ -637,7 +637,7 @@
     "info": {
       "id": 127,
       "name": null,
-      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Extension 2",
       "start_time": "2024-07-29T17:00:00.000Z",
       "stop_time": "2024-08-04T22:00:00.000Z",
       "platforms": [
@@ -662,9 +662,9 @@
           "id": 86,
           "confirm_label": "Play",
           "cancel_label": "Cancel",
-          "instruction_id": 39,
+          "instruction_id": 42,
           "group": null,
-          "slug": "Vara_Campaign"
+          "slug": "Vara_Campaign Extension 2"
         },
         "action": {
           "id": 115,
