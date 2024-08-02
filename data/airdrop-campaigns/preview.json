@@ -1,5 +1,33 @@
 [
   {
+    "id": 66,
+    "name": "Split the pool prize of $400 in DOT with Archisinal August Zealy campaign",
+    "status": "live",
+    "ordinal": 67,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 August 🚦\nEnds: 31 August 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-08-01T12:00:00.000Z",
+    "end_time": "2024-08-31T12:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "400 USD in DOT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Archisinal_August_Zealy_campaign_ddfa0b623d.jpg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
     "id": 61,
     "name": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
     "status": "live",
