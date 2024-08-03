@@ -148,7 +148,8 @@
       "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-07-30T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "mobile",
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -495,8 +496,9 @@
       "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
       "platforms": [
+        "mobile",
         "web",
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -671,8 +673,9 @@
       "start_time": "2024-06-17T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
       "platforms": [
+        "mobile",
         "web",
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
