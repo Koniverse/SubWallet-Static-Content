@@ -960,10 +960,10 @@
   },
   {
     "id": 68,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Stella_Swap_Galxe_campaign_89a3ec5863.png",
     "info": {
       "id": 128,
       "name": "[Test on webapp]Stake AZERO",
