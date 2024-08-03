@@ -957,5 +957,41 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile - 2"
     }
+  },
+  {
+    "id": 68,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "info": {
+      "id": 128,
+      "name": "[Test on webapp]Stake AZERO",
+      "description": null,
+      "start_time": "2024-06-17T17:00:00.000Z",
+      "stop_time": "2024-08-03T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 116,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": {
+      "id": 87,
+      "confirm_label": "Stake AZERO",
+      "cancel_label": "Cancel",
+      "instruction_id": 36,
+      "group": null,
+      "slug": "AZERO_Alephzero"
+    }
   }
 ]
