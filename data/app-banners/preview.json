@@ -963,7 +963,7 @@
   },
   {
     "id": 68,
-    "position": "token",
+    "position": "token_detail",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_ee4736f1c2.png",
