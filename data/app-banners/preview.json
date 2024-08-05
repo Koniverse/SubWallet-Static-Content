@@ -966,13 +966,13 @@
     "position": "token",
     "priority": 1,
     "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Stella_Swap_Galxe_campaign_89a3ec5863.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_ee4736f1c2.png",
     "info": {
       "id": 128,
       "name": "[Test on webapp]Stake AZERO",
       "description": null,
       "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-08-03T17:00:00.000Z",
+      "stop_time": "2024-08-05T17:00:00.000Z",
       "platforms": [
         "web"
       ],
