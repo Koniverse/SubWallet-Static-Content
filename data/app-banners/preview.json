@@ -206,11 +206,10 @@
     },
     "position_params": [],
     "conditions": {
-      "condition-has-money": [
+      "condition-nft": [
         {
-          "has_money": [
-            "balance"
-          ]
+          "collection_id": null,
+          "chain": "kusama"
         }
       ]
     },
