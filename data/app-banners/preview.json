@@ -209,7 +209,7 @@
       "condition-has-money": [
         {
           "has_money": [
-            "crowdloan"
+            "balance"
           ]
         }
       ]
