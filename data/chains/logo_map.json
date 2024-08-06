@@ -268,5 +268,7 @@
   "satoshivm": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
   "satoshivm_testnet": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
   "cere": "https://static-data.subwallet.app/chains/images/icon/cere_network_5feb6aadb1.png",
-  "aleph_testnet_evm": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_3a3d7fa6bb.png"
+  "aleph_testnet_evm": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_3a3d7fa6bb.png",
+  "aleph_evm": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_d0df036ff1.png",
+  "exosama": "https://static-data.subwallet.app/chains/images/icon/sama_a666604686.png"
 }
