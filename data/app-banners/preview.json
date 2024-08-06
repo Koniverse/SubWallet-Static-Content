@@ -997,14 +997,14 @@
       "id": 87,
       "confirm_label": "DOT-Polkadot",
       "cancel_label": "Cancel",
-      "instruction_id": 38,
+      "instruction_id": 36,
       "group": null,
-      "slug": "Test_AZERO"
+      "slug": "AZERO_Alephzero"
     }
   },
   {
     "id": 69,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_ee4736f1c2.png",
@@ -1038,9 +1038,7 @@
       "id": 88,
       "confirm_label": "DOT-Polkadot",
       "cancel_label": "Cancel",
-      "instruction_id": 36,
-      "group": null,
-      "slug": "AZERO_Alephzero"
+      "instruction": null
     }
   }
 ]
