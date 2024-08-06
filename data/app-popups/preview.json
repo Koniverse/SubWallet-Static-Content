@@ -687,5 +687,51 @@
         }
       ]
     }
+  },
+  {
+    "id": 61,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)\n>![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n\n>\n>#### **Reminder to back up your accounts**\n> If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!\n> \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 130,
+      "name": "Webapp - Test AZERO",
+      "description": "Stake AZERO. Get Your Common Drops!",
+      "start_time": "2024-06-18T14:00:00.000Z",
+      "stop_time": "2024-08-29T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 103,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 104,
+        "label": "Stake",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 118,
+          "url": "https://github.com/Koniverse/SubWallet-Mobile/releases",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
