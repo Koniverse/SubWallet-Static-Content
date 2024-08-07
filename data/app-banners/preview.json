@@ -370,7 +370,7 @@
       "condition-has-money": [
         {
           "has_money": [
-            "balance"
+            "earning"
           ]
         }
       ]
