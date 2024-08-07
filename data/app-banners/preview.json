@@ -1,13 +1,13 @@
 [
   {
     "id": 12,
-    "position": "token_detail",
+    "position": "earning",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
       "id": 25,
-      "name": "ĐK NFT",
+      "name": "ĐK Earning",
       "description": null,
       "start_time": "2024-07-31T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
@@ -31,9 +31,11 @@
       }
     ],
     "conditions": {
-      "condition-crowdloan": [
+      "condition-earning": [
         {
-          "chain": "ajunaPolkadot"
+          "pool_slug": "DOT___native_staking___polkadot",
+          "comparison": "gt",
+          "value": 1
         }
       ]
     },
