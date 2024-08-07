@@ -362,11 +362,11 @@
     "action": null,
     "position_params": [],
     "conditions": {
-      "condition-has-money": [
+      "condition-balance": [
         {
-          "has_money": [
-            "balance"
-          ]
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "vara_network-NATIVE-VARA"
         }
       ]
     },
