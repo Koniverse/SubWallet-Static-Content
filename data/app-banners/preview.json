@@ -30,15 +30,7 @@
         "value": "vara_network-NATIVE-VARA"
       }
     ],
-    "conditions": {
-      "condition-has-money": [
-        {
-          "has_money": [
-            "balance"
-          ]
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 14,
       "confirm_label": "Stake AZERO",
