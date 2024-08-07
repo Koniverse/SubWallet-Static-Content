@@ -1,18 +1,18 @@
 [
   {
     "id": 12,
-    "position": "token",
+    "position": "token_detail",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
       "id": 25,
-      "name": "Stake AZERO",
+      "name": "ĐK Balance",
       "description": null,
-      "start_time": "2024-06-17T17:00:00.000Z",
-      "stop_time": "2024-08-01T17:00:00.000Z",
+      "start_time": "2024-07-31T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -29,7 +29,7 @@
       "condition-balance": [
         {
           "comparison": "gt",
-          "value": 0.1,
+          "value": 0,
           "chain_asset": "aleph-NATIVE-AZERO"
         }
       ]
