@@ -31,10 +31,9 @@
       }
     ],
     "conditions": {
-      "condition-nft": [
+      "condition-crowdloan": [
         {
-          "collection_id": "409",
-          "chain": "statemine"
+          "chain": "ajunaPolkadot"
         }
       ]
     },
