@@ -24,7 +24,12 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
     "conditions": {
       "condition-nft": [
         {
