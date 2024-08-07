@@ -31,11 +31,11 @@
       }
     ],
     "conditions": {
-      "condition-earning": [
+      "condition-has-money": [
         {
-          "pool_slug": "DOT___native_staking___polkadot",
-          "comparison": "gt",
-          "value": 1
+          "has_money": [
+            "nft"
+          ]
         }
       ]
     },
