@@ -340,5 +340,49 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile - 2"
     }
+  },
+  {
+    "id": 72,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_147_f16fbf84af.png",
+    "info": {
+      "id": 133,
+      "name": "Test Has Money Banner",
+      "description": null,
+      "start_time": "2024-07-31T17:00:00.000Z",
+      "stop_time": "2024-08-30T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 119,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {
+      "condition-has-money": [
+        {
+          "has_money": [
+            "balance"
+          ]
+        }
+      ]
+    },
+    "instruction": {
+      "id": 89,
+      "confirm_label": "Stake DOT",
+      "cancel_label": "Cancel",
+      "instruction_id": 38,
+      "group": null,
+      "slug": "Test_AZERO"
+    }
   }
 ]
