@@ -412,15 +412,14 @@
     "position_params": [
       {
         "property": "tokenSlug",
-        "value": "aleph-NATIVE-AZERO"
+        "value": "vara_network-NATIVE-VARA"
       }
     ],
     "conditions": {
-      "condition-earning": [
+      "condition-nft": [
         {
-          "pool_slug": "DOT___nomination_pool___polkadot",
-          "comparison": "gt",
-          "value": 0
+          "collection_id": "0xcefdca25159fd78f5fd09c77628c4fc6fc6b46414b42949b877849decf048a96",
+          "chain": "vara_network"
         }
       ]
     },
