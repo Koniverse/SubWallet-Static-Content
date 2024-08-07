@@ -34,8 +34,8 @@
       "condition-balance": [
         {
           "comparison": "gt",
-          "value": 0.1,
-          "chain_asset": "aleph-NATIVE-AZERO"
+          "value": 1,
+          "chain_asset": "vara_network-NATIVE-VARA"
         }
       ]
     },
