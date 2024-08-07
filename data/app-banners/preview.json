@@ -415,7 +415,15 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {},
+    "conditions": {
+      "condition-has-money": [
+        {
+          "has_money": [
+            "balance"
+          ]
+        }
+      ]
+    },
     "instruction": null
   }
 ]
