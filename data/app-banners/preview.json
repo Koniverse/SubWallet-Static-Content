@@ -352,7 +352,7 @@
       "name": "Test Has Money Banner",
       "description": null,
       "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-30T17:00:00.000Z",
+      "stop_time": "2024-08-06T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
