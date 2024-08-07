@@ -1,54 +1,5 @@
 [
   {
-    "id": 12,
-    "position": "token_detail",
-    "priority": 1,
-    "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Crowdloan_tabbar_81fec4cc6b.png",
-    "info": {
-      "id": 25,
-      "name": "ĐK Earning",
-      "description": null,
-      "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 25,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "vara_network-NATIVE-VARA"
-      }
-    ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 1,
-          "chain_asset": "vara_network-NATIVE-VARA"
-        }
-      ]
-    },
-    "instruction": {
-      "id": 14,
-      "confirm_label": "Stake AZERO",
-      "cancel_label": "Cancel",
-      "instruction_id": 36,
-      "group": null,
-      "slug": "AZERO_Alephzero"
-    }
-  },
-  {
     "id": 23,
     "position": "token_detail",
     "priority": null,
@@ -389,41 +340,5 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile - 2"
     }
-  },
-  {
-    "id": 71,
-    "position": "token_detail",
-    "priority": 1,
-    "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
-    "info": {
-      "id": 132,
-      "name": "Balance ",
-      "description": null,
-      "start_time": "2024-08-05T17:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": null,
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "vara_network-NATIVE-VARA"
-      }
-    ],
-    "conditions": {
-      "condition-has-money": [
-        {
-          "has_money": [
-            "balance"
-          ]
-        }
-      ]
-    },
-    "instruction": null
   }
 ]
