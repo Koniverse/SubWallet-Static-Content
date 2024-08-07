@@ -391,14 +391,14 @@
     }
   },
   {
-    "id": 70,
+    "id": 71,
     "position": "token_detail",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/test_image_3e01745e87.png",
     "info": {
-      "id": 131,
-      "name": "Balance",
+      "id": 132,
+      "name": "Balance ",
       "description": null,
       "start_time": "2024-08-05T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
@@ -416,11 +416,11 @@
       }
     ],
     "conditions": {
-      "condition-has-money": [
+      "condition-balance": [
         {
-          "has_money": [
-            "balance"
-          ]
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "aleph-NATIVE-AZERO"
         }
       ]
     },
