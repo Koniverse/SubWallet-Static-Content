@@ -416,11 +416,11 @@
       }
     ],
     "conditions": {
-      "condition-balance": [
+      "condition-earning": [
         {
+          "pool_slug": "DOT___nomination_pool___polkadot",
           "comparison": "gt",
-          "value": 0,
-          "chain_asset": "aleph-NATIVE-AZERO"
+          "value": 0
         }
       ]
     },
