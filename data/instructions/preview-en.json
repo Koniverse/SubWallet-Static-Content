@@ -151,6 +151,13 @@
         "icon_color": "#008dff",
         "title": "Track your APY",
         "description": "Keep an eye on your stake as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
+      },
+      {
+        "id": 209,
+        "icon": "Circle",
+        "icon_color": "#528b59",
+        "title": "Track your APY",
+        "description": "Keep an eye on your stake as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
       }
     ],
     "media": null
