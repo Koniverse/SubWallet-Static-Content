@@ -66,6 +66,36 @@
     ]
   },
   {
+    "id": 68,
+    "name": "Grab your share of 10M AJUN pool prize with BBB campaign",
+    "status": "live",
+    "ordinal": 67,
+    "description": "USE CODE: 2758\n\n10M AJUN are up for grabs for those who create Legendary Ballz, an additional 50 prizes of 1,000 AJUN are being sent out amongst those who complete the AirLyft Onboarding Campaign!\n\nBBB is Ajuna Network's second collective-based game, similar to AAA gameplay, but with some twists. BBB is our first game to test a free-2-play model, affiliate system, and incentivized tournaments. Furthermore, it’s an explorative game to enter the mobile market and prepare for the adoption of more complex titles. \n\nMost importantly, it's being used to transition from Bajun Network to Ajuna Network and reward those who participate in the game over the next couple months, with our mainnet token.",
+    "start_time": "2024-07-14T17:00:00.000Z",
+    "end_time": "2024-09-21T17:00:00.000Z",
+    "url": "https://airlyft.one/ajuna/bbbonboard",
+    "twitter_url": "https://x.com/AjunaNetwork",
+    "reward": "10M AJUN",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://bbb.ajuna.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/awesome_ajuna_avatars_815d036a61.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/BBB_55e52d8f50.jpeg",
+    "chains": [
+      "bajun"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 61,
     "name": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
     "status": "archived",
