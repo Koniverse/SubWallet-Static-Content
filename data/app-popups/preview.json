@@ -152,70 +152,6 @@
     "conditions": {}
   },
   {
-    "id": 28,
-    "priority": 1,
-    "position": "nft",
-    "repeat": "once",
-    "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)\n>![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n\n>\n>#### **Reminder to back up your accounts**\n> If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!\n> \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
-    "repeat_every_x_days": null,
-    "locations": null,
-    "media": null,
-    "position_params": [
-      {
-        "property": null,
-        "value": null
-      }
-    ],
-    "info": {
-      "id": 51,
-      "name": "Extension - Test AZERO",
-      "description": "Stake AZERO. Get Your Common Drops!",
-      "start_time": "2024-08-09T14:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": true
-    },
-    "buttons": [
-      {
-        "id": 43,
-        "label": "Dismiss",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 44,
-        "label": "Stake",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 44,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {
-      "condition-earning": [
-        {
-          "pool_slug": "TZERO___nomination_pool___alephTest",
-          "comparison": "gt",
-          "value": 1
-        }
-      ],
-      "condition-crowdloan": [
-        {
-          "chain": "ajunaPolkadot"
-        }
-      ]
-    }
-  },
-  {
     "id": 50,
     "priority": 1,
     "position": "token",
@@ -503,7 +439,7 @@
       "start_time": "2024-07-23T17:00:00.000Z",
       "stop_time": "2024-08-07T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": true
@@ -710,6 +646,45 @@
         "action": {
           "id": 118,
           "url": "https://github.com/Koniverse/SubWallet-Mobile/releases",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 62,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![A0_1.png](https://media-resources.subwallet.app//6/A0_1_c671ff3eec.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 137,
+      "name": "Token",
+      "description": null,
+      "start_time": "2024-08-07T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 105,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 121,
+          "url": null,
           "screen": null,
           "params": null,
           "is_cancel": null
