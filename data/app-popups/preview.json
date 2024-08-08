@@ -680,7 +680,7 @@
       {
         "id": 107,
         "label": "I understand",
-        "color": "secondary",
+        "color": "primary",
         "instruction": null,
         "action": null
       }
