@@ -751,7 +751,7 @@
   {
     "id": 66,
     "priority": 1,
-    "position": null,
+    "position": "crowdloan",
     "repeat": "once",
     "content": "![MOBILE.png](https://media-resources.subwallet.app/6/MOBILE_07293aca2a.png)",
     "repeat_every_x_days": null,
