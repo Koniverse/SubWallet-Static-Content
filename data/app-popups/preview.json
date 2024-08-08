@@ -655,18 +655,18 @@
     "conditions": {}
   },
   {
-    "id": 63,
-    "priority": 2,
-    "position": "nft",
+    "id": 64,
+    "priority": 3,
+    "position": "earning",
     "repeat": "once",
-    "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
+    "content": "![Extension.png](https://media-resources.subwallet.app/6/Extension_f44922cd1a.png)",
     "repeat_every_x_days": null,
     "locations": null,
     "media": null,
     "position_params": [],
     "info": {
-      "id": 138,
-      "name": "NFT",
+      "id": 139,
+      "name": "Earning",
       "description": null,
       "start_time": "2024-08-07T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
@@ -678,9 +678,9 @@
     },
     "buttons": [
       {
-        "id": 106,
+        "id": 107,
         "label": "I understand",
-        "color": "primary",
+        "color": "secondary",
         "instruction": null,
         "action": null
       }
