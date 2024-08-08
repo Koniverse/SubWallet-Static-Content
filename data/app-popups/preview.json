@@ -747,5 +747,38 @@
         }
       ]
     }
+  },
+  {
+    "id": 66,
+    "priority": 1,
+    "position": null,
+    "repeat": "once",
+    "content": "![MOBILE.png](https://media-resources.subwallet.app/6/MOBILE_07293aca2a.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 141,
+      "name": "Crowdloan",
+      "description": null,
+      "start_time": "2024-08-07T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 110,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
