@@ -712,12 +712,40 @@
     "buttons": [
       {
         "id": 108,
-        "label": "I understand",
-        "color": "primary",
+        "label": "Dismiss",
+        "color": "secondary",
         "instruction": null,
         "action": null
+      },
+      {
+        "id": 109,
+        "label": "Stake",
+        "color": "primary",
+        "instruction": {
+          "id": 91,
+          "confirm_label": "Stake AZERO",
+          "cancel_label": "Cancel",
+          "instruction_id": 38,
+          "group": null,
+          "slug": "Test_AZERO"
+        },
+        "action": {
+          "id": 122,
+          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
       }
     ],
-    "conditions": {}
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    }
   }
 ]
