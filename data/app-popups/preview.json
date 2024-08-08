@@ -686,5 +686,38 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 65,
+    "priority": 1,
+    "position": "earning",
+    "repeat": "once",
+    "content": "![1432✕480.png](https://media-resources.subwallet.app/6/1432_480_b162ce7765.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 140,
+      "name": "Earning",
+      "description": null,
+      "start_time": "2024-08-07T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 108,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
