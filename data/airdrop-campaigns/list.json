@@ -1,5 +1,100 @@
 [
   {
+    "id": 67,
+    "name": "Win $9,500 prize pool in CTC mainnet with Credit Farm campaign on Playnation",
+    "status": "live",
+    "ordinal": 66,
+    "description": "Rise to the challenge and become a Penguin farmer who makes a real-world impact! \n\nAirdrops are distributed via raffles whose values range from $10 to $25 in CTC mainnet tokens. Eligible users need to earn at least 3,000 NPS during campaign time from Aug 7 to 31 to qualify for allocated raffles. Note that NPS earned ONLY through inviting frens and completing missions during campaign time will count.\n\nHow to earn raffles after qualifying for the 3,000 NPS condition:\n1. Top 300 on Credit Farm leaderboard\nLeaderboard rankings are based on your Earn Speed (blue coin-per-second) in the game. Top 300 players are eligible for raffles. 1st rank has up to 30 raffles allocated!\n\n2. Weekly top inviters\nEach week during the four weeks of the campaign, top 10 inviters on the Weekly Top Inviters leaderboard are rewarded with raffles. \n\n3. Social event winners\nWinners in social events during the campaign time can earn additional raffles.",
+    "start_time": "2024-08-07T12:30:00.000Z",
+    "end_time": "2024-08-31T16:59:00.000Z",
+    "url": "https://t.me/Playnation_bot/app",
+    "twitter_url": "https://x.com/playnationapp",
+    "reward": "$9,500 in CTC",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "points"
+    ],
+    "campaign_url": "https://t.me/Playnation_bot",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/creditcoin_448a940bb0.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Creditcoin_x_Playnation_airdrop_campaign_9ec0520629.jpg",
+    "chains": [
+      "creditcoin",
+      "creditcoinTest"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      },
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Split the pool prize of $400 in DOT with Archisinal August Zealy campaign",
+    "status": "live",
+    "ordinal": 67,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 August 🚦\nEnds: 31 August 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-08-01T12:00:00.000Z",
+    "end_time": "2024-08-31T12:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$400 in DOT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Archisinal_August_Zealy_campaign_ddfa0b623d.jpg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Share 10M AJUN pool prize with BBB campaign - use the code 2758",
+    "status": "live",
+    "ordinal": 67,
+    "description": "USE CODE: 2758\n\n10M AJUN are up for grabs for those who create Legendary Ballz, an additional 50 prizes of 1,000 AJUN are being sent out amongst those who complete the AirLyft Onboarding Campaign!\n\nBBB is Ajuna Network's second collective-based game, similar to AAA gameplay, but with some twists. BBB is our first game to test a free-2-play model, affiliate system, and incentivized tournaments. Furthermore, it’s an explorative game to enter the mobile market and prepare for the adoption of more complex titles. \n\nMost importantly, it's being used to transition from Bajun Network to Ajuna Network and reward those who participate in the game over the next couple months, with our mainnet token.",
+    "start_time": "2024-07-14T17:00:00.000Z",
+    "end_time": "2024-09-21T17:00:00.000Z",
+    "url": "https://airlyft.one/ajuna/bbbonboard",
+    "twitter_url": "https://x.com/AjunaNetwork",
+    "reward": "10M AJUN",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://bbb.ajuna.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/awesome_ajuna_avatars_815d036a61.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/BBB_55e52d8f50.jpeg",
+    "chains": [
+      "bajun"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 61,
     "name": "Grab your share of $9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
     "status": "archived",
