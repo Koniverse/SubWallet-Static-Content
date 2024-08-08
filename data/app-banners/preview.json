@@ -380,13 +380,40 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/1600_x_88_b95e507b60.png",
     "info": {
       "id": 135,
-      "name": "Banner test ",
+      "name": "Banner test  - webapp",
       "description": null,
       "start_time": "2024-07-31T17:00:00.000Z",
       "stop_time": "2024-08-30T17:00:00.000Z",
       "platforms": [
-        "extension",
-        "mobile"
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 75,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1600_x_88_b95e507b60.png",
+    "info": {
+      "id": 136,
+      "name": "Banner test  - webapp - token screen",
+      "description": null,
+      "start_time": "2024-07-31T17:00:00.000Z",
+      "stop_time": "2024-08-30T17:00:00.000Z",
+      "platforms": [
+        "web"
       ],
       "os": null,
       "is_changelog_popup": null
