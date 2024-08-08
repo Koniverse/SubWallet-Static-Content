@@ -50,10 +50,10 @@
   },
   {
     "id": 48,
-    "position": "crowdloan",
+    "position": "nft",
     "priority": 1,
     "locations": null,
-    "media": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 94,
       "name": "Stake DOT get VARCH 1",
@@ -61,7 +61,8 @@
       "start_time": "2024-07-31T17:00:00.000Z",
       "stop_time": "2024-08-30T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "extension",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
