@@ -304,5 +304,33 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile - 2"
     }
+  },
+  {
+    "id": 76,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
+    "info": {
+      "id": 142,
+      "name": "NFT",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
   }
 ]
