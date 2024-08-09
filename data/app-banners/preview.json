@@ -49,29 +49,6 @@
     }
   },
   {
-    "id": 48,
-    "position": "token",
-    "priority": 1,
-    "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
-    "info": {
-      "id": 94,
-      "name": "Stake DOT get VARCH 1",
-      "description": null,
-      "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-30T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": null,
-    "position_params": [],
-    "conditions": {},
-    "instruction": null
-  },
-  {
     "id": 55,
     "position": "token_detail",
     "priority": 1,
