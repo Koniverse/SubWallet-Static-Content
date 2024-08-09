@@ -332,48 +332,10 @@
     },
     "position_params": [],
     "conditions": {
-      "condition-balance": [
+      "condition-nft": [
         {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "vara_network-NATIVE-VARA"
-        }
-      ]
-    },
-    "instruction": null
-  },
-  {
-    "id": 83,
-    "position": "crowdloan",
-    "priority": 1,
-    "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
-    "info": {
-      "id": 149,
-      "name": "token",
-      "description": null,
-      "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-11T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 130,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "vara_network-NATIVE-VARA"
+          "collection_id": "0xcefdca25159fd78f5fd09c77628c4fc6fc6b46414b42949b877849decf048a96",
+          "chain": "vara_network"
         }
       ]
     },
