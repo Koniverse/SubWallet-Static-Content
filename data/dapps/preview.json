@@ -507,7 +507,7 @@
     "subtitle": "Claim your Polkadot Decoded badge!",
     "is_substrate": null,
     "is_evm": null,
-    "is_featured": true,
+    "is_featured": false,
     "ordinal": 215,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_sni_a5be103971.png",
