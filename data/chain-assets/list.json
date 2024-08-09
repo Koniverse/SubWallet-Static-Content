@@ -11318,13 +11318,13 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "hydradx_main-LOCAL-MYTH"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "statemint-LOCAL-MYTH"
       }
     ]
@@ -13314,7 +13314,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
@@ -14287,7 +14287,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
