@@ -259,7 +259,7 @@
     "ordinal": 7,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_ea0888883e.png",
     "originChain": "aleph",
-    "multiChainAsset": null,
+    "multiChainAsset": "AZERO-AlephZero",
     "assetRefs": []
   },
   {
@@ -1234,7 +1234,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 50,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "bifrost",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -1250,7 +1250,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 51,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "bifrost_dot",
     "multiChainAsset": "BNC-BifrostPolkadot",
     "assetRefs": []
@@ -1353,7 +1353,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 56,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "bifrost_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -4393,7 +4393,7 @@
     },
     "hasValue": true,
     "ordinal": 215,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "karura",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -4666,7 +4666,7 @@
     },
     "hasValue": true,
     "ordinal": 228,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "moonriver",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -6095,7 +6095,7 @@
     },
     "hasValue": true,
     "ordinal": 307,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -9926,7 +9926,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_44b3c3fd65.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "BNC-BifrostPolkadot",
     "assetRefs": []
@@ -11318,13 +11318,13 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "hydradx_main-LOCAL-MYTH"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-LOCAL-MYTH"
       }
     ]
@@ -11656,9 +11656,7 @@
     "priceId": null,
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": {
-      "autoEnable": true
-    },
+    "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
@@ -11883,7 +11881,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "avail_mainnet",
-    "multiChainAsset": null,
+    "multiChainAsset": "AVAIL-Avail",
     "assetRefs": []
   },
   {
@@ -13291,21 +13289,11 @@
     "metadata": {
       "isBridged": true,
       "multilocation": {
-        "parents": 2,
+        "parents": 1,
         "interior": {
-          "X2": [
+          "X1": [
             {
-              "GlobalConsensus": {
-                "Ethereum": {
-                  "chainId": 1
-                }
-              }
-            },
-            {
-              "AccountKey20": {
-                "key": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
-                "network": null
-              }
+              "Parachain": 3369
             }
           ]
         }
@@ -13326,7 +13314,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
@@ -14299,7 +14287,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
@@ -14722,7 +14710,7 @@
     "symbol": "KOL",
     "decimals": 12,
     "priceId": null,
-    "minAmount": "2007900000",
+    "minAmount": "1000000000000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "86"
@@ -14750,6 +14738,215 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kol_48b19a40b9.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "KOL-Kolkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8",
+    "name": "Avail",
+    "symbol": "AVAIL",
+    "decimals": 18,
+    "priceId": "avail",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "AVAIL-Avail",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-EURC.s-0xcf4f5a26e2090bb3adcf02c7a9d73dbfe6659cc690461475b86437fa49c71136",
+    "name": "Circle EURC",
+    "symbol": "EURC.s",
+    "decimals": 12,
+    "priceId": "euro-coin",
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Stellar": {
+          "AlphaNum4": {
+            "code": "EURC",
+            "issuer": "0xcf4f5a26e2090bb3adcf02c7a9d73dbfe6659cc690461475b86437fa49c71136"
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/eurc_f4bab085d4.png",
+    "originChain": "pendulum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-NCTR",
+    "name": "Apillon",
+    "symbol": "NCTR",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1024"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/apillon_277b09e804.png",
+    "originChain": "statemint",
+    "multiChainAsset": "NCTR-Apillon",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-LOCAL-xcNCTR",
+    "name": "Apillon",
+    "symbol": "xcNCTR",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "184218609779515850660274730699350567246",
+      "assetType": "ForeignAsset",
+      "contractAddress": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/apillon_277b09e804.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "NCTR-Apillon",
+    "assetRefs": []
+  },
+  {
+    "slug": "polygon-ERC20-ROUTE-0x93890f346C5D02C3863a06657bc72555dC72c527",
+    "name": "Route Protocol",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "priceId": "router-protocol-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x93890f346C5D02C3863a06657bc72555dC72c527"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Router_f578915040.png",
+    "originChain": "polygon",
+    "multiChainAsset": "ROUTE-RouteProtocol",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-ROUTE-0x60F67E1015b3f069DD4358a78c38f83fE3a667A9",
+    "name": "Route Protocol",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "priceId": "router-protocol-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x60F67E1015b3f069DD4358a78c38f83fE3a667A9"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Router_f578915040.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "ROUTE-RouteProtocol",
+    "assetRefs": []
+  },
+  {
+    "slug": "aleph_evm-NATIVE-AZERO",
+    "name": "Aleph Zero - EVM",
+    "symbol": "AZERO",
+    "decimals": 18,
+    "priceId": "aleph-zero",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_d0df036ff1.png",
+    "originChain": "aleph_evm",
+    "multiChainAsset": "AZERO-AlephZero",
+    "assetRefs": []
+  },
+  {
+    "slug": "exosama-NATIVE-SAMA",
+    "name": "SAMA",
+    "symbol": "SAMA",
+    "decimals": 18,
+    "priceId": "exosama-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sama_a666604686.png",
+    "originChain": "exosama",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-BNC",
+    "name": "Bifrost Native Token",
+    "symbol": "BNC",
+    "decimals": 12,
+    "priceId": "bifrost-native-coin",
+    "minAmount": "10000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "11"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "BNC-BifrostKusama",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-ASTR",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "priceId": "astar",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "9"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "ASTR-Astar",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-vDOT",
+    "name": "Voucher DOT",
+    "symbol": "vDOT",
+    "decimals": 10,
+    "priceId": "voucher-dot",
+    "minAmount": "1000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "10"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "vDOT-VoucherDot",
     "assetRefs": []
   }
 ]

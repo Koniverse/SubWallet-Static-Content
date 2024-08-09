@@ -701,5 +701,16 @@
   "cere-NATIVE-CERE": "cere-network",
   "aleph_testnet_evm-NATIVE-TZERO": null,
   "statemint-LOCAL-KOL": null,
-  "hydradx_main-LOCAL-KOL": null
+  "hydradx_main-LOCAL-KOL": null,
+  "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8": "avail",
+  "pendulum-LOCAL-EURC.s-0xcf4f5a26e2090bb3adcf02c7a9d73dbfe6659cc690461475b86437fa49c71136": "euro-coin",
+  "statemint-LOCAL-NCTR": null,
+  "moonbeam-LOCAL-xcNCTR": null,
+  "polygon-ERC20-ROUTE-0x93890f346C5D02C3863a06657bc72555dC72c527": "router-protocol-2",
+  "ethereum-ERC20-ROUTE-0x60F67E1015b3f069DD4358a78c38f83fE3a667A9": "router-protocol-2",
+  "aleph_evm-NATIVE-AZERO": "aleph-zero",
+  "exosama-NATIVE-SAMA": "exosama-network",
+  "pendulum-LOCAL-BNC": "bifrost-native-coin",
+  "pendulum-LOCAL-ASTR": "astar",
+  "pendulum-LOCAL-vDOT": "voucher-dot"
 }

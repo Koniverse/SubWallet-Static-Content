@@ -1234,7 +1234,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 50,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "bifrost",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -1250,7 +1250,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 51,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "bifrost_dot",
     "multiChainAsset": "BNC-BifrostPolkadot",
     "assetRefs": []
@@ -1353,7 +1353,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 56,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "bifrost_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -4393,7 +4393,7 @@
     },
     "hasValue": true,
     "ordinal": 215,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "karura",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -4666,7 +4666,7 @@
     },
     "hasValue": true,
     "ordinal": 228,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "moonriver",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -6095,7 +6095,7 @@
     },
     "hasValue": true,
     "ordinal": 307,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "BNC-BifrostKusama",
     "assetRefs": []
@@ -9926,7 +9926,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_44b3c3fd65.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "BNC-BifrostPolkadot",
     "assetRefs": []
@@ -14937,6 +14937,82 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_d0df036ff1.png",
     "originChain": "aleph_evm",
     "multiChainAsset": "AZERO-AlephZero",
+    "assetRefs": []
+  },
+  {
+    "slug": "exosama-NATIVE-SAMA",
+    "name": "SAMA",
+    "symbol": "SAMA",
+    "decimals": 18,
+    "priceId": "exosama-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sama_a666604686.png",
+    "originChain": "exosama",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-BNC",
+    "name": "Bifrost Native Token",
+    "symbol": "BNC",
+    "decimals": 12,
+    "priceId": "bifrost-native-coin",
+    "minAmount": "10000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "11"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_eaefc260c4.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "BNC-BifrostKusama",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-ASTR",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "priceId": "astar",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "9"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "ASTR-Astar",
+    "assetRefs": []
+  },
+  {
+    "slug": "pendulum-LOCAL-vDOT",
+    "name": "Voucher DOT",
+    "symbol": "vDOT",
+    "decimals": 10,
+    "priceId": "voucher-dot",
+    "minAmount": "1000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "XCM": "10"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
+    "originChain": "pendulum",
+    "multiChainAsset": "vDOT-VoucherDot",
     "assetRefs": []
   }
 ]
