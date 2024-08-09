@@ -437,7 +437,7 @@
       "name": "New version available",
       "description": "Change log test",
       "start_time": "2024-07-23T17:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
+      "stop_time": "2024-08-07T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -655,100 +655,6 @@
     "conditions": {}
   },
   {
-    "id": 64,
-    "priority": 3,
-    "position": "earning",
-    "repeat": "once",
-    "content": "![Extension.png](https://media-resources.subwallet.app/6/Extension_f44922cd1a.png)",
-    "repeat_every_x_days": null,
-    "locations": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 139,
-      "name": "Earning",
-      "description": null,
-      "start_time": "2024-08-07T17:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "buttons": [
-      {
-        "id": 107,
-        "label": "I understand",
-        "color": "primary",
-        "instruction": null,
-        "action": null
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 65,
-    "priority": 1,
-    "position": "earning",
-    "repeat": "once",
-    "content": "![1432✕480.png](https://media-resources.subwallet.app/6/1432_480_b162ce7765.png)",
-    "repeat_every_x_days": null,
-    "locations": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 140,
-      "name": "Earning",
-      "description": null,
-      "start_time": "2024-08-07T17:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "buttons": [
-      {
-        "id": 108,
-        "label": "Dismiss",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 109,
-        "label": "Stake",
-        "color": "primary",
-        "instruction": {
-          "id": 91,
-          "confirm_label": "Stake AZERO",
-          "cancel_label": "Cancel",
-          "instruction_id": 38,
-          "group": null,
-          "slug": "Test_AZERO"
-        },
-        "action": {
-          "id": 122,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    }
-  },
-  {
     "id": 66,
     "priority": 1,
     "position": "crowdloan",
@@ -765,7 +671,6 @@
       "start_time": "2024-08-07T17:00:00.000Z",
       "stop_time": "2024-08-09T17:00:00.000Z",
       "platforms": [
-        "extension",
         "mobile"
       ],
       "os": null,
@@ -781,5 +686,126 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 67,
+    "priority": 2,
+    "position": "nft",
+    "repeat": "once",
+    "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 150,
+      "name": "NFT",
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
+      "start_time": "2024-07-31T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 111,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 112,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 92,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 40,
+          "group": null,
+          "slug": "Vara_Campaign_Mobile"
+        },
+        "action": {
+          "id": 131,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": "0xcefdca25159fd78f5fd09c77628c4fc6fc6b46414b42949b877849decf048a96",
+          "chain": "vara_network"
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "priority": 1,
+    "position": "earning",
+    "repeat": "once",
+    "content": "![1432✕480.png](https://media-resources.subwallet.app/6/1432_480_b162ce7765.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 151,
+      "name": "Earning",
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
+      "start_time": "2024-07-31T17:00:00.000Z",
+      "stop_time": "2024-08-09T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 113,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 114,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 93,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 40,
+          "group": null,
+          "slug": "Vara_Campaign_Mobile"
+        },
+        "action": {
+          "id": 132,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "TZERO___nomination_pool___alephTest",
+          "comparison": "gt",
+          "value": 1
+        }
+      ]
+    }
   }
 ]
