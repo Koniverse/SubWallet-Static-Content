@@ -304,5 +304,184 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile - 2"
     }
+  },
+  {
+    "id": 77,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 143,
+      "name": "token",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 124,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 78,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 144,
+      "name": "token detail",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 125,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 79,
+    "position": "nft",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 145,
+      "name": "token detail",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 126,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 80,
+    "position": "earning",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 146,
+      "name": "token detail",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 127,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 81,
+    "position": "crowdloan",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 147,
+      "name": "token detail",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 128,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 82,
+    "position": "missionPools",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 148,
+      "name": "token detail",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-11T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 129,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
