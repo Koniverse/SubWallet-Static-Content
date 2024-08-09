@@ -41,26 +41,6 @@
     ]
   },
   {
-    "id": 172,
-    "title": "DOTphin",
-    "description": "DOTphin: Merging Dynamic NFTs with Sustainability to Drive Marine Conservation and Transform Community Engagement.",
-    "url": "https://sovereignnature.com/dotphin",
-    "subtitle": "Claim your Polkadot Decoded badge!",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": true,
-    "ordinal": 3,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_sni_a5be103971.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Subwallet_1200x600_1_7dde54a65e.png",
-    "chains": [
-      "unique_network"
-    ],
-    "categories": [
-      "nft"
-    ]
-  },
-  {
     "id": 168,
     "title": "Hydration",
     "description": "The Hydration Omnipool - an innovative Automated Market Maker (AMM) unlocks unparalleled efficiencies by combining all assets in a single trading pool.",
@@ -520,6 +500,26 @@
     ]
   },
   {
+    "id": 172,
+    "title": "DOTphin",
+    "description": "DOTphin: Merging Dynamic NFTs with Sustainability to Drive Marine Conservation and Transform Community Engagement.",
+    "url": "https://sovereignnature.com/dotphin",
+    "subtitle": "Claim your Polkadot Decoded badge!",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 215,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_sni_a5be103971.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Subwallet_1200x600_1_7dde54a65e.png",
+    "chains": [
+      "unique_network"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 110,
     "title": "Polkadot Power Passport",
     "description": "Proof of asset for holders of more than sixty projects in the Polkadot ecosystem",
@@ -542,8 +542,8 @@
   {
     "id": 45,
     "title": "SubConnect",
-    "description": "SubConnect is a single Web3 provider solution for all Wallets in Dotsama Ecosystem and blockchains built on Substrate. This is a simple Demo DApp to test it out.",
-    "url": "https://connect.subwallet.app/#/",
+    "description": "SubConnect is a single Web3 provider solution for all Polkadot-based wallets, EVM wallets, and Cold Wallets. This is a simple Demo DApp to test it out.",
+    "url": "https://w3o-demo.subwallet.app/",
     "subtitle": "The Demo DApp for Substrate Wallet Connect",
     "is_substrate": null,
     "is_evm": null,
@@ -987,6 +987,29 @@
     ]
   },
   {
+    "id": 175,
+    "title": "REAL Portal",
+    "description": "SNI’s REAL Portal showcases comprehensive qualitative and quantitative data about a digital asset’s link to its supported biodiversity project, the stewards behind it, and the objectives and metrics they use to track impact.",
+    "url": "https://real.sovereignnature.com/",
+    "subtitle": "Learn how your asset is helping real-world conservation efforts around the globe",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 445,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Property_1_Variant2_4bfeee18fb.png",
+    "preview_image": null,
+    "chains": [
+      "unique_evm",
+      "optimism",
+      "arbitrum_one",
+      "statemint"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 68,
     "title": "YieldBay",
     "description": "Discover and earn yield from polkadot and kusama paraverse",
@@ -1070,6 +1093,27 @@
     ]
   },
   {
+    "id": 177,
+    "title": "Deq",
+    "description": "Deq is a native liquid staking platform for Avail tokens on Ethereum. Get rewarded for staking AVAIL with Deq!",
+    "url": "https://app.deq.fi/",
+    "subtitle": "Native liquid staking for Avail",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 485,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/deq_1abfddd63a.png",
+    "preview_image": null,
+    "chains": [
+      "avail_mainnet",
+      "ethereum"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 109,
     "title": "AZERO.ID",
     "description": "With AZERO.ID, you can create & own your on-chain identity on a single platform. Start your journey in the Aleph Zero & Substrate ecosystem by registering your first domain now.",
@@ -1088,6 +1132,34 @@
     "categories": [
       "nft",
       "utilities"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Zenlink",
+    "description": "Zenlink is a comprehensive Web3 platform offering cutting-edge DeFi solutions: DEX, Aggregator, and Yield Marketplace.",
+    "url": "https://app.zenlink.pro/",
+    "subtitle": "Cross-chain DEX protocol based on Polkadot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 495,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/zenlink_244237f8ec.png",
+    "preview_image": null,
+    "chains": [
+      "moonbeam",
+      "astarEvm",
+      "arbitrum_one",
+      "base_mainnet",
+      "moonriver",
+      "bifrost_dot",
+      "bifrost",
+      "amplitude",
+      "pendulum"
+    ],
+    "categories": [
+      "defi"
     ]
   },
   {
