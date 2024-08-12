@@ -307,7 +307,7 @@
   },
   {
     "id": 77,
-    "position": "token",
+    "position": "crowdloan",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
@@ -316,7 +316,7 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-11T17:00:00.000Z",
+      "stop_time": "2024-08-12T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -331,13 +331,7 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {
-      "condition-crowdloan": [
-        {
-          "chain": "ajunaPolkadot"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": null
   },
   {
