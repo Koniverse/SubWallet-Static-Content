@@ -358,13 +358,7 @@
       "os": null,
       "is_changelog_popup": null
     },
-    "action": {
-      "id": 133,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
+    "action": null,
     "position_params": [],
     "conditions": {},
     "instruction": null
