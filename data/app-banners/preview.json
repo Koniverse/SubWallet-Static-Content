@@ -365,7 +365,7 @@
   },
   {
     "id": 85,
-    "position": "token",
+    "position": "crowdloan",
     "priority": 2,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1600_x_88_f1c12bfd0f.png",
