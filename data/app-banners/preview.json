@@ -342,7 +342,7 @@
   },
   {
     "id": 84,
-    "position": "earning",
+    "position": "token",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1600_x_88_f1c12bfd0f.png",
@@ -351,7 +351,7 @@
       "name": "TEST BANNER ON WEBAPP",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-11T17:00:00.000Z",
+      "stop_time": "2024-08-13T17:00:00.000Z",
       "platforms": [
         "web"
       ],
