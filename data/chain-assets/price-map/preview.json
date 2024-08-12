@@ -708,5 +708,9 @@
   "moonbeam-LOCAL-xcNCTR": null,
   "polygon-ERC20-ROUTE-0x93890f346C5D02C3863a06657bc72555dC72c527": "router-protocol-2",
   "ethereum-ERC20-ROUTE-0x60F67E1015b3f069DD4358a78c38f83fE3a667A9": "router-protocol-2",
-  "aleph_evm-NATIVE-AZERO": "aleph-zero"
+  "aleph_evm-NATIVE-AZERO": "aleph-zero",
+  "exosama-NATIVE-SAMA": "exosama-network",
+  "pendulum-LOCAL-BNC": "bifrost-native-coin",
+  "pendulum-LOCAL-ASTR": "astar",
+  "pendulum-LOCAL-vDOT": "voucher-dot"
 }

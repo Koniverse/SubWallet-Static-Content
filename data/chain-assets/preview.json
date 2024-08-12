@@ -13314,7 +13314,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
@@ -14287,7 +14287,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "mythos-NATIVE-MYTH"
       }
     ]
