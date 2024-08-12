@@ -362,5 +362,51 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 86,
+    "position": "token",
+    "priority": 3,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_1_3e4367b040.png",
+    "info": {
+      "id": 154,
+      "name": "TEST BANNER ON WEBAPP 1",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-13T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 87,
+    "position": "token",
+    "priority": 2,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_ee4736f1c2.png",
+    "info": {
+      "id": 155,
+      "name": "TEST BANNER ON WEBAPP 2",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-13T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
