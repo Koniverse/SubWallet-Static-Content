@@ -366,7 +366,7 @@
   {
     "id": 86,
     "position": "token",
-    "priority": 3,
+    "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_1_3e4367b040.png",
     "info": {
@@ -389,7 +389,7 @@
   {
     "id": 87,
     "position": "token",
-    "priority": 2,
+    "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_ee4736f1c2.png",
     "info": {
