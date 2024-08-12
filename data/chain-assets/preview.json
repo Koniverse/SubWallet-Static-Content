@@ -11318,13 +11318,13 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "hydradx_main-LOCAL-MYTH"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-LOCAL-MYTH"
       }
     ]
@@ -15013,6 +15013,24 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
     "originChain": "pendulum",
     "multiChainAsset": "vDOT-VoucherDot",
+    "assetRefs": []
+  },
+  {
+    "slug": "blast_mainnet-ERC20-BLAST-0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "name": "Blast",
+    "symbol": "BLAST",
+    "decimals": 18,
+    "priceId": "blast",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "blast_mainnet",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
