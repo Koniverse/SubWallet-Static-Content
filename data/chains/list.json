@@ -14,6 +14,7 @@
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
+      "SubWallet": "wss://polkadot-rpc.subwallet.app",
       "Onfinality": "wss://polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -52,7 +53,8 @@
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama"
+      "Light Client": "light://substrate-connect/kusama",
+      "SubWallet": "wss://kusama-rpc.subwallet.app"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -90,7 +92,8 @@
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
       "MevBlocker": "https://rpc.mevblocker.io/",
-      "1rpc": "https://1rpc.io/eth"
+      "1rpc": "https://1rpc.io/eth",
+      "Ethereum": "https://eth-rpc.subwallet.app/ "
     },
     "evmInfo": {
       "evmChainId": 1,
@@ -8360,7 +8363,7 @@
       "symbol": "PAS",
       "decimals": 10,
       "hasNativeNft": null,
-      "supportStaking": null,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -9462,6 +9465,58 @@
       "blockExplorer": "https://aleph-zero.blockscout.com/",
       "existentialDeposit": "0",
       "symbol": "TZERO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "aleph_evm",
+    "name": "Aleph Zero - EVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_d0df036ff1.png",
+    "providers": {
+      "Gelato": "https://rpc.alephzero.raas.gelato.cloud"
+    },
+    "evmInfo": {
+      "evmChainId": 41455,
+      "blockExplorer": "https://aleph-zero-evm.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "AZERO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null
+  },
+  {
+    "slug": "exosama",
+    "name": "Exosama",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sama_a666604686.png",
+    "providers": {
+      "Exosama Network": "https://rpc.exosama.com"
+    },
+    "evmInfo": {
+      "evmChainId": 2109,
+      "blockExplorer": "https://explorer.exosama.com/",
+      "existentialDeposit": "0",
+      "symbol": "SAMA",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",

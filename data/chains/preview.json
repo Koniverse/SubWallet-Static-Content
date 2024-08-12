@@ -8363,7 +8363,7 @@
       "symbol": "PAS",
       "decimals": 10,
       "hasNativeNft": null,
-      "supportStaking": null,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
