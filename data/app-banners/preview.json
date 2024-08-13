@@ -429,7 +429,13 @@
       "os": null,
       "is_changelog_popup": null
     },
-    "action": null,
+    "action": {
+      "id": 136,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [],
     "conditions": {},
     "instruction": null
