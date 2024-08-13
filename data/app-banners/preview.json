@@ -310,7 +310,9 @@
     "position": "crowdloan",
     "priority": 1,
     "locations": [
-      "Argentina_AR"
+      "Argentina_AR",
+      "Indonesia_ID",
+      "Ukraine_UA"
     ],
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
