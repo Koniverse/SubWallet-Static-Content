@@ -310,7 +310,7 @@
     "position": "crowdloan",
     "priority": 1,
     "locations": [
-      "American Samoa_AS"
+      "Argentina_AR"
     ],
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
@@ -368,7 +368,7 @@
   },
   {
     "id": 86,
-    "position": "token",
+    "position": "crowdloan",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_1_3e4367b040.png",
