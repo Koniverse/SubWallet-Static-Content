@@ -389,7 +389,7 @@
   },
   {
     "id": 87,
-    "position": "token",
+    "position": "token_detail",
     "priority": 1,
     "locations": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Frame_5537_ee4736f1c2.png",
@@ -400,12 +400,19 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-08-13T17:00:00.000Z",
       "platforms": [
-        "web"
+        "web",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
     },
-    "action": null,
+    "action": {
+      "id": 137,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [],
     "conditions": {},
     "instruction": null
@@ -499,12 +506,19 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-08-13T17:00:00.000Z",
       "platforms": [
-        "web"
+        "web",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
     },
-    "action": null,
+    "action": {
+      "id": 138,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [],
     "conditions": {},
     "instruction": null
