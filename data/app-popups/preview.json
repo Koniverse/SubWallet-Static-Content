@@ -702,7 +702,7 @@
       "name": "NFT",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-09T17:00:00.000Z",
+      "stop_time": "2024-08-14T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -738,14 +738,7 @@
         }
       }
     ],
-    "conditions": {
-      "condition-nft": [
-        {
-          "collection_id": "0xcefdca25159fd78f5fd09c77628c4fc6fc6b46414b42949b877849decf048a96",
-          "chain": "vara_network"
-        }
-      ]
-    }
+    "conditions": {}
   },
   {
     "id": 68,
