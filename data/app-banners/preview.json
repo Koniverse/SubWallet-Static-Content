@@ -310,9 +310,6 @@
     "position": "crowdloan",
     "priority": 1,
     "locations": [
-      "Argentina_AR",
-      "Indonesia_ID",
-      "Ukraine_UA",
       "Vietnam_VN"
     ],
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
@@ -350,7 +347,7 @@
       "name": "TEST BANNER ON WEBAPP",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-13T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
         "web",
         "mobile"
@@ -380,9 +377,10 @@
       "name": "TEST BANNER ON WEBAPP 1",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-13T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
-        "web"
+        "web",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -403,7 +401,7 @@
       "name": "TEST BANNER ON WEBAPP 2",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-13T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
         "web",
         "mobile"
@@ -433,7 +431,7 @@
       "name": "TEST BANNER ON WEBAPP 3",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-13T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
         "web",
         "mobile"
@@ -463,7 +461,7 @@
       "name": "TEST BANNER ON WEBAPP 3",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-13T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
         "web",
         "mobile"
@@ -516,7 +514,7 @@
       "name": "TEST BANNER ON WEBAPP 5",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-13T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
         "web",
         "mobile"
