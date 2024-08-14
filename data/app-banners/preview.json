@@ -355,10 +355,9 @@
       "name": "TEST BANNER ON WEBAPP",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-19T17:00:00.000Z",
+      "stop_time": "2024-08-14T17:00:00.000Z",
       "platforms": [
-        "web",
-        "mobile"
+        "web"
       ],
       "os": null,
       "is_changelog_popup": null

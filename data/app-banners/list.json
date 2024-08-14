@@ -192,7 +192,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_147_f16fbf84af.png",
+    "media": null,
     "info": {
       "id": 124,
       "name": "VARA Campaign 2 - Extension",
@@ -302,5 +302,34 @@
       "group": null,
       "slug": "Vara_Campaign_Mobile - 2"
     }
+  },
+  {
+    "id": 84,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/2420_x_88_364ea9daa3.png",
+    "info": {
+      "id": 152,
+      "name": "TEST BANNER ON WEBAPP",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-08-14T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 135,
+      "url": "subwallet://home/main/earning/earning-list",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
