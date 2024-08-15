@@ -316,7 +316,7 @@
     "id": 38,
     "title": "Bifrost App",
     "description": "Bifrost is a modular, scalable, non-custodial omni-chain LSD parachain based on Polkadot. It provides standardized, high-yield, safe, and reliable underlying interest-bearing assets for Web3 through XCM, and is realizing the omni-chain vision of using any LSD on any chain.",
-    "url": "https://bifrost.app/",
+    "url": "https://app.bifrost.io/",
     "subtitle": "Cross-chain Liquid Staking",
     "is_substrate": true,
     "is_evm": true,
