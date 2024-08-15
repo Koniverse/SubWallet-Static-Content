@@ -750,7 +750,9 @@
     "repeat": "once",
     "content": "![1432✕480.png](https://media-resources.subwallet.app/6/1432_480_b162ce7765.png)",
     "repeat_every_x_days": null,
-    "locations": null,
+    "locations": [
+      "United States_US"
+    ],
     "media": null,
     "position_params": [],
     "info": {
