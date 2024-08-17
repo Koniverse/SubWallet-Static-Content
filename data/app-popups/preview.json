@@ -467,7 +467,20 @@
         }
       }
     ],
-    "conditions": {}
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "KSM___nomination_pool___kusama",
+          "comparison": "gt",
+          "value": 0
+        },
+        {
+          "pool_slug": "KMA___native_staking___calamari",
+          "comparison": "gt",
+          "value": 0
+        }
+      ]
+    }
   },
   {
     "id": 59,
