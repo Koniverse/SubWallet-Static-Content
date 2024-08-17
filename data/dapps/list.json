@@ -601,6 +601,26 @@
     ]
   },
   {
+    "id": 178,
+    "title": "Avail Staking Dashboard",
+    "description": "Avail Staking Dashboard is the easiest way to stake AVAIL, check validator stats, manage your nominations and join nomination pools.",
+    "url": "https://staking.avail.tools/#/overview",
+    "subtitle": "Staking Dashboard on Avail",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 255,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/avail_159b28d79b.png",
+    "preview_image": null,
+    "chains": [
+      "avail_mainnet"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 139,
     "title": "Aleph Zero Dashboard",
     "description": "Aleph Zero Dashboard is the easiest way to stake AZERO, check validator stats, manage your nominations and join nomination pools.",
@@ -659,6 +679,27 @@
     ],
     "categories": [
       "staking"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Turtle",
+    "description": "Built by Velocity Labs, powered by Snowbridge, Turtle facilitates frictionless and cross-chain token transfers, with the smoothest UX in the Polkadot ecosystem.",
+    "url": "https://app.turtle.cool/",
+    "subtitle": "Cross-chain asset transfer dApp",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 285,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/turtle_cd48530254.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "statemint"
+    ],
+    "categories": [
+      "bridge"
     ]
   },
   {
