@@ -7,6 +7,7 @@
     "content": "![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n\n**Version 1.1.50(364)**\n&ensp;\n- New networks added: Acurast Canary, Humanode Substrate, Humanode EVM\n&ensp;\n- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n&ensp;\n- Warning added: Do not transfer cross-chain to an exchange!",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -40,6 +41,7 @@
     "content": "#### ![New Currencies.png](https://media-resources.subwallet.app//6/New_Currencies_f827749bdf.png) \n\n&nbsp;\n\n#### **Version 1.1.56(375)**\n- 9 new currencies supported!\n- Go to Settings/General settings/Currency and choose among USD, BRL, CNY, EUR, GBP, HKD, JPY, RUB  and VND to display your portfolio value.",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -73,6 +75,7 @@
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -126,6 +129,7 @@
     "content": ">![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>\n> &ensp;\n> \n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n  \n>\n> &ensp;\n> \n>#### **Reminder to back up your accounts**\n>- If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>- Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -159,6 +163,7 @@
     "content": "![Extension.png](https://media-resources.subwallet.app/6/Extension_f44922cd1a.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -205,6 +210,7 @@
     "content": "![MOBILE.png](https://media-resources.subwallet.app/6/MOBILE_07293aca2a.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -251,6 +257,7 @@
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -312,6 +319,7 @@
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -373,6 +381,7 @@
     "content": "![Stake to earn up to 29.95% APY.png](https://media-resources.subwallet.app/6/Stake_to_earn_up_to_29_95_APY_d6d15c2e24.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -430,6 +439,7 @@
     "locations": [
       "Vietnam_VN"
     ],
+    "comparison_operator": "AND",
     "media": null,
     "position_params": [],
     "info": {
@@ -490,6 +500,7 @@
     "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -569,6 +580,7 @@
     "content": "![358 x 148 (1).png](https://media-resources.subwallet.app/6/358_x_148_1_ee1b69c096.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -630,6 +642,7 @@
     "content": "![A0-Common Drops.png](https://media-resources.subwallet.app//6/A0_Common_Drops_5a0d80d63a.png)\n>![Update your iOS version.png](https://media-resources.subwallet.app//6/Update_your_i_OS_version_3cb5c8b03c.png)\n>#### **Update to iOS 16.4 or above**\n>**(Safely dismiss this message if your iOS version is above 16.4)**\n>- Your iOS version might be too low for SubWallet new versions to be compatible with. \n>- Update to continue enjoying new features in SubWallet.\n\n>\n>#### **Reminder to back up your accounts**\n> If you lose your back up files, such as seed phrases, private keys, JSON files, QR code backups, you will lose access to your funds. \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!\n> \n>New network added: \n> - Go to the account tab, select your account, click on the pen icon and choose to export and back up!",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -676,6 +689,7 @@
     "content": "![MOBILE.png](https://media-resources.subwallet.app/6/MOBILE_07293aca2a.png)",
     "repeat_every_x_days": null,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -711,6 +725,7 @@
     "locations": [
       "Ukraine_UA"
     ],
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -766,6 +781,7 @@
     "locations": [
       "United States_US"
     ],
+    "comparison_operator": null,
     "media": null,
     "position_params": [],
     "info": {
