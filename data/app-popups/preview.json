@@ -779,20 +779,23 @@
     "repeat": "once",
     "content": "![1432✕480.png](https://media-resources.subwallet.app/6/1432_480_b162ce7765.png)\n\nCập nhật thông tin...",
     "repeat_every_x_days": null,
-    "locations": [
-      "United States_US"
-    ],
-    "comparison_operator": null,
+    "locations": null,
+    "comparison_operator": "AND",
     "media": null,
-    "position_params": [],
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      }
+    ],
     "info": {
       "id": 151,
       "name": "Earning",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-15T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -832,6 +835,11 @@
           "pool_slug": "TZERO___nomination_pool___alephTest",
           "comparison": "gt",
           "value": 1
+        },
+        {
+          "pool_slug": "TZERO___native_staking___alephTest",
+          "comparison": null,
+          "value": null
         }
       ]
     }
