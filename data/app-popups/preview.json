@@ -832,14 +832,14 @@
     "conditions": {
       "condition-earning": [
         {
-          "pool_slug": "TZERO___nomination_pool___alephTest",
+          "pool_slug": "VARA___nomination_pool___vara_network",
           "comparison": "gt",
           "value": 1
         },
         {
-          "pool_slug": "TZERO___native_staking___alephTest",
-          "comparison": null,
-          "value": null
+          "pool_slug": "VARA___native_staking___vara_network",
+          "comparison": "gt",
+          "value": 1
         }
       ]
     }
