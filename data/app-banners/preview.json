@@ -350,12 +350,12 @@
     "conditions": {
       "condition-earning": [
         {
-          "pool_slug": "DOT___native_staking___polkadot",
+          "pool_slug": "VARA___native_staking___vara_network",
           "comparison": "gt",
           "value": 500
         },
         {
-          "pool_slug": "DOT___nomination_pool___polkadot",
+          "pool_slug": "VARA___nomination_pool___vara_network",
           "comparison": "gt",
           "value": 1
         }
