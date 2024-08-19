@@ -7,7 +7,7 @@
     "description": "Rise to the challenge and become a Penguin farmer who makes a real-world impact! \n\nAirdrops are distributed via raffles whose values range from $10 to $25 in CTC mainnet tokens. Eligible users need to earn at least 3,000 NPS during campaign time from Aug 7 to 31 to qualify for allocated raffles. Note that NPS earned ONLY through inviting frens and completing missions during campaign time will count.\n\nHow to earn raffles after qualifying for the 3,000 NPS condition:\n1. Top 300 on Credit Farm leaderboard\nLeaderboard rankings are based on your Earn Speed (blue coin-per-second) in the game. Top 300 players are eligible for raffles. 1st rank has up to 30 raffles allocated!\n\n2. Weekly top inviters\nEach week during the four weeks of the campaign, top 10 inviters on the Weekly Top Inviters leaderboard are rewarded with raffles. \n\n3. Social event winners\nWinners in social events during the campaign time can earn additional raffles.",
     "start_time": "2024-08-07T12:30:00.000Z",
     "end_time": "2024-08-31T16:59:00.000Z",
-    "url": "https://t.me/Playnation_bot/app",
+    "url": "https://t.me/Playnation_bot/app?startapp=JynBPJWtk",
     "twitter_url": "https://x.com/playnationapp",
     "reward": "$9,500 in CTC",
     "total_winner": "N/A",
@@ -91,6 +91,37 @@
         "color": "magenta",
         "name": "Gaming",
         "slug": "gaming"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Grab 2,500 PLMC prize pool with Polimec Polkadot Achievers Campaign",
+    "status": "live",
+    "ordinal": 67,
+    "description": "Welcome to the Polimec PolkAchievers Campaign!\n\nPolimec Protocol, in collaboration with Airlyft, is launching a campaign called Polkadot Achievers Campaign. Participate, get your Polimec NFT, and be one of ten lucky winners who have the opportunity to win 250 PLMC by completing all Campaign Tasks.",
+    "start_time": "2024-08-19T09:00:00.000Z",
+    "end_time": "2024-09-19T09:00:00.000Z",
+    "url": "https://airlyft.one/polimec/polkachievers",
+    "twitter_url": "https://x.com/PolimecProtocol",
+    "reward": "2,500 PLMC",
+    "total_winner": "10",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "fcfs"
+    ],
+    "campaign_url": "https://www.polimec.org/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/polimec_9b0493a626.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/2024_08_19_10_21_44_de4e5b321a.jpg",
+    "chains": [
+      "polimec"
+    ],
+    "categories": [
+      {
+        "color": "primary",
+        "name": "NFT",
+        "slug": "nft"
       }
     ]
   },
