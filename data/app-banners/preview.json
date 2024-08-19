@@ -4,6 +4,7 @@
     "position": "token_detail",
     "priority": null,
     "locations": null,
+    "comparison_operator": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
       "id": 47,
@@ -53,6 +54,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
+    "comparison_operator": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 108,
@@ -102,6 +104,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
+    "comparison_operator": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 111,
@@ -151,6 +154,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
+    "comparison_operator": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
       "id": 118,
@@ -194,6 +198,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
+    "comparison_operator": null,
     "media": null,
     "info": {
       "id": 124,
@@ -243,6 +248,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
+    "comparison_operator": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 125,
@@ -307,14 +313,15 @@
   },
   {
     "id": 77,
-    "position": "crowdloan",
+    "position": "token_detail",
     "priority": 1,
     "locations": [
       "Ukraine_UA",
       "Vietnam_VN",
       "United States_US"
     ],
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
+    "comparison_operator": "AND",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
       "name": "token",
@@ -322,7 +329,7 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -340,7 +347,12 @@
         {
           "comparison": "gt",
           "value": 0,
-          "chain_asset": "aleph-NATIVE-AZERO"
+          "chain_asset": "avail_mainnet-NATIVE-AVAIL"
+        },
+        {
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "vara_network-NATIVE-VARA"
         }
       ]
     },
