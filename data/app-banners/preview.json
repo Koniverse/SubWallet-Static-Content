@@ -348,16 +348,16 @@
       }
     ],
     "conditions": {
-      "condition-balance": [
+      "condition-earning": [
         {
+          "pool_slug": "DOT___native_staking___polkadot",
           "comparison": "gt",
-          "value": 0,
-          "chain_asset": "avail_mainnet-NATIVE-AVAIL"
+          "value": 500
         },
         {
+          "pool_slug": "DOT___nomination_pool___polkadot",
           "comparison": "gt",
-          "value": 1,
-          "chain_asset": "vara_network-NATIVE-VARA"
+          "value": 1
         }
       ]
     },
