@@ -830,16 +830,18 @@
       }
     ],
     "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "vara_network-NATIVE-VARA"
+        }
+      ],
       "condition-earning": [
         {
-          "pool_slug": "VARA___nomination_pool___vara_network",
+          "pool_slug": "DEV___native_staking___moonbase",
           "comparison": "gt",
-          "value": 1
-        },
-        {
-          "pool_slug": "VARA___native_staking___vara_network",
-          "comparison": "gt",
-          "value": 1
+          "value": 0
         }
       ]
     }
