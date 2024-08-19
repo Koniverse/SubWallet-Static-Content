@@ -313,7 +313,7 @@
   },
   {
     "id": 77,
-    "position": "earning",
+    "position": "token_detail",
     "priority": 1,
     "locations": [
       "Ukraine_UA",
@@ -341,7 +341,12 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "avail_mainnet-NATIVE-AVAIL"
+      }
+    ],
     "conditions": {
       "condition-balance": [
         {
