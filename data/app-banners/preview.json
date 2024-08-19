@@ -320,7 +320,7 @@
       "Vietnam_VN",
       "United States_US"
     ],
-    "comparison_operator": "AND",
+    "comparison_operator": "OR",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
