@@ -723,9 +723,7 @@
     "repeat": "once",
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
-    "locations": [
-      "Ukraine_UA"
-    ],
+    "locations": null,
     "comparison_operator": null,
     "media": null,
     "position_params": [],
@@ -734,9 +732,9 @@
       "name": "NFT",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-14T17:00:00.000Z",
+      "stop_time": "2024-08-19T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
