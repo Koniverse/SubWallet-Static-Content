@@ -780,7 +780,7 @@
     "content": "![1432✕480.png](https://media-resources.subwallet.app/6/1432_480_b162ce7765.png)\n\nCập nhật thông tin...",
     "repeat_every_x_days": null,
     "locations": null,
-    "comparison_operator": "AND",
+    "comparison_operator": "OR",
     "media": null,
     "position_params": [
       {
