@@ -11318,13 +11318,13 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "hydradx_main-LOCAL-MYTH"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "statemint-LOCAL-MYTH"
       }
     ]
@@ -14947,6 +14947,124 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
     "originChain": "pendulum",
     "multiChainAsset": "vDOT-VoucherDot",
+    "assetRefs": []
+  },
+  {
+    "slug": "blast_mainnet-ERC20-BLAST-0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "name": "Blast",
+    "symbol": "BLAST",
+    "decimals": 18,
+    "priceId": "blast",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/blast_685a217977.png",
+    "originChain": "blast_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "blast_mainnet-NATIVE-ETH",
+    "name": "Etherum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "blast_mainnet",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "storyPartner_testnet-NATIVE-IP",
+    "name": "Story",
+    "symbol": "IP",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/story_protocol_b90ca649e7.png",
+    "originChain": "storyPartner_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "name": "Tether USD",
+    "symbol": "USD₮",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "TEP74",
+    "metadata": {
+      "contractAddress": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "originChain": "ton",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "ton-NATIVE-TON",
+    "name": "TON Coin",
+    "symbol": "TON",
+    "decimals": 9,
+    "priceId": "the-open-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ton_050d3ba698.png",
+    "originChain": "ton",
+    "multiChainAsset": "TON-TONCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "ton_testnet-NATIVE-TON",
+    "name": "TON Testnet",
+    "symbol": "TON",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ton_050d3ba698.png",
+    "originChain": "ton_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ton_testnet-TEP74-AIOTX-kQAiboDEv_qRrcEdrYdwbVLNOXBHwShFbtKGbQVJ2OKxY_Di",
+    "name": "Aiotx",
+    "symbol": "AIOTX",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "TEP74",
+    "metadata": {
+      "contractAddress": "kQAiboDEv_qRrcEdrYdwbVLNOXBHwShFbtKGbQVJ2OKxY_Di"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "ton_testnet",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]

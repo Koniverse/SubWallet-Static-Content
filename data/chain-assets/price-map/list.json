@@ -712,5 +712,12 @@
   "exosama-NATIVE-SAMA": "exosama-network",
   "pendulum-LOCAL-BNC": "bifrost-native-coin",
   "pendulum-LOCAL-ASTR": "astar",
-  "pendulum-LOCAL-vDOT": "voucher-dot"
+  "pendulum-LOCAL-vDOT": "voucher-dot",
+  "blast_mainnet-ERC20-BLAST-0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad": "blast",
+  "blast_mainnet-NATIVE-ETH": "ethereum",
+  "storyPartner_testnet-NATIVE-IP": null,
+  "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs": "tether",
+  "ton-NATIVE-TON": "the-open-network",
+  "ton_testnet-NATIVE-TON": null,
+  "ton_testnet-TEP74-AIOTX-kQAiboDEv_qRrcEdrYdwbVLNOXBHwShFbtKGbQVJ2OKxY_Di": null
 }
