@@ -836,8 +836,8 @@
   },
   {
     "id": 69,
-    "priority": 999,
-    "position": null,
+    "priority": 1,
+    "position": "token",
     "repeat": "once",
     "content": "- Nomination pool members will soon be allowed to vote on Polkadot OpenGov. Following this update, accounts that are **dual staking via direct nomination (solo staking) and nomination pool** will not be able to use pool-staked funds for voting.\n- To avoid future complications, [unstake your DOT](https://docs.subwallet.app/main/mobile-app-user-guide/manage-staking/unstake) from one of these staking methods.",
     "repeat_every_x_days": null,
@@ -849,9 +849,11 @@
       "id": 160,
       "name": "Unstake your DOT now!",
       "description": "Test",
-      "start_time": null,
-      "stop_time": null,
-      "platforms": null,
+      "start_time": "2024-08-20T17:00:00.000Z",
+      "stop_time": "2024-08-30T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
       "os": null,
       "is_changelog_popup": null
     },
