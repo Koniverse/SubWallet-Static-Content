@@ -82,6 +82,7 @@
   "moonbeam-LOCAL-xcvDOT___moonbeam-LOCAL-xcDOT",
   "statemint-LOCAL-STINK___hydradx_main-LOCAL-STINK",
   "hydradx_main-LOCAL-STINK___statemint-LOCAL-STINK",
+  "avail_mainnet-NATIVE-AVAIL___ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8",
   "statemint-LOCAL-MYTH___ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
   "statemint-LOCAL-MYTH___mythos-NATIVE-MYTH",
   "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003___statemint-LOCAL-MYTH",
@@ -93,5 +94,6 @@
   "statemint-LOCAL-wstETH___ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
   "statemint-LOCAL-tBTC___ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88",
   "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88___statemint-LOCAL-tBTC",
-  "hydradx_main-LOCAL-MYTH___mythos-NATIVE-MYTH"
+  "hydradx_main-LOCAL-MYTH___mythos-NATIVE-MYTH",
+  "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8___avail_mainnet-NATIVE-AVAIL"
 ]

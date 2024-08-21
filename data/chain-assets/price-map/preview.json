@@ -719,5 +719,6 @@
   "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs": "tether",
   "ton-NATIVE-TON": "the-open-network",
   "ton_testnet-NATIVE-TON": null,
-  "ton_testnet-TEP74-AIOTX-kQAiboDEv_qRrcEdrYdwbVLNOXBHwShFbtKGbQVJ2OKxY_Di": null
+  "ton_testnet-TEP74-AIOTX-kQAiboDEv_qRrcEdrYdwbVLNOXBHwShFbtKGbQVJ2OKxY_Di": null,
+  "5irechain_mainnet-NATIVE-5IRE": "5ire"
 }

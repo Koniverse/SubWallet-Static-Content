@@ -3101,9 +3101,9 @@
     "slug": "litmus-NATIVE-LIT",
     "name": "Litmus",
     "symbol": "LIT",
-    "decimals": 12,
+    "decimals": 18,
     "priceId": null,
-    "minAmount": "100000000000",
+    "minAmount": "100000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -3117,9 +3117,9 @@
     "slug": "litentry-NATIVE-LIT",
     "name": "Litentry",
     "symbol": "LIT",
-    "decimals": 12,
+    "decimals": 18,
     "priceId": "litentry",
-    "minAmount": "100000000000",
+    "minAmount": "100000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -4209,7 +4209,7 @@
     "symbol": "USDt",
     "decimals": 6,
     "priceId": "tether",
-    "minAmount": "70000",
+    "minAmount": "10000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1984",
@@ -8651,7 +8651,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "priceId": "usd-coin",
-    "minAmount": "70000",
+    "minAmount": "10000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1337",
@@ -11882,7 +11882,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "avail_mainnet",
     "multiChainAsset": "AVAIL-Avail",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8"
+      }
+    ]
   },
   {
     "slug": "merlinEvm-NATIVE-BTC",
@@ -12588,7 +12595,7 @@
     "symbol": "WUD",
     "decimals": 10,
     "priceId": null,
-    "minAmount": "1",
+    "minAmount": "200000000000000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1000085"
@@ -14822,7 +14829,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "ethereum",
     "multiChainAsset": "AVAIL-Avail",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "avail_mainnet-NATIVE-AVAIL"
+      }
+    ]
   },
   {
     "slug": "pendulum-LOCAL-EURC.s-0xcf4f5a26e2090bb3adcf02c7a9d73dbfe6659cc690461475b86437fa49c71136",
@@ -15130,6 +15144,22 @@
     "ordinal": 9999,
     "icon": null,
     "originChain": "ton_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "5irechain_mainnet-NATIVE-5IRE",
+    "name": "5ireChain Mainnet",
+    "symbol": "5IRE",
+    "decimals": 18,
+    "priceId": "5ire",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/5irechain_36081274b4.png",
+    "originChain": "5irechain_mainnet",
     "multiChainAsset": null,
     "assetRefs": []
   }
