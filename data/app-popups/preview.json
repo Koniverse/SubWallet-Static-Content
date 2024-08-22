@@ -775,9 +775,9 @@
       "name": "Earning",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-19T17:00:00.000Z",
+      "stop_time": "2024-08-30T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -811,27 +811,6 @@
         }
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "vara_network-NATIVE-VARA"
-        }
-      ],
-      "condition-earning": [
-        {
-          "pool_slug": "DEV___native_staking___moonbase",
-          "comparison": "gt",
-          "value": 0
-        }
-      ],
-      "condition-nft": [
-        {
-          "collection_id": "0xcefdca25159fd78f5fd09c77628c4fc6fc6b46414b42949b877849decf048a96",
-          "chain": "vara_network"
-        }
-      ]
-    }
+    "conditions": {}
   }
 ]
