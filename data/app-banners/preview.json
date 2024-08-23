@@ -332,7 +332,7 @@
     },
     "action": {
       "id": 124,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
       "screen": null,
       "params": null,
       "is_cancel": null
