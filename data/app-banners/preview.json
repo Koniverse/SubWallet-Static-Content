@@ -316,14 +316,14 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "OR",
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
+    "comparison_operator": "AND",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-08-24T17:00:00.000Z",
+      "stop_time": "2024-08-29T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -343,7 +343,20 @@
         "value": "avail_mainnet-NATIVE-AVAIL"
       }
     ],
-    "conditions": {},
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "VARA___nomination_pool___vara_network",
+          "comparison": "gt",
+          "value": 1
+        },
+        {
+          "pool_slug": "VARA___native_staking___vara_network",
+          "comparison": "gt",
+          "value": 50
+        }
+      ]
+    },
     "instruction": null
   }
 ]
