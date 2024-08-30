@@ -9905,9 +9905,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_0abe629eff.png",
-    "providers": {
-      "Story Partner": "https://rpc.partner.testnet.storyprotocol.net/"
-    },
+    "providers": {},
     "evmInfo": {
       "evmChainId": 1513,
       "blockExplorer": "https://explorer.testnet.storyprotocol.net/",
