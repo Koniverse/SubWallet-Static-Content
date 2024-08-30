@@ -270,10 +270,14 @@
   "cere": "https://static-data.subwallet.app/chains/images/icon/cere_network_5feb6aadb1.png",
   "aleph_testnet_evm": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_3a3d7fa6bb.png",
   "aleph_evm": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_d0df036ff1.png",
-  "exosama": "https://static-data.subwallet.app/chains/images/icon/sama_a666604686.png",
-  "blast_mainnet": "https://static-data.subwallet.app/chains/images/icon/blast_685a217977.png",
-  "storyPartner_testnet": "https://static-data.subwallet.app/chains/images/icon/story_protocol_b90ca649e7.png",
+  "exosama": "https://static-data.subwallet.app/chains/images/icon/sama_44e12d305b.png",
+  "blast_mainnet": "https://static-data.subwallet.app/chains/images/icon/blast_4dea29ab46.png",
+  "storyPartner_testnet": "https://static-data.subwallet.app/chains/images/icon/story_protocol_0abe629eff.png",
   "ton": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
   "ton_testnet": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
-  "5irechain_mainnet": "https://static-data.subwallet.app/chains/images/icon/5irechain_36081274b4.png"
+  "5irechain_mainnet": "https://static-data.subwallet.app/chains/images/icon/5irechain_d185008984.png",
+  "polygonZkEvm": "https://static-data.subwallet.app/chains/images/icon/polygon_7b35b11dc3.png",
+  "immutableZkEvm": "https://static-data.subwallet.app/chains/images/icon/immutable_8d5b182530.png",
+  "storyPublic_testnet": "https://static-data.subwallet.app/chains/images/icon/story_protocol_e0e48ee028.png",
+  "soneiumMinato": "https://static-data.subwallet.app/chains/images/icon/soneium_2fb4f8f192.png"
 }

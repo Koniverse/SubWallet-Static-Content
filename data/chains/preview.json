@@ -94,7 +94,6 @@
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
       "MevBlocker": "https://rpc.mevblocker.io/",
-      "1rpc": "https://1rpc.io/eth",
       "Ethereum": "https://eth-rpc.subwallet.app/ "
     },
     "evmInfo": {
@@ -306,7 +305,6 @@
       "Astar": "wss://rpc.astar.network",
       "OnFinality": "wss://astar.api.onfinality.io/public-ws",
       "Blast": "wss://astar.public.blastapi.io",
-      "1RPC": "wss://1rpc.io/astr",
       "Light Client": "light://substrate-connect/polkadot/astar"
     },
     "evmInfo": null,
@@ -8314,8 +8312,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_c2910543ab.png",
     "providers": {
       "Asia RPC": "https://rpc.sepolia.org",
-      "Europe RPC 2": "https://rpc2.sepolia.org",
-      "RockX": "https://rpc-sepolia.rockx.com/"
+      "Europe RPC 2": "https://rpc2.sepolia.org"
     },
     "evmInfo": {
       "evmChainId": 11155111,
@@ -8582,7 +8579,7 @@
       "relaySlug": null,
       "paraId": null,
       "genesisHash": "0x77afd6190f1554ad45fd0d31aee62aacc33c6db0ea801129acb813f913e0764f",
-      "addressPrefix": 42,
+      "addressPrefix": 0,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://paseo.subscan.io/",
@@ -9853,7 +9850,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/sama_a666604686.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sama_44e12d305b.png",
     "providers": {
       "Exosama Network": "https://rpc.exosama.com"
     },
@@ -9880,7 +9877,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/blast_685a217977.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/blast_4dea29ab46.png",
     "providers": {
       "Blast": "https://rpc.blast.io"
     },
@@ -9907,7 +9904,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_b90ca649e7.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_0abe629eff.png",
     "providers": {
       "Story Partner": "https://rpc.partner.testnet.storyprotocol.net/"
     },
@@ -9984,7 +9981,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/5irechain_36081274b4.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/5irechain_d185008984.png",
     "providers": {
       "5fire": "https://rpc.5ire.network/"
     },
@@ -9997,6 +9994,114 @@
       "supportSmartContract": [
         "ERC721",
         "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "polygonZkEvm",
+    "name": "Polygon zkEVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_7b35b11dc3.png",
+    "providers": {
+      "zkEVM": "https://zkevm-rpc.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 1101,
+      "blockExplorer": "https://zkevm.polygonscan.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "immutableZkEvm",
+    "name": "Immutable zkEVM Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/immutable_8d5b182530.png",
+    "providers": {
+      "Immutable": "https://rpc.immutable.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 13371,
+      "blockExplorer": "https://explorer.immutable.com/",
+      "existentialDeposit": "0",
+      "symbol": "IMX",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "storyPublic_testnet",
+    "name": "Story Public Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_e0e48ee028.png",
+    "providers": {
+      "Story Testnet": "https://testnet.storyrpc.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 1513,
+      "blockExplorer": "https://testnet.storyscan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "IP",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "soneiumMinato",
+    "name": "Soneium Minato",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/soneium_2fb4f8f192.png",
+    "providers": {
+      "Soneium": "https://rpc.minato.soneium.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 1946,
+      "blockExplorer": "https://explorer-testnet.soneium.org/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
       ],
       "abiExplorer": null
     },
