@@ -1,9 +1,9 @@
 [
   {
     "id": 74,
-    "name": "Share the total prize of 2M MYTH with Mythical Forest",
+    "name": "2M MYTH up for grabs with Mythical Forest",
     "status": "live",
-    "ordinal": 61,
+    "ordinal": 59,
     "description": "Journey deep into the forest 🌳\n\nGet involved in the ecosystem, complete tasks, and collect crystals for up to 2 Million MYTH.\n\nGet ranked on the leaderboard and win BIG!\n\nEnds 13th October.",
     "start_time": "2024-09-03T17:00:00.000Z",
     "end_time": "2024-10-13T16:59:00.000Z",
@@ -26,6 +26,36 @@
         "color": "magenta",
         "name": "Gaming",
         "slug": "gaming"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Win a share of $100,000 in GLMR with Moonrise Points",
+    "status": "live",
+    "ordinal": 61,
+    "description": "As a refresher, we’re talking about $100,000 in prizes for exploring the Moonbeam DeFi ecosystem.\n\nAs you complete Moonrise quests, you’ll interact with projects both on-chain and on X, earning Points along the way. The more Points you collect, the higher you’ll climb on the leaderboard.\n\nThe top 100 leaderboard participants will receive USD or GLMR prizes as follows:\n\nTop 1: $10,000 in GLMR\n\nTop 2 - 10: $3,000 in GLMR\n\nTop 11 - 30: $1,500 in GLMR\n\nTop 31 - 50: $750 in GLMR\n\nTop 51 - 100: $360 in GLMR",
+    "start_time": "2024-08-05T17:00:00.000Z",
+    "end_time": "2024-09-30T16:59:00.000Z",
+    "url": "https://quests.moonbeam.network/",
+    "twitter_url": "https://x.com/MoonbeamNetwork",
+    "reward": "$100,000 in GLMR",
+    "total_winner": "100",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://moonbeam.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/moonbeam_fe54e27668.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Moonrise_Points_5e33863236.jpg",
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
       }
     ]
   },
