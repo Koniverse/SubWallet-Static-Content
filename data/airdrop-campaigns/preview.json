@@ -1,15 +1,103 @@
 [
   {
+    "id": 74,
+    "name": "Share the total prize of 2M MYTH with Mythical Forest",
+    "status": "live",
+    "ordinal": 61,
+    "description": "Journey deep into the forest 🌳\n\nGet involved in the ecosystem, complete tasks, and collect crystals for up to 2 Million MYTH.\n\nGet ranked on the leaderboard and win BIG!\n\nEnds 13th October.",
+    "start_time": "2024-09-03T17:00:00.000Z",
+    "end_time": "2024-10-13T16:59:00.000Z",
+    "url": "https://quests.mythical.games/?invite=sSIWW7em",
+    "twitter_url": "https://x.com/playmythical",
+    "reward": "2M MYTH",
+    "total_winner": "4,000",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://quests.mythical.games/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/mythos_chain_430c6d1b1e.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Mythical_Forest_Quest_c7a538b384.jpg",
+    "chains": [
+      "mythos"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Win in a $1,000 pool prize in DOT with Sparkfest Summer With MultiMedia NFTs contest",
+    "status": "live",
+    "ordinal": 62,
+    "description": "🌞 Sparkfest Summer With MultiMedia NFTs is Here! Join Our Campaign and Ignite Your NFT Journey! \n\n🌟 Get ready to dive into the latest innovations in the NFT space with our four-week Sparkfest Summer campaign! Whether you’re a creator, developer, or NFT enthusiast, this is your chance to learn, mint, and interact with NFTs in groundbreaking ways while climbing the Zealy leaderboard and earning exciting rewards! \n\n📌 Campaign Overview: \n• Duration: 4 Weeks of Non-Stop NFT Action \n• Rewards pool: $1,000 in DOT",
+    "start_time": "2024-08-27T09:30:00.000Z",
+    "end_time": "2024-09-24T10:00:00.000Z",
+    "url": "https://zealy.io/cw/unique/invite/wgV1vdPIgQN3G0fq3vXJ9",
+    "twitter_url": "https://twitter.com/Unique_NFTchain",
+    "reward": "$1,000 in DOT",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw"
+    ],
+    "campaign_url": "https://unique.network/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/f6036ba9_2397_4fc3_adb4_3f6aadd158b9_2024_08_27163422_271bbb9156.jpg",
+    "chains": [
+      "unique_network"
+    ],
+    "categories": [
+      {
+        "color": "primary",
+        "name": "NFT",
+        "slug": "nft"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Split the pool prize of $400 in DOT with Archisinal September Zealy campaign",
+    "status": "live",
+    "ordinal": 63,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn and share the Archisinal love! ❤️‍🔥\n\nStarts: 2 September 🚦\nEnds: 30 September 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "start_time": "2024-09-02T08:00:00.000Z",
+    "end_time": "2024-09-30T08:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$400 in DOT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Wi_NGH_Ws_AE_0sgj_4d9887767f.jpg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
     "id": 71,
-    "name": "Earn a total of 175 XP with Soneium Minato Testnet Quest on Layer3",
-    "status": "upcoming",
-    "ordinal": 66,
+    "name": "Earn a total of 100 XP with Soneium Minato Testnet Quest on Layer3",
+    "status": "live",
+    "ordinal": 64,
     "description": "The Soneium Minato Testnet\n\nDive into Sony’s innovative Soneium blockchain, a powerful Ethereum Layer-2 network designed to revolutionize Web3 with scalability and integration.",
     "start_time": "2024-08-28T17:00:00.000Z",
     "end_time": null,
     "url": "https://app.layer3.xyz/quests/the-soneium-minato-testnet?slug=the-soneium-minato-testnet",
     "twitter_url": "https://x.com/soneium",
-    "reward": "175 XP",
+    "reward": "100 XP",
     "total_winner": "N/A",
     "total_supply": null,
     "tags": [
@@ -24,9 +112,70 @@
     "categories": []
   },
   {
+    "id": 69,
+    "name": "Grab 2,500 PLMC prize pool with Polimec Polkadot Achievers Campaign",
+    "status": "live",
+    "ordinal": 65,
+    "description": "Welcome to the Polimec PolkAchievers Campaign!\n\nPolimec Protocol, in collaboration with Airlyft, is launching a campaign called Polkadot Achievers Campaign. Participate, get your Polimec NFT, and be one of ten lucky winners who have the opportunity to win 250 PLMC by completing all Campaign Tasks.",
+    "start_time": "2024-08-19T09:00:00.000Z",
+    "end_time": "2024-09-19T09:00:00.000Z",
+    "url": "https://polkadot.airlyft.one/polimec/polkachievers-polimec-season-1-kick-off",
+    "twitter_url": "https://x.com/PolimecProtocol",
+    "reward": "2,500 PLMC",
+    "total_winner": "10",
+    "total_supply": null,
+    "tags": [
+      "lucky_draw",
+      "fcfs"
+    ],
+    "campaign_url": "https://www.polimec.org/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/polimec_9b0493a626.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/2024_08_19_10_21_44_de4e5b321a.jpg",
+    "chains": [
+      "polimec"
+    ],
+    "categories": [
+      {
+        "color": "primary",
+        "name": "NFT",
+        "slug": "nft"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Share 10M AJUN pool prize with BBB campaign - use the code 2758",
+    "status": "live",
+    "ordinal": 66,
+    "description": "USE CODE: 2758\n\n10M AJUN are up for grabs for those who create Legendary Ballz, an additional 50 prizes of 1,000 AJUN are being sent out amongst those who complete the AirLyft Onboarding Campaign!\n\nBBB is Ajuna Network's second collective-based game, similar to AAA gameplay, but with some twists. BBB is our first game to test a free-2-play model, affiliate system, and incentivized tournaments. Furthermore, it’s an explorative game to enter the mobile market and prepare for the adoption of more complex titles. \n\nMost importantly, it's being used to transition from Bajun Network to Ajuna Network and reward those who participate in the game over the next couple months, with our mainnet token.",
+    "start_time": "2024-07-14T17:00:00.000Z",
+    "end_time": "2024-09-21T17:00:00.000Z",
+    "url": "https://airlyft.one/ajuna/bbbonboard",
+    "twitter_url": "https://x.com/AjunaNetwork",
+    "reward": "10M AJUN",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://bbb.ajuna.io/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/awesome_ajuna_avatars_815d036a61.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/BBB_55e52d8f50.jpeg",
+    "chains": [
+      "bajun"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 66,
     "name": "Split the pool prize of $400 in DOT with Archisinal August Zealy campaign",
-    "status": "live",
+    "status": "archived",
     "ordinal": 67,
     "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 August 🚦\nEnds: 31 August 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
     "start_time": "2024-08-01T12:00:00.000Z",
@@ -54,7 +203,7 @@
   {
     "id": 67,
     "name": "Win $3,000 prize pool with Credit Farm campaign on Playnation",
-    "status": "live",
+    "status": "archived",
     "ordinal": 67,
     "description": "Rise to the challenge and become a Penguin farmer who makes a real-world impact! \n\nAirdrops are distributed via raffles. \n\nHow to earn raffles:\n1. Top 250 on Credit Farm leaderboard:\nLeaderboard rankings are based on your Earn Speed (blue coin-per-second) in the game. Top 250 players are eligible for raffles. 1st rank has up to 5 raffles allocated!\n\n2. Weekly top inviters:\nEach week during the four weeks of the campaign, top 10 inviters on the Weekly Top Inviters leaderboard are rewarded with raffles. \n\n3. Weekly top new farmers:\nNewbie farmers can compete in the new Weekly New Farmer Leaderboard. Each week, from Monday 0:00 UTC to Sunday 23:59 UTC, a new farmer is defined as playing Credit Farm for the first time within that week.\n\n4. Social event winners:\nWinners in social events during the campaign time can earn additional raffles.",
     "start_time": "2024-08-07T12:30:00.000Z",
@@ -85,67 +234,6 @@
         "color": "purple",
         "name": "RWA",
         "slug": "rwa"
-      }
-    ]
-  },
-  {
-    "id": 68,
-    "name": "Share 10M AJUN pool prize with BBB campaign - use the code 2758",
-    "status": "live",
-    "ordinal": 67,
-    "description": "USE CODE: 2758\n\n10M AJUN are up for grabs for those who create Legendary Ballz, an additional 50 prizes of 1,000 AJUN are being sent out amongst those who complete the AirLyft Onboarding Campaign!\n\nBBB is Ajuna Network's second collective-based game, similar to AAA gameplay, but with some twists. BBB is our first game to test a free-2-play model, affiliate system, and incentivized tournaments. Furthermore, it’s an explorative game to enter the mobile market and prepare for the adoption of more complex titles. \n\nMost importantly, it's being used to transition from Bajun Network to Ajuna Network and reward those who participate in the game over the next couple months, with our mainnet token.",
-    "start_time": "2024-07-14T17:00:00.000Z",
-    "end_time": "2024-09-21T17:00:00.000Z",
-    "url": "https://airlyft.one/ajuna/bbbonboard",
-    "twitter_url": "https://x.com/AjunaNetwork",
-    "reward": "10M AJUN",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://bbb.ajuna.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/awesome_ajuna_avatars_815d036a61.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/BBB_55e52d8f50.jpeg",
-    "chains": [
-      "bajun"
-    ],
-    "categories": [
-      {
-        "color": "magenta",
-        "name": "Gaming",
-        "slug": "gaming"
-      }
-    ]
-  },
-  {
-    "id": 69,
-    "name": "Grab 2,500 PLMC prize pool with Polimec Polkadot Achievers Campaign",
-    "status": "live",
-    "ordinal": 67,
-    "description": "Welcome to the Polimec PolkAchievers Campaign!\n\nPolimec Protocol, in collaboration with Airlyft, is launching a campaign called Polkadot Achievers Campaign. Participate, get your Polimec NFT, and be one of ten lucky winners who have the opportunity to win 250 PLMC by completing all Campaign Tasks.",
-    "start_time": "2024-08-19T09:00:00.000Z",
-    "end_time": "2024-09-19T09:00:00.000Z",
-    "url": "https://polkadot.airlyft.one/polimec/polkachievers-polimec-season-1-kick-off",
-    "twitter_url": "https://x.com/PolimecProtocol",
-    "reward": "2,500 PLMC",
-    "total_winner": "10",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw",
-      "fcfs"
-    ],
-    "campaign_url": "https://www.polimec.org/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/polimec_9b0493a626.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/2024_08_19_10_21_44_de4e5b321a.jpg",
-    "chains": [
-      "polimec"
-    ],
-    "categories": [
-      {
-        "color": "primary",
-        "name": "NFT",
-        "slug": "nft"
       }
     ]
   },
@@ -619,7 +707,7 @@
     "categories": []
   },
   {
-    "id": 25,
+    "id": 73,
     "name": "Win $800 in DOT with Polkadot Loves Conor NFT contest",
     "status": "archived",
     "ordinal": 83,
