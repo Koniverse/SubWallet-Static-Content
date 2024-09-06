@@ -4262,7 +4262,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 100,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/tanssi_2e13dc9c66.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
     "providers": {
       "Dancebox": "wss://dancebox.tanssi-api.network"
     },
@@ -5494,8 +5494,8 @@
     "tonInfo": null
   },
   {
-    "slug": "creditcoin",
-    "name": "Creditcoin",
+    "slug": "cc2_mainnet",
+    "name": "CC Enterprise",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 137,
@@ -5511,7 +5511,7 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://creditcoin.subscan.io/",
+      "blockExplorer": "https://creditcoin-classic.subscan.io/",
       "existentialDeposit": "500",
       "symbol": "CTC",
       "decimals": 18,
@@ -8253,8 +8253,8 @@
     "tonInfo": null
   },
   {
-    "slug": "creditcoinTestEvm",
-    "name": "Creditcoin Testnet - EVM",
+    "slug": "cc3_evm_testnet",
+    "name": "Creditcoin EVM Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -8364,8 +8364,8 @@
     "tonInfo": null
   },
   {
-    "slug": "creditcoinTest",
-    "name": "Creditcoin testnet",
+    "slug": "cc3_substrate_testnet",
+    "name": "Creditcoin Native Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
@@ -9028,7 +9028,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/cess_fca2169d6f.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cess_c8b3ae185d.png",
     "providers": {
       "CESS Testnet": "wss://testnet-rpc.cess.cloud/ws/"
     },
@@ -9931,7 +9931,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://toncenter.com/api/v2/jsonRPC"
+      "Toncenter": "https://ton-rpc.subwallet.app/jsonRPC "
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -9956,7 +9956,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://testnet.toncenter.com/api/v2/jsonRPC"
+      "TonCenter": "https://ton-rpc-testnet.subwallet.app/jsonRPC"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -10096,6 +10096,94 @@
       "blockExplorer": "https://explorer-testnet.soneium.org/",
       "existentialDeposit": "0",
       "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "base_sepolia",
+    "name": "Base Sepolia",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/base_mainnet_29f463514e.png",
+    "providers": {
+      "Base": "https://sepolia.base.org",
+      "BlockPi": "https://base-sepolia.blockpi.network/v1/rpc/public",
+      "Public Node": "https://base-sepolia-rpc.publicnode.com"
+    },
+    "evmInfo": {
+      "evmChainId": 84532,
+      "blockExplorer": "https://sepolia-explorer.base.org",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "creditcoin_native",
+    "name": "Creditcoin Native",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/creditcoin_5f8267a91a.png",
+    "providers": {
+      "Creditcoin CC3 mainnnet": "wss://mainnet3.creditcoin.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x4436a7d64e363df85e065a894721002a86643283f9707338bf195d360ba2ee71",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://creditcoin.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "CTC",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "creditcoin_evm",
+    "name": " Creditcoin EVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/creditcoin_5f8267a91a.png",
+    "providers": {
+      "Creditcoin EVM": "https://mainnet3.creditcoin.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 102030,
+      "blockExplorer": "https://creditcoin.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "CTC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
