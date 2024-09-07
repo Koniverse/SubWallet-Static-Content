@@ -30,6 +30,30 @@
     ]
   },
   {
+    "id": 76,
+    "name": "Get a share of $200 in USDT rewards with Polimec Zealy Sprint",
+    "status": "live",
+    "ordinal": 60,
+    "description": "Legend, welcome to the Polimec community! This community page allows you to interact with Polimec-related activities by completing tasks to become your own VC. \n\nLet's start with the basics - You can find a set of tasks in our Welcome Sprint. \n\nPlease complete all tasks as a first step and have the chance to win some stables in our lottery!",
+    "start_time": "2024-09-06T07:00:00.000Z",
+    "end_time": "2024-09-20T07:00:00.000Z",
+    "url": "https://zealy.io/cw/polimec/invite/lQA1Q4vKGuuYuYdXvRym9",
+    "twitter_url": "https://x.com/PolimecProtocol",
+    "reward": "200 USDT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "manual_selection"
+    ],
+    "campaign_url": "https://www.polimec.org/",
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/polimec_ddd1a7c51d.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Polimec_Zealy_campaign_6422ae7916.png",
+    "chains": [
+      "polimec"
+    ],
+    "categories": []
+  },
+  {
     "id": 75,
     "name": "Win a share of $100,000 in GLMR with Moonrise Points",
     "status": "live",
@@ -64,7 +88,7 @@
     "name": "Share $1,000 pool prize in DOT with Sparkfest Summer With MultiMedia NFTs contest",
     "status": "live",
     "ordinal": 62,
-    "description": "🌞 Sparkfest Summer With MultiMedia NFTs is here! Join Our Campaign and Ignite Your NFT Journey! \n\n🌟 Get ready to dive into the latest innovations in the NFT space with our four-week Sparkfest Summer campaign! Whether you’re a creator, developer, or NFT enthusiast, this is your chance to learn, mint, and interact with NFTs in groundbreaking ways while climbing the Zealy leaderboard and earning exciting rewards! \n\n📌 Campaign Overview: \n• Duration: 4 Weeks of Non-Stop NFT Action \n• Rewards pool: $1,000 in DOT",
+    "description": "🌞 Sparkfest Summer With MultiMedia NFTs is here! Join Our Campaign and Ignite Your NFT Journey! \n\n🌟 Get ready to dive into the latest innovations in the NFT space with our four-week Sparkfest Summer campaign! Whether you’re a creator, developer, or NFT enthusiast, this is your chance to learn, mint, and interact with NFTs in groundbreaking ways while climbing the Zealy leaderboard and earning exciting rewards! \n\n📌 Campaign Overview: \n\n• Duration: 4 Weeks of Non-Stop NFT Action \n\n• Rewards pool: $1,000 in DOT",
     "start_time": "2024-08-27T09:30:00.000Z",
     "end_time": "2024-09-24T10:00:00.000Z",
     "url": "https://zealy.io/cw/unique/invite/wgV1vdPIgQN3G0fq3vXJ9",
@@ -94,7 +118,7 @@
     "name": "Split the pool prize of $400 in DOT with Archisinal September Zealy campaign",
     "status": "live",
     "ordinal": 63,
-    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn, and share the Archisinal love! ❤️‍🔥\n\nStarts: 2 September 🚦\nEnds: 30 September 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn, and share the Archisinal love! ❤️‍🔥\n\nStarts: 2 September 🚦\n\nEnds: 30 September 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
     "start_time": "2024-09-02T08:00:00.000Z",
     "end_time": "2024-09-30T08:00:00.000Z",
     "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
