@@ -826,6 +826,27 @@
     ]
   },
   {
+    "id": 180,
+    "title": "Mythical Forest",
+    "description": "Mythical Forest is a task-based quest where you can earn points for every completed task and exclusive NFT gems. Complete each task to earn. The more quests you complete, the more you earn. You can even earn points by inviting your frens!",
+    "url": "https://quests.mythical.games/",
+    "subtitle": "Mythical Games' quest platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 345,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mythical_48ca9eea86.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/MYT_Hical_Forest_40d6b992c7.png",
+    "chains": [
+      "mythos"
+    ],
+    "categories": [
+      "gaming",
+      "nft"
+    ]
+  },
+  {
     "id": 131,
     "title": "Creditcoin Staking Dashboard",
     "description": "Stake on Creditcoin to secure the network powering real-world assets and earn rewards.",
