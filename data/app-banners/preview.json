@@ -316,7 +316,7 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "OR",
+    "comparison_operator": "AND",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
