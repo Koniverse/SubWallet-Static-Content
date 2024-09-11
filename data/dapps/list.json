@@ -641,6 +641,27 @@
     ]
   },
   {
+    "id": 181,
+    "title": "Avail Bridge",
+    "description": "The Avail team partnered with Succinct Labs to develop a trust-minimized bridge between Avail DA and Ethereum. The Avail bridge currently supports bridging AVAIL tokens between Avail DA and Ethereum.",
+    "url": "https://bridge.avail.so/",
+    "subtitle": "Bridge AVAIL token between Avail and Ethereum",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 265,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/avail_3e7774cff6.png",
+    "preview_image": null,
+    "chains": [
+      "avail_mainnet",
+      "ethereum"
+    ],
+    "categories": [
+      "bridge"
+    ]
+  },
+  {
     "id": 143,
     "title": "Manta Pacific Bridge",
     "description": "Bridge funds from Ethereum to Manta Pacific to start exploring Manta Pacific - the first EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.",
