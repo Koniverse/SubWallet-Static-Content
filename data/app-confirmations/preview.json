@@ -8,6 +8,7 @@
     "cancel_label": "Cancel",
     "content": "![A0-Common_Drops_3.png](https://media-resources.subwallet.app//6/A0_Common_Drops_3_2037ef904e.png)\n\nVersion 1.1.50(364)\n>- **New assets supported**: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>- **Warning added**: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>---\n>*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw)\n\n---\n\n#### **Version 1.1.50(364)**\n*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n\n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam",
     "repeat_every_x_days": null,
+    "comparison_operator": null,
     "position_params": [
       {
         "property": "id",
@@ -25,6 +26,7 @@
     "cancel_label": "Cancel",
     "content": ">##### **Version 1.1.51(365)**\n> ![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n> \n> **New networks added:**\n>- **New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\n>- New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n**New networks added:**\n**New networks added**: Acurast Canary, Humanode Substrate, Humanode EVM\nNew assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n\n- Warning added: Do not transfer cross-chain to an exchange!",
     "repeat_every_x_days": null,
+    "comparison_operator": null,
     "position_params": [],
     "conditions": {}
   },
@@ -37,6 +39,7 @@
     "cancel_label": "Cancel",
     "content": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\n\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\n\nThe detailed mechanism is as follows:\n\n1. Based on Vara Football Leaderboard: The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries.\n2. Based on Vara Onchain Check-In Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS.\n3. Based on Invite Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased.\n4. Social Event Activities: Participate in social activities to earn additional raffle entries with NPS.\n\nNote: Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited.",
     "repeat_every_x_days": null,
+    "comparison_operator": null,
     "position_params": [],
     "conditions": {}
   }
