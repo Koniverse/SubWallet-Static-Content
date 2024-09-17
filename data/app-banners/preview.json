@@ -329,7 +329,7 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": "=16.7",
+    "ios_version_range": "=16.8",
     "app_version_range": ">1.1.79",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
