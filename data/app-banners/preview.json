@@ -5,6 +5,8 @@
     "priority": null,
     "locations": null,
     "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
     "info": {
       "id": 47,
@@ -55,6 +57,8 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 108,
@@ -105,6 +109,8 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/358_x_88_0ed0cd9efb.png",
     "info": {
       "id": 111,
@@ -155,6 +161,8 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
       "id": 118,
@@ -199,6 +207,8 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": null,
     "info": {
       "id": 124,
@@ -249,6 +259,8 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 125,
@@ -316,14 +328,16 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "AND",
+    "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-09-09T17:00:00.000Z",
+      "stop_time": "2024-09-19T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -343,20 +357,7 @@
         "value": "avail_mainnet-NATIVE-AVAIL"
       }
     ],
-    "conditions": {
-      "condition-earning": [
-        {
-          "pool_slug": "VARA___nomination_pool___vara_network",
-          "comparison": "gt",
-          "value": 1
-        },
-        {
-          "pool_slug": "VARA___native_staking___vara_network",
-          "comparison": "gt",
-          "value": 50
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": null
   }
 ]
