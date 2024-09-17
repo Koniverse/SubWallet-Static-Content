@@ -6581,7 +6581,7 @@
       "symbol": "TAO",
       "decimals": 9,
       "hasNativeNft": false,
-      "supportStaking": false,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -9931,7 +9931,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc.subwallet.app/jsonRPC"
+      "Toncenter": "https://toncenter.com/api/v2/jsonRPC"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -9956,7 +9956,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet.subwallet.app/jsonRPC"
+      "TonCenter": "https://testnet.toncenter.com/api/v2/jsonRPC"
     },
     "evmInfo": null,
     "substrateInfo": null,
