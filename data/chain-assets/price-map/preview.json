@@ -736,5 +736,9 @@
   "hydradx_main-LOCAL-Mill": null,
   "arbitrum_sepolia-NATIVE-ETH": null,
   "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d": null,
-  "base_sepolia-ERC20-WETH-0x4200000000000000000000000000000000000006": null
+  "base_sepolia-ERC20-WETH-0x4200000000000000000000000000000000000006": null,
+  "ethereum-ERC20-XAUt-0x68749665FF8D2d112Fa859AA293F07A622782F38": "tether-gold",
+  "statemint-LOCAL-BUNS": null,
+  "hydradx_main-LOCAL-BUNS": null,
+  "ternoaZkEvm_testnet-NATIVE-CAPS": null
 }

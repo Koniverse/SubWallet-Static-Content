@@ -241,7 +241,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "karura-LOCAL-NEER"
       }
     ]
@@ -1983,6 +1983,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
       }
     ]
   },
@@ -2085,6 +2091,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
       }
     ]
   },
@@ -8634,6 +8652,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
       }
     ]
   },
@@ -9187,6 +9217,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "centrifuge-NATIVE-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
       }
     ]
   },
@@ -9953,7 +9995,26 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_b91a7d9eb5.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "BNC-BifrostPolkadot",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-GLMR",
@@ -15569,6 +15630,76 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_39914b7817.png",
     "originChain": "base_sepolia",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-XAUt-0x68749665FF8D2d112Fa859AA293F07A622782F38",
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "decimals": 6,
+    "priceId": "tether-gold",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x68749665FF8D2d112Fa859AA293F07A622782F38"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xaut_4031715fb7.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-BUNS",
+    "name": "BUNS",
+    "symbol": "BUNS",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1234"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/buns_7aee9a3f78.png",
+    "originChain": "statemint",
+    "multiChainAsset": "BUNS-BUNS",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-BUNS",
+    "name": "BUNS",
+    "symbol": "BUNS",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000177"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/buns_7aee9a3f78.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "BUNS-BUNS",
+    "assetRefs": []
+  },
+  {
+    "slug": "ternoaZkEvm_testnet-NATIVE-CAPS",
+    "name": "Testnet CAPS",
+    "symbol": "CAPS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ternoa_0a97a45a3f.png",
+    "originChain": "ternoaZkEvm_testnet",
     "multiChainAsset": null,
     "assetRefs": []
   }
