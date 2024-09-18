@@ -283,5 +283,6 @@
   "base_sepolia": "https://static-data.subwallet.app/chains/images/icon/base_mainnet_29f463514e.png",
   "creditcoin_native": "https://static-data.subwallet.app/chains/images/icon/creditcoin_5f8267a91a.png",
   "creditcoin_evm": "https://static-data.subwallet.app/chains/images/icon/creditcoin_5f8267a91a.png",
-  "arbitrum_sepolia": "https://static-data.subwallet.app/chains/images/icon/arbitrum_cb1f0d45ad.png"
+  "arbitrum_sepolia": "https://static-data.subwallet.app/chains/images/icon/arbitrum_cb1f0d45ad.png",
+  "ternoaZkEvm_testnet": "https://static-data.subwallet.app/chains/images/icon/ternoa_0a97a45a3f.png"
 }

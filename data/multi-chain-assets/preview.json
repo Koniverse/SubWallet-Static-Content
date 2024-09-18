@@ -1391,5 +1391,18 @@
       "hydradx_main-LOCAL-Mill",
       "statemint-LOCAL-Mill"
     ]
+  },
+  {
+    "slug": "BUNS-BUNS",
+    "name": "BUNS",
+    "symbol": "BUNS",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/buns_7aee9a3f78.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "hydradx_main-LOCAL-BUNS",
+      "statemint-LOCAL-BUNS"
+    ]
   }
 ]

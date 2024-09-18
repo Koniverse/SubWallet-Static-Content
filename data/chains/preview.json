@@ -8268,7 +8268,10 @@
       "existentialDeposit": null,
       "symbol": "CTC",
       "decimals": 18,
-      "supportSmartContract": null,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
       "abiExplorer": null
     },
     "substrateInfo": null,
@@ -10166,7 +10169,7 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": null,
+      "subscanSlug": "creditcoin",
       "chainBalanceSlug": "creditcoin-cc3"
     },
     "bitcoinInfo": null,
@@ -10216,6 +10219,33 @@
       "blockExplorer": "https://sepolia.arbiscan.io/",
       "existentialDeposit": "0",
       "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "ternoaZkEvm_testnet",
+    "name": "Ternoa zkEVM+ Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ternoa_0a97a45a3f.png",
+    "providers": {
+      "Ternoa zkEVM": "https://rpc.zkevm.ternoa.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 752024,
+      "blockExplorer": "https://explorer.zkevm.ternoa.network/",
+      "existentialDeposit": "0",
+      "symbol": "CAPS",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
