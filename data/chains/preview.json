@@ -10169,7 +10169,7 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "creditcoin",
+      "subscanSlug": null,
       "chainBalanceSlug": "creditcoin-cc3"
     },
     "bitcoinInfo": null,
