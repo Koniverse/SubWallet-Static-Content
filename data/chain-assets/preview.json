@@ -15702,5 +15702,21 @@
     "originChain": "ternoaZkEvm_testnet",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "bittensor_devnet-NATIVE-TAO",
+    "name": "Bittensor devnet",
+    "symbol": "TAO",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "bittensor_devnet",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

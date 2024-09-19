@@ -740,5 +740,6 @@
   "ethereum-ERC20-XAUt-0x68749665FF8D2d112Fa859AA293F07A622782F38": "tether-gold",
   "statemint-LOCAL-BUNS": null,
   "hydradx_main-LOCAL-BUNS": null,
-  "ternoaZkEvm_testnet-NATIVE-CAPS": null
+  "ternoaZkEvm_testnet-NATIVE-CAPS": null,
+  "bittensor_devnet-NATIVE-TAO": null
 }
