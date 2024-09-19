@@ -34,7 +34,7 @@
     "staking.cancel_unstake": [],
     "earn.join_pool": [],
     "earn.mint_vdot": [
-      "earn.mint_vdot___"
+      "earn.mint_vdot___DOT___liquid_staking___bifrost_dot"
     ],
     "earn.mint_ldot": [],
     "earn.mint_sdot": [],
