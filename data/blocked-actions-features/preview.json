@@ -17,7 +17,7 @@
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
     ],
     "swap": [
-      "swap___swapQuote.swapPair.slug___providerId"
+      "swap___chainflip_dot-NATIVE-pDOT___sepolia_ethereum-NATIVE-ETH___CHAIN_FLIP_TESTNET"
     ],
     "staking.join_pool": [
       "staking.join_pool___chain"
