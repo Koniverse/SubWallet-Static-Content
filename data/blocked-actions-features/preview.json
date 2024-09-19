@@ -4,16 +4,17 @@
   ],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.balance___polkadot-NATIVE-DOT"
+      "transfer.balance___polkadot-NATIVE-DOT",
+      "transfer.balance___avail_mainnet-NATIVE-AVAIL"
     ],
     "transfer.token": [
       "transfer.token___tokenSlug"
     ],
     "transfer.xcm": [
-      "transfer.xcm___tokenSlug___destChain"
+      "transfer.xcm___pioneer-NATIVE-NEER___karura"
     ],
     "transfer_nft": [
-      "transfer_nft___chain___collectionId"
+      "transfer_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
     ],
     "swap": [
       "swap___swapQuote.swapPair.slug___providerId"
