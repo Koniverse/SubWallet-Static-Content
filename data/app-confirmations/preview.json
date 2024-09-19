@@ -20,7 +20,7 @@
   {
     "id": 5,
     "name": "Earning confirmation",
-    "position": "withdraw",
+    "position": "unstake",
     "repeat": "everytime",
     "confirm_label": "Continue",
     "cancel_label": "Cancel",
