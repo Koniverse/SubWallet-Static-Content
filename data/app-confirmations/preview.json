@@ -33,7 +33,7 @@
   {
     "id": 6,
     "name": "Sendfund",
-    "position": "send-fund",
+    "position": "stake",
     "repeat": "everytime",
     "confirm_label": "Confirm",
     "cancel_label": "Cancel",
