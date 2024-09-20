@@ -357,7 +357,7 @@
   },
   {
     "id": 92,
-    "position": "earning",
+    "position": "missionPools",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
