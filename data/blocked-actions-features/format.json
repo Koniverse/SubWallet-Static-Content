@@ -1,0 +1,109 @@
+{
+  "blockedFeatureList": [
+    "extrinsicType___chain"
+  ],
+  "blockedActionList": {
+    "transfer.balance": [
+      "transfer.balance___tokenSlug"
+    ],
+    "transfer.token": [
+      "transfer.token___tokenSlug"
+    ],
+    "transfer.xcm": [
+      "transfer.xcm___tokenSlug___destChain"
+    ],
+    "transfer_nft": [
+      "transfer_nft___chain___collectionId"
+    ],
+    "swap": [
+      "swap___swapQuote.swapPair.slug___providerId"
+    ],
+    "staking.join_pool": [
+      "staking.join_pool___chain"
+    ],
+    "staking.leave_pool": [
+      "staking.leave_pool___slug"
+    ],
+    "staking.bond": [
+      "staking.bond___chain"
+    ],
+    "staking.unbond": [
+      "staking.unbond___chain"
+    ],
+    "staking.claim_reward": [
+      "staking.claim_reward___slug"
+    ],
+    "staking.withdraw": [
+      "staking.withdraw___slug"
+    ],
+    "staking.compounding": [
+      "staking.compounding___networkKey"
+    ],
+    "staking.cancel_compounding": [
+      "staking.cancel_compounding___networkKey"
+    ],
+    "staking.cancel_unstake": [
+      "staking.cancel_unstake___slug"
+    ],
+    "earn.join_pool": [
+      "earn.join_pool___data.slug"
+    ],
+    "earn.mint_vdot": [
+      "earn.mint_vdot___slug"
+    ],
+    "earn.mint_ldot": [
+      "earn.mint_ldot___slug"
+    ],
+    "earn.mint_sdot": [
+      "earn.mint_sdot___slug"
+    ],
+    "earn.mint_qdot": [
+      "earn.mint_qdot___slug"
+    ],
+    "earn.mint_stdot": [
+      "earn.mint_stdot___slug"
+    ],
+    "earn.mint_vmanta": [
+      "earn.mint_vmanta___slug"
+    ],
+    "earn.redeem_qdot": [
+      "earn.redeem_qdot___slug"
+    ],
+    "earn.redeem_vdot": [
+      "earn.redeem_vdot___slug"
+    ],
+    "earn.redeem_ldot": [
+      "earn.redeem_ldot___slug"
+    ],
+    "earn.redeem_sdot": [
+      "earn.redeem_sdot___slug"
+    ],
+    "earn.redeem_stdot": [
+      "earn.redeem_stdot___slug"
+    ],
+    "earn.redeem_vmanta": [
+      "earn.redeem_vmanta___slug"
+    ],
+    "earn.unstake_qdot": [
+      "earn.unstake_qdot___slug"
+    ],
+    "earn.unstake_vdot": [
+      "earn.unstake_vdot___slug"
+    ],
+    "earn.unstake_ldot": [
+      "earn.unstake_ldot___slug"
+    ],
+    "earn.unstake_sdot": [
+      "earn.unstake_sdot___slug"
+    ],
+    "earn.unstake_stdot": [
+      "earn.unstake_stdot___slug"
+    ],
+    "earn.unstake_vmanta": [
+      "earn.unstake_vmanta___slug"
+    ],
+    "token.spending_approval": [
+      "token.spending_approval___chain"
+    ]
+  }
+}
