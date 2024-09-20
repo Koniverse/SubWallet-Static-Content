@@ -325,7 +325,7 @@
   },
   {
     "id": 77,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
@@ -337,9 +337,9 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-09-19T17:00:00.000Z",
+      "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -351,12 +351,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "avail_mainnet-NATIVE-AVAIL"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": null
   }
