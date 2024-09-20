@@ -354,5 +354,37 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 92,
+    "position": "earning",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "ios_version_range": ">=16.7.8",
+    "app_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 162,
+      "name": "token",
+      "description": null,
+      "start_time": "2024-08-08T17:00:00.000Z",
+      "stop_time": "2024-09-27T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 143,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
