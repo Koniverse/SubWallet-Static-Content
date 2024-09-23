@@ -341,7 +341,7 @@
       "platforms": [
         "mobile"
       ],
-      "os": "Android",
+      "os": null,
       "is_changelog_popup": null
     },
     "action": {
