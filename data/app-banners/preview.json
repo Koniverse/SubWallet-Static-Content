@@ -410,7 +410,12 @@
       "is_changelog_popup": null
     },
     "action": null,
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "polkadot-NATIVE-DOT"
+      }
+    ],
     "conditions": {},
     "instruction": null
   }
