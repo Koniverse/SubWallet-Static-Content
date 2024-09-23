@@ -420,11 +420,10 @@
       }
     ],
     "conditions": {
-      "condition-balance": [
+      "condition-nft": [
         {
-          "comparison": "gt",
-          "value": 5,
-          "chain_asset": "ton_testnet-NATIVE-TON"
+          "collection_id": null,
+          "chain": "continuum_network"
         }
       ]
     },
