@@ -423,7 +423,7 @@
       "condition-balance": [
         {
           "comparison": "gt",
-          "value": 1,
+          "value": 2,
           "chain_asset": "ton_testnet-NATIVE-TON"
         }
       ]
