@@ -420,9 +420,11 @@
       }
     ],
     "conditions": {
-      "condition-crowdloan": [
+      "condition-earning": [
         {
-          "chain": "polkadot"
+          "pool_slug": "KMA___native_staking___calamari",
+          "comparison": null,
+          "value": null
         }
       ]
     },
