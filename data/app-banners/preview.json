@@ -390,8 +390,8 @@
   },
   {
     "id": 93,
-    "position": "token",
-    "priority": null,
+    "position": "token_detail",
+    "priority": 1,
     "locations": null,
     "comparison_operator": null,
     "ios_version_range": null,
