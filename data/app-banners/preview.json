@@ -387,5 +387,31 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 93,
+    "position": "token",
+    "priority": null,
+    "locations": null,
+    "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/2024_08_19_10_21_44_de4e5b321a.jpg",
+    "info": {
+      "id": 163,
+      "name": "Test banner",
+      "description": null,
+      "start_time": "2024-09-22T17:00:00.000Z",
+      "stop_time": "2024-09-23T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
