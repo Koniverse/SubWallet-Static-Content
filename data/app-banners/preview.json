@@ -413,6 +413,10 @@
       {
         "property": "tokenSlug",
         "value": "ton-NATIVE-TON"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ton_testnet-NATIVE-TON"
       }
     ],
     "conditions": {
