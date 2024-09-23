@@ -419,7 +419,15 @@
         "value": "ton_testnet-NATIVE-TON"
       }
     ],
-    "conditions": {},
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "ton-NATIVE-TON"
+        }
+      ]
+    },
     "instruction": null
   }
 ]
