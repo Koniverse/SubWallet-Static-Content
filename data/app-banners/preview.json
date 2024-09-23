@@ -420,10 +420,9 @@
       }
     ],
     "conditions": {
-      "condition-nft": [
+      "condition-crowdloan": [
         {
-          "collection_id": null,
-          "chain": "continuum_network"
+          "chain": "polkadot"
         }
       ]
     },
