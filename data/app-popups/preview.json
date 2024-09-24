@@ -912,7 +912,7 @@
   {
     "id": 71,
     "priority": 1,
-    "position": "token",
+    "position": "earning",
     "repeat": "once",
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
