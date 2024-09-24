@@ -1,23 +1,6 @@
 {
   "blockedFeaturesList": [
-    "transfer.token___statemint",
-    "transfer.balance___aleph",
-    "transfer.xcm___kusama",
-    "transfer.xcm___statemint",
-    "transfer.balance___moonbeam",
-    "transfer.xcm___mythos",
-    "send_nft___kusama",
-    "swap___statemint",
-    "staking.bond___vara_network",
-    "staking.withdraw___alephTest",
-    "staking.unbond___vara_network",
-    "staking.cancel_unstake___vara_network",
-    "staking.claim_reward___kusama",
-    "earn.mint_ldot___acala",
-    "earn.redeem_ldot___acala", 
-    "earn.unstake_ldot___acala",
-    "earn.unstake_qdot___interlay",
-    "earn.redeem_qdot___interlay"
+    "transfer.balance___aleph"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
