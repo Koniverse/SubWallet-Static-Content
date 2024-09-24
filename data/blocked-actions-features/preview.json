@@ -7,7 +7,7 @@
     "transfer.balance___moonbeam",
     "transfer.xcm___mythos",
     "send_nft___kusama",
-    "swap___polkadot"
+    "swap___statemint"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
