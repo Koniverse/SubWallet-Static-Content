@@ -971,7 +971,7 @@
           "chain_asset": "ton_testnet-NATIVE-TON"
         },
         {
-          "comparison": "gt",
+          "comparison": "lt",
           "value": 5,
           "chain_asset": "polkadot-NATIVE-DOT"
         }
