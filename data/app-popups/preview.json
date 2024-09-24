@@ -917,7 +917,7 @@
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
     "locations": null,
-    "comparison_operator": null,
+    "comparison_operator": "AND",
     "ios_version_range": null,
     "app_version_range": null,
     "media": null,
@@ -964,9 +964,16 @@
       }
     ],
     "conditions": {
-      "condition-crowdloan": [
+      "condition-balance": [
         {
-          "chain": "polkadot"
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "ton_testnet-NATIVE-TON"
+        },
+        {
+          "comparison": "gt",
+          "value": 5,
+          "chain_asset": "polkadot-NATIVE-DOT"
         }
       ]
     }
