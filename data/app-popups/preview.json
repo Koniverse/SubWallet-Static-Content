@@ -968,7 +968,7 @@
         {
           "comparison": "gt",
           "value": 1,
-          "chain_asset": "ton-NATIVE-TON"
+          "chain_asset": "ton_testnet-NATIVE-TON"
         }
       ]
     }
