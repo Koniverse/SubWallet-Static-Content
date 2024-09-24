@@ -12,7 +12,8 @@
     "staking.withdraw___alephTest",
     "staking.unbond___vara_network",
     "staking.cancel_unstake___vara_network",
-    "staking.claim_reward___kusama"
+    "staking.claim_reward___kusama",
+    "earn.mint_ldot___acala"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
