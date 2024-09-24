@@ -964,11 +964,9 @@
       }
     ],
     "conditions": {
-      "condition-balance": [
+      "condition-crowdloan": [
         {
-          "comparison": "gt",
-          "value": 1,
-          "chain_asset": "ton_testnet-NATIVE-TON"
+          "chain": "polkadot"
         }
       ]
     }
