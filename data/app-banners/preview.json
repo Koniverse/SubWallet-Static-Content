@@ -423,8 +423,8 @@
       "condition-earning": [
         {
           "pool_slug": "KMA___native_staking___calamari",
-          "comparison": null,
-          "value": null
+          "comparison": "gt",
+          "value": 1
         }
       ]
     },
