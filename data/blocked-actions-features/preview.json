@@ -11,7 +11,7 @@
       "transfer.token___acala-LOCAL-USDT"
     ],
     "transfer.xcm": [
-      "transfer.xcm___acala-LOCAL-USDT___statemint-LOCAL-USDt"
+      "transfer.xcm___acala-LOCAL-USDT___statemint"
     ],
     "send_nft": [
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
