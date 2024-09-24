@@ -899,6 +899,14 @@
         }
       }
     ],
-    "conditions": {}
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "ton-NATIVE-TON"
+        }
+      ]
+    }
   }
 ]
