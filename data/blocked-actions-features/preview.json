@@ -1,6 +1,6 @@
 {
   "blockedFeaturesList": [
-    "transfer.balance___polkadot"
+    "transfer.balance___kusama"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
