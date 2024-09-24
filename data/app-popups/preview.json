@@ -8,8 +8,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -44,8 +44,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -80,8 +80,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -136,8 +136,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -172,8 +172,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -221,8 +221,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -270,8 +270,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -334,8 +334,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -398,8 +398,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -456,8 +456,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -506,8 +506,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -588,8 +588,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -652,8 +652,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -701,8 +701,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -737,8 +737,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -793,8 +793,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "OR",
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [
       {
@@ -854,8 +854,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -918,8 +918,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "AND",
-    "ios_version_range": null,
     "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
