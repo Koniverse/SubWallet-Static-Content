@@ -15,7 +15,8 @@
     "staking.claim_reward___kusama",
     "earn.mint_ldot___acala",
     "earn.redeem_ldot___acala", 
-    "earn.unstake_ldot___acala"
+    "earn.unstake_ldot___acala",
+    "earn.unstake_qdot___interlay"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
