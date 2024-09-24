@@ -16,7 +16,8 @@
     "earn.mint_ldot___acala",
     "earn.redeem_ldot___acala", 
     "earn.unstake_ldot___acala",
-    "earn.unstake_qdot___interlay"
+    "earn.unstake_qdot___interlay",
+    "earn.redeem_qdot___interlay"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
