@@ -4,7 +4,9 @@
     "transfer.balance___aleph",
     "transfer.xcm___kusama",
     "transfer.xcm___statemint",
-    "transfer.balance___moonbeam"
+    "transfer.balance___moonbeam",
+    "transfer.xcm___mythos",
+    "send_NFT___kusama"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
