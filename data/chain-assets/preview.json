@@ -205,7 +205,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "arbitrum_one-NATIVE-ETH"
       },
       {
