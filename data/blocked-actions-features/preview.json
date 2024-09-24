@@ -7,7 +7,12 @@
     "transfer.balance___moonbeam",
     "transfer.xcm___mythos",
     "send_nft___kusama",
-    "swap___statemint"
+    "swap___statemint",
+    "staking.bond___vara_network",
+    "staking.withdraw___vara_network",
+    "staking.unbond___vara_network",
+    "staking.cancel_unstake___vara_network",
+    "staking.claim_reward___kusama"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
