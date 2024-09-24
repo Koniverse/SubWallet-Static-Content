@@ -908,5 +908,69 @@
         }
       ]
     }
+  },
+  {
+    "id": 71,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 165,
+      "name": "Test",
+      "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
+      "start_time": "2024-07-11T13:00:00.000Z",
+      "stop_time": "2024-09-25T13:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 119,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 120,
+        "label": "Explore",
+        "color": "primary",
+        "instruction": {
+          "id": 95,
+          "confirm_label": "Play",
+          "cancel_label": "Cancel",
+          "instruction_id": 40,
+          "group": null,
+          "slug": "Vara_Campaign_Mobile"
+        },
+        "action": {
+          "id": 144,
+          "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 1,
+          "chain_asset": "ton-NATIVE-TON"
+        }
+      ]
+    }
   }
 ]
