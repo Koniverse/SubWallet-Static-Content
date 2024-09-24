@@ -1,6 +1,7 @@
 {
   "blockedFeaturesList": [
-    "transfer.token___statemint"
+    "transfer.token___statemint",
+    "transfer.balance___aleph"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
