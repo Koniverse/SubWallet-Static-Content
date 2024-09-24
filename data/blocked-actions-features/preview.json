@@ -1,5 +1,6 @@
 {
   "blockedFeaturesList": [
+    "transfer.balance___statemint"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
