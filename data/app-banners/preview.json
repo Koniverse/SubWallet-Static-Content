@@ -429,5 +429,48 @@
       ]
     },
     "instruction": null
+  },
+  {
+    "id": 94,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "ios_version_range": null,
+    "app_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/2024_08_19_10_21_44_de4e5b321a.jpg",
+    "info": {
+      "id": 164,
+      "name": "Test banner",
+      "description": null,
+      "start_time": "2024-09-22T17:00:00.000Z",
+      "stop_time": "2024-09-24T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "ton-NATIVE-TON"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ton_testnet-NATIVE-TON"
+      }
+    ],
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "KMA___native_staking___calamari",
+          "comparison": "gt",
+          "value": 1
+        }
+      ]
+    },
+    "instruction": null
   }
 ]
