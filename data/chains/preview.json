@@ -9033,7 +9033,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cess_c8b3ae185d.png",
     "providers": {
-      "CESS Testnet": "wss://testnet-rpc.cess.cloud/ws/"
+      "CESS Testnet": "wss://testnet-rpc.cess.cloud/ws/",
+      "CESS network": "wss://testnet-rpc.cess.network/ws/"
     },
     "evmInfo": null,
     "substrateInfo": {
