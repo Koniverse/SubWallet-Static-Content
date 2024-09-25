@@ -17,7 +17,8 @@
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
     ],
     "swap": [
-      "swap___chainflip_dot-NATIVE-pDOT___sepolia_ethereum-NATIVE-ETH___CHAIN_FLIP_TESTNET"
+      "swap___chainflip_dot-NATIVE-pDOT___sepolia_ethereum-NATIVE-ETH___CHAIN_FLIP_TESTNET",
+      "swap___hydradx_main-NATIVE-HDX___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET"
     ],
     "staking.join_pool": [
       "staking.join_pool___VARA___nomination_pool___vara_network"
