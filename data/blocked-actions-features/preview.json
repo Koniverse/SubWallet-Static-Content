@@ -1,6 +1,6 @@
 {
   "blockedFeaturesList": [
-    "transfer.balance___aleph",
+    "transfer.balance___aleph"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
