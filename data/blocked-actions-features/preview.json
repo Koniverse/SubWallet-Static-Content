@@ -1,7 +1,6 @@
 {
   "blockedFeaturesList": [
     "transfer.balance___aleph",
-    "token.spending_approval___ethereum"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
