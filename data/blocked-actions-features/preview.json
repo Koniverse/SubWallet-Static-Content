@@ -5,13 +5,16 @@
   "blockedActionsMap": {
     "transfer.balance": [
       "transfer.balance___polkadot-NATIVE-DOT",
-      "transfer.balance___avail_mainnet-NATIVE-AVAIL"
+      "transfer.balance___avail_mainnet-NATIVE-AVAIL",
+      "transfer.balance___moonbeam-NATIVE-GLMR"
     ],
     "transfer.token": [
       "transfer.token___acala-LOCAL-USDT"
     ],
     "transfer.xcm": [
-      "transfer.xcm___acala-LOCAL-USDT___statemint"
+      "transfer.xcm___acala-LOCAL-USDT___statemint",
+      "transfer.xcm___polkadot-NATIVE-DOT___acala",
+      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
     ],
     "send_nft": [
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
