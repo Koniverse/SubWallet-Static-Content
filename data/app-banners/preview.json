@@ -459,7 +459,7 @@
     "position": "earning",
     "priority": 1,
     "locations": null,
-    "comparison_operator": null,
+    "comparison_operator": "AND",
     "app_version_range": null,
     "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
