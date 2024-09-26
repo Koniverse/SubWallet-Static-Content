@@ -710,9 +710,10 @@
       "name": "Crowdloan",
       "description": null,
       "start_time": "2024-08-07T17:00:00.000Z",
-      "stop_time": "2024-08-19T17:00:00.000Z",
+      "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "mobile",
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
