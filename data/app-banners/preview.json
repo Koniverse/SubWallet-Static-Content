@@ -433,7 +433,7 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/2024_08_19_10_21_44_de4e5b321a.jpg",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 164,
       "name": "Test banner",
@@ -441,7 +441,8 @@
       "start_time": "2024-09-22T17:00:00.000Z",
       "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "extension",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
