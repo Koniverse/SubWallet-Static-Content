@@ -441,7 +441,7 @@
       "condition-nft": [
         {
           "collection_id": "409",
-          "chain": "bridgeHubKusama"
+          "chain": "statemine"
         }
       ]
     },
