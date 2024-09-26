@@ -339,7 +339,7 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -357,7 +357,7 @@
   },
   {
     "id": 92,
-    "position": "missionPools",
+    "position": "token_detail",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
@@ -383,25 +383,30 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
     "conditions": {},
     "instruction": null
   },
   {
     "id": 93,
-    "position": "token_detail",
+    "position": "nft",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/MYT_Hical_Forest_40d6b992c7.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
       "id": 163,
       "name": "Test banner",
       "description": null,
       "start_time": "2024-09-22T17:00:00.000Z",
-      "stop_time": "2024-09-24T17:00:00.000Z",
+      "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -409,30 +414,20 @@
       "is_changelog_popup": null
     },
     "action": null,
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "ton-NATIVE-TON"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "ton_testnet-NATIVE-TON"
-      }
-    ],
-    "conditions": {
-      "condition-earning": [
-        {
-          "pool_slug": "KMA___native_staking___calamari",
-          "comparison": "gt",
-          "value": 1
-        }
-      ]
-    },
-    "instruction": null
+    "position_params": [],
+    "conditions": {},
+    "instruction": {
+      "id": 96,
+      "confirm_label": "Stake AZERO",
+      "cancel_label": "Dismiss",
+      "instruction_id": 38,
+      "group": null,
+      "slug": "Test_AZERO"
+    }
   },
   {
     "id": 94,
-    "position": "token_detail",
+    "position": "earning",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
@@ -444,7 +439,7 @@
       "name": "Test banner",
       "description": null,
       "start_time": "2024-09-22T17:00:00.000Z",
-      "stop_time": "2024-09-24T17:00:00.000Z",
+      "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -452,25 +447,34 @@
       "is_changelog_popup": null
     },
     "action": null,
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "ton-NATIVE-TON"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "ton_testnet-NATIVE-TON"
-      }
-    ],
-    "conditions": {
-      "condition-earning": [
-        {
-          "pool_slug": "KMA___native_staking___calamari",
-          "comparison": "gt",
-          "value": 1
-        }
-      ]
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 95,
+    "position": "missionPools",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png",
+    "info": {
+      "id": 166,
+      "name": "Test banner1",
+      "description": null,
+      "start_time": "2024-09-22T17:00:00.000Z",
+      "stop_time": "2024-09-27T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
     },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
     "instruction": null
   }
 ]
