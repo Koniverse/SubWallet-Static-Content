@@ -549,7 +549,7 @@
     "conditions": {
       "condition-crowdloan": [
         {
-          "chain": "ajunaPolkadot"
+          "chain": "invarch"
         }
       ]
     },
