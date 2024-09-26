@@ -512,7 +512,15 @@
     },
     "action": null,
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-has-money": [
+        {
+          "has_money": [
+            "nft"
+          ]
+        }
+      ]
+    },
     "instruction": null
   },
   {
