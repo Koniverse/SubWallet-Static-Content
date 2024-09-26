@@ -485,6 +485,13 @@
           "comparison": "gte",
           "value": 1
         }
+      ],
+      "condition-has-money": [
+        {
+          "has_money": [
+            "nft"
+          ]
+        }
       ]
     },
     "instruction": null
