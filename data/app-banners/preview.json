@@ -440,8 +440,8 @@
     "conditions": {
       "condition-nft": [
         {
-          "collection_id": "8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0",
-          "chain": null
+          "collection_id": null,
+          "chain": "statemine"
         }
       ]
     },
