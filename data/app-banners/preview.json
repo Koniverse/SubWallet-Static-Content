@@ -352,7 +352,15 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0.5,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    },
     "instruction": null
   },
   {
@@ -389,7 +397,15 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {},
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "lt",
+          "value": 0.5,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    },
     "instruction": null
   },
   {
@@ -421,7 +437,14 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": "409",
+          "chain": "bridgeHubKusama"
+        }
+      ]
+    },
     "instruction": {
       "id": 96,
       "confirm_label": "Stake AZERO",
@@ -455,7 +478,15 @@
     },
     "action": null,
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-earning": [
+        {
+          "pool_slug": "DOT___nomination_pool___polkadot",
+          "comparison": "gte",
+          "value": 1
+        }
+      ]
+    },
     "instruction": null
   },
   {
@@ -507,7 +538,13 @@
     },
     "action": null,
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-crowdloan": [
+        {
+          "chain": "ajunaPolkadot"
+        }
+      ]
+    },
     "instruction": null
   }
 ]
