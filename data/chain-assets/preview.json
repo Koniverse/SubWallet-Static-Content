@@ -4551,7 +4551,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
     "originChain": "bifrost",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      }
+    ]
   },
   {
     "slug": "bifrost-LOCAL-vKSM",
@@ -16019,7 +16026,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chainflip_38b6ab9e87.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": [

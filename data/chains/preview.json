@@ -10262,7 +10262,7 @@
   {
     "slug": "bittensor_devnet",
     "name": "Bittensor devnet",
-    "isTestnet": false,
+    "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png",
