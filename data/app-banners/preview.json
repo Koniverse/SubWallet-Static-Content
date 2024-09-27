@@ -358,6 +358,11 @@
           "collection_id": null,
           "chain": "kusama"
         }
+      ],
+      "condition-crowdloan": [
+        {
+          "chain": "invarch"
+        }
       ]
     },
     "instruction": {
