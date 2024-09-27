@@ -375,7 +375,7 @@
   {
     "id": 92,
     "position": "token_detail",
-    "priority": 1,
+    "priority": 2,
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
