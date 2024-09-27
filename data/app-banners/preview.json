@@ -552,7 +552,7 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
