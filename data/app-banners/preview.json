@@ -329,8 +329,8 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": "=1.1.80",
-    "os_version_range": "=16.7",
+    "app_version_range": null,
+    "os_version_range": "<13",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
@@ -341,7 +341,7 @@
       "platforms": [
         "mobile"
       ],
-      "os": "iOS",
+      "os": "Android",
       "is_changelog_popup": null
     },
     "action": {
