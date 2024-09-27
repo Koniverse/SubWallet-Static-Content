@@ -362,7 +362,7 @@
   },
   {
     "id": 92,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
