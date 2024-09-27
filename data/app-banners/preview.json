@@ -330,7 +330,7 @@
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
-    "os_version_range": "=18.0",
+    "os_version_range": ">18.0",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
