@@ -571,6 +571,13 @@
       }
     ],
     "conditions": {},
-    "instruction": null
+    "instruction": {
+      "id": 99,
+      "confirm_label": "Confirm",
+      "cancel_label": "Cancel",
+      "instruction_id": 42,
+      "group": null,
+      "slug": "Vara_Campaign Extension 2"
+    }
   }
 ]
