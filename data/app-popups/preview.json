@@ -854,8 +854,8 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "AND",
-    "app_version_range": ">=1.1.80",
-    "os_version_range": ">=13",
+    "app_version_range": null,
+    "os_version_range": null,
     "media": null,
     "position_params": [],
     "info": {
@@ -900,14 +900,7 @@
         }
       }
     ],
-    "conditions": {
-      "condition-nft": [
-        {
-          "collection_id": null,
-          "chain": "kusama"
-        }
-      ]
-    }
+    "conditions": {}
   },
   {
     "id": 71,
