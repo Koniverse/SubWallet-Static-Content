@@ -352,7 +352,14 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-nft": [
+        {
+          "collection_id": null,
+          "chain": "vara_network"
+        }
+      ]
+    },
     "instruction": {
       "id": 97,
       "confirm_label": null,
