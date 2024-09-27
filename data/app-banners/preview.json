@@ -329,9 +329,9 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": "<1.2.28",
+    "app_version_range": "=1.1.80",
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
       "name": "token",
@@ -339,7 +339,7 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -352,16 +352,13 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0.5,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
-    "instruction": null
+    "conditions": {},
+    "instruction": {
+      "id": 97,
+      "confirm_label": null,
+      "cancel_label": null,
+      "instruction": null
+    }
   },
   {
     "id": 92,
