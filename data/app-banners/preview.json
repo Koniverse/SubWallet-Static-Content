@@ -538,7 +538,7 @@
   },
   {
     "id": 97,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
@@ -552,7 +552,7 @@
       "start_time": "2024-08-08T17:00:00.000Z",
       "stop_time": "2024-09-27T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -564,12 +564,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "aleph-NATIVE-AZERO"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": {
       "id": 99,
