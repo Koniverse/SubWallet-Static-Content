@@ -386,7 +386,7 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-09-27T17:00:00.000Z",
+      "stop_time": "2024-09-29T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -406,15 +406,7 @@
         "value": "aleph-NATIVE-AZERO"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "lt",
-          "value": 0.5,
-          "chain_asset": "aleph-NATIVE-AZERO"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 98,
       "confirm_label": "Confirm",
