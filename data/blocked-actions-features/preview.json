@@ -1,6 +1,7 @@
 {
   "blockedFeaturesList": [
-    "transfer.balance___aleph"
+    "transfer.balance___hydradx_main",
+    "transfer.token___hydradx_main"
   ],
   "blockedActionsMap": {
     "transfer.balance": [
