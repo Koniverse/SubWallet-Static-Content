@@ -492,7 +492,7 @@
   "hydradx_main-LOCAL-BNC": "bifrost-native-coin",
   "hydradx_main-LOCAL-GLMR": "moonbeam",
   "tangleTest-NATIVE-tTNT": null,
-  "dentnet-NATIVE-DENTX": null,
+  "dentnet-NATIVE-DENTX": "dentnet",
   "dentnet-LOCAL-DENT": "dent",
   "phykenTest-NATIVE-KEN": null,
   "creditcoinTestEvm-NATIVE-CTC": null,

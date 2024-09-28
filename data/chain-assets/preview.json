@@ -6869,6 +6869,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
       }
     ]
   },
@@ -8596,7 +8602,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "base_mainnet",
     "multiChainAsset": "ETH-Ethereum",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      }
+    ]
   },
   {
     "slug": "avalanche_c-NATIVE-AVAX",
@@ -10331,7 +10344,7 @@
     "name": "DENTNet",
     "symbol": "DENTX",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "dentnet",
     "minAmount": "10000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
