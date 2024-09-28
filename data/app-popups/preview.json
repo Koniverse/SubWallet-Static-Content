@@ -456,7 +456,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": "<1.2.29",
+    "app_version_range": null,
     "os_version_range": null,
     "media": null,
     "position_params": [],
@@ -465,7 +465,7 @@
       "name": "New version available",
       "description": "Change log test",
       "start_time": "2024-08-14T17:00:00.000Z",
-      "stop_time": "2024-09-23T17:00:00.000Z",
+      "stop_time": "2024-09-29T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
