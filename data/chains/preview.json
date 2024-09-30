@@ -9935,7 +9935,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://toncenter.com/api/v2/jsonRPC"
+      "Toncenter": "https://ton-rpc.subwallet.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -9960,7 +9960,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://testnet.toncenter.com/api/v2/jsonRPC"
+      "TonCenter": "https://ton-rpc-testnet.subwallet.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
