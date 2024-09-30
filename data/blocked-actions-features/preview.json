@@ -17,9 +17,7 @@
       "transfer.xcm___polkadot-NATIVE-DOT___acala",
       "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
     ],
-    "send_nft": [
-      "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
-    ],
+    "send_nft": [],
     "swap": [
       "swap___chainflip_dot-NATIVE-pDOT___sepolia_ethereum-NATIVE-ETH___CHAIN_FLIP_TESTNET",
       "swap___hydradx_main-NATIVE-HDX___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET"
