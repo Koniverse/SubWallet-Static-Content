@@ -492,7 +492,7 @@
   "hydradx_main-LOCAL-BNC": "bifrost-native-coin",
   "hydradx_main-LOCAL-GLMR": "moonbeam",
   "tangleTest-NATIVE-tTNT": null,
-  "dentnet-NATIVE-DENTX": null,
+  "dentnet-NATIVE-DENTX": "dentnet",
   "dentnet-LOCAL-DENT": "dent",
   "phykenTest-NATIVE-KEN": null,
   "creditcoinTestEvm-NATIVE-CTC": null,
@@ -741,5 +741,8 @@
   "statemint-LOCAL-BUNS": null,
   "hydradx_main-LOCAL-BUNS": null,
   "ternoaZkEvm_testnet-NATIVE-CAPS": null,
-  "bittensor_devnet-NATIVE-TAO": null
+  "bittensor_devnet-NATIVE-TAO": null,
+  "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A": "chainflip",
+  "sepolia_ethereum-ERC20-FLIP-0xcD079EAB6B5443b545788Fd210C8800FEADd87fa": null,
+  "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913": "usd-coin"
 }

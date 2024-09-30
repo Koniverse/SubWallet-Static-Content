@@ -108,6 +108,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ]
   },
@@ -205,7 +211,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "arbitrum_one-NATIVE-ETH"
       },
       {
@@ -213,6 +219,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ]
   },
@@ -488,6 +500,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ]
   },
@@ -4533,7 +4551,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
     "originChain": "bifrost",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      }
+    ]
   },
   {
     "slug": "bifrost-LOCAL-vKSM",
@@ -6765,6 +6790,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ]
   },
@@ -6832,6 +6863,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
       }
     ]
   },
@@ -7890,6 +7933,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ]
   },
@@ -8553,7 +8602,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "base_mainnet",
     "multiChainAsset": "ETH-Ethereum",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      }
+    ]
   },
   {
     "slug": "avalanche_c-NATIVE-AVAX",
@@ -10015,14 +10071,26 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": true,
+        "destAsset": "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
       }
     ]
   },
@@ -10276,7 +10344,7 @@
     "name": "DENTNet",
     "symbol": "DENTX",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "dentnet",
     "minAmount": "10000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -10371,8 +10439,26 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
       }
     ]
   },
@@ -10434,6 +10520,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "base_sepolia-ERC20-WETH-0x4200000000000000000000000000000000000006"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
       }
     ]
   },
@@ -15688,7 +15786,32 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_39914b7817.png",
     "originChain": "arbitrum_sepolia",
     "multiChainAsset": "ETH-EthereumSepolia",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "chainflip_dot-NATIVE-pDOT"
+      }
+    ]
   },
   {
     "slug": "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d",
@@ -15706,7 +15829,32 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
     "originChain": "arbitrum_sepolia",
     "multiChainAsset": "USDC-USDCSepolia",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "chainflip_dot-NATIVE-pDOT"
+      }
+    ]
   },
   {
     "slug": "base_sepolia-ERC20-WETH-0x4200000000000000000000000000000000000006",
@@ -15795,5 +15943,109 @@
     "originChain": "ternoaZkEvm_testnet",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A",
+    "name": "Chainflip",
+    "symbol": "FLIP",
+    "decimals": 18,
+    "priceId": "chainflip",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x826180541412D574cf1336d22c0C0a287822678A"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chainflip_38b6ab9e87.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polkadot-NATIVE-DOT"
+      }
+    ]
+  },
+  {
+    "slug": "sepolia_ethereum-ERC20-FLIP-0xcD079EAB6B5443b545788Fd210C8800FEADd87fa",
+    "name": "Chainflip",
+    "symbol": "FLIP",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xcD079EAB6B5443b545788Fd210C8800FEADd87fa"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chainflip_38b6ab9e87.png",
+    "originChain": "sepolia_ethereum",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "chainflip_dot-NATIVE-pDOT"
+      }
+    ]
   }
 ]
