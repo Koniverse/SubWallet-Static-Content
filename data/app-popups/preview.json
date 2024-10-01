@@ -854,7 +854,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "AND",
-    "app_version_range": "> 1.1.80",
+    "app_version_range": "= 1.1.81",
     "os_version_range": "> 16.4",
     "media": null,
     "position_params": [],
