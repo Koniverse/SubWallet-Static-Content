@@ -855,7 +855,7 @@
     "locations": null,
     "comparison_operator": "AND",
     "app_version_range": "> 1.1.80",
-    "os_version_range": "<=13",
+    "os_version_range": "> 16.4",
     "media": null,
     "position_params": [],
     "info": {
