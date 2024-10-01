@@ -5,7 +5,6 @@
   ],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.balance___polkadot-NATIVE-DOT",
       "transfer.balance___avail_mainnet-NATIVE-AVAIL",
       "transfer.balance___moonbeam-NATIVE-GLMR"
     ],
