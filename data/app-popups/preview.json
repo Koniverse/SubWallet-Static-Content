@@ -793,7 +793,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "OR",
-    "app_version_range": "<1.2.29",
+    "app_version_range": ">=1.2.29",
     "os_version_range": null,
     "media": null,
     "position_params": [],
