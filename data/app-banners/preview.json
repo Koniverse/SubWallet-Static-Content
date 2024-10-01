@@ -330,7 +330,7 @@
     "locations": null,
     "comparison_operator": "AND",
     "app_version_range": ">=1.1.80",
-    "os_version_range": "<=13",
+    "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 143,
@@ -382,7 +382,7 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-09-29T17:00:00.000Z",
+      "stop_time": "2024-10-01T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
