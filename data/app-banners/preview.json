@@ -328,7 +328,7 @@
     "position": "token",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "OR",
+    "comparison_operator": "AND",
     "app_version_range": ">=1.1.80",
     "os_version_range": "<=13",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
@@ -337,9 +337,9 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-09-30T17:00:00.000Z",
+      "stop_time": "2024-10-02T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
@@ -352,7 +352,15 @@
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {},
+    "conditions": {
+      "condition-has-money": [
+        {
+          "has_money": [
+            "nft"
+          ]
+        }
+      ]
+    },
     "instruction": {
       "id": 97,
       "confirm_label": null,
@@ -362,13 +370,13 @@
   },
   {
     "id": 92,
-    "position": "token_detail",
+    "position": "token",
     "priority": 2,
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
     "info": {
       "id": 162,
       "name": "token",
@@ -383,17 +391,12 @@
     },
     "action": {
       "id": 143,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
       "screen": null,
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "aleph-NATIVE-AZERO"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": {
       "id": 98,
