@@ -910,8 +910,8 @@
     "content": "![358 x 144.png](https://media-resources.subwallet.app/6/358_x_144_5aa4f4d375.png)",
     "repeat_every_x_days": null,
     "locations": null,
-    "comparison_operator": "AND",
-    "app_version_range": null,
+    "comparison_operator": "OR",
+    "app_version_range": "=1.2.29",
     "os_version_range": null,
     "media": null,
     "position_params": [],
@@ -920,7 +920,7 @@
       "name": "Test",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-11T13:00:00.000Z",
-      "stop_time": "2024-09-25T13:00:00.000Z",
+      "stop_time": "2024-10-02T13:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -956,19 +956,6 @@
         }
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 1,
-          "chain_asset": "ton_testnet-NATIVE-TON"
-        },
-        {
-          "comparison": "lt",
-          "value": 5,
-          "chain_asset": "polkadot-NATIVE-DOT"
-        }
-      ]
-    }
+    "conditions": {}
   }
 ]
