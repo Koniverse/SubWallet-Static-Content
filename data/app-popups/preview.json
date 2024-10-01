@@ -796,12 +796,7 @@
     "app_version_range": "<1.2.29",
     "os_version_range": null,
     "media": null,
-    "position_params": [
-      {
-        "property": null,
-        "value": null
-      }
-    ],
+    "position_params": [],
     "info": {
       "id": 151,
       "name": "Earning",
