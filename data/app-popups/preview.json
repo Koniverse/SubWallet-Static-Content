@@ -793,7 +793,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "OR",
-    "app_version_range": null,
+    "app_version_range": "=1.2.29",
     "os_version_range": null,
     "media": null,
     "position_params": [
@@ -806,10 +806,10 @@
       "id": 151,
       "name": "Earning",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
-      "start_time": "2024-07-31T17:00:00.000Z",
-      "stop_time": "2024-08-30T17:00:00.000Z",
+      "start_time": "2024-09-29T17:00:00.000Z",
+      "stop_time": "2024-10-02T17:00:00.000Z",
       "platforms": [
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
