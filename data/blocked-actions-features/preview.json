@@ -1,8 +1,5 @@
 {
-  "blockedFeaturesList": [
-    "transfer.balance___hydradx_main",
-    "transfer.token___hydradx_main"
-  ],
+  "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [
       "transfer.balance___avail_mainnet-NATIVE-AVAIL",
