@@ -398,7 +398,7 @@
     },
     "position_params": [
       {
-        "property": null,
+        "property": "tokenSlug",
         "value": "avail_mainnet-NATIVE-AVAIL"
       }
     ],
