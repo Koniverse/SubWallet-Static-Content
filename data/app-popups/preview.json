@@ -660,7 +660,7 @@
       "name": "Webapp - Test AZERO",
       "description": "Stake AZERO. Get Your Common Drops!",
       "start_time": "2024-06-18T14:00:00.000Z",
-      "stop_time": "2024-08-29T17:00:00.000Z",
+      "stop_time": "2024-10-04T17:00:00.000Z",
       "platforms": [
         "web"
       ],
@@ -737,7 +737,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": null,
+    "app_version_range": "=1.2.32",
     "os_version_range": null,
     "media": null,
     "position_params": [],
@@ -746,7 +746,7 @@
       "name": "NFT",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-09-29T17:00:00.000Z",
-      "stop_time": "2024-10-01T17:00:00.000Z",
+      "stop_time": "2024-10-04T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
