@@ -233,7 +233,7 @@
       "transak": {
         "network": "polygon",
         "symbol": "MATIC",
-        "isSuspended": false
+        "isSuspended": true
       },
       "banxa": {
         "network": "MATIC",
