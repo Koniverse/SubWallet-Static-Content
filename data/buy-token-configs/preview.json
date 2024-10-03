@@ -238,12 +238,12 @@
       "banxa": {
         "network": "MATIC",
         "symbol": "MATIC",
-        "isSuspended": false
+        "isSuspended": true
       },
       "coinbase": {
         "network": "polygon",
         "symbol": "MATIC",
-        "isSuspended": false
+        "isSuspended": true
       }
     },
     "network": "polygon",
