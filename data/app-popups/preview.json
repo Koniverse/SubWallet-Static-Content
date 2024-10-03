@@ -662,7 +662,8 @@
       "start_time": "2024-06-18T14:00:00.000Z",
       "stop_time": "2024-10-04T17:00:00.000Z",
       "platforms": [
-        "web"
+        "web",
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
