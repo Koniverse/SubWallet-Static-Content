@@ -370,7 +370,7 @@
   },
   {
     "id": 92,
-    "position": "token",
+    "position": "token_detail",
     "priority": 2,
     "locations": null,
     "comparison_operator": null,
@@ -396,7 +396,12 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
+    "position_params": [
+      {
+        "property": null,
+        "value": "avail_mainnet-NATIVE-AVAIL"
+      }
+    ],
     "conditions": {},
     "instruction": {
       "id": 98,
@@ -415,13 +420,13 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
       "id": 163,
       "name": "Test banner",
       "description": null,
       "start_time": "2024-09-22T17:00:00.000Z",
-      "stop_time": "2024-09-27T17:00:00.000Z",
+      "stop_time": "2024-10-04T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -467,7 +472,7 @@
       "name": "Test banner1",
       "description": null,
       "start_time": "2024-09-22T17:00:00.000Z",
-      "stop_time": "2024-09-27T17:00:00.000Z",
+      "stop_time": "2024-10-04T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -533,7 +538,7 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-09-27T17:00:00.000Z",
+      "stop_time": "2024-10-04T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
