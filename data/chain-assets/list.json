@@ -7939,6 +7939,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
       }
     ]
   },
