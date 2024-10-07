@@ -1,10 +1,10 @@
 {
   "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [],
-    "transfer.token": [
-      "transfer.token___turing-NATIVE-TUR"
+    "transfer.balance": [
+        "transfer.balance___turing-NATIVE-TUR"
     ],
+    "transfer.token": [],
     "transfer.xcm": [],
     "send_nft": [],
     "swap": [],
