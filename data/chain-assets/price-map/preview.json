@@ -744,5 +744,8 @@
   "bittensor_devnet-NATIVE-TAO": null,
   "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A": "chainflip",
   "sepolia_ethereum-ERC20-FLIP-0xcD079EAB6B5443b545788Fd210C8800FEADd87fa": null,
-  "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913": "usd-coin"
+  "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913": "usd-coin",
+  "base_mainnet-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth",
+  "arbitrum_one-ERC20-WETH-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": "weth",
+  "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": "weth"
 }
