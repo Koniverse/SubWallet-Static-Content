@@ -1,42 +1,24 @@
 {
   "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [
-      "transfer.balance___avail_mainnet-NATIVE-AVAIL",
-      "transfer.balance___moonbeam-NATIVE-GLMR"
-    ],
+    "transfer.balance": [],
     "transfer.token": [
-      "transfer.token___acala-LOCAL-USDT"
+      "transfer.token___turing-NATIVE-TUR"
     ],
-    "transfer.xcm": [
-      "transfer.xcm___acala-LOCAL-USDT___statemint",
-      "transfer.xcm___polkadot-NATIVE-DOT___acala",
-      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
-    ],
+    "transfer.xcm": [],
     "send_nft": [],
-    "swap": [
-      "swap___chainflip_dot-NATIVE-pDOT___sepolia_ethereum-NATIVE-ETH___CHAIN_FLIP_TESTNET",
-      "swap___hydradx_main-NATIVE-HDX___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET"
-    ],
-    "staking.join_pool": [
-      "staking.join_pool___VARA___nomination_pool___vara_network"
-    ],
-    "staking.leave_pool": [
-      "staking.leave_pool___KSM___nomination_pool___kusama"
-    ],
+    "swap": [],
+    "staking.join_pool": [],
+    "staking.leave_pool": [],
     "staking.bond": [],
     "staking.unbond": [],
-    "staking.claim_reward": [
-      "staking.claim_reward___KSM___nomination_pool___kusama"
-    ],
+    "staking.claim_reward": [],
     "staking.withdraw": [],
     "staking.compounding": [],
     "staking.cancel_compounding": [],
     "staking.cancel_unstake": [],
     "earn.join_pool": [],
-    "earn.mint_vdot": [
-      "earn.mint_vdot___DOT___liquid_staking___bifrost_dot"
-    ],
+    "earn.mint_vdot": [],
     "earn.mint_ldot": [],
     "earn.mint_sdot": [],
     "earn.mint_qdot": [],
@@ -49,15 +31,11 @@
     "earn.redeem_stdot": [],
     "earn.redeem_vmanta": [],
     "earn.unstake_qdot": [],
-    "earn.unstake_vdot": [
-      "earn.unstake_vdot___DOT___liquid_staking___bifrost_dot"
-    ],
+    "earn.unstake_vdot": [],
     "earn.unstake_ldot": [],
     "earn.unstake_sdot": [],
     "earn.unstake_stdot": [],
     "earn.unstake_vmanta": [],
-    "token.spending_approval": [
-      "token.spending_approval___ethereum"
-    ]
+    "token.spending_approval": []
   }
 }
