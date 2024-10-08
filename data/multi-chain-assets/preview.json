@@ -374,7 +374,8 @@
     "originChainAsset": "polygon-NATIVE-POL",
     "chainAssets": [
       "b2-ERC20-MATIC-0xc3ee2Df14B1Bc526c24ED802f1873d49664a0d5c",
-      "ethereum-ERC20-MATIC-0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+      "ethereum-ERC20-MATIC-0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "polygonZkEvm-ERC20-MATIC-0xa2036f0538221a77A3937F1379699f44945018d0"
     ]
   },
   {
