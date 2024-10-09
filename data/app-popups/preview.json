@@ -850,7 +850,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": "AND",
-    "app_version_range": "= 1.1.81",
+    "app_version_range": ">= 1.1.81",
     "os_version_range": "> 16.4",
     "media": null,
     "position_params": [],
@@ -859,9 +859,8 @@
       "name": "Test",
       "description": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign - Mobile",
       "start_time": "2024-07-11T13:00:00.000Z",
-      "stop_time": "2024-10-02T13:00:00.000Z",
+      "stop_time": "2024-10-10T13:00:00.000Z",
       "platforms": [
-        "extension",
         "mobile"
       ],
       "os": null,
