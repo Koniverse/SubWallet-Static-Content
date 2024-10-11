@@ -472,7 +472,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 12,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_e12f7d1924.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
     "providers": {
       "Polygon Scan": "https://polygon-rpc.com/",
       "Llamarpc": "https://polygon.llamarpc.com",
@@ -10287,6 +10287,119 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "mantle",
+    "name": "Mantle Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/mantle_3ce5203e67.png",
+    "providers": {
+      "Mantle": "https://rpc.mantle.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 5000,
+      "blockExplorer": "https://mantlescan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "MNT",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "zkverify_testnet",
+    "name": "zkVerify Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/zkverify_b62ea652b5.png",
+    "providers": {
+      "zkVerify": "wss://testnet-rpc.zkverify.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xc00425dcaa0a1bc5bf1163a2d69d7abb2cc6180de78b4e10297b31a4d9cc928a",
+      "addressPrefix": 251,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://testnet-explorer.zkverify.io/",
+      "existentialDeposit": "10000000000000",
+      "symbol": "ACME",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "rari",
+    "name": "RARI Chain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rari_chain_c5c9b0b514.png",
+    "providers": {
+      "RARI": "https://mainnet.rpc.rarichain.org/http"
+    },
+    "evmInfo": {
+      "evmChainId": 1380012617,
+      "blockExplorer": "https://mainnet.explorer.rarichain.org/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC721",
+        "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "scroll",
+    "name": "Scroll",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/scroll_f2e062220e.png",
+    "providers": {
+      "Scroll": "https://rpc.scroll.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 534352,
+      "blockExplorer": "https://scrollscan.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC721",
+        "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null

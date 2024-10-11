@@ -10,7 +10,7 @@
   "astarEvm": "https://static-data.subwallet.app/chains/images/icon/astar_network_fbd43df7b3.png",
   "statemint": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
   "acala": "https://static-data.subwallet.app/chains/images/icon/acala_10b077e14b.png",
-  "polygon": "https://static-data.subwallet.app/chains/images/icon/polygon_e12f7d1924.png",
+  "polygon": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
   "arbitrum_one": "https://static-data.subwallet.app/chains/images/icon/arbitrum_cb1f0d45ad.png",
   "optimism": "https://static-data.subwallet.app/chains/images/icon/optimism_a6ed6c25a9.png",
   "tomochain": "https://static-data.subwallet.app/chains/images/icon/viction_80495dd96b.png",
@@ -285,5 +285,9 @@
   "creditcoin_evm": "https://static-data.subwallet.app/chains/images/icon/creditcoin_5f8267a91a.png",
   "arbitrum_sepolia": "https://static-data.subwallet.app/chains/images/icon/arbitrum_cb1f0d45ad.png",
   "ternoaZkEvm_testnet": "https://static-data.subwallet.app/chains/images/icon/ternoa_0a97a45a3f.png",
-  "bittensor_devnet": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png"
+  "bittensor_devnet": "https://static-data.subwallet.app/chains/images/icon/bittensor_7ebbcae9d6.png",
+  "mantle": "https://static-data.subwallet.app/chains/images/icon/mantle_3ce5203e67.png",
+  "zkverify_testnet": "https://static-data.subwallet.app/chains/images/icon/zkverify_b62ea652b5.png",
+  "rari": "https://static-data.subwallet.app/chains/images/icon/rari_chain_c5c9b0b514.png",
+  "scroll": "https://static-data.subwallet.app/chains/images/icon/scroll_f2e062220e.png"
 }
