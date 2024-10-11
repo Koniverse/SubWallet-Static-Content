@@ -451,9 +451,9 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 11,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_633a5b16a9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_ee3accca3c.png",
     "originChain": "polygon",
-    "multiChainAsset": null,
+    "multiChainAsset": "POL-Polygon",
     "assetRefs": []
   },
   {
@@ -3873,7 +3873,7 @@
     "name": "Ajuna Network",
     "symbol": "AJUN",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "ajuna-network-2",
     "minAmount": "1000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -7813,7 +7813,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "USDT-Tether",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+      }
+    ]
   },
   {
     "slug": "optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -7944,7 +7951,7 @@
         "type": "SWAP",
         "metadata": null,
         "disable": false,
-        "destAsset": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+        "destAsset": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
       }
     ]
   },
@@ -12051,8 +12058,15 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "availTuringTest",
-    "multiChainAsset": null,
-    "assetRefs": []
+    "multiChainAsset": "AVAIL-AvailTuringTestnet",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d"
+      }
+    ]
   },
   {
     "slug": "bitlayer-NATIVE-BTC",
@@ -16158,6 +16172,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
       }
     ]
   },
@@ -16221,5 +16241,227 @@
     "originChain": "polygon",
     "multiChainAsset": "WETH-WrappedEther",
     "assetRefs": []
+  },
+  {
+    "slug": "arbitrum_one-ERC20-LOGX-0x59062301Fb510F4ea2417B67404CB16D31E604BA",
+    "name": "LogX Network",
+    "symbol": "LOGX",
+    "decimals": 18,
+    "priceId": "logx-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x59062301Fb510F4ea2417B67404CB16D31E604BA"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/logx_4e55923c70.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "mantle-NATIVE-MNT",
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18,
+    "priceId": "mantle",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mantle_3ce5203e67.png",
+    "originChain": "mantle",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "mantle-ERC20-mETH-0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+    "name": "Mantle Staked Ether",
+    "symbol": "mETH",
+    "decimals": 18,
+    "priceId": "mantle-staked-ether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/meth_fe4ab86d4b.png",
+    "originChain": "mantle",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polygonZkEvm-ERC20-MATIC-0xa2036f0538221a77A3937F1379699f44945018d0",
+    "name": "Matic token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "priceId": "matic-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xa2036f0538221a77A3937F1379699f44945018d0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_ee3accca3c.png",
+    "originChain": "polygonZkEvm",
+    "multiChainAsset": "MATIC-Polygon",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-POL-0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+    "name": "Polygon",
+    "symbol": "POL",
+    "decimals": 18,
+    "priceId": "polygon-ecosystem-token",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_ee3accca3c.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "POL-Polygon",
+    "assetRefs": []
+  },
+  {
+    "slug": "zkverify_testnet-NATIVE-ACME",
+    "name": "zkVerify Testnet",
+    "symbol": "ACME",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zkverify_b62ea652b5.png",
+    "originChain": "zkverify_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "rari-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "rari",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "scroll-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "scroll",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+      }
+    ]
+  },
+  {
+    "slug": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "optimism",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d",
+    "name": "Avail Turing Testnet",
+    "symbol": "AVAIL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_3e7774cff6.png",
+    "originChain": "sepolia_ethereum",
+    "multiChainAsset": "AVAIL-AvailTuringTestnet",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "availTuringTest-NATIVE-AVAIL"
+      }
+    ]
   }
 ]
