@@ -181,7 +181,7 @@
   "myriad-NATIVE-MYRIA": "myria",
   "deBio-NATIVE-DBIO": null,
   "collectives-NATIVE-DOT": "polkadot",
-  "ajunaPolkadot-NATIVE-AJUN": null,
+  "ajunaPolkadot-NATIVE-AJUN": "ajuna-network-2",
   "bitgreen-NATIVE-BBB": null,
   "frequency-NATIVE-FRQCY": null,
   "hashedNetwork-NATIVE-HASH": null,
@@ -747,5 +747,17 @@
   "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913": "usd-coin",
   "base_mainnet-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth",
   "arbitrum_one-ERC20-WETH-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": "weth",
-  "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": "weth"
+  "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": "weth",
+  "arbitrum_one-ERC20-LOGX-0x59062301Fb510F4ea2417B67404CB16D31E604BA": "logx-2",
+  "mantle-NATIVE-MNT": "mantle",
+  "mantle-ERC20-mETH-0xcDA86A272531e8640cD7F1a92c01839911B90bb0": "mantle-staked-ether",
+  "polygonZkEvm-ERC20-MATIC-0xa2036f0538221a77A3937F1379699f44945018d0": "matic-network",
+  "ethereum-ERC20-POL-0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6": "polygon-ecosystem-token",
+  "zkverify_testnet-NATIVE-ACME": null,
+  "rari-NATIVE-ETH": "ethereum",
+  "scroll-NATIVE-ETH": "ethereum",
+  "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
+  "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
+  "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb": "dai",
+  "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d": null
 }
