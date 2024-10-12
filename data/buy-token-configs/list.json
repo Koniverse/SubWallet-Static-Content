@@ -163,6 +163,11 @@
         "symbol": "ETH",
         "isSuspended": false
       },
+      "banxa": {
+        "network": "BASE",
+        "symbol": "ETH",
+        "isSuspended": false
+      },
       "coinbase": {
         "network": "base",
         "symbol": "ETH",
@@ -232,29 +237,24 @@
     "serviceInfo": {
       "transak": {
         "network": "polygon",
-        "symbol": "MATIC",
-        "isSuspended": false
-      },
-      "banxa": {
-        "network": "MATIC",
-        "symbol": "MATIC",
-        "isSuspended": false
-      },
-      "coinbase": {
-        "network": "polygon",
-        "symbol": "MATIC",
+        "symbol": "POL",
         "isSuspended": false
       }
     },
     "network": "polygon",
-    "slug": "polygon-NATIVE-MATIC",
-    "symbol": "MATIC",
+    "slug": "polygon-NATIVE-POL",
+    "symbol": "POL",
     "support": "ETHEREUM"
   },
   {
     "serviceInfo": {
       "transak": {
         "network": "moonriver",
+        "symbol": "MOVR",
+        "isSuspended": false
+      },
+      "banxa": {
+        "network": "MOVR",
         "symbol": "MOVR",
         "isSuspended": false
       }
@@ -342,36 +342,10 @@
   {
     "serviceInfo": {
       "transak": {
-        "network": "bsc",
-        "symbol": "BUSD",
-        "isSuspended": true
-      }
-    },
-    "network": "binance",
-    "slug": "binance-ERC20-BUSD-0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "symbol": "BUSD",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
-      "transak": {
         "network": "ethereum",
-        "symbol": "BUSD",
+        "symbol": "CHZ",
         "isSuspended": false
       },
-      "banxa": {
-        "network": "ETH",
-        "symbol": "BUSD",
-        "isSuspended": false
-      }
-    },
-    "network": "ethereum",
-    "slug": "ethereum-ERC20-BUSD-0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-    "symbol": "BUSD",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
       "banxa": {
         "network": "ETH",
         "symbol": "CHZ",
@@ -611,6 +585,11 @@
         "network": "ethereum",
         "symbol": "VERSE",
         "isSuspended": false
+      },
+      "banxa": {
+        "network": "ETH",
+        "symbol": "VERSE",
+        "isSuspended": false
       }
     },
     "network": "ethereum",
@@ -678,6 +657,97 @@
     "network": "arbitrum_one",
     "slug": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "symbol": "USDC",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "polygon",
+        "symbol": "USDC",
+        "isSuspended": false
+      }
+    },
+    "network": "polygon",
+    "slug": "polygon-ERC20-USDC-0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "symbol": "USDC",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "BNC",
+        "symbol": "BNC",
+        "isSuspended": false
+      }
+    },
+    "network": "bifrost",
+    "slug": "bifrost-NATIVE-BNC",
+    "symbol": "BNC",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "immutablezkevm",
+        "symbol": "IMX",
+        "isSuspended": false
+      }
+    },
+    "network": "immutableZkEvm",
+    "slug": "immutableZkEvm-NATIVE-IMX",
+    "symbol": "IMX",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "INTR",
+        "symbol": "INTR",
+        "isSuspended": false
+      }
+    },
+    "network": "interlay",
+    "slug": "interlay-NATIVE-INTR",
+    "symbol": "INTR",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "KAR",
+        "symbol": "KAR",
+        "isSuspended": false
+      }
+    },
+    "network": "karura",
+    "slug": "karura-NATIVE-KAR",
+    "symbol": "KAR",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "KINT",
+        "symbol": "KINT",
+        "isSuspended": false
+      }
+    },
+    "network": "kintsugi",
+    "slug": "kintsugi-NATIVE-KINT",
+    "symbol": "KINT",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "ethereum",
+        "symbol": "PEPE",
+        "isSuspended": false
+      }
+    },
+    "network": "ethereum",
+    "slug": "ethereum-ERC20-PEPE-0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "symbol": "PEPE",
     "support": "ETHEREUM"
   }
 ]
