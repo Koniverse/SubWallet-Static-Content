@@ -3818,7 +3818,7 @@
     "slug": "tinkernet",
     "name": "Tinkernet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 90,
     "icon": "https://static-data.subwallet.app/chains/images/icon/tinkernet_parachain_f670b63d3b.png",
     "providers": {
