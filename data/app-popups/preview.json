@@ -881,7 +881,7 @@
         "instruction": null,
         "action": {
           "id": 142,
-          "url": "/settings/general",
+          "url": "/index.html#/settings/general",
           "screen": null,
           "params": null,
           "is_cancel": null
