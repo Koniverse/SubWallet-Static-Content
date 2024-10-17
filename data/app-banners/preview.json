@@ -346,7 +346,7 @@
     },
     "action": {
       "id": 124,
-      "url": "index.html#/accounts/new-seed-phrase",
+      "url": "/settings/general",
       "screen": null,
       "params": null,
       "is_cancel": null
