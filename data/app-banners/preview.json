@@ -328,8 +328,8 @@
     "position": "token",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "AND",
-    "app_version_range": "=1.2.32",
+    "comparison_operator": null,
+    "app_version_range": null,
     "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
     "info": {
@@ -337,7 +337,7 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-10-04T17:00:00.000Z",
+      "stop_time": "2024-10-17T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -346,21 +346,13 @@
     },
     "action": {
       "id": 124,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "url": "index.html#/accounts/new-seed-phrase",
       "screen": null,
       "params": null,
       "is_cancel": null
     },
     "position_params": [],
-    "conditions": {
-      "condition-has-money": [
-        {
-          "has_money": [
-            "nft"
-          ]
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": {
       "id": 97,
       "confirm_label": null,
