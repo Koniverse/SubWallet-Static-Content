@@ -881,7 +881,7 @@
         "instruction": null,
         "action": {
           "id": 142,
-          "url": "/index.html#/settings/general",
+          "url": "/index.html#/accounts/new-seed-phrase",
           "screen": null,
           "params": null,
           "is_cancel": null
