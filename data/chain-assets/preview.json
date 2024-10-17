@@ -7337,7 +7337,7 @@
     },
     "hasValue": true,
     "ordinal": 364,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_66024badc0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_0fd98e0504.png",
     "originChain": "ethereum",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -14918,7 +14918,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_633a5b16a9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_0fd98e0504.png",
     "originChain": "b2",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -16307,7 +16307,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_ee3accca3c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_0fd98e0504.png",
     "originChain": "polygonZkEvm",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []

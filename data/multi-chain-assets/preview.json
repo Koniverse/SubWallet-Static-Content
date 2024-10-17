@@ -24,7 +24,9 @@
       "moonbeam-ERC20-ETH.wh-0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
       "b2-ERC20-ETH-0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A",
       "blast_mainnet-NATIVE-ETH",
-      "polygonZkEvm-NATIVE-ETH"
+      "polygonZkEvm-NATIVE-ETH",
+      "scroll-NATIVE-ETH",
+      "rari-NATIVE-ETH"
     ]
   },
   {
@@ -207,7 +209,10 @@
       "ethereum-ERC20-DAI-0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "hydradx_main-LOCAL-DAI",
       "hydradx_main-LOCAL-DAI-18",
-      "bobMainnet-ERC20-DAI-0x6c851f501a3f24e29a8e39a29591cddf09369080"
+      "bobMainnet-ERC20-DAI-0x6c851f501a3f24e29a8e39a29591cddf09369080",
+      "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
     ]
   },
   {
@@ -1408,6 +1413,32 @@
     "chainAssets": [
       "hydradx_main-LOCAL-BUNS",
       "statemint-LOCAL-BUNS"
+    ]
+  },
+  {
+    "slug": "POL-Polygon",
+    "name": "Polygon",
+    "symbol": "POL",
+    "priceId": "polygon-ecosystem-token",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/polygon_ee3accca3c.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "ethereum-ERC20-POL-0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+      "polygon-NATIVE-POL"
+    ]
+  },
+  {
+    "slug": "AVAIL-AvailTuringTestnet",
+    "name": "Avail Turing Testnet",
+    "symbol": "AVAIL",
+    "priceId": null,
+    "hasValue": false,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/avail_3e7774cff6.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d",
+      "availTuringTest-NATIVE-AVAIL"
     ]
   }
 ]

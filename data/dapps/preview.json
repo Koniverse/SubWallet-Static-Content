@@ -1351,6 +1351,25 @@
     ]
   },
   {
+    "id": 182,
+    "title": "Mosaic Chain",
+    "description": "Mosaic Chain is a next-generation blockchain, tailored to meet the needs of financial service providers, developers, and innovators. As the proud, soon-to-be parachain in the Polkadot ecosystem, Mosaic Chain empowers you to build a decentralized universe where financial innovation thrives.",
+    "url": "https://app.mosaicalpha.com/",
+    "subtitle": "Aiming to provide the ideal blockchain for DApps",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 545,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/mosaic_chain_26a93288b9.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "defi",
+      "utilities"
+    ]
+  },
+  {
     "id": 16,
     "title": "MoonFit",
     "description": "MoonFit is a Web3 & NFT lifestyle app that promotes active living by rewarding users anytime they burn calories through physical activities.",

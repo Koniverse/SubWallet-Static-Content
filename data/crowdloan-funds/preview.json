@@ -76,10 +76,7 @@
       "first_period": 14,
       "auction_index": 0,
       "owner_display": {
-        "people": {
-          "display": "Parallel Finance - 2",
-          "identity": true
-        },
+        "people": {},
         "address": "15kjdKF4hRbYWzLjovPiohT5pVheXhhk8oKHr3DyTaxF2evd"
       },
       "start_block_at": 1695595068,
@@ -1769,14 +1766,19 @@
       "owner": "152deMvsN7wxMbSmdApsds6LWNNNGgsJ8TTpZLTD2ipEHNg3",
       "bid_id": "15-8-15",
       "raised": "9438420909846719",
-      "status": 2,
+      "status": 4,
       "balance": "0",
       "fund_id": "2013-35",
       "para_id": 2013,
       "end_block": 10881400,
       "in_auctions": [
         14,
-        15
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
       ],
       "last_period": 15,
       "start_block": 9741845,
@@ -1799,10 +1801,10 @@
       "start_block_at": 1649164878,
       "end_lease_block": 20558200,
       "extrinsic_index": "9741845-2",
-      "last_change_block": 22694807,
+      "last_change_block": 22892292,
       "fund_auction_status": 2,
-      "last_change_event_idx": 53,
-      "last_change_timestamp": 1727298126
+      "last_change_event_idx": 59,
+      "last_change_timestamp": 1728485520
     },
     "relayChain": "polkadot",
     "auctionIndex": 15,
@@ -2511,10 +2513,10 @@
       "start_block_at": 1639781700,
       "end_lease_block": 19065600,
       "extrinsic_index": "8179664-3",
-      "last_change_block": 22570601,
+      "last_change_block": 22885566,
       "fund_auction_status": 2,
-      "last_change_event_idx": 62,
-      "last_change_timestamp": 1726548858
+      "last_change_event_idx": 50,
+      "last_change_timestamp": 1728445062
     },
     "relayChain": "polkadot",
     "auctionIndex": 6,
@@ -3178,10 +3180,7 @@
       "first_period": 6,
       "auction_index": 4,
       "owner_display": {
-        "people": {
-          "display": "Parallel Finance - 2",
-          "identity": true
-        },
+        "people": {},
         "address": "15kjdKF4hRbYWzLjovPiohT5pVheXhhk8oKHr3DyTaxF2evd"
       },
       "start_block_at": 1636221704,
@@ -8425,10 +8424,7 @@
       "first_period": 15,
       "auction_index": 54,
       "owner_display": {
-        "people": {
-          "display": "Parallel Finance - 2",
-          "identity": true
-        },
+        "people": {},
         "address": "15kjdKF4hRbYWzLjovPiohT5pVheXhhk8oKHr3DyTaxF2evd"
       },
       "start_block_at": 1698384180,
