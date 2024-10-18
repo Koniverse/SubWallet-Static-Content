@@ -8677,7 +8677,12 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
-      "Avail Turing ": "wss://turing-rpc.avail.so/ws"
+      "Avail Turing ": "wss://turing-rpc.avail.so/ws",
+      "Ankr": "wss://turing-testnet.avail-rpc.com/",
+      "Bware": "wss://avail-turing.public.blastapi.io/",
+      "AllNodes": "wss://avail-turing-rpc.publicnode.com/",
+      "RadiumBlock": "wss://turing.public.curie.radiumblock.co/ws",
+      "BountyBlok": "wss://avail-turing.bountyblok.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8880,7 +8885,14 @@
     "providers": {
       "Avail": "wss://zeref-api.slowops.xyz/ws",
       "SubWallet Avail": "wss://mainnet-rpc.availspace.app",
-      "SubWallet Avail 2": "wss://mainnet-rpc-2.availspace.app"
+      "SubWallet Avail 2": "wss://mainnet-rpc-2.availspace.app",
+      "Ankr": "wss://mainnet.avail-rpc.com/",
+      "Bware": "wss://avail-mainnet.public.blastapi.io/",
+      "RubyNode": "wss://avail-rpc.rubynodes.io/",
+      "BrightlyStake": "wss://avail-us.brightlystake.com/",
+      "GlobalStake": "wss://rpc-avail.globalstake.io/",
+      "BountyBlok": "wss://avail.rpc.bountyblok.io/",
+      "RadiumBlock": "wss://avail.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
