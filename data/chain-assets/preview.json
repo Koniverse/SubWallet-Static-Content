@@ -12281,7 +12281,7 @@
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,
-    "hasValue": true,
+    "hasValue": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "avail_mainnet",
@@ -15263,7 +15263,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "avail_mainnet-NATIVE-AVAIL"
       }
     ]

@@ -99,7 +99,6 @@
   "statemint-LOCAL-wstETH___ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
   "statemint-LOCAL-tBTC___ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88",
   "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88___statemint-LOCAL-tBTC",
-  "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8___avail_mainnet-NATIVE-AVAIL",
   "base_sepolia-NATIVE-ETH___sepolia_ethereum-NATIVE-ETH",
   "base_sepolia-NATIVE-ETH___sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
   "base_sepolia-ERC20-USDC-0x036CbD53842c5426634e7929541eC2318f3dCF7e___sepolia_ethereum-NATIVE-ETH"
