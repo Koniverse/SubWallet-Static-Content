@@ -554,5 +554,37 @@
       "group": "earning",
       "slug": "UNSTAKE_INFO"
     }
+  },
+  {
+    "id": 98,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
+    "info": {
+      "id": 169,
+      "name": "Cross-chain swap",
+      "description": "Cross-chain swap banner at tokens home screen",
+      "start_time": "2024-10-24T17:00:00.000Z",
+      "stop_time": "2024-11-09T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 147,
+      "url": "/index.html#/transaction/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
