@@ -496,7 +496,7 @@
   },
   {
     "id": 100,
-    "position": null,
+    "position": "token",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
