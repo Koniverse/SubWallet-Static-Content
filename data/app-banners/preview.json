@@ -324,167 +324,6 @@
     }
   },
   {
-    "id": 77,
-    "position": "token",
-    "priority": 1,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": null,
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
-    "info": {
-      "id": 143,
-      "name": "token",
-      "description": null,
-      "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-10-17T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 124,
-      "url": "/settings/general",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [],
-    "conditions": {},
-    "instruction": {
-      "id": 97,
-      "confirm_label": null,
-      "cancel_label": null,
-      "instruction": null
-    }
-  },
-  {
-    "id": 92,
-    "position": "token_detail",
-    "priority": 2,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": null,
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Banne2_0a46b9143b.png",
-    "info": {
-      "id": 162,
-      "name": "token",
-      "description": null,
-      "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-10-04T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 143,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "avail_mainnet-NATIVE-AVAIL"
-      }
-    ],
-    "conditions": {},
-    "instruction": {
-      "id": 98,
-      "confirm_label": "Confirm",
-      "cancel_label": "Cancel",
-      "instruction_id": 42,
-      "group": null,
-      "slug": "Vara_Campaign Extension 2"
-    }
-  },
-  {
-    "id": 93,
-    "position": "nft",
-    "priority": 1,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": null,
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
-    "info": {
-      "id": 163,
-      "name": "Test banner",
-      "description": null,
-      "start_time": "2024-09-22T17:00:00.000Z",
-      "stop_time": "2024-10-04T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 145,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [],
-    "conditions": {
-      "condition-nft": [
-        {
-          "collection_id": null,
-          "chain": "statemine"
-        }
-      ]
-    },
-    "instruction": {
-      "id": 96,
-      "confirm_label": "Stake AZERO",
-      "cancel_label": "Dismiss",
-      "instruction_id": 38,
-      "group": null,
-      "slug": "Test_AZERO"
-    }
-  },
-  {
-    "id": 95,
-    "position": "missionPools",
-    "priority": 1,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": null,
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Extension_crowdloan_tabbar_x1_c1e3cfc5a2.png",
-    "info": {
-      "id": 166,
-      "name": "Test banner1",
-      "description": null,
-      "start_time": "2024-09-22T17:00:00.000Z",
-      "stop_time": "2024-10-04T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": null,
-    "position_params": [],
-    "conditions": {
-      "condition-has-money": [
-        {
-          "has_money": [
-            "nft"
-          ]
-        }
-      ]
-    },
-    "instruction": null
-  },
-  {
     "id": 96,
     "position": "crowdloan",
     "priority": 1,
@@ -646,6 +485,32 @@
       "platforms": [
         "extension",
         "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 100,
+    "position": null,
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1600x88_f0151b5917.png",
+    "info": {
+      "id": 171,
+      "name": "WebApp",
+      "description": "WebApp",
+      "start_time": "2024-10-24T17:00:00.000Z",
+      "stop_time": "2024-11-09T17:00:00.000Z",
+      "platforms": [
+        "web"
       ],
       "os": null,
       "is_changelog_popup": null
