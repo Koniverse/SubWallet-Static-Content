@@ -530,7 +530,7 @@
       "name": "token",
       "description": null,
       "start_time": "2024-08-08T17:00:00.000Z",
-      "stop_time": "2024-10-04T17:00:00.000Z",
+      "stop_time": "2024-10-25T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -546,14 +546,7 @@
     },
     "position_params": [],
     "conditions": {},
-    "instruction": {
-      "id": 99,
-      "confirm_label": "Confirm",
-      "cancel_label": "Cancel",
-      "instruction_id": 6,
-      "group": "earning",
-      "slug": "UNSTAKE_INFO"
-    }
+    "instruction": null
   },
   {
     "id": 98,
