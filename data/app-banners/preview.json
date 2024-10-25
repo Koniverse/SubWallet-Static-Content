@@ -398,7 +398,7 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
     "info": {
       "id": 169,
-      "name": "Cross-chain swap",
+      "name": "Cross-chain swap extension mobile token detail",
       "description": "Cross-chain swap banner at tokens home screen",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -473,7 +473,7 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": ">1.1.30",
+    "app_version_range": null,
     "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
     "info": {
@@ -483,13 +483,18 @@
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
       "platforms": [
-        "extension",
-        "mobile"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
     },
-    "action": null,
+    "action": {
+      "id": 148,
+      "url": "index.html#/transaction/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [],
     "conditions": {},
     "instruction": null
@@ -505,7 +510,7 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1600x88_f0151b5917.png",
     "info": {
       "id": 171,
-      "name": "WebApp",
+      "name": "Token Home WebApp",
       "description": "WebApp",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -516,6 +521,38 @@
       "is_changelog_popup": null
     },
     "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 101,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">=1.1.30",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
+    "info": {
+      "id": 172,
+      "name": "Token home mobile",
+      "description": null,
+      "start_time": "2024-10-24T17:00:00.000Z",
+      "stop_time": "2024-11-09T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 149,
+      "url": "subwallet://drawer/transaction-action/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [],
     "conditions": {},
     "instruction": null
