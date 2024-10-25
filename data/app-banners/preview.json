@@ -557,7 +557,7 @@
   },
   {
     "id": 98,
-    "position": "token",
+    "position": "token_detail",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
@@ -571,19 +571,29 @@
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
       "platforms": [
-        "extension"
+        "extension",
+        "mobile"
       ],
       "os": null,
       "is_changelog_popup": null
     },
     "action": {
       "id": 147,
-      "url": "/index.html#/transaction/swap",
+      "url": "https://mobile.subwallet.app/drawer/transaction-action/swap?slug=HDX-HydraDX&chain=hydradx_main",
       "screen": null,
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "DOT-Polkadot"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "USDT-Tether"
+      }
+    ],
     "conditions": {},
     "instruction": null
   }
