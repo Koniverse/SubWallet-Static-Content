@@ -574,7 +574,7 @@
         "extension",
         "mobile"
       ],
-      "os": null,
+      "os": "iOS",
       "is_changelog_popup": null
     },
     "action": {
