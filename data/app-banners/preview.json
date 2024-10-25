@@ -556,5 +556,123 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 102,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": "OR",
+    "app_version_range": ">=1.1.30",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
+    "info": {
+      "id": 173,
+      "name": "Cross-chain swap extension mobile token detail",
+      "description": "Cross-chain swap banner at tokens home screen",
+      "start_time": "2024-10-24T17:00:00.000Z",
+      "stop_time": "2024-11-09T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 150,
+      "url": "index.html#/transaction/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "DOT-Polkadot"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "USDT-Tether"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "polkadot-NATIVE-DOT"
+        },
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        },
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        },
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+        },
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "ethereum-NATIVE-ETH"
+        },
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "arbitrum_one-NATIVE-ETH"
+        },
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+        }
+      ]
+    },
+    "instruction": null
+  },
+  {
+    "id": 103,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": "OR",
+    "app_version_range": ">=1.1.30",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
+    "info": {
+      "id": 174,
+      "name": "ETH extension mobile token detail",
+      "description": "Cross-chain swap banner at tokens home screen",
+      "start_time": "2024-10-24T17:00:00.000Z",
+      "stop_time": "2024-11-09T17:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 151,
+      "url": "index.html#/transaction/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
   }
 ]
