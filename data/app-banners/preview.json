@@ -526,38 +526,6 @@
     "instruction": null
   },
   {
-    "id": 101,
-    "position": "token",
-    "priority": 1,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": ">=1.1.30",
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
-    "info": {
-      "id": 172,
-      "name": "Token home mobile",
-      "description": null,
-      "start_time": "2024-10-24T17:00:00.000Z",
-      "stop_time": "2024-11-09T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 149,
-      "url": "subwallet://drawer/transaction-action/swap",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [],
-    "conditions": {},
-    "instruction": null
-  },
-  {
     "id": 102,
     "position": "token_detail",
     "priority": 1,
