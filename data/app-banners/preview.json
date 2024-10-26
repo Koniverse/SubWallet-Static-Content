@@ -521,7 +521,7 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/2420_88_8ebde70924.png",
     "info": {
       "id": 171,
-      "name": "Token Home WebApp",
+      "name": "WebApp Token Home",
       "description": "WebApp",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -580,10 +580,6 @@
       {
         "property": "tokenSlug",
         "value": "ETH-Ethereum"
-      },
-      {
-        "property": "tokenSlug",
-        "value": null
       },
       {
         "property": "tokenSlug",
@@ -832,13 +828,13 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "OR",
+    "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/2420_88_8ebde70924.png",
     "info": {
       "id": 180,
-      "name": "Token detail webapp",
+      "name": "Webapp Token detail",
       "description": "Cross-chain swap banner at tokens home screen",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -850,7 +846,7 @@
     },
     "action": {
       "id": 156,
-      "url": null,
+      "url": "https://web.subwallet.app/transaction/swap",
       "screen": null,
       "params": null,
       "is_cancel": null
@@ -885,13 +881,13 @@
     "position": "token_detail",
     "priority": 1,
     "locations": null,
-    "comparison_operator": "OR",
+    "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1600x88_6b735c63f8.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1600x88_10b653f601.png",
     "info": {
       "id": 181,
-      "name": "Token detail webapp ETH",
+      "name": "Webapp Token detail ETH",
       "description": "Cross-chain swap banner at tokens home screen",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
