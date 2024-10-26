@@ -698,7 +698,7 @@
     },
     "action": {
       "id": 152,
-      "url": "index.html#/transaction/swap",
+      "url": "subwallet://drawer/transaction-action/swap",
       "screen": null,
       "params": null,
       "is_cancel": null
