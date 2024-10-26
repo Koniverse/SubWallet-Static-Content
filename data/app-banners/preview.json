@@ -479,38 +479,6 @@
     "instruction": null
   },
   {
-    "id": 99,
-    "position": "token",
-    "priority": 1,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": null,
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
-    "info": {
-      "id": 170,
-      "name": "Extension - Token",
-      "description": null,
-      "start_time": "2024-10-24T17:00:00.000Z",
-      "stop_time": "2024-11-09T17:00:00.000Z",
-      "platforms": [
-        "extension"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 148,
-      "url": "index.html#/transaction/swap",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [],
-    "conditions": {},
-    "instruction": null
-  },
-  {
     "id": 100,
     "position": "token",
     "priority": 1,
@@ -899,7 +867,7 @@
     },
     "action": {
       "id": 157,
-      "url": null,
+      "url": "https://66b1634b.chain-abstraction.pages.dev/transaction/swap",
       "screen": null,
       "params": null,
       "is_cancel": null
