@@ -977,13 +977,7 @@
         "label": "I understand",
         "color": "primary",
         "instruction": null,
-        "action": {
-          "id": 154,
-          "url": "index.html#/transaction/swap",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
+        "action": null
       }
     ],
     "conditions": {}
