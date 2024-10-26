@@ -1332,7 +1332,8 @@
       "soneiumMinato-NATIVE-ETH",
       "sepolia_ethereum-NATIVE-ETH",
       "base_sepolia-NATIVE-ETH",
-      "arbitrum_sepolia-NATIVE-ETH"
+      "arbitrum_sepolia-NATIVE-ETH",
+      "unichain_sepolia-NATIVE-ETH"
     ]
   },
   {

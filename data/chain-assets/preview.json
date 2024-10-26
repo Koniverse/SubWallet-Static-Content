@@ -12281,7 +12281,7 @@
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,
-    "hasValue": false,
+    "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
     "originChain": "avail_mainnet",
@@ -16463,5 +16463,21 @@
         "destAsset": "availTuringTest-NATIVE-AVAIL"
       }
     ]
+  },
+  {
+    "slug": "unichain_sepolia-NATIVE-ETH",
+    "name": "Ethereum Sepolia",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "unichain_sepolia",
+    "multiChainAsset": "ETH-EthereumSepolia",
+    "assetRefs": []
   }
 ]

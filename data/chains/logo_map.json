@@ -289,5 +289,6 @@
   "mantle": "https://static-data.subwallet.app/chains/images/icon/mantle_3ce5203e67.png",
   "zkverify_testnet": "https://static-data.subwallet.app/chains/images/icon/zkverify_b62ea652b5.png",
   "rari": "https://static-data.subwallet.app/chains/images/icon/rari_chain_c5c9b0b514.png",
-  "scroll": "https://static-data.subwallet.app/chains/images/icon/scroll_f2e062220e.png"
+  "scroll": "https://static-data.subwallet.app/chains/images/icon/scroll_f2e062220e.png",
+  "unichain_sepolia": "https://static-data.subwallet.app/chains/images/icon/unichain_89d8239d58.png"
 }
