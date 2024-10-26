@@ -814,7 +814,7 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/2420_88_8ebde70924.png",
     "info": {
       "id": 180,
-      "name": "Token detail extension",
+      "name": "Token detail webapp",
       "description": "Cross-chain swap banner at tokens home screen",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -836,6 +836,55 @@
         "property": "tokenSlug",
         "value": "DOT-Polkadot"
       },
+      {
+        "property": "tokenSlug",
+        "value": "USDT-Tether"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "USDC-USDCoin"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ETH-Ethereum"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 108,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": "OR",
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1600x88_6b735c63f8.png",
+    "info": {
+      "id": 181,
+      "name": "Token detail webapp ETH",
+      "description": "Cross-chain swap banner at tokens home screen",
+      "start_time": "2024-10-24T17:00:00.000Z",
+      "stop_time": "2024-11-09T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 157,
+      "url": null,
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
       {
         "property": "tokenSlug",
         "value": "USDT-Tether"
