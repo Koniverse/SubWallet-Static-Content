@@ -427,6 +427,14 @@
       {
         "property": "tokenSlug",
         "value": "USDC-USDCoin"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ETH-Ethereum"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ],
     "conditions": {
@@ -564,6 +572,22 @@
       {
         "property": "tokenSlug",
         "value": "USDT-Tether"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "USDC-USDCoin"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ETH-Ethereum"
+      },
+      {
+        "property": "tokenSlug",
+        "value": null
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
       }
     ],
     "conditions": {
@@ -618,7 +642,7 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1432x272_51e8693e1d.png",
     "info": {
       "id": 174,
-      "name": "ETH extension token detail",
+      "name": "Extension token detail ETH",
       "description": "Cross-chain swap banner at tokens home screen",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -732,7 +756,7 @@
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1432x272_51e8693e1d.png",
     "info": {
       "id": 178,
-      "name": "Token detail mobile",
+      "name": "Mobile Token detail 2",
       "description": "Cross-chain swap banner at tokens home screen",
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
