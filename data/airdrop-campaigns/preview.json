@@ -1,5 +1,98 @@
 [
   {
+    "id": 80,
+    "name": "Join Bifrost Liquid Wave Campaign to get 300 WAVE points",
+    "status": "live",
+    "ordinal": 50,
+    "description": "Bifrost Liquid Wave is NOW LIVE!\n\nEarn 300 WAVE securing your early-bird spot and 30 WAVE for each referral for the upcoming campaign!\n\nComplete tasks to earn WAVE points throughout the campaign.\n\nUse WAVE points in each phase to activate your rewards!\n\nConvert your WAVE points into $bbBNC in the final phase. The more WAVE you earn, the bigger the rewards! ",
+    "start_time": "2024-10-22T17:00:00.000Z",
+    "end_time": "2024-11-05T17:00:00.000Z",
+    "url": "https://wave.bifrost.io/?inviter=14PvQKuKXx3nyGkkca5ZSEDKhqbykJfnqTMLxTr7vdLSEbSZ",
+    "twitter_url": "https://x.com/Bifrost",
+    "reward": "300 WAVE points",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://bifrost.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_7bc34a05fc.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_Liquid_Wave_3e2bb2b72b.jpg",
+    "chains": [
+      "bifrost_dot"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Share up to $75,000 in RARI rewards with DeFi Days campaign",
+    "status": "live",
+    "ordinal": 52,
+    "description": "DeFi Days by RARI is an 8 week-long campaign, aimed at introducing earning opportunities for creators and collectors through DeFi partnerships on RARI Chain.\n\nRewards: ~$75,000 in RARI & partner tokens\n\nRules:\n- Complete Tasks and Collect NFTs: Engage in various activities to earn NFTs PLUS returns from DeFi.\n- Climb the Leaderboard: Move up the leaderboard based on the number of DeFi Days NFT rewards you've collected and your total transactions.\n- Earn Additional Prizes: Top performers will receive extra rewards based on their leaderboard status.",
+    "start_time": "2024-10-23T17:00:00.000Z",
+    "end_time": "2024-12-11T17:00:00.000Z",
+    "url": "https://superboard.xyz/campaign/defi-days-by-rari",
+    "twitter_url": "https://x.com/RariChain",
+    "reward": "$75,000 in RARI",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://rarichain.org/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/rari_chain_c5c9b0b514.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/De_Fi_Days_by_RARI_db069018f7.jpg",
+    "chains": [
+      "rari"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Earn an exclusive NFT with zkVerify Metaschool course ",
+    "status": "live",
+    "ordinal": 55,
+    "description": "zkVerify is the most efficient modular layer optimized to verify ZK proofs 🚀\n\nEnroll in our zkVerify Metaschool course to:\n- Claim an NFT that will unlock exciting rewards in phase 2 of zkVerify incentivized testnet\n- Master zero-knowledge proofs (ZKPs)\n- Tackle the challenges of ZK rollups\n- Explore zkVerify's innovative architecture\n- Gain hands-on experience with zkVerify testnet & proof submission\n\nDon't miss out on what's coming next! ",
+    "start_time": "2024-08-06T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://metaschool.so/courses/introduction-to-zkVerify",
+    "twitter_url": "https://x.com/ZKVProtocol",
+    "reward": "Exclusive NFT",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://zkverify.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zkverify_b62ea652b5.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zk_Verify_Metaschool_course_1b405bb582.jpg",
+    "chains": [
+      "zkverify_testnet"
+    ],
+    "categories": [
+      {
+        "color": "red",
+        "name": "Tooling",
+        "slug": "tooling"
+      }
+    ]
+  },
+  {
     "id": 78,
     "name": "Split the pool prize of $400 in DOT with Archisinal October Zealy campaign",
     "status": "live",
@@ -56,7 +149,7 @@
   {
     "id": 74,
     "name": "2M MYTH up for grabs with Mythical Forest",
-    "status": "live",
+    "status": "archived",
     "ordinal": 59,
     "description": "Journey deep into the forest 🌳\n\nGet involved in the ecosystem, complete tasks, and collect crystals for up to 2 Million MYTH.\n\nGet ranked on the leaderboard and win BIG!\n\nEnds 13th October.",
     "start_time": "2024-09-03T17:00:00.000Z",
