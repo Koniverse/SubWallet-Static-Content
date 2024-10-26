@@ -987,7 +987,7 @@
         "instruction": null,
         "action": {
           "id": 154,
-          "url": "subwallet://drawer/transaction-action/swap",
+          "url": "index.html#/transaction/swap",
           "screen": null,
           "params": null,
           "is_cancel": null
