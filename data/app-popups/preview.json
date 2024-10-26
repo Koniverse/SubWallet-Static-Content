@@ -951,7 +951,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": ">**What’s new in SubWallet**\n>![TAO token supported in SubWallet - 358x144-1.png](https://media-resources.subwallet.app/6/TAO_token_supported_in_Sub_Wallet_358x144_1_3815c8e871.png)\n>**Introducing Unified Account**\n>With only one unified account, you can keep track of all your tokens and NFTs on 200+ networks across Ethereum, Polkadot and TON ecosystems. No more account-switching hassle. **Create an unified account now!**\n\n>![TON support - 358x144.png](https://media-resources.subwallet.app/6/TON_support_358x144_8534bdee93.png)\n>**SubWallet now supports TON network**\n>Send & receive TON and USD₮; plus create, import, or export TON accounts — you can do it all in SubWallet.\n\n>![TAO token supported in SubWallet - 358x144.png](https://media-resources.subwallet.app/6/TAO_token_supported_in_Sub_Wallet_358x144_2c5b12b4fd.png)\n>**TAO is fully supported in SubWallet**\n > - Send and receive TAO tokens\n > - Connect with Ledger account\n > - Native in-app TAO staking\n\n>![1 click Cross-chain swap between Polkadot and Ethereum ecosystem - 258x144.png](https://media-resources.subwallet.app/6/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_258x144_a4b9523381.png)\n**1 click swap among Polkadot, Ethereum and Arbitrum**\nThanks to our integration with Chainflip, you can now easily swap among Polkadot, Ethereum and Arbitrum in one cheap transaction. \n > - DOT on Polkadot ↔ ETH, USDC, USDT on Ethereum\n > - DOT on Polkadot ↔ ETH, USDC on Arbitrum\n > - ETH on Arbitrum ↔ USDC, USDT on Ethereum\n > - ETH on Ethereum ↔ USDC on Arbitrum",
+    "content": ">![TAO token supported in SubWallet - 358x144-1.png](https://media-resources.subwallet.app/6/TAO_token_supported_in_Sub_Wallet_358x144_1_3815c8e871.png)\n>**Introducing Unified Account**\n>With only one unified account, you can keep track of all your tokens and NFTs on 200+ networks across Ethereum, Polkadot and TON ecosystems. No more account-switching hassle. **Create an unified account now!**\n\n>![TON support - 358x144.png](https://media-resources.subwallet.app/6/TON_support_358x144_8534bdee93.png)\n>**SubWallet now supports TON network**\n>Send & receive TON and USD₮; plus create, import, or export TON accounts — you can do it all in SubWallet.\n\n>![TAO token supported in SubWallet - 358x144.png](https://media-resources.subwallet.app/6/TAO_token_supported_in_Sub_Wallet_358x144_2c5b12b4fd.png)\n>**TAO is fully supported in SubWallet**\n > - Send and receive TAO tokens\n > - Connect with Ledger account\n > - Native in-app TAO staking\n\n>![1 click Cross-chain swap between Polkadot and Ethereum ecosystem - 258x144.png](https://media-resources.subwallet.app/6/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_258x144_a4b9523381.png)\n**1 click swap among Polkadot, Ethereum and Arbitrum**\nThanks to our integration with Chainflip, you can now easily swap among Polkadot, Ethereum and Arbitrum in one cheap transaction. \n > - DOT on Polkadot ↔ ETH, USDC, USDT on Ethereum\n > - DOT on Polkadot ↔ ETH, USDC on Arbitrum\n > - ETH on Arbitrum ↔ USDC, USDT on Ethereum\n > - ETH on Ethereum ↔ USDC on Arbitrum",
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
@@ -961,7 +961,7 @@
     "position_params": [],
     "info": {
       "id": 176,
-      "name": "Unified account-extension",
+      "name": "What’s new in SubWallet",
       "description": null,
       "start_time": "2024-10-24T17:00:00.000Z",
       "stop_time": "2024-11-09T17:00:00.000Z",
@@ -976,14 +976,14 @@
       {
         "id": 123,
         "label": "Dismiss",
-        "color": "primary",
+        "color": "secondary",
         "instruction": null,
         "action": null
       },
       {
         "id": 124,
         "label": "Swap",
-        "color": "secondary",
+        "color": "primary",
         "instruction": null,
         "action": {
           "id": 154,
