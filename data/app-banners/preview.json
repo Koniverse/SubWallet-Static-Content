@@ -510,7 +510,7 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": "OR",
-    "app_version_range": ">=1.1.30",
+    "app_version_range": null,
     "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_Cross_chain_swap_between_Polkadot_and_Ethereum_ecosystem_1432x272_2be38a1360.png",
     "info": {
