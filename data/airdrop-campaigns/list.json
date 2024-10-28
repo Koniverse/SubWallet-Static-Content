@@ -62,6 +62,37 @@
     ]
   },
   {
+    "id": 81,
+    "name": "Earn an exclusive NFT with zkVerify Metaschool course ",
+    "status": "live",
+    "ordinal": 55,
+    "description": "zkVerify is the most efficient modular layer optimized to verify ZK proofs 🚀\n\nEnroll in our zkVerify Metaschool course to:\n- Claim an NFT that will unlock exciting rewards in phase 2 of zkVerify incentivized testnet\n- Master zero-knowledge proofs (ZKPs)\n- Tackle the challenges of ZK rollups\n- Explore zkVerify's innovative architecture\n- Gain hands-on experience with zkVerify testnet & proof submission\n\nDon't miss out on what's coming next! ",
+    "start_time": "2024-08-06T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://metaschool.so/courses/introduction-to-zkVerify",
+    "twitter_url": "https://x.com/ZKVProtocol",
+    "reward": "Exclusive NFT",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "fcfs"
+    ],
+    "campaign_url": "https://zkverify.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zkverify_b62ea652b5.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zk_Verify_Metaschool_course_1b405bb582.jpg",
+    "chains": [
+      "zkverify_testnet"
+    ],
+    "categories": [
+      {
+        "color": "red",
+        "name": "Tooling",
+        "slug": "tooling"
+      }
+    ]
+  },
+  {
     "id": 78,
     "name": "Split the pool prize of $400 in DOT with Archisinal October Zealy campaign",
     "status": "live",
