@@ -721,7 +721,7 @@
     "priority": 2,
     "locations": null,
     "comparison_operator": "OR",
-    "app_version_range": null,
+    "app_version_range": ">=1.1.36",
     "os_version_range": ">13",
     "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1432x272_51e8693e1d.png",
     "info": {
