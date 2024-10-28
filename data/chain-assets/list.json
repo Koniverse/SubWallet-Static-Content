@@ -7337,7 +7337,7 @@
     },
     "hasValue": true,
     "ordinal": 364,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_66024badc0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_0fd98e0504.png",
     "originChain": "ethereum",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -12290,7 +12290,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8"
       }
     ]
@@ -14918,7 +14918,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_633a5b16a9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_0fd98e0504.png",
     "originChain": "b2",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -15197,7 +15197,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": true,
+        "disable": false,
         "destAsset": "avail_mainnet-NATIVE-AVAIL"
       }
     ]
@@ -16131,7 +16131,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polygon_ee3accca3c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/matic_0fd98e0504.png",
     "originChain": "polygonZkEvm",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -16226,5 +16226,21 @@
         "destAsset": "availTuringTest-NATIVE-AVAIL"
       }
     ]
+  },
+  {
+    "slug": "unichain_sepolia-NATIVE-ETH",
+    "name": "Ethereum Sepolia",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "unichain_sepolia",
+    "multiChainAsset": "ETH-EthereumSepolia",
+    "assetRefs": []
   }
 ]
