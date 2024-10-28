@@ -1,36 +1,5 @@
 [
   {
-    "id": 80,
-    "name": "Join Bifrost Liquid Wave Campaign to get 300 WAVE points",
-    "status": "live",
-    "ordinal": 50,
-    "description": "Bifrost Liquid Wave is NOW LIVE!\n\nEarn 300 WAVE securing your early-bird spot and 30 WAVE for each referral for the upcoming campaign!\n\nComplete tasks to earn WAVE points throughout the campaign.\n\nUse WAVE points in each phase to activate your rewards!\n\nConvert your WAVE points into $bbBNC in the final phase. The more WAVE you earn, the bigger the rewards! ",
-    "start_time": "2024-10-22T17:00:00.000Z",
-    "end_time": "2024-11-05T17:00:00.000Z",
-    "url": "https://wave.bifrost.io/?inviter=14PvQKuKXx3nyGkkca5ZSEDKhqbykJfnqTMLxTr7vdLSEbSZ",
-    "twitter_url": "https://x.com/Bifrost",
-    "reward": "300 WAVE points",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "points"
-    ],
-    "campaign_url": "https://bifrost.io/",
-    "project_id": null,
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_7bc34a05fc.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_Liquid_Wave_3e2bb2b72b.jpg",
-    "chains": [
-      "bifrost_dot"
-    ],
-    "categories": [
-      {
-        "color": "cyan",
-        "name": "DeFi",
-        "slug": "defi"
-      }
-    ]
-  },
-  {
     "id": 82,
     "name": "Share up to $75,000 in RARI rewards with DeFi Days campaign",
     "status": "live",
@@ -52,6 +21,37 @@
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/De_Fi_Days_by_RARI_db069018f7.jpg",
     "chains": [
       "rari"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Join Bifrost Liquid Wave Campaign to get 300 WAVE points",
+    "status": "live",
+    "ordinal": 53,
+    "description": "Bifrost Liquid Wave is NOW LIVE!\n\nEarn 300 WAVE securing your early-bird spot and 30 WAVE for each referral for the upcoming campaign!\n\nComplete tasks to earn WAVE points throughout the campaign.\n\nUse WAVE points in each phase to activate your rewards!\n\nConvert your WAVE points into $bbBNC in the final phase. The more WAVE you earn, the bigger the rewards! ",
+    "start_time": "2024-10-22T17:00:00.000Z",
+    "end_time": "2024-11-05T17:00:00.000Z",
+    "url": "https://wave.bifrost.io/?inviter=14PvQKuKXx3nyGkkca5ZSEDKhqbykJfnqTMLxTr7vdLSEbSZ",
+    "twitter_url": "https://x.com/Bifrost",
+    "reward": "300 WAVE points",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://bifrost.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_7bc34a05fc.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_Liquid_Wave_3e2bb2b72b.jpg",
+    "chains": [
+      "bifrost_dot"
     ],
     "categories": [
       {
