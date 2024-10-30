@@ -290,5 +290,12 @@
   "zkverify_testnet": "https://static-data.subwallet.app/chains/images/icon/zkverify_b62ea652b5.png",
   "rari": "https://static-data.subwallet.app/chains/images/icon/rari_chain_c5c9b0b514.png",
   "scroll": "https://static-data.subwallet.app/chains/images/icon/scroll_f2e062220e.png",
-  "unichain_sepolia": "https://static-data.subwallet.app/chains/images/icon/unichain_89d8239d58.png"
+  "unichain_sepolia": "https://static-data.subwallet.app/chains/images/icon/unichain_89d8239d58.png",
+  "world_chain": "https://static-data.subwallet.app/chains/images/icon/world_chain_ccf93d3fbe.png",
+  "mode": "https://static-data.subwallet.app/chains/images/icon/mode_d4f8a4fafb.png",
+  "lisk": "https://static-data.subwallet.app/chains/images/icon/lisk_eea89a7d69.png",
+  "zircuit": "https://static-data.subwallet.app/chains/images/icon/zircuit_71b1945ab9.png",
+  "tangle": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
+  "tangle_evm": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
+  "storyOdyssey_testnet": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png"
 }

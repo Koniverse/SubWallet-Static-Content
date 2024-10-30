@@ -26,7 +26,11 @@
       "blast_mainnet-NATIVE-ETH",
       "polygonZkEvm-NATIVE-ETH",
       "scroll-NATIVE-ETH",
-      "rari-NATIVE-ETH"
+      "rari-NATIVE-ETH",
+      "world_chain-NATIVE-ETH",
+      "mode-NATIVE-ETH",
+      "lisk-NATIVE-ETH",
+      "zircuit-NATIVE-ETH"
     ]
   },
   {
@@ -1440,6 +1444,19 @@
     "chainAssets": [
       "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d",
       "availTuringTest-NATIVE-AVAIL"
+    ]
+  },
+  {
+    "slug": "TNT-Tangle",
+    "name": "Tangle",
+    "symbol": "TNT",
+    "priceId": "tangle-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/chain_tangle_d704ce3fe6.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "tangle-NATIVE-TNT",
+      "tangle_evm-NATIVE-TNT"
     ]
   }
 ]

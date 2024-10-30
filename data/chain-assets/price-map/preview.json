@@ -760,5 +760,12 @@
   "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
   "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb": "dai",
   "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d": null,
-  "unichain_sepolia-NATIVE-ETH": null
+  "unichain_sepolia-NATIVE-ETH": null,
+  "world_chain-NATIVE-ETH": "ethereum",
+  "mode-NATIVE-ETH": "ethereum",
+  "lisk-NATIVE-ETH": "ethereum",
+  "zircuit-NATIVE-ETH": "ethereum",
+  "tangle-NATIVE-TNT": "tangle-network",
+  "tangle_evm-NATIVE-TNT": "tangle-network",
+  "storyOdyssey_testnet-NATIVE-IP": null
 }
