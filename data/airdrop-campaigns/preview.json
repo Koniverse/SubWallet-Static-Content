@@ -1,5 +1,34 @@
 [
   {
+    "id": 83,
+    "name": "Split the pool prize of $500 in DOT with Archisinal November Zealy campaign",
+    "status": "live",
+    "ordinal": 51,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn, and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 November🚦\n\nEnds: 30 November 🏁\n\nTop 40 sprinters are eligible for prizes 👀 Plus, one lucky winner from the top 40 will receive an extra $100",
+    "start_time": "2024-11-01T06:00:00.000Z",
+    "end_time": "2024-11-30T06:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$500 in DOT",
+    "total_winner": "40",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Archisinal_November_Zealy_campaign_e3b3648dc8.jpg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
     "id": 82,
     "name": "Share up to $75,000 in RARI rewards with DeFi Days campaign",
     "status": "live",
