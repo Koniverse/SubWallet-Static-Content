@@ -1032,6 +1032,27 @@
     ]
   },
   {
+    "id": 183,
+    "title": "Incognitee - Privacy Sidechains",
+    "description": "Welcome to Incognitee - an exclusive and discreet hub in the heart of Web3. We enable private transfers and unlinkable voting, so you can play away from the crowd's eyes. Your transactions? Secret handshakes between you and your chosen peers.",
+    "url": "https://app.incognitee.io/",
+    "subtitle": "Exclusive and discreet hub",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 425,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/incognitee_40fef23621.png",
+    "preview_image": null,
+    "chains": [
+      "integritee"
+    ],
+    "categories": [
+      "defi",
+      "utilities"
+    ]
+  },
+  {
     "id": 119,
     "title": "Chainviz",
     "description": "Chainviz is a real-time 3D visualization of the Polkadot machine.\nChainviz is a Helikon Labs project, envisioned and developed by Kutsal Kaan Bilgin and designed by Klad.",
@@ -1352,7 +1373,7 @@
   },
   {
     "id": 182,
-    "title": "Mosaic Chain",
+    "title": "Mosaic Alpha",
     "description": "Mosaic Chain is a next-generation blockchain, tailored to meet the needs of financial service providers, developers, and innovators. As the proud, soon-to-be parachain in the Polkadot ecosystem, Mosaic Chain empowers you to build a decentralized universe where financial innovation thrives.",
     "url": "https://app.mosaicalpha.com/",
     "subtitle": "Aiming to provide the ideal blockchain for DApps",
@@ -1363,7 +1384,10 @@
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/mosaic_chain_26a93288b9.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "binance",
+      "binance_test"
+    ],
     "categories": [
       "defi",
       "utilities"
