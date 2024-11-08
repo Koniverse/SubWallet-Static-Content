@@ -1483,26 +1483,5 @@
         "slug": "rwa"
       }
     ]
-  },
-  {
-    "id": 79,
-    "name": null,
-    "status": "live",
-    "ordinal": null,
-    "description": null,
-    "start_time": null,
-    "end_time": null,
-    "url": null,
-    "twitter_url": null,
-    "reward": null,
-    "total_winner": null,
-    "total_supply": null,
-    "tags": null,
-    "campaign_url": null,
-    "project_id": null,
-    "logo": null,
-    "backdrop_image": null,
-    "chains": [],
-    "categories": []
   }
 ]
