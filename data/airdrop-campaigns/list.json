@@ -3,7 +3,7 @@
     "id": 82,
     "name": "Share up to $75,000 in RARI rewards with DeFi Days campaign",
     "status": "live",
-    "ordinal": 52,
+    "ordinal": 50,
     "description": "DeFi Days by RARI is an 8 week-long campaign, aimed at introducing earning opportunities for creators and collectors through DeFi partnerships on RARI Chain.\n\nRewards: ~$75,000 in RARI & partner tokens\n\nRules:\n- Complete Tasks and Collect NFTs: Engage in various activities to earn NFTs PLUS returns from DeFi.\n- Climb the Leaderboard: Move up the leaderboard based on the number of DeFi Days NFT rewards you've collected and your total transactions.\n- Earn Additional Prizes: Top performers will receive extra rewards based on their leaderboard status.",
     "start_time": "2024-10-23T17:00:00.000Z",
     "end_time": "2024-12-11T17:00:00.000Z",
@@ -32,15 +32,15 @@
   },
   {
     "id": 80,
-    "name": "Join Bifrost Liquid Wave Campaign to get 300 WAVE points",
+    "name": "Earn WAVE points and share 150,000 BNC pool prize with Bifrost Liquid Wave Campaign",
     "status": "live",
-    "ordinal": 53,
-    "description": "Bifrost Liquid Wave is NOW LIVE!\n\nEarn 300 WAVE securing your early-bird spot and 30 WAVE for each referral for the upcoming campaign!\n\nComplete tasks to earn WAVE points throughout the campaign.\n\nUse WAVE points in each phase to activate your rewards!\n\nConvert your WAVE points into $bbBNC in the final phase. The more WAVE you earn, the bigger the rewards! ",
-    "start_time": "2024-10-22T17:00:00.000Z",
-    "end_time": "2024-11-05T17:00:00.000Z",
+    "ordinal": 51,
+    "description": "Bifrost Liquid Wave - LST Campers is NOW LIVE!\n\nJump into liquid staking tasks on Liquid Wave to earn WAVE points and unlock your share of a massive 150,000 BNC Prize Pool!\n\nWays to earn include:\n• Liquid stake your $DOT, $MANTA, $GLMR or $ASTR\n• Exchange old Raindrop points at 100:1\n• Invite friends: earn 10% of their WAVE points by minting LSTs\n• WAVE Airdrop: earn 300 extra after reaching 1000 WAVE points\n\nThe sooner and more WAVE points you earn, the bigger your farmed BNC rewards will be!",
+    "start_time": "2024-11-07T17:00:00.000Z",
+    "end_time": "2024-11-29T16:59:00.000Z",
     "url": "https://wave.bifrost.io/?inviter=14PvQKuKXx3nyGkkca5ZSEDKhqbykJfnqTMLxTr7vdLSEbSZ",
     "twitter_url": "https://x.com/Bifrost",
-    "reward": "300 WAVE points",
+    "reward": "150,000 BNC",
     "total_winner": "N/A",
     "total_supply": null,
     "tags": [
@@ -49,7 +49,7 @@
     "campaign_url": "https://bifrost.io/",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_7bc34a05fc.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_Liquid_Wave_3e2bb2b72b.jpg",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_Liquid_Wave_general_b9bae0863b.jpg",
     "chains": [
       "bifrost_dot"
     ],
@@ -58,6 +58,66 @@
         "color": "cyan",
         "name": "DeFi",
         "slug": "defi"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Jump into peaq's Get Real preseason campaign on Galxe and earn XP rewards",
+    "status": "live",
+    "ordinal": 52,
+    "description": "📆 Get Real preseason is LIVE!\n\n🚀 Web3 is getting real — on peaq\nSomething huge is happening in crypto, and it's all about rewarding real people creating real value in the real world. Get ready for peaq's groundbreaking Get Real campaign, where you'll discover how Web3 and DePINs are reshaping the world. Complete quests, get to know revolutionary projects, and be part of something unprecedented in crypto.\n\n🏆 Preseason perks\nWe promised otherworldly rewards — and we meant it! Start earning XP now and get a massive 50% XP boost when Season 1 kicks off in December. Early peaqonauts don't just get ahead — they get a supercharge.\n\n🌟 Join the Revolution\nThe future of Web3 isn't just on-chain — it's in the real world, and it starts right here, right now. Don't miss your chance to be part of this infrastructure revolution. Jump into the Get Real preseason on Galxe today and get ready for the out-of-this-world rewards.",
+    "start_time": "2024-11-05T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://app.galxe.com/quest/peaq/GCug8tVVJL",
+    "twitter_url": "https://x.com/peaq",
+    "reward": "XP",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.peaq.network/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/peaq_31a6e2dff3.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/peaq_s_Get_Real_preseason_b960af979f.jpg",
+    "chains": [
+      "peaq"
+    ],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Split the pool prize of $500 in DOT with Archisinal November Zealy campaign",
+    "status": "live",
+    "ordinal": 53,
+    "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn, and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 November🚦\n\nEnds: 30 November 🏁\n\nTop 40 sprinters are eligible for prizes 👀 Plus, one lucky winner from the top 40 will receive an extra $100",
+    "start_time": "2024-11-01T06:00:00.000Z",
+    "end_time": "2024-11-30T06:00:00.000Z",
+    "url": "https://zealy.io/cw/archisinal/invite/DFANbKcx0OM_q-MYXeasB",
+    "twitter_url": "https://x.com/archisinal",
+    "reward": "$500 in DOT",
+    "total_winner": "40",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.archisinal.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/archisinal_73157c2479.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Archisinal_November_Zealy_campaign_e3b3648dc8.jpg",
+    "chains": [],
+    "categories": [
+      {
+        "color": "purple",
+        "name": "RWA",
+        "slug": "rwa"
       }
     ]
   },
@@ -95,7 +155,7 @@
   {
     "id": 78,
     "name": "Split the pool prize of $400 in DOT with Archisinal October Zealy campaign",
-    "status": "live",
+    "status": "archived",
     "ordinal": 57,
     "description": "Join the Archisinal Zealy Sprint and compete for fantastic rewards!\n\nDon't miss the chance to showcase your skills and contribute to the Archisinal community.\n\nJoin now and take your experience to the next level!\n\nDon't miss the opportunity to compete, learn, and share the Archisinal love! ❤️‍🔥\n\nStarts: 1 October 🚦\n\nEnds: 31 October 🏁\n\nTop 20 sprinters are eligible for prizes 👀",
     "start_time": "2024-10-01T07:00:00.000Z",
