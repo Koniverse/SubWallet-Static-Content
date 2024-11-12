@@ -230,7 +230,7 @@
   },
   {
     "slug": "binance-NATIVE-BNB",
-    "name": "Binance Smart Chain",
+    "name": "BNB Chain",
     "symbol": "BNB",
     "decimals": 18,
     "priceId": "binancecoin",
@@ -239,7 +239,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 4,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "binance",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []

@@ -118,11 +118,11 @@
   },
   {
     "slug": "binance",
-    "name": "Binance Smart Chain",
+    "name": "BNB Chain",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 4,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/bnb_d6b4677e85.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bnb_chain_002b604f9d.png",
     "providers": {
       "Binance": "https://bsc-dataseed.binance.org/",
       "Defibit": "https://bsc-dataseed1.defibit.io/",
