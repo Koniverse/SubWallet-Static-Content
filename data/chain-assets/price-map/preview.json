@@ -767,5 +767,14 @@
   "zircuit-NATIVE-ETH": "ethereum",
   "tangle-NATIVE-TNT": "tangle-network",
   "tangle_evm-NATIVE-TNT": "tangle-network",
-  "storyOdyssey_testnet-NATIVE-IP": null
+  "storyOdyssey_testnet-NATIVE-IP": null,
+  "polygon_amoy-NATIVE-POL": null,
+  "polygon_amoy-ERC20-USDC-0x41E94Eb019C0762f9Bfcf9Fb1E58725BfB0e7582": null,
+  "polygon_amoy-ERC20-WETH-0x52eF3d68BaB452a294342DC3e5f464d7f610f72E": null,
+  "polygonzkEvm_cardona-NATIVE-ETH": null,
+  "polygonzkEvm_cardona-ERC20-MATIC-0x3CC6055f4E88638C46dAA9Cf5F5fc54A801E5F03": null,
+  "polygonzkEvm_cardona-ERC20-POL-0x74bE345339a3D5aA179dbaEAf5B496628F174F55": null,
+  "zksync_era-NATIVE-ETH": "ethereum",
+  "apechain-NATIVE-APE": "apecoin",
+  "autonomys_taurus-NATIVE-AI3": null
 }

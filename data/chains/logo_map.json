@@ -148,7 +148,6 @@
   "sora_substrate": "https://static-data.subwallet.app/chains/images/icon/sora_cd4fcddf6e.png",
   "swapdex": "https://static-data.subwallet.app/chains/images/icon/swapdex_6b2a38d123.png",
   "3dpass": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
-  "alephSmartNet": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
   "kulupu": "https://static-data.subwallet.app/chains/images/icon/kulupu_network_2f214b0894.png",
   "joystream": "https://static-data.subwallet.app/chains/images/icon/joystream_fe4b9f5208.png",
   "aventus_testnet": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
@@ -297,5 +296,10 @@
   "zircuit": "https://static-data.subwallet.app/chains/images/icon/zircuit_71b1945ab9.png",
   "tangle": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
   "tangle_evm": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
-  "storyOdyssey_testnet": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png"
+  "storyOdyssey_testnet": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
+  "polygon_amoy": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
+  "polygonzkEvm_cardona": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
+  "zksync_era": "https://static-data.subwallet.app/chains/images/icon/zksync_dcb8eccfcc.png",
+  "apechain": "https://static-data.subwallet.app/chains/images/icon/ape_chain_74afedb075.png",
+  "autonomys_taurus": "https://static-data.subwallet.app/chains/images/icon/autonomys_3711a63c98.png"
 }

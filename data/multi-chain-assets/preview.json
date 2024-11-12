@@ -30,7 +30,8 @@
       "world_chain-NATIVE-ETH",
       "mode-NATIVE-ETH",
       "lisk-NATIVE-ETH",
-      "zircuit-NATIVE-ETH"
+      "zircuit-NATIVE-ETH",
+      "zksync_era-NATIVE-ETH"
     ]
   },
   {
@@ -821,7 +822,8 @@
     "originChainAsset": "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
     "chainAssets": [
       "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-      "hydradx_main-LOCAL-APE"
+      "hydradx_main-LOCAL-APE",
+      "apechain-NATIVE-APE"
     ]
   },
   {
@@ -1326,7 +1328,7 @@
   },
   {
     "slug": "ETH-EthereumSepolia",
-    "name": "Ethereum Sepolia",
+    "name": "Ethereum Se",
     "symbol": "ETH",
     "priceId": null,
     "hasValue": false,
@@ -1336,8 +1338,7 @@
       "soneiumMinato-NATIVE-ETH",
       "sepolia_ethereum-NATIVE-ETH",
       "base_sepolia-NATIVE-ETH",
-      "arbitrum_sepolia-NATIVE-ETH",
-      "unichain_sepolia-NATIVE-ETH"
+      "arbitrum_sepolia-NATIVE-ETH"
     ]
   },
   {
