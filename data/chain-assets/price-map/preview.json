@@ -776,5 +776,7 @@
   "polygonzkEvm_cardona-ERC20-POL-0x74bE345339a3D5aA179dbaEAf5B496628F174F55": null,
   "zksync_era-NATIVE-ETH": "ethereum",
   "apechain-NATIVE-APE": "apecoin",
-  "autonomys_taurus-NATIVE-AI3": null
+  "autonomys_taurus-NATIVE-AI3": null,
+  "gnosis-NATIVE-xDAI": "xdai",
+  "autonomys-NATIVE-AI3": null
 }

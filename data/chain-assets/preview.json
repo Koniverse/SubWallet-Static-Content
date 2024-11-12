@@ -16743,5 +16743,37 @@
     "originChain": "autonomys_taurus",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "gnosis-NATIVE-xDAI",
+    "name": "xDAI",
+    "symbol": "xDAI",
+    "decimals": 18,
+    "priceId": "xdai",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xdai_6f4d932c81.png",
+    "originChain": "gnosis",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "autonomys-NATIVE-AI3",
+    "name": "Autonomys",
+    "symbol": "AI3",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "200000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/autonomys_8a1889d3e1.png",
+    "originChain": "autonomys",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
