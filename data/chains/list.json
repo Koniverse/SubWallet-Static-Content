@@ -919,7 +919,7 @@
   },
   {
     "slug": "bitcountry",
-    "name": "Bit.Country - Alpha Net",
+    "name": "Bit.Country - Alpha Ne",
     "isTestnet": true,
     "chainStatus": "INACTIVE",
     "ordinal": 24,
@@ -5966,36 +5966,6 @@
     "tonInfo": null
   },
   {
-    "slug": "alephSmartNet",
-    "name": "Aleph Zero Smartnet",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
-    "ordinal": 150,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
-    "providers": {},
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
-      "genesisHash": "0x6153e2745a56d188365372b5cce283dfddbb96b17e9bb396cceb4630103ff92b",
-      "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": "500",
-      "symbol": "SZERO",
-      "decimals": 12,
-      "hasNativeNft": false,
-      "supportStaking": false,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": []
-    },
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null
-  },
-  {
     "slug": "kulupu",
     "name": "Kulupu",
     "isTestnet": false,
@@ -9300,7 +9270,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
-    "providers": {},
+    "providers": {
+      "Onfinality": "wss://peaq.api.onfinality.io/public-ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
@@ -10358,6 +10330,342 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "world_chain",
+    "name": "World Chain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/world_chain_ccf93d3fbe.png",
+    "providers": {
+      "World Chain": "https://worldchain-mainnet.g.alchemy.com/public"
+    },
+    "evmInfo": {
+      "evmChainId": 480,
+      "blockExplorer": "https://worldscan.org/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "mode",
+    "name": "Mode Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/mode_d4f8a4fafb.png",
+    "providers": {
+      "Mode Mainnet": "https://mainnet.mode.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 34443,
+      "blockExplorer": "https://explorer.mode.network/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "lisk",
+    "name": "Lisk",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/lisk_eea89a7d69.png",
+    "providers": {
+      "Lisk": "https://rpc.api.lisk.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 1135,
+      "blockExplorer": "https://blockscout.lisk.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "zircuit",
+    "name": "Zircuit",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/zircuit_71b1945ab9.png",
+    "providers": {
+      "Zircuit1": "https://zircuit1-mainnet.p2pify.com/",
+      "Zircuit": "https://zircuit-mainnet.drpc.org/",
+      "Zircuit Liquify": "https://zircuit1-mainnet.liquify.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 48900,
+      "blockExplorer": "https://explorer.zircuit.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "tangle",
+    "name": "Tangle Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
+    "providers": {
+      "Tangle": "wss://rpc.tangle.tools"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x44f68476df71ebf765b630bf08dc1e0fedb2bf614a1aa0563b3f74f20e47b3e0",
+      "addressPrefix": 5845,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://tangle.statescan.io/",
+      "existentialDeposit": "10000000000",
+      "symbol": "TNT",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "tangle_evm",
+    "name": "Tangle EVM Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
+    "providers": {
+      "Tangle": "https://rpc.tangle.tools/"
+    },
+    "evmInfo": {
+      "evmChainId": 5845,
+      "blockExplorer": "https://explorer.tangle.tools/",
+      "existentialDeposit": "0",
+      "symbol": "TNT",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "storyOdyssey_testnet",
+    "name": "Story Odyssey Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
+    "providers": {
+      "Story Odyssey": "https://odyssey.storyrpc.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 1516,
+      "blockExplorer": "https://odyssey-testnet-explorer.storyscan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "IP",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "polygon_amoy",
+    "name": "Polygon Amoy Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
+    "providers": {
+      "Polygon Amoy": "https://rpc-amoy.polygon.technology/"
+    },
+    "evmInfo": {
+      "evmChainId": 80002,
+      "blockExplorer": "https://amoy.polygonscan.com/",
+      "existentialDeposit": "0",
+      "symbol": "POL",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "polygonzkEvm_cardona",
+    "name": "Polygon zkEVM Cardona Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
+    "providers": {
+      "Cardona": "https://etherscan.cardona.zkevm-rpc.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 2442,
+      "blockExplorer": "https://cardona-zkevm.polygonscan.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "zksync_era",
+    "name": "ZKsync Era Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/zksync_dcb8eccfcc.png",
+    "providers": {
+      "ZKsync Era": "https://mainnet.era.zksync.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 324,
+      "blockExplorer": "https://explorer.zksync.io/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "apechain",
+    "name": "ApeChain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ape_chain_74afedb075.png",
+    "providers": {
+      "Calderachain": "https://apechain.calderachain.xyz/http"
+    },
+    "evmInfo": {
+      "evmChainId": 33139,
+      "blockExplorer": "https://apechain.calderaexplorer.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "APE",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "autonomys_taurus",
+    "name": "Autonomys Taurus Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_3711a63c98.png",
+    "providers": {
+      "Taurus": "wss://rpc-0.taurus.subspace.network/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x295aeafca762a304d92ee1505548695091f6082d3f0aa4d092ac3cd6397a6c5e",
+      "addressPrefix": 6094,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "AI3",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
