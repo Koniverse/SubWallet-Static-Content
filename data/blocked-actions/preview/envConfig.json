@@ -1,9 +1,16 @@
 {
   "0c788767-4c87-4d84-acad-b18fa5dd2d9c": {
     "appConfig": {
-      "environment": "mobile",
-      "version": ">1.1.0"
+      "environment": "extension",
+      "version": "=1.3.5"
     }
+    "browserConfig": {
+      "type": "chrome",
+      "version": "128.0.0.0"
+    },
+    "sysConfig": {
+      "type": "macOS",
+      "version": "10.15.7"
   },
   "14ba83be-c2cc-4b41-aaaf-19fc9f48e05c": {
 
