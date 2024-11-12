@@ -10037,7 +10037,7 @@
     "name": "Liberland",
     "symbol": "LLD",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "liberland-lld",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,

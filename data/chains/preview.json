@@ -10081,7 +10081,7 @@
     },
     "evmInfo": {
       "evmChainId": 1946,
-      "blockExplorer": "https://explorer-testnet.soneium.org/",
+      "blockExplorer": "https://soneium-minato.blockscout.com/",
       "existentialDeposit": "0",
       "symbol": "ETH",
       "decimals": 18,
@@ -10737,7 +10737,7 @@
       "addressPrefix": 6094,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://astral.autonomys.xyz/taurus/consensus",
       "existentialDeposit": "500",
       "symbol": "AI3",
       "decimals": 18,
