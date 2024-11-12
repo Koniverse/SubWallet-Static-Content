@@ -9270,7 +9270,9 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_a60969392d.png",
-    "providers": {},
+    "providers": {
+      "Onfinality": "wss://peaq.api.onfinality.io/public-ws"
+    },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "polkadot",
@@ -10737,6 +10739,65 @@
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "500",
+      "symbol": "AI3",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "gnosis",
+    "name": "Gnosis",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/gnosis_chain_937530e77d.png",
+    "providers": {
+      "Gnosis Chain": "https://rpc.gnosischain.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 100,
+      "blockExplorer": "https://gnosisscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "xDAI",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC721",
+        "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "autonomys",
+    "name": "Autonomys Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_8a1889d3e1.png",
+    "providers": {
+      "Subspace": "wss://rpc-1.mainnet.subspace.network/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x66455a580aabff303720aa83adbe6c44502922251c03ba73686d5245da9e21bd",
+      "addressPrefix": 6094,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://astral.autonomys.xyz/",
+      "existentialDeposit": "200000000000000",
       "symbol": "AI3",
       "decimals": 18,
       "hasNativeNft": null,
