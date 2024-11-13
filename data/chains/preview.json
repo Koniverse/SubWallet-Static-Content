@@ -919,7 +919,7 @@
   },
   {
     "slug": "bitcountry",
-    "name": "Bit.Country - Alpha Ne",
+    "name": "Bit.Country - Alpha Net",
     "isTestnet": true,
     "chainStatus": "INACTIVE",
     "ordinal": 24,
@@ -9291,7 +9291,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "peaq",
+      "chainBalanceSlug": "peaq-main"
+    },
     "bitcoinInfo": null,
     "tonInfo": null
   },
