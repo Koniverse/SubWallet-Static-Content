@@ -14357,7 +14357,7 @@
     "name": "PEAQ",
     "symbol": "PEAQ",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "peaq-2",
     "minAmount": "500",
     "assetType": "NATIVE",
     "metadata": null,
@@ -16170,13 +16170,13 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
       },
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
       }
     ]
@@ -16774,6 +16774,24 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/autonomys_8a1889d3e1.png",
     "originChain": "autonomys",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0",
+    "name": "Calamari",
+    "symbol": "KMA",
+    "decimals": 18,
+    "priceId": "calamari-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6745CF7A0aAca457F451a4b8c60c8504320F69d0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kma_1e886bb864.png",
+    "originChain": "manta_network_evm",
+    "multiChainAsset": "KMA-Calamari",
     "assetRefs": []
   }
 ]

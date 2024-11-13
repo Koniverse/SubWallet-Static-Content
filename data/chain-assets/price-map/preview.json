@@ -652,7 +652,7 @@
   "hydradx_main-LOCAL-CRU": "crust-network",
   "hydradx_main-LOCAL-RING": "darwinia-network-native-token",
   "hydradx_main-LOCAL-UNQ": "unique-network",
-  "peaq-NATIVE-PEAQ": null,
+  "peaq-NATIVE-PEAQ": "peaq-2",
   "karura-LOCAL-USDCet": "usd-coin",
   "karura-LOCAL-USDT": "tether",
   "layerEdge_testnet-NATIVE-LBTC": null,
@@ -778,5 +778,6 @@
   "apechain-NATIVE-APE": "apecoin",
   "autonomys_taurus-NATIVE-AI3": null,
   "gnosis-NATIVE-xDAI": "xdai",
-  "autonomys-NATIVE-AI3": null
+  "autonomys-NATIVE-AI3": null,
+  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network"
 }
