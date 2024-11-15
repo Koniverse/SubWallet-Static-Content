@@ -564,7 +564,7 @@
   "merlinEvm-NATIVE-BTC": "bitcoin",
   "botanixEvmTest-NATIVE-BTC": null,
   "curio-NATIVE-CGT": null,
-  "hyperbridge-NATIVE-NAND": null,
+  "hyperbridge-NATIVE-BRIDGE": null,
   "cess_testnet-NATIVE-TCESS": null,
   "pendulum-LOCAL-PINK": null,
   "pendulum-LOCAL-GLMR": "moonbeam",
@@ -779,5 +779,6 @@
   "autonomys_taurus-NATIVE-AI3": null,
   "gnosis-NATIVE-xDAI": "xdai",
   "autonomys-NATIVE-AI3": null,
-  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network"
+  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network",
+  "morder_testnet-NATIVE-METC": null
 }

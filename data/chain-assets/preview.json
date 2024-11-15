@@ -1173,7 +1173,7 @@
     "ordinal": 41,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bit_country_continuum_119cfcfbe1.png",
     "originChain": "bitcountry",
-    "multiChainAsset": null,
+    "multiChainAsset": "ABCCCCC",
     "assetRefs": []
   },
   {
@@ -1498,7 +1498,7 @@
     },
     "hasValue": true,
     "ordinal": 59,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "calamari",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
@@ -1913,7 +1913,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 82,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "binance_test",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5188,7 +5188,7 @@
     },
     "hasValue": true,
     "ordinal": 249,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "moonbeam",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
@@ -5731,7 +5731,7 @@
     },
     "hasValue": true,
     "ordinal": 279,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "astarEvm",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
@@ -6019,7 +6019,7 @@
     },
     "hasValue": true,
     "ordinal": 295,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "shidenEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6199,7 +6199,7 @@
     },
     "hasValue": true,
     "ordinal": 306,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
@@ -6613,7 +6613,7 @@
     },
     "hasValue": true,
     "ordinal": 329,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "binance",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6812,7 +6812,7 @@
     },
     "hasValue": true,
     "ordinal": 338,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnb_458c806586.png",
     "originChain": "ethereum",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
@@ -12344,9 +12344,9 @@
     "assetRefs": []
   },
   {
-    "slug": "hyperbridge-NATIVE-NAND",
-    "name": "NAND",
-    "symbol": "NAND",
+    "slug": "hyperbridge-NATIVE-BRIDGE",
+    "name": "BRIDGE",
+    "symbol": "BRIDGE",
     "decimals": 12,
     "priceId": null,
     "minAmount": "1000000000",
@@ -16757,7 +16757,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xdai_6f4d932c81.png",
     "originChain": "gnosis",
-    "multiChainAsset": null,
+    "multiChainAsset": "ABCCCCC",
     "assetRefs": []
   },
   {
@@ -16792,6 +16792,22 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kma_1e886bb864.png",
     "originChain": "manta_network_evm",
     "multiChainAsset": "KMA-Calamari",
+    "assetRefs": []
+  },
+  {
+    "slug": "morder_testnet-NATIVE-METC",
+    "name": "Mordor Ether",
+    "symbol": "METC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "morder_testnet",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
