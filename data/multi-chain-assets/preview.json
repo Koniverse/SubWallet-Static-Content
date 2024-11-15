@@ -491,7 +491,7 @@
     "symbol": "BNB",
     "priceId": "binancecoin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bnb_458c806586.png",
     "originChainAsset": "binance-NATIVE-BNB",
     "chainAssets": [
       "binance-NATIVE-BNB",
@@ -640,7 +640,8 @@
     "originChainAsset": "calamari-NATIVE-KMA",
     "chainAssets": [
       "calamari-NATIVE-KMA",
-      "calamari-LOCAL-zkKMA"
+      "calamari-LOCAL-zkKMA",
+      "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0"
     ]
   },
   {
@@ -1328,11 +1329,11 @@
   },
   {
     "slug": "ETH-EthereumSepolia",
-    "name": "Ethereum Se",
+    "name": "Ethereum Sepolia",
     "symbol": "ETH",
     "priceId": null,
     "hasValue": false,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ethereum_c2910543ab.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bnb_458c806586.png",
     "originChainAsset": null,
     "chainAssets": [
       "soneiumMinato-NATIVE-ETH",
@@ -1458,6 +1459,19 @@
     "chainAssets": [
       "tangle-NATIVE-TNT",
       "tangle_evm-NATIVE-TNT"
+    ]
+  },
+  {
+    "slug": "ABCCCCC",
+    "name": "ABCCCC CCCC",
+    "symbol": "TESTER",
+    "priceId": null,
+    "hasValue": false,
+    "icon": null,
+    "originChainAsset": null,
+    "chainAssets": [
+      "gnosis-NATIVE-xDAI",
+      "bitcountry-NATIVE-NUUM"
     ]
   }
 ]

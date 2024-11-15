@@ -4761,7 +4761,7 @@
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 2058,
-      "genesisHash": "0xb53c620c41860278fa3068a5367c8eedceefce8a7c29237d830bc09a71737b5d",
+      "genesisHash": "0x25895f66e42429d148d5bdabcf6e16996f7b0d6c171e771e302c291ba94e13f2",
       "addressPrefix": 19,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
@@ -6866,7 +6866,7 @@
     "slug": "virto_network",
     "name": "Virto Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Virto_network_dfe70c92e9.png",
     "providers": {},
@@ -8995,7 +8995,7 @@
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "1000000000",
-      "symbol": "NAND",
+      "symbol": "BRIDGE",
       "decimals": 12,
       "hasNativeNft": null,
       "supportStaking": null,
@@ -10809,6 +10809,33 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "morder_testnet",
+    "name": "Mordor Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Modor": "https://rpc.mordor.etccooperative.org"
+    },
+    "evmInfo": {
+      "evmChainId": 63,
+      "blockExplorer": null,
+      "existentialDeposit": "0",
+      "symbol": "METC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
