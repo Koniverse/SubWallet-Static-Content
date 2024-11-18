@@ -13,7 +13,7 @@
     "staking.bond": [],
     "staking.unbond": [],
     "staking.claim_reward": [
-      "staking.claim_reward___vara_network-NATIVE-VARA"
+      "staking.claim_reward___vara_network"
     ],
     "staking.withdraw": [],
     "staking.compounding": [],
