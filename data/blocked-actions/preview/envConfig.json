@@ -10,6 +10,8 @@
     }
   },
   "14ba83be-c2cc-4b41-aaaf-19fc9f48e05c": {
-    
+    "browserConfig": {
+      "type": "brave",
+      "version": ">=128.0.0.0"
   }
 }
