@@ -1,9 +1,13 @@
 {
   "0c788767-4c87-4d84-acad-b18fa5dd2d9c": {
     "browserConfig": {
-      "type": "chrome",
+      "type": "brave",
       "version": ">=128.0.0.0"
-    }
+    },
+    "sysConfig": {
+      "type": "macOS",
+      "version": "10.15.7"
+   }
   },
   "14ba83be-c2cc-4b41-aaaf-19fc9f48e05c": {
     "browserConfig": {
