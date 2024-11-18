@@ -1329,11 +1329,11 @@
   },
   {
     "slug": "ETH-EthereumSepolia",
-    "name": "Ethereum Sepolia",
+    "name": "Ethereum Se",
     "symbol": "ETH",
     "priceId": null,
     "hasValue": false,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bnb_458c806586.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ethereum_e819764047.png",
     "originChainAsset": null,
     "chainAssets": [
       "soneiumMinato-NATIVE-ETH",
@@ -1459,19 +1459,6 @@
     "chainAssets": [
       "tangle-NATIVE-TNT",
       "tangle_evm-NATIVE-TNT"
-    ]
-  },
-  {
-    "slug": "ABCCCCC",
-    "name": "ABCCCC CCCC",
-    "symbol": "TESTER",
-    "priceId": null,
-    "hasValue": false,
-    "icon": null,
-    "originChainAsset": null,
-    "chainAssets": [
-      "gnosis-NATIVE-xDAI",
-      "bitcountry-NATIVE-NUUM"
     ]
   }
 ]

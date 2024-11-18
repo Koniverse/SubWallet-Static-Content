@@ -1173,7 +1173,7 @@
     "ordinal": 41,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bit_country_continuum_119cfcfbe1.png",
     "originChain": "bitcountry",
-    "multiChainAsset": "ABCCCCC",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -16757,7 +16757,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xdai_6f4d932c81.png",
     "originChain": "gnosis",
-    "multiChainAsset": "ABCCCCC",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
