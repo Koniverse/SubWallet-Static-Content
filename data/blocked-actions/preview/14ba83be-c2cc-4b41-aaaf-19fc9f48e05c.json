@@ -13,7 +13,9 @@
     "staking.join_pool": [],
     "staking.leave_pool": [],
     "staking.bond": [],
-    "staking.unbond": [],
+    "staking.unbond": [
+      "staking.unbond___vara_network"
+    ],
     "staking.claim_reward": [
       "staking.claim_reward___vara_network"
     ],
