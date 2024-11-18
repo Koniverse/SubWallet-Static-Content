@@ -9,7 +9,9 @@
     "send_nft": [
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
     ],
-    "swap": [],
+    "swap": [
+      "swap___hydradx_main-NATIVE-HDX___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET"
+    ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
     "staking.bond": [],
