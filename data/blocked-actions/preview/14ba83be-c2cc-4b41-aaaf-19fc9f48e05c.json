@@ -7,7 +7,7 @@
     "transfer.token": [],
     "transfer.xcm": [],
     "send_nft": [
-      "transfer_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
+      "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
     ],
     "swap": [],
     "staking.join_pool": [],
