@@ -2,7 +2,7 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.balance___turing-NATIVE-TUR"
+      "transfer.balance___acala-NATIVE-ACA"
     ],
     "transfer.token": [],
     "transfer.xcm": [],
