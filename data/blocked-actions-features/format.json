@@ -12,8 +12,8 @@
     "transfer.xcm": [
       "transfer.xcm___tokenSlug___destChain"
     ],
-    "transfer_nft": [
-      "transfer_nft___chain___collectionId"
+    "send_nft": [
+      "send_nft___chain___collectionId"
     ],
     "swap": [
       "swap___swapQuote.swapPair.slug___providerId"
