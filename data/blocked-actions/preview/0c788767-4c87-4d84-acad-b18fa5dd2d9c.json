@@ -18,7 +18,9 @@
     "staking.leave_pool": [],
     "staking.bond": [],
     "staking.unbond": [],
-    "staking.claim_reward": [],
+    "staking.claim_reward": [
+      "staking.claim_reward___kusama"
+    ],
     "staking.withdraw": [],
     "staking.compounding": [],
     "staking.cancel_compounding": [],
