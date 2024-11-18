@@ -1,11 +1,15 @@
 {
-  "blockedFeaturesList": [],
+  "blockedFeaturesList": [
+     "transfer.balance___aleph"
+  ],
   "blockedActionsMap": {
     "transfer.balance": [
       "transfer.balance___polkadot-NATIVE-DOT"
     ],
     "transfer.token": [],
-    "transfer.xcm": [],
+    "transfer.xcm": [
+      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
+],
     "send_nft": [],
     "swap": [],
     "staking.join_pool": [],
