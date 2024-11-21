@@ -16793,21 +16793,5 @@
     "originChain": "manta_network_evm",
     "multiChainAsset": "KMA-Calamari",
     "assetRefs": []
-  },
-  {
-    "slug": "morder_testnet-NATIVE-METC",
-    "name": "Mordor Ether",
-    "symbol": "METC",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": null,
-    "originChain": "morder_testnet",
-    "multiChainAsset": null,
-    "assetRefs": []
   }
 ]

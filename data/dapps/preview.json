@@ -2706,5 +2706,26 @@
     "categories": [
       "utilities"
     ]
+  },
+  {
+    "id": 184,
+    "title": "ChessOnChain",
+    "description": "ChessOnchain is a play to earn digital chess game where players can collect NFTs and compete in multichain/interchain chess competitions and 1v1 matches.",
+    "url": "https://play.chessonchain.io/",
+    "subtitle": "Multi-chain chess game",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "desktop_mode": null,
+    "icon": null,
+    "preview_image": null,
+    "chains": [
+      "uniqueNft",
+      "ton_testnet"
+    ],
+    "categories": [
+      "gaming"
+    ]
   }
 ]

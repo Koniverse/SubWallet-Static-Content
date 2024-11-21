@@ -779,6 +779,5 @@
   "autonomys_taurus-NATIVE-AI3": null,
   "gnosis-NATIVE-xDAI": "xdai",
   "autonomys-NATIVE-AI3": null,
-  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network",
-  "morder_testnet-NATIVE-METC": null
+  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network"
 }
