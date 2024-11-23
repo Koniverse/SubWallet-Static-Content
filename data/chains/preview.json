@@ -919,9 +919,9 @@
   },
   {
     "slug": "bitcountry",
-    "name": "Bit.Country - Alpha NetABCABC",
+    "name": "Bit.Country - Alpha Net",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 24,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_d0a92a8433.png",
     "providers": {
