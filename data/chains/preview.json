@@ -919,7 +919,7 @@
   },
   {
     "slug": "bitcountry",
-    "name": "Bit.Country - Alpha Net",
+    "name": "Bit.Country - Alpha NetABCABC",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 24,
