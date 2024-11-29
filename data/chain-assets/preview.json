@@ -114,6 +114,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -231,6 +237,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polygonZkEvm-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -4326,11 +4338,11 @@
   },
   {
     "slug": "statemint-LOCAL-USDt",
-    "name": "Tether USD",
+    "name": "Tether USD TEST",
     "symbol": "USDt",
     "decimals": 6,
     "priceId": "tether",
-    "minAmount": "10000",
+    "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1984",
@@ -6802,6 +6814,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -6881,6 +6899,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "base_mainnet-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -9015,7 +9039,32 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_f643972064.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-USDC",
@@ -16802,6 +16851,140 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kma_1e886bb864.png",
     "originChain": "manta_network_evm",
     "multiChainAsset": "KMA-Calamari",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-LOVA",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "50000028"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-LOVA",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000639"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "fraxtal-NATIVE-frxETH",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "priceId": "frax-ether",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frxeth_2580fe89ec.png",
+    "originChain": "fraxtal",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cyber-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "cyber",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "storyOdyssey_testnet-ERC20-PIP-0x6e990040Fd9b06F98eFb62A147201696941680b5",
+    "name": "PIPERX Token",
+    "symbol": "PIP",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6e990040Fd9b06F98eFb62A147201696941680b5"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pip_7a2e0b016f.png",
+    "originChain": "storyOdyssey_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "g6_testnet-NATIVE-GSX",
+    "name": "GSX",
+    "symbol": "GSX",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/g6_network_d7f88c1505.png",
+    "originChain": "g6_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "metadium_testnet-NATIVE-KAL",
+    "name": "Metadium Testnet",
+    "symbol": "KAL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "metadium_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "thundercore-NATIVE-TST",
+    "name": "Thunder",
+    "symbol": "TST",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "thundercore",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]

@@ -779,5 +779,13 @@
   "autonomys_taurus-NATIVE-AI3": null,
   "gnosis-NATIVE-xDAI": "xdai",
   "autonomys-NATIVE-AI3": null,
-  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network"
+  "manta_network_evm-ERC20-KMA-0x6745CF7A0aAca457F451a4b8c60c8504320F69d0": "calamari-network",
+  "statemint-LOCAL-LOVA": null,
+  "hydradx_main-LOCAL-LOVA": null,
+  "fraxtal-NATIVE-frxETH": "frax-ether",
+  "cyber-NATIVE-ETH": "ethereum",
+  "storyOdyssey_testnet-ERC20-PIP-0x6e990040Fd9b06F98eFb62A147201696941680b5": null,
+  "g6_testnet-NATIVE-GSX": null,
+  "metadium_testnet-NATIVE-KAL": null,
+  "thundercore-NATIVE-TST": null
 }

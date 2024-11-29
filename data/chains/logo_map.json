@@ -303,5 +303,10 @@
   "apechain": "https://static-data.subwallet.app/chains/images/icon/ape_chain_74afedb075.png",
   "autonomys_taurus": "https://static-data.subwallet.app/chains/images/icon/autonomys_3711a63c98.png",
   "gnosis": "https://static-data.subwallet.app/chains/images/icon/gnosis_chain_937530e77d.png",
-  "autonomys": "https://static-data.subwallet.app/chains/images/icon/autonomys_8a1889d3e1.png"
+  "autonomys": "https://static-data.subwallet.app/chains/images/icon/autonomys_8a1889d3e1.png",
+  "fraxtal": "https://static-data.subwallet.app/chains/images/icon/fraxtal_1c19ee3d25.png",
+  "cyber": "https://static-data.subwallet.app/chains/images/icon/cyber_54b96dce95.png",
+  "g6_testnet": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
+  "metadium_testnet": null,
+  "thundercore": null
 }

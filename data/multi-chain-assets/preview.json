@@ -31,7 +31,8 @@
       "mode-NATIVE-ETH",
       "lisk-NATIVE-ETH",
       "zircuit-NATIVE-ETH",
-      "zksync_era-NATIVE-ETH"
+      "zksync_era-NATIVE-ETH",
+      "cyber-NATIVE-ETH"
     ]
   },
   {
@@ -1339,7 +1340,8 @@
       "soneiumMinato-NATIVE-ETH",
       "sepolia_ethereum-NATIVE-ETH",
       "base_sepolia-NATIVE-ETH",
-      "arbitrum_sepolia-NATIVE-ETH"
+      "arbitrum_sepolia-NATIVE-ETH",
+      "polygonzkEvm_cardona-NATIVE-ETH"
     ]
   },
   {

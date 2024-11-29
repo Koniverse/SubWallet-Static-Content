@@ -813,7 +813,7 @@
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://explorer.mainnet.aventus.io/",
+      "blockExplorer": "http://explorer.mainnet.aventus.network/",
       "existentialDeposit": "0",
       "symbol": "AVT",
       "decimals": 18,
@@ -841,7 +841,7 @@
   },
   {
     "slug": "westend",
-    "name": "Westend",
+    "name": "WestendTEST",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 22,
@@ -861,7 +861,7 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://westend.subscan.io/",
+      "blockExplorer": "https://westend.subscan.io/TEST",
       "existentialDeposit": "10000000000",
       "symbol": "WND",
       "decimals": 12,
@@ -872,7 +872,7 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "westend",
+      "subscanSlug": null,
       "chainBalanceSlug": "westend"
     },
     "bitcoinInfo": null,
@@ -10049,7 +10049,7 @@
     "slug": "storyPublic_testnet",
     "name": "Story Public Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_e0e48ee028.png",
     "providers": {
@@ -10809,6 +10809,146 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "fraxtal",
+    "name": "Fraxtal Mainnet L2",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/fraxtal_1c19ee3d25.png",
+    "providers": {
+      "Frax": "https://rpc.frax.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 252,
+      "blockExplorer": "https://fraxscan.com/",
+      "existentialDeposit": "0",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC721",
+        "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "cyber",
+    "name": "Cyber",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cyber_54b96dce95.png",
+    "providers": {
+      "Cyber": "https://cyber.alt.technology/"
+    },
+    "evmInfo": {
+      "evmChainId": 7560,
+      "blockExplorer": "https://cyberscan.co/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "g6_testnet",
+    "name": "G6 Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
+    "providers": {
+      "G6 Testnet": "wss://testnet.g6.network/node"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xbfac5d00971d829620ee7c653de232d3b052b663dc0f6277c352b6c96f9ca15c",
+      "addressPrefix": 611,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "500",
+      "symbol": "GSX",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "metadium_testnet",
+    "name": "Metadium Testnet",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "abc": "https://api.metadium.com/dev"
+    },
+    "evmInfo": {
+      "evmChainId": 12,
+      "blockExplorer": null,
+      "existentialDeposit": "0",
+      "symbol": "KAL",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "thundercore",
+    "name": "Thundercore",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "thhh": "https://thundercore-testnet.drpc.org"
+    },
+    "evmInfo": {
+      "evmChainId": 18,
+      "blockExplorer": null,
+      "existentialDeposit": "0",
+      "symbol": "TST",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
