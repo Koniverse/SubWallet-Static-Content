@@ -6,7 +6,9 @@
     "transfer.balance": [
       "transfer.balance___polkadot-NATIVE-DOT"
     ],
-    "transfer.token": [],
+    "transfer.token": [
+      "transfer.token___hydradx_main-LOCAL-LOVA"
+    ],
     "transfer.xcm": [
       "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
 ],
