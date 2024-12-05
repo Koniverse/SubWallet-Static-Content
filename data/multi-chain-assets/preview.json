@@ -91,7 +91,8 @@
       "interlay-LOCAL-DOT",
       "hydradx_main-LOCAL-DOT",
       "manta_network-LOCAL-DOT",
-      "statemine-LOCAL-DOT"
+      "statemine-LOCAL-DOT",
+      "polkadot_people-NATIVE-DOT"
     ]
   },
   {
@@ -784,7 +785,8 @@
     "originChainAsset": "bifrost_dot-NATIVE-BNC",
     "chainAssets": [
       "bifrost_dot-NATIVE-BNC",
-      "hydradx_main-LOCAL-BNC"
+      "hydradx_main-LOCAL-BNC",
+      "bifrost_dot-LOCAL-vBNC"
     ]
   },
   {
@@ -1461,6 +1463,32 @@
     "chainAssets": [
       "tangle-NATIVE-TNT",
       "tangle_evm-NATIVE-TNT"
+    ]
+  },
+  {
+    "slug": "LAOS-LAOS",
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "priceId": "laos-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "laos_network-NATIVE-LAOS",
+      "laos_network_evm-NATIVE-LAOS"
+    ]
+  },
+  {
+    "slug": "LOVA-AIWeb3",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "hydradx_main-LOCAL-LOVA",
+      "statemint-LOCAL-LOVA"
     ]
   }
 ]

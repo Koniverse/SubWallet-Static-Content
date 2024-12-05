@@ -4338,11 +4338,11 @@
   },
   {
     "slug": "statemint-LOCAL-USDt",
-    "name": "Tether USD TEST",
+    "name": "Tether USD",
     "symbol": "USDt",
     "decimals": 6,
     "priceId": "tether",
-    "minAmount": "1000",
+    "minAmount": "10000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1984",
@@ -16694,7 +16694,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "polygon_amoy",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "polygonzkEvm_cardona-NATIVE-ETH",
@@ -16868,7 +16875,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
     "originChain": "statemint",
-    "multiChainAsset": null,
+    "multiChainAsset": "LOVA-AIWeb3",
     "assetRefs": []
   },
   {
@@ -16886,7 +16893,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "LOVA-AIWeb3",
     "assetRefs": []
   },
   {
@@ -16950,7 +16957,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/g6_network_d7f88c1505.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gsx_26b9fb2783.png",
     "originChain": "g6_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -16985,6 +16992,106 @@
     "icon": null,
     "originChain": "thundercore",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "jamton-NATIVE-DOTON",
+    "name": "DOTON",
+    "symbol": "DOTON",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jamton_f271de5262.png",
+    "originChain": "jamton",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "etherlink-NATIVE-XTZ",
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "decimals": 18,
+    "priceId": "tezos",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xtz_3dee516573.png",
+    "originChain": "etherlink",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polkadot_people-NATIVE-DOT",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "polkadot_people",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-vBNC",
+    "name": "Voucher BNC",
+    "symbol": "vBNC",
+    "decimals": 12,
+    "priceId": "bifrost-native-coin",
+    "minAmount": "10000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "VToken": "BNC"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_c6d838f4f5.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": "BNC-BifrostPolkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "laos_network_evm-NATIVE-LAOS",
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "decimals": 18,
+    "priceId": "laos-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChain": "laos_network_evm",
+    "multiChainAsset": "LAOS-LAOS",
+    "assetRefs": []
+  },
+  {
+    "slug": "laos_network-NATIVE-LAOS",
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "decimals": 18,
+    "priceId": "laos-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChain": "laos_network",
+    "multiChainAsset": "LAOS-LAOS",
     "assetRefs": []
   }
 ]

@@ -308,5 +308,10 @@
   "cyber": "https://static-data.subwallet.app/chains/images/icon/cyber_54b96dce95.png",
   "g6_testnet": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
   "metadium_testnet": null,
-  "thundercore": null
+  "thundercore": null,
+  "jamton": "https://static-data.subwallet.app/chains/images/icon/jamton_f271de5262.png",
+  "etherlink": "https://static-data.subwallet.app/chains/images/icon/etherlink_1558e06bcb.png",
+  "polkadot_people": "https://static-data.subwallet.app/chains/images/icon/polkadot_people_18af1c11a7.png",
+  "laos_network_evm": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
+  "laos_network": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png"
 }
