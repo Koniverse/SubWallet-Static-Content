@@ -18,9 +18,7 @@
     "staking.unbond": [
       "staking.unbond___vara_network"
     ],
-    "staking.claim_reward": [
-      "staking.claim_reward___VARA___nomination_pool___vara_network"
-    ],
+    "staking.claim_reward": [],
     "staking.withdraw": [],
     "staking.compounding": [],
     "staking.cancel_compounding": [],
