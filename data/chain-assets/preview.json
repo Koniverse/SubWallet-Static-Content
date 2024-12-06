@@ -16875,7 +16875,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
     "originChain": "statemint",
-    "multiChainAsset": "LOVA-AIWeb3",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -16893,7 +16893,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": "LOVA-AIWeb3",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -17075,7 +17075,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
     "originChain": "laos_network_evm",
-    "multiChainAsset": "LAOS-LAOS",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -17091,7 +17091,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
     "originChain": "laos_network",
-    "multiChainAsset": "LAOS-LAOS",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
