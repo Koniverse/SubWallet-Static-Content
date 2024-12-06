@@ -3,9 +3,7 @@
      "transfer.balance___aleph"
   ],
   "blockedActionsMap": {
-    "transfer.balance": [
-      "transfer.balance___polkadot-NATIVE-DOT"
-    ],
+    "transfer.balance": [],
     "transfer.token": [],
     "transfer.xcm": [
       "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
