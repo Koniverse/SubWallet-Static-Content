@@ -813,7 +813,7 @@
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://explorer.mainnet.aventus.io/",
+      "blockExplorer": "http://explorer.mainnet.aventus.network/",
       "existentialDeposit": "0",
       "symbol": "AVT",
       "decimals": 18,
@@ -9968,7 +9968,7 @@
     "slug": "storyPublic_testnet",
     "name": "Story Public Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_e0e48ee028.png",
     "providers": {

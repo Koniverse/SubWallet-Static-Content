@@ -114,6 +114,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -231,6 +237,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polygonZkEvm-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -6802,6 +6814,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -6881,6 +6899,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "base_mainnet-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
   },
@@ -9015,7 +9039,32 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_f643972064.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-USDC",
@@ -16439,7 +16488,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "polygon_amoy",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "polygonzkEvm_cardona-NATIVE-ETH",
