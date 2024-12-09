@@ -11053,7 +11053,7 @@
     "slug": "laos_network_evm",
     "name": "LAOS Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {
@@ -11080,7 +11080,7 @@
     "slug": "laos_network",
     "name": "LAOS Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {

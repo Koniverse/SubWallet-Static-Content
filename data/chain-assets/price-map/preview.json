@@ -791,7 +791,7 @@
   "jamton-NATIVE-DOTON": null,
   "etherlink-NATIVE-XTZ": "tezos",
   "polkadot_people-NATIVE-DOT": "polkadot",
-  "bifrost_dot-LOCAL-vBNC": "bifrost-native-coin",
+  "bifrost_dot-LOCAL-vBNC": null,
   "laos_network_evm-NATIVE-LAOS": "laos-network",
   "laos_network-NATIVE-LAOS": "laos-network"
 }

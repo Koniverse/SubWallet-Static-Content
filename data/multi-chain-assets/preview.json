@@ -785,8 +785,7 @@
     "originChainAsset": "bifrost_dot-NATIVE-BNC",
     "chainAssets": [
       "bifrost_dot-NATIVE-BNC",
-      "hydradx_main-LOCAL-BNC",
-      "bifrost_dot-LOCAL-vBNC"
+      "hydradx_main-LOCAL-BNC"
     ]
   },
   {
