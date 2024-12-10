@@ -80,20 +80,6 @@
   {
     "serviceInfo": {
       "transak": {
-        "network": "ethereum",
-        "symbol": "ETH",
-        "isSuspended": false,
-        "supportSell": true
-      }
-    },
-    "network": "sepolia_ethereum",
-    "slug": "sepolia_ethereum-NATIVE-ETH",
-    "symbol": "ETH",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
-      "transak": {
         "network": "astar",
         "symbol": "ASTR",
         "isSuspended": false,
@@ -865,6 +851,40 @@
     "network": "ethereum",
     "slug": "ethereum-ERC20-POL-0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
     "symbol": "POL",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "VARA",
+        "symbol": "VARA",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "vara_network",
+    "slug": "vara_network-NATIVE-VARA",
+    "symbol": "VARA",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "base",
+        "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": true
+      },
+      "banxa": {
+        "network": "BASE",
+        "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "base_mainnet",
+    "slug": "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "symbol": "USDC",
     "support": "ETHEREUM"
   }
 ]
