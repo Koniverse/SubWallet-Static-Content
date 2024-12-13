@@ -243,6 +243,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "bittensor-NATIVE-TAO"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
       }
     ]
   },
@@ -9120,7 +9126,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cypress_5aca59f1cb.jpg",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cp_8f9d41a39c.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
     "assetRefs": []
@@ -10533,6 +10539,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polygonzkEvm_cardona-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polygon_amoy-ERC20-WETH-0x52eF3d68BaB452a294342DC3e5f464d7f610f72E"
       }
     ]
   },
@@ -16292,7 +16304,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
     "originChain": "polygon",
     "multiChainAsset": "WETH-WrappedEther",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      }
+    ]
   },
   {
     "slug": "arbitrum_one-ERC20-LOGX-0x59062301Fb510F4ea2417B67404CB16D31E604BA",
@@ -16699,7 +16718,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
       }
     ]
   },
@@ -17091,6 +17110,24 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
     "originChain": "laos_network",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-AAVE",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "priceId": "aave",
+    "minAmount": "59084194977843",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000624"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aave_37548a5340.png",
+    "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": []
   }

@@ -793,5 +793,6 @@
   "polkadot_people-NATIVE-DOT": "polkadot",
   "bifrost_dot-LOCAL-vBNC": null,
   "laos_network_evm-NATIVE-LAOS": "laos-network",
-  "laos_network-NATIVE-LAOS": "laos-network"
+  "laos_network-NATIVE-LAOS": "laos-network",
+  "hydradx_main-LOCAL-AAVE": "aave"
 }
