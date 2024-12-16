@@ -426,8 +426,7 @@
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
       "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
-      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
-      "LuckyFriday": "wss://rpc-acala.luckyfriday.io"
+      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8858,7 +8857,6 @@
       "SubWallet Avail 2": "wss://mainnet-rpc-2.availspace.app",
       "Ankr": "wss://mainnet.avail-rpc.com/",
       "Bware": "wss://avail-mainnet.public.blastapi.io/",
-      "RubyNode": "wss://avail-rpc.rubynodes.io/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
       "GlobalStake": "wss://rpc-avail.globalstake.io/",
       "BountyBlok": "wss://avail.rpc.bountyblok.io/",
