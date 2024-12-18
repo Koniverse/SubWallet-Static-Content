@@ -16993,7 +16993,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": null,
-    "originChain": "metadium_testnet",
+    "originChain": null,
     "multiChainAsset": null,
     "assetRefs": []
   },
@@ -17009,7 +17009,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": null,
-    "originChain": "thundercore",
+    "originChain": null,
     "multiChainAsset": null,
     "assetRefs": []
   },
@@ -17128,6 +17128,42 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aave_37548a5340.png",
     "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "optimism-ERC20-NEROX-0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c",
+    "name": "Neurolanche",
+    "symbol": "NEROX",
+    "decimals": 18,
+    "priceId": "nerox-ai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neurolaunche_e7c403402e.png",
+    "originChain": "optimism",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/walletconnect_c84d40cc2e.png",
+    "originChain": "optimism",
     "multiChainAsset": null,
     "assetRefs": []
   }
