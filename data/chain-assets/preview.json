@@ -16894,7 +16894,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
     "originChain": "statemint",
-    "multiChainAsset": null,
+    "multiChainAsset": "LOVA-AIWeb3",
     "assetRefs": []
   },
   {
@@ -16912,7 +16912,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "LOVA-AIWeb3",
     "assetRefs": []
   },
   {
@@ -17164,6 +17164,24 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/walletconnect_c84d40cc2e.png",
     "originChain": "optimism",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+    "name": "zkSync",
+    "symbol": "ZK",
+    "decimals": 18,
+    "priceId": "zksync",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zksync_dcb8eccfcc.png",
+    "originChain": "zksync_era",
     "multiChainAsset": null,
     "assetRefs": []
   }
