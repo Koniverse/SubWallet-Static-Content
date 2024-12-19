@@ -6,10 +6,11 @@
   "KSM-Kusama",
   "AVAIL-Avail",
   "bittensor-NATIVE-TAO",
-  "optimism-ERC20-OP-0x4200000000000000000000000000000000000042",
+  "OP-Optimism",
   "POL-Polygon",
   "ARB-ArbitrumOne",
   "BNB-Binance",
+  "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
   "MANTA-MantaAtlantic",
   "MYTH-Mythos",
   "TON-TONCoin"
