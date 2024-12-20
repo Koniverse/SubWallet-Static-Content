@@ -235,7 +235,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polygonZkEvm-NATIVE-ETH"
       },
       {
