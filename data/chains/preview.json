@@ -9946,7 +9946,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet.subwallet.app"
+      "TonCenter": "https://ton-rpc-testnet.subwallet.app",
+      "cdmteck": "https://ton-check-testnet.cdmteck.com"
     },
     "evmInfo": null,
     "substrateInfo": null,
