@@ -9920,7 +9920,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc.subwallet.app"
+      "Toncenter": "https://ton-rpc.subwallet.app",
+      "Cdmteck": "https://ton-check.cdmteck.com"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -10898,60 +10899,6 @@
     "tonInfo": null
   },
   {
-    "slug": "metadium_testnet",
-    "name": "Metadium Testnet",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": null,
-    "providers": {
-      "abc": "https://api.metadium.com/dev"
-    },
-    "evmInfo": {
-      "evmChainId": 12,
-      "blockExplorer": null,
-      "existentialDeposit": "0",
-      "symbol": "KAL",
-      "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
-      "abiExplorer": null
-    },
-    "substrateInfo": null,
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null
-  },
-  {
-    "slug": "thundercore",
-    "name": "Thundercore",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": null,
-    "providers": {
-      "thhh": "https://thundercore-testnet.drpc.org"
-    },
-    "evmInfo": {
-      "evmChainId": 18,
-      "blockExplorer": null,
-      "existentialDeposit": "0",
-      "symbol": "TST",
-      "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
-      "abiExplorer": null
-    },
-    "substrateInfo": null,
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null
-  },
-  {
     "slug": "jamton",
     "name": "JAMTON",
     "isTestnet": false,
@@ -11102,6 +11049,61 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "ithaca",
+    "name": "Odyssey Ithaca",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
+    "providers": {
+      "Odyssey": "https://odyssey.ithaca.xyz"
+    },
+    "evmInfo": {
+      "evmChainId": 911867,
+      "blockExplorer": "https://odyssey-explorer.ithaca.xyz",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "ink",
+    "name": "Ink",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ink_e4b4a722cb.png",
+    "providers": {
+      "Gel Ink": "https://rpc-gel.inkonchain.com/",
+      "Qnd Ink": "https://rpc-qnd.inkonchain.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 57073,
+      "blockExplorer": "https://explorer.inkonchain.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
