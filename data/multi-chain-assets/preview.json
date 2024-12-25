@@ -32,7 +32,8 @@
       "lisk-NATIVE-ETH",
       "zircuit-NATIVE-ETH",
       "zksync_era-NATIVE-ETH",
-      "cyber-NATIVE-ETH"
+      "cyber-NATIVE-ETH",
+      "ink-NATIVE-ETH"
     ]
   },
   {
@@ -1342,7 +1343,8 @@
       "sepolia_ethereum-NATIVE-ETH",
       "base_sepolia-NATIVE-ETH",
       "arbitrum_sepolia-NATIVE-ETH",
-      "polygonzkEvm_cardona-NATIVE-ETH"
+      "polygonzkEvm_cardona-NATIVE-ETH",
+      "ithaca-NATIVE-ETH"
     ]
   },
   {
@@ -1482,6 +1484,9 @@
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/lova_a624f51f5d.png",
     "originChainAsset": null,
-    "chainAssets": []
+    "chainAssets": [
+      "statemint-LOCAL-LOVA",
+      "hydradx_main-LOCAL-LOVA"
+    ]
   }
 ]

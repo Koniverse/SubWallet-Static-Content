@@ -16982,38 +16982,6 @@
     "assetRefs": []
   },
   {
-    "slug": "metadium_testnet-NATIVE-KAL",
-    "name": "Metadium Testnet",
-    "symbol": "KAL",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": null,
-    "originChain": null,
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "thundercore-NATIVE-TST",
-    "name": "Thunder",
-    "symbol": "TST",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": null,
-    "originChain": null,
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "jamton-NATIVE-DOTON",
     "name": "DOTON",
     "symbol": "DOTON",
@@ -17183,6 +17151,38 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zksync_dcb8eccfcc.png",
     "originChain": "zksync_era",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ithaca-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ithaca",
+    "multiChainAsset": "ETH-EthereumSepolia",
+    "assetRefs": []
+  },
+  {
+    "slug": "ink-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ink",
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   }
 ]
