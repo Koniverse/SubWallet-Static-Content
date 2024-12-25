@@ -113,9 +113,9 @@ const cacheConfigs = [
                     for (const dataContent of preview_data) {
                         const prefix = isProduction ? config.fileName : config.preview;
                         const fileName = getFileNameByLang(prefix, lang);
-                        const {folder, content, description} = dataContent;
+                        const {folder, content, description, title} = dataContent;
                         const contentSave = {
-                            content, description
+                            content, description, title
                         }
                         const folderPath = saveFolderChild(folderParent, folder);
                         if (!fs.existsSync(folderPath)) {
