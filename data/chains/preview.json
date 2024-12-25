@@ -9920,8 +9920,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc.subwallet.app",
-      "Cdmteck": "https://ton-check.cdmteck.com"
+      "Toncenter": "https://ton-rpc.subwallet.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -9946,8 +9945,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet.subwallet.app",
-      "cdmteck": "https://ton-check-testnet.cdmteck.com"
+      "TonCenter": "https://ton-rpc-testnet.subwallet.app"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -11097,6 +11095,60 @@
       "blockExplorer": "https://explorer.inkonchain.com/",
       "existentialDeposit": "0",
       "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "celo",
+    "name": "Celo Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png",
+    "providers": {
+      "Celo Forno": "https://forno.celo.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 42220,
+      "blockExplorer": "https://explorer.celo.org/",
+      "existentialDeposit": "0",
+      "symbol": "CELO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "celo_alfajores",
+    "name": "Celo Alfajores",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png",
+    "providers": {
+      "Celo Alfajores": "https://alfajores-forno.celo-testnet.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 44787,
+      "blockExplorer": "https://celo-alfajores.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "CELO",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",

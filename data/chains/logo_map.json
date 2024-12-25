@@ -313,5 +313,7 @@
   "laos_network_evm": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
   "laos_network": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
   "ithaca": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
-  "ink": "https://static-data.subwallet.app/chains/images/icon/ink_e4b4a722cb.png"
+  "ink": "https://static-data.subwallet.app/chains/images/icon/ink_e4b4a722cb.png",
+  "celo": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png",
+  "celo_alfajores": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png"
 }
