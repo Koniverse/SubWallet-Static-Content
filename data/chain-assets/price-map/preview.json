@@ -789,13 +789,18 @@
   "jamton-NATIVE-DOTON": null,
   "etherlink-NATIVE-XTZ": "tezos",
   "polkadot_people-NATIVE-DOT": "polkadot",
-  "bifrost_dot-LOCAL-vBNC": null,
+  "bifrost_dot-LOCAL-vBNC": "voucher-bnc",
   "laos_network_evm-NATIVE-LAOS": "laos-network",
   "laos_network-NATIVE-LAOS": "laos-network",
   "hydradx_main-LOCAL-AAVE": "aave",
   "optimism-ERC20-NEROX-0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c": "nerox-ai",
-  "optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945": null,
+  "optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945": "connect-token-wct",
   "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": "zksync",
   "ithaca-NATIVE-ETH": null,
-  "ink-NATIVE-ETH": "ethereum"
+  "ink-NATIVE-ETH": "ethereum",
+  "celo-NATIVE-CELO": "celo",
+  "celo_alfajores-NATIVE-CELO": null,
+  "lens_network_sepolia-NATIVE-GRASS": null,
+  "sophon_testnet-NATIVE-SOPH": null,
+  "abstract_testnet-NATIVE-ETH": null
 }
