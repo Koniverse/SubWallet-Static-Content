@@ -8854,7 +8854,6 @@
     "providers": {
       "Avail": "wss://zeref-api.slowops.xyz/ws",
       "SubWallet Avail": "wss://mainnet-rpc.availspace.app",
-      "SubWallet Avail 2": "wss://mainnet-rpc-2.availspace.app",
       "Ankr": "wss://mainnet.avail-rpc.com/",
       "Bware": "wss://avail-mainnet.public.blastapi.io/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
@@ -11230,6 +11229,33 @@
       "blockExplorer": "https://explorer.testnet.abs.xyz/",
       "existentialDeposit": "0",
       "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "dia_lasernet_testnet",
+    "name": "DIA Lasernet Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dia_3d9375d8d1.png",
+    "providers": {
+      "DiaData": "https://testnet-rpc.diadata.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 10640,
+      "blockExplorer": "https://testnet-explorer.diadata.org/",
+      "existentialDeposit": "0",
+      "symbol": "DIA",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",

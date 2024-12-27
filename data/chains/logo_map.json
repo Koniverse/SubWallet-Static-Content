@@ -318,5 +318,6 @@
   "celo_alfajores": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png",
   "lens_network_sepolia": "https://static-data.subwallet.app/chains/images/icon/lens_7ff5ef1098.png",
   "sophon_testnet": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
-  "abstract_testnet": "https://static-data.subwallet.app/chains/images/icon/abstract_90ad4ac251.png"
+  "abstract_testnet": "https://static-data.subwallet.app/chains/images/icon/abstract_90ad4ac251.png",
+  "dia_lasernet_testnet": "https://static-data.subwallet.app/chains/images/icon/dia_3d9375d8d1.png"
 }
