@@ -8622,7 +8622,7 @@
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://dbc.subscan.io/",
-      "existentialDeposit": "10000000000000",
+      "existentialDeposit": "0",
       "symbol": "DBC",
       "decimals": 15,
       "hasNativeNft": null,
@@ -10996,7 +10996,7 @@
     "slug": "laos_network_evm",
     "name": "LAOS Network",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {
@@ -11023,7 +11023,7 @@
     "slug": "laos_network",
     "name": "LAOS Network",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {
