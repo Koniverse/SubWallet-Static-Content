@@ -14,7 +14,6 @@
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
-      "SubWallet": "wss://polkadot-rpc.subwallet.app",
       "Onfinality": "wss://polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -54,8 +53,7 @@
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama",
-      "SubWallet": "wss://kusama-rpc.subwallet.app"
+      "Light Client": "light://substrate-connect/kusama"
     },
     "evmInfo": null,
     "substrateInfo": {
