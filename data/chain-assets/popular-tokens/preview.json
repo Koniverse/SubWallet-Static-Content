@@ -1,17 +1,151 @@
 {
-  "DOT-Polkadot": 1,
-  "ETH-Ethereum": 2,
-  "USDT-Tether": 3,
-  "USDC-USDCoin": 4,
-  "KSM-Kusama": 5,
-  "AVAIL-Avail": 6,
-  "bittensor-NATIVE-TAO": 7,
-  "OP-Optimism": 8,
-  "POL-Polygon": 9,
-  "ARB-ArbitrumOne": 10,
-  "BNB-Binance": 11,
-  "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": 12,
-  "MANTA-MantaAtlantic": 13,
-  "MYTH-Mythos": 14,
-  "TON-TONCoin": 15
+  "DOT-Polkadot": {
+    "tokens": [
+      {
+        "slug": "polkadot-NATIVE-DOT",
+        "piorityToken": 1
+      }
+    ],
+    "piority": 1
+  },
+
+  "ETH-Ethereum": {
+    "tokens": [
+      {
+        "slug": "ethereum-NATIVE-ETH",
+        "piorityToken": 2
+      }
+    ],
+    "piority": 2
+  },
+
+  "USDT-Tether": {
+    "tokens": [
+      {
+        "slug": "acala-LOCAL-USDT",
+        "piorityToken": 3
+      }
+    ],
+    "piority": 3
+  },
+
+  "USDC-USDCoin": {
+    "tokens": [
+      {
+        "slug": "calamari-LOCAL-USDC",
+        "piorityToken": 4
+      }
+    ],
+    "piority": 4
+  },
+
+  "KSM-Kusama": {
+    "tokens": [
+      {
+        "slug": "kusama-NATIVE-KSM",
+        "piorityToken": 5
+      }
+    ],
+    "piority": 5
+  },
+
+  "AVAIL-Avail": {
+    "tokens": [
+      {
+        "slug": "avail_mainnet-NATIVE-AVAIL",
+        "piorityToken": 6
+      }
+    ],
+    "piority": 6
+  },
+
+  "bittensor-NATIVE-TAO": {
+    "tokens": [
+      {
+        "slug": "bittensor-NATIVE-TAO",
+        "piorityToken": 7
+      }
+    ],
+    "piority": 7
+  },
+
+  "OP-Optimism": {
+    "tokens": [
+      {
+        "slug": "optimism-ERC20-OP-0x4200000000000000000000000000000000000042",
+        "piorityToken": 8
+      }
+    ],
+    "piority": 8
+  },
+
+  "POL-Polygon": {
+    "tokens": [
+      {
+        "slug": "polygon-NATIVE-POL",
+        "piorityToken": 9
+      }
+    ],
+    "piority": 9
+  },
+
+  "ARB-ArbitrumOne": {
+    "tokens": [
+      {
+        "slug": "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "piorityToken": 10
+      }
+    ],
+    "piority": 10
+  },
+
+  "BNB-Binance": {
+    "tokens": [
+      {
+        "slug": "binance-NATIVE-BNB",
+        "piorityToken": 11
+      }
+    ],
+    "piority": 11
+  },
+
+  "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
+    "tokens": [
+      {
+        "slug": "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+        "piorityToken": 12
+      }
+    ],
+    "piority": 12
+  },
+
+  "MANTA-MantaAtlantic": {
+    "tokens": [
+      {
+        "slug": "manta_network-NATIVE-MANTA",
+        "piorityToken": 13
+      }
+    ],
+    "piority": 13
+  },
+
+  "MYTH-Mythos": {
+    "tokens": [
+      {
+        "slug": "mythos-NATIVE-MYTH",
+        "piorityToken": 14
+      }
+    ],
+    "piority": 14
+  },
+
+  "TON-TONCoin": {
+    "tokens": [
+      {
+        "slug": "ton-NATIVE-TON",
+        "piorityToken": 15
+      }
+    ],
+    "piority": 15
+  }
 }
