@@ -4657,7 +4657,7 @@
         "VToken": "BNC"
       }
     },
-    "hasValue": true,
+    "hasValue": false,
     "ordinal": 221,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_d008bcbf68.png",
     "originChain": "bifrost",
@@ -12090,7 +12090,7 @@
     "symbol": "DBC",
     "decimals": 15,
     "priceId": "deepbrain-chain",
-    "minAmount": "10000000000000",
+    "minAmount": "0",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -17262,6 +17262,22 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "abstract_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "dia_lasernet_testnet-NATIVE-DIA",
+    "name": "DIA",
+    "symbol": "DIA",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dia_3d9375d8d1.png",
+    "originChain": "dia_lasernet_testnet",
     "multiChainAsset": null,
     "assetRefs": []
   }
