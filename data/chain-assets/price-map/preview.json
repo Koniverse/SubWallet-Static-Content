@@ -802,5 +802,6 @@
   "celo_alfajores-NATIVE-CELO": null,
   "lens_network_sepolia-NATIVE-GRASS": null,
   "sophon_testnet-NATIVE-SOPH": null,
-  "abstract_testnet-NATIVE-ETH": null
+  "abstract_testnet-NATIVE-ETH": null,
+  "dia_lasernet_testnet-NATIVE-DIA": null
 }
