@@ -287,14 +287,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "moonbeam",
     "multiChainAsset": "GLMR-Moonbeam",
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "pioneer-NATIVE-NEER",
@@ -828,36 +821,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-NATIVE-GLMR"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcPINK"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcUSDT"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcvDOT"
       }
     ]
   },
@@ -4657,7 +4620,7 @@
         "VToken": "BNC"
       }
     },
-    "hasValue": false,
+    "hasValue": true,
     "ordinal": 221,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_d008bcbf68.png",
     "originChain": "bifrost",
@@ -4688,12 +4651,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
   },
@@ -9197,14 +9154,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stdot_8519a88eba.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "enjin_matrixchain-NATIVE-ENJ",
@@ -9853,12 +9803,6 @@
         "metadata": null,
         "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
   },
@@ -11946,14 +11890,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
     "originChain": "moonbeam",
     "multiChainAsset": "vDOT-VoucherDot",
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "statemint-LOCAL-STINK",
@@ -17279,6 +17216,42 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dia_3d9375d8d1.png",
     "originChain": "dia_lasernet_testnet",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ithaca-ERC20-USDC-0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
+    "originChain": "ithaca",
+    "multiChainAsset": "USDC-USDCSepolia",
+    "assetRefs": []
+  },
+  {
+    "slug": "ithaca-ERC20-AVAIL-0x6f59A38564B51c628db66D2a2D0A36A7D14Fe3E5",
+    "name": "Avail",
+    "symbol": "AVAIL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6f59A38564B51c628db66D2a2D0A36A7D14Fe3E5"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_3e7774cff6.png",
+    "originChain": "ithaca",
+    "multiChainAsset": "AVAIL-AvailTuringTestnet",
     "assetRefs": []
   }
 ]

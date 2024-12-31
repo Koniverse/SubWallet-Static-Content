@@ -1358,7 +1358,8 @@
     "chainAssets": [
       "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
       "base_sepolia-ERC20-USDC-0x036CbD53842c5426634e7929541eC2318f3dCF7e",
-      "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
+      "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d",
+      "ithaca-ERC20-USDC-0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695"
     ]
   },
   {
@@ -1450,7 +1451,8 @@
     "originChainAsset": null,
     "chainAssets": [
       "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d",
-      "availTuringTest-NATIVE-AVAIL"
+      "availTuringTest-NATIVE-AVAIL",
+      "ithaca-ERC20-AVAIL-0x6f59A38564B51c628db66D2a2D0A36A7D14Fe3E5"
     ]
   },
   {

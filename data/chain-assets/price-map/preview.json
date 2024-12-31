@@ -803,5 +803,7 @@
   "lens_network_sepolia-NATIVE-GRASS": null,
   "sophon_testnet-NATIVE-SOPH": null,
   "abstract_testnet-NATIVE-ETH": null,
-  "dia_lasernet_testnet-NATIVE-DIA": null
+  "dia_lasernet_testnet-NATIVE-DIA": null,
+  "ithaca-ERC20-USDC-0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695": null,
+  "ithaca-ERC20-AVAIL-0x6f59A38564B51c628db66D2a2D0A36A7D14Fe3E5": null
 }

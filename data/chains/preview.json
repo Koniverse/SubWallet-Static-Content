@@ -8615,7 +8615,7 @@
     "substrateInfo": {
       "relaySlug": null,
       "paraId": null,
-      "genesisHash": "0xd523fa2e0581f069b4f0c7b5944c21e9abc72305a08067868c91b898d1bf1dff",
+      "genesisHash": "0x03aa6b475a03f8baf7f83e448513b00eaab03aefa4ed64bd1d31160dce028add",
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
