@@ -92,7 +92,7 @@
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
       "MevBlocker": "https://rpc.mevblocker.io/",
-      "Ethereum": "https://eth-rpc.subwallet.app/ "
+      "Ethereum": "https://eth-mainnet.koni.studio/"
     },
     "evmInfo": {
       "evmChainId": 1,
@@ -1205,7 +1205,7 @@
       "relaySlug": "kusama",
       "paraId": 2001,
       "genesisHash": "0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed",
-      "addressPrefix": 6,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://bifrost.app/vcrowdloan",
       "blockExplorer": "https://bifrost-kusama.subscan.io/",
@@ -1265,7 +1265,7 @@
       "relaySlug": "polkadot",
       "paraId": 2030,
       "genesisHash": "0x262e1b2ad728475fd6fe88e62d34c200abe6fd693931ddad144059b1eb884e5b",
-      "addressPrefix": 6,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://bifrost.app/vcrowdloan",
       "blockExplorer": "https://bifrost.subscan.io",
@@ -1312,7 +1312,7 @@
       "relaySlug": "rococo",
       "paraId": 2030,
       "genesisHash": "0x0c003b98abbedae774f5e13cd6146781317016725ab4db34312ea2681e9901f3",
-      "addressPrefix": 6,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://bifrost-testnet.subscan.io/",
@@ -9835,7 +9835,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc.subwallet.app"
+      "Toncenter": "https://ton-rpc-mainnet.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -9860,7 +9860,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet.subwallet.app"
+      "TonCenter": "https://ton-rpc-testnet.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
