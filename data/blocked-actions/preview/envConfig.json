@@ -1,12 +1,15 @@
 {
   "0c788767-4c87-4d84-acad-b18fa5dd2d9c": {
+    "appConfig": {
+      "environment": "extension"
+    },
     "browserConfig": {
-      "type": "brave",
-      "version": ">=128.0.0.0"
+      "type": "",
+      "version": ""
     },
     "sysConfig": {
-      "type": "macOS",
-      "version": "10.15.7"
+      "type": "",
+      "version": ""
    }
   }
 }
