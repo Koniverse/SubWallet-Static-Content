@@ -1,16 +1,12 @@
 {
-  "blockedFeaturesList": [
-     "transfer.balance___aleph"
-  ],
+  "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [],
-    "transfer.token": [],
-    "transfer.xcm": [
-      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
-],
-    "send_nft": [
-       "transfer_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
+    "transfer.token": [
+      "transfer.token___optimism___optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945"
     ],
+    "transfer.xcm": [],
+    "send_nft": [],
     "swap": [],
     "staking.join_pool": [],
     "staking.leave_pool": [],
