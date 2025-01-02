@@ -10990,33 +10990,6 @@
     "tonInfo": null
   },
   {
-    "slug": "laos_network_evm",
-    "name": "LAOS Network",
-    "isTestnet": false,
-    "chainStatus": "ACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
-    "providers": {
-      "LaosFoundation": "https://rpc.laos.laosfoundation.io/"
-    },
-    "evmInfo": {
-      "evmChainId": 6283,
-      "blockExplorer": "https://explorer.laosnetwork.io/",
-      "existentialDeposit": "0",
-      "symbol": "LAOS",
-      "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
-      "abiExplorer": null
-    },
-    "substrateInfo": null,
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null
-  },
-  {
     "slug": "laos_network",
     "name": "LAOS Network",
     "isTestnet": false,
@@ -11026,7 +10999,18 @@
     "providers": {
       "LaosFoundation": "wss://rpc.laos.laosfoundation.io"
     },
-    "evmInfo": null,
+    "evmInfo": {
+      "evmChainId": 6283,
+      "blockExplorer": "https://laos.statescan.io/",
+      "existentialDeposit": "0",
+      "symbol": "LAOS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
     "substrateInfo": {
       "relaySlug": "polkadot",
       "paraId": 3370,

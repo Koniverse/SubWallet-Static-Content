@@ -4608,26 +4608,6 @@
     "assetRefs": []
   },
   {
-    "slug": "bifrost-LOCAL-vBNC",
-    "name": "Voucher BNC",
-    "symbol": "vBNC",
-    "decimals": 12,
-    "priceId": "bifrost-native-coin",
-    "minAmount": "10000000000",
-    "assetType": "LOCAL",
-    "metadata": {
-      "onChainInfo": {
-        "VToken": "BNC"
-      }
-    },
-    "hasValue": true,
-    "ordinal": 221,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_d008bcbf68.png",
-    "originChain": "bifrost",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "moonbeam-LOCAL-xcUSDT",
     "name": "Tether USD",
     "symbol": "xcUSDT",
@@ -16983,22 +16963,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_c6d838f4f5.png",
     "originChain": "bifrost_dot",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "laos_network_evm-NATIVE-LAOS",
-    "name": "LAOS",
-    "symbol": "LAOS",
-    "decimals": 18,
-    "priceId": "laos-network",
-    "minAmount": "0",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
-    "originChain": "laos_network_evm",
     "multiChainAsset": null,
     "assetRefs": []
   },
