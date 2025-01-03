@@ -1469,16 +1469,6 @@
     ]
   },
   {
-    "slug": "LAOS-LAOS",
-    "name": "LAOS",
-    "symbol": "LAOS",
-    "priceId": "laos-network",
-    "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/laos_network_3b5afe97d9.png",
-    "originChainAsset": null,
-    "chainAssets": []
-  },
-  {
     "slug": "LOVA-AIWeb3",
     "name": "AIWeb3",
     "symbol": "LOVA",
