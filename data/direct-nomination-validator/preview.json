@@ -10,5 +10,9 @@
     "kusama": {
       "maxCount": 24,
       "preSelectValidators": "ERYwYjy1LGY1GWovnxxmXo68SZLLYwjMXNEvhhDhp48zyED,EwwczfxHvFq8zyYFkQv29r9us7M8Gbmw4cUtrvF5ozx6Mf2,HTZ3GN2VpfYoSDxAmaqRSqR5HhNaLcRsoNYJNTuqtiMMptB,CmNYnM3pStTCKgXq67Cp8rURA6GTfdfseJx7posbg2vJVHQ"
+    },
+    "alephTest": {
+      "maxCount": 1,
+      "preSelectValidators": "5Di64jbUcvZUFRsSQFSg7v9wp5Ug2ggEibj4hr5y9Tpb9xao,5Dna5LN2DKYDgL4avScjTBsi6BSvjo6ZAbhrYsQEpvTPrzdE"
     }
   }  
