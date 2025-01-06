@@ -3,104 +3,104 @@
     "tokens": {
       "polkadot-NATIVE-DOT" : 1
     },
-    "piority": 1
+    "priority": 1
   },
 
   "ETH-Ethereum": {
     "tokens": {
       "ethereum-NATIVE-ETH" : 2
     },
-    "piority": 2
+    "priority": 2
   },
 
   "USDT-Tether": {
     "tokens": {
       "acala-LOCAL-USDT" : 3
     },
-    "piority": 3
+    "priority": 3
   },
 
   "USDC-USDCoin": {
     "tokens": {
       "calamari-LOCAL-USDC" : 4
     },
-    "piority": 4
+    "priority": 4
   },
 
   "KSM-Kusama": {
     "tokens": {
       "kusama-NATIVE-KSM" : 5
     },
-    "piority": 5
+    "priority": 5
   },
 
   "AVAIL-Avail": {
     "tokens": {
       "avail_mainnet-NATIVE-AVAIL" : 6
     },
-    "piority": 6
+    "priority": 6
   },
 
   "bittensor-NATIVE-TAO": {
     "tokens": {
       "bittensor-NATIVE-TAO" : 7
     },
-    "piority": 7
+    "priority": 7
   },
 
   "OP-Optimism": {
     "tokens": {
       "optimism-ERC20-OP-0x4200000000000000000000000000000000000042" : 8
     },
-    "piority": 8
+    "priority": 8
   },
 
   "POL-Polygon": {
     "tokens": {
       "polygon-NATIVE-POL" : 9
     },
-    "piority": 9
+    "priority": 9
   },
 
   "ARB-ArbitrumOne": {
     "tokens": {
       "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548" : 10
     },
-    "piority": 10
+    "priority": 10
   },
 
   "BNB-Binance": {
     "tokens": {
       "binance-NATIVE-BNB" : 11
     },
-    "piority": 11
+    "priority": 11
   },
 
   "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
     "tokens": {
       "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E" : 12
     },
-    "piority": 12
+    "priority": 12
   },
 
   "MANTA-MantaAtlantic": {
     "tokens": {
       "manta_network-NATIVE-MANTA" : 13
     },
-    "piority": 13
+    "priority": 13
   },
 
   "MYTH-Mythos": {
     "tokens": {
       "mythos-NATIVE-MYTH" : 14
     },
-    "piority": 14
+    "priority": 14
   },
 
   "TON-TONCoin": {
     "tokens": {
       "ton-NATIVE-TON" : 15
     },
-    "piority": 15
+    "priority": 15
   }
 }
