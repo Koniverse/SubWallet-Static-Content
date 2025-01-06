@@ -235,7 +235,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polygonZkEvm-NATIVE-ETH"
       },
       {
@@ -243,6 +243,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "bittensor-NATIVE-TAO"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
       }
     ]
   },
@@ -281,14 +287,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChain": "moonbeam",
     "multiChainAsset": "GLMR-Moonbeam",
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "pioneer-NATIVE-NEER",
@@ -822,36 +821,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-NATIVE-GLMR"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcPINK"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcUSDT"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcvDOT"
       }
     ]
   },
@@ -4639,26 +4608,6 @@
     "assetRefs": []
   },
   {
-    "slug": "bifrost-LOCAL-vBNC",
-    "name": "Voucher BNC",
-    "symbol": "vBNC",
-    "decimals": 12,
-    "priceId": "bifrost-native-coin",
-    "minAmount": "10000000000",
-    "assetType": "LOCAL",
-    "metadata": {
-      "onChainInfo": {
-        "VToken": "BNC"
-      }
-    },
-    "hasValue": true,
-    "ordinal": 221,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_d008bcbf68.png",
-    "originChain": "bifrost",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "moonbeam-LOCAL-xcUSDT",
     "name": "Tether USD",
     "symbol": "xcUSDT",
@@ -4682,12 +4631,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
   },
@@ -9120,7 +9063,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cypress_5aca59f1cb.jpg",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cp_8f9d41a39c.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9191,14 +9134,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stdot_8519a88eba.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "enjin_matrixchain-NATIVE-ENJ",
@@ -9847,12 +9783,6 @@
         "metadata": null,
         "disable": true,
         "destAsset": "statemint-LOCAL-PINK"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
       }
     ]
   },
@@ -10533,6 +10463,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polygonzkEvm_cardona-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polygon_amoy-ERC20-WETH-0x52eF3d68BaB452a294342DC3e5f464d7f610f72E"
       }
     ]
   },
@@ -11934,14 +11870,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_fdab8d59c8.png",
     "originChain": "moonbeam",
     "multiChainAsset": "vDOT-VoucherDot",
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "moonbeam-LOCAL-xcDOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "statemint-LOCAL-STINK",
@@ -12078,7 +12007,7 @@
     "symbol": "DBC",
     "decimals": 15,
     "priceId": "deepbrain-chain",
-    "minAmount": "10000000000000",
+    "minAmount": "0",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -12124,7 +12053,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d"
       }
     ]
@@ -12351,7 +12280,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-ERC20-AVAIL-0xEeB4d8400AEefafC1B2953e0094134A887C76Bd8"
       }
     ]
@@ -15242,7 +15171,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "avail_mainnet-NATIVE-AVAIL"
       }
     ]
@@ -16168,6 +16097,31 @@
     ]
   },
   {
+    "slug": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "polygon",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      }
+    ]
+  },
+  {
     "slug": "arbitrum_one-ERC20-LOGX-0x59062301Fb510F4ea2417B67404CB16D31E604BA",
     "name": "LogX Network",
     "symbol": "LOGX",
@@ -16305,7 +16259,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "availTuringTest-NATIVE-AVAIL"
       }
     ]
@@ -16493,7 +16447,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
       }
     ]
   },
@@ -16652,6 +16606,376 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kma_1e886bb864.png",
     "originChain": "manta_network_evm",
     "multiChainAsset": "KMA-Calamari",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-LOVA",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "50000028"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChain": "statemint",
+    "multiChainAsset": "LOVA-AIWeb3",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-LOVA",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000639"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "LOVA-AIWeb3",
+    "assetRefs": []
+  },
+  {
+    "slug": "fraxtal-NATIVE-frxETH",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "priceId": "frax-ether",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frxeth_2580fe89ec.png",
+    "originChain": "fraxtal",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cyber-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "cyber",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "storyOdyssey_testnet-ERC20-PIP-0x6e990040Fd9b06F98eFb62A147201696941680b5",
+    "name": "PIPERX Token",
+    "symbol": "PIP",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6e990040Fd9b06F98eFb62A147201696941680b5"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pip_7a2e0b016f.png",
+    "originChain": "storyOdyssey_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "g6_testnet-NATIVE-GSX",
+    "name": "GSX",
+    "symbol": "GSX",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gsx_26b9fb2783.png",
+    "originChain": "g6_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "jamton-NATIVE-DOTON",
+    "name": "DOTON",
+    "symbol": "DOTON",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jamton_f271de5262.png",
+    "originChain": "jamton",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "etherlink-NATIVE-XTZ",
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "decimals": 18,
+    "priceId": "tezos",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xtz_3dee516573.png",
+    "originChain": "etherlink",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polkadot_people-NATIVE-DOT",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "polkadot_people",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-vBNC",
+    "name": "Voucher BNC",
+    "symbol": "vBNC",
+    "decimals": 12,
+    "priceId": "voucher-bnc",
+    "minAmount": "10000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "VToken": "BNC"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vbnc_c6d838f4f5.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "laos_network-NATIVE-LAOS",
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "decimals": 18,
+    "priceId": "laos-network",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChain": "laos_network",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-AAVE",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "priceId": "aave",
+    "minAmount": "59084194977843",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000624"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aave_37548a5340.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "optimism-ERC20-NEROX-0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c",
+    "name": "Neurolanche",
+    "symbol": "NEROX",
+    "decimals": 18,
+    "priceId": "nerox-ai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neurolaunche_e7c403402e.png",
+    "originChain": "optimism",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "priceId": "connect-token-wct",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/walletconnect_c84d40cc2e.png",
+    "originChain": "optimism",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+    "name": "zkSync",
+    "symbol": "ZK",
+    "decimals": 18,
+    "priceId": "zksync",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zksync_dcb8eccfcc.png",
+    "originChain": "zksync_era",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ink-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ink",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "celo-NATIVE-CELO",
+    "name": "Celo",
+    "symbol": "CELO",
+    "decimals": 18,
+    "priceId": "celo",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/celo_59838f0fd3.png",
+    "originChain": "celo",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "celo_alfajores-NATIVE-CELO",
+    "name": "Celo",
+    "symbol": "CELO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/celo_59838f0fd3.png",
+    "originChain": "celo_alfajores",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "lens_network_sepolia-NATIVE-GRASS",
+    "name": "GRASS",
+    "symbol": "GRASS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lens_7ff5ef1098.png",
+    "originChain": "lens_network_sepolia",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "sophon_testnet-NATIVE-SOPH",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sophon_19df409d27.png",
+    "originChain": "sophon_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "abstract_testnet-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "abstract_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "dia_lasernet_testnet-NATIVE-DIA",
+    "name": "DIA",
+    "symbol": "DIA",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dia_3d9375d8d1.png",
+    "originChain": "dia_lasernet_testnet",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]

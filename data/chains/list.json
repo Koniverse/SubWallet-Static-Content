@@ -8615,7 +8615,7 @@
     "substrateInfo": {
       "relaySlug": null,
       "paraId": null,
-      "genesisHash": "0xd523fa2e0581f069b4f0c7b5944c21e9abc72305a08067868c91b898d1bf1dff",
+      "genesisHash": "0x03aa6b475a03f8baf7f83e448513b00eaab03aefa4ed64bd1d31160dce028add",
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
@@ -10904,6 +10904,239 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "laos_network",
+    "name": "LAOS Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
+    "providers": {
+      "LaosFoundation": "wss://rpc.laos.laosfoundation.io"
+    },
+    "evmInfo": {
+      "evmChainId": 6283,
+      "blockExplorer": "https://laos.statescan.io/",
+      "existentialDeposit": "0",
+      "symbol": "LAOS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3370,
+      "genesisHash": "0xe8aecc950e82f1a375cf650fa72d07e0ad9bef7118f49b92283b63e88b1de88b",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://laos.statescan.io/",
+      "existentialDeposit": "0",
+      "symbol": "LAOS",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "ink",
+    "name": "Ink",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ink_e4b4a722cb.png",
+    "providers": {
+      "Gel Ink": "https://rpc-gel.inkonchain.com/",
+      "Qnd Ink": "https://rpc-qnd.inkonchain.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 57073,
+      "blockExplorer": "https://explorer.inkonchain.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "celo",
+    "name": "Celo Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png",
+    "providers": {
+      "Celo Forno": "https://forno.celo.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 42220,
+      "blockExplorer": "https://explorer.celo.org/",
+      "existentialDeposit": "0",
+      "symbol": "CELO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "celo_alfajores",
+    "name": "Celo Alfajores",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/celo_59838f0fd3.png",
+    "providers": {
+      "Celo Alfajores": "https://alfajores-forno.celo-testnet.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 44787,
+      "blockExplorer": "https://celo-alfajores.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "CELO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "lens_network_sepolia",
+    "name": "Lens Network Sepolia Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/lens_7ff5ef1098.png",
+    "providers": {
+      "Lens": "https://rpc.testnet.lens.dev/"
+    },
+    "evmInfo": {
+      "evmChainId": 37111,
+      "blockExplorer": "https://block-explorer.testnet.lens.dev/",
+      "existentialDeposit": "0",
+      "symbol": "GRASS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "sophon_testnet",
+    "name": "Sophon Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
+    "providers": {
+      "Sophon": "https://rpc.testnet.sophon.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 531050104,
+      "blockExplorer": "https://explorer.testnet.sophon.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "SOPH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "abstract_testnet",
+    "name": "Abstract Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/abstract_90ad4ac251.png",
+    "providers": {
+      "Abs": "https://api.testnet.abs.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 11124,
+      "blockExplorer": "https://explorer.testnet.abs.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "dia_lasernet_testnet",
+    "name": "DIA Lasernet Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dia_3d9375d8d1.png",
+    "providers": {
+      "DiaData": "https://testnet-rpc.diadata.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 10640,
+      "blockExplorer": "https://testnet-explorer.diadata.org/",
+      "existentialDeposit": "0",
+      "symbol": "DIA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null

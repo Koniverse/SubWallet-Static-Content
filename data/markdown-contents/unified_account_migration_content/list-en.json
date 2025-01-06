@@ -1,0 +1,5 @@
+{
+  "content": "<div class=\"md-element md-subtitle\"> What is a unified account?</div>\n\n<img  class=\"md-element md-banner\" src=\"https://media-resources.subwallet.app/12/banner_875304520d.png\" alt=\"banner\" />\n\n<div  class=\"md-element md-p-tag text-center\">With one single seed phrase, a unified account allows you to use multiple ecosystems including Polkadot, Ethereum, Bitcoin and TON.</div>\n\n<div  class=\"md-element md-p-tag text-center\">When you connect to a dApp or send assets, SubWallet automatically detects the appropriate address based on the assets and networks you are interacting with. This way, you can easily manage your multi-chain assets without having to switch accounts.</div>\n\n\n",
+  "description": "Header 1",
+  "title": "Understand unified account"
+}

@@ -31,7 +31,9 @@
       "mode-NATIVE-ETH",
       "lisk-NATIVE-ETH",
       "zircuit-NATIVE-ETH",
-      "zksync_era-NATIVE-ETH"
+      "zksync_era-NATIVE-ETH",
+      "cyber-NATIVE-ETH",
+      "ink-NATIVE-ETH"
     ]
   },
   {
@@ -90,7 +92,8 @@
       "interlay-LOCAL-DOT",
       "hydradx_main-LOCAL-DOT",
       "manta_network-LOCAL-DOT",
-      "statemine-LOCAL-DOT"
+      "statemine-LOCAL-DOT",
+      "polkadot_people-NATIVE-DOT"
     ]
   },
   {
@@ -447,7 +450,8 @@
     "originChainAsset": "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "chainAssets": [
       "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u"
+      "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u",
+      "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
     ]
   },
   {
@@ -1452,6 +1456,19 @@
     "chainAssets": [
       "tangle-NATIVE-TNT",
       "tangle_evm-NATIVE-TNT"
+    ]
+  },
+  {
+    "slug": "LOVA-AIWeb3",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "priceId": null,
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "statemint-LOCAL-LOVA",
+      "hydradx_main-LOCAL-LOVA"
     ]
   }
 ]
