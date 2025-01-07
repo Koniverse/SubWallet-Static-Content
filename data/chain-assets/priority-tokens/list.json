@@ -1,106 +1,106 @@
 {
   "DOT-Polkadot": {
-    "tokens": {
+    "priorityTokens": {
       "polkadot-NATIVE-DOT" : 1
     },
-    "priority": 1
+    "groupPriority": 1
   },
 
   "ETH-Ethereum": {
-    "tokens": {
+    "priorityTokens": {
       "ethereum-NATIVE-ETH" : 2
     },
-    "priority": 2
+    "groupPriority": 2
   },
 
   "USDT-Tether": {
-    "tokens": {
+    "priorityTokens": {
       "acala-LOCAL-USDT" : 3
     },
-    "priority": 3
+    "groupPriority": 3
   },
 
   "USDC-USDCoin": {
-    "tokens": {
+    "priorityTokens": {
       "calamari-LOCAL-USDC" : 4
     },
-    "priority": 4
+    "groupPriority": 4
   },
 
   "KSM-Kusama": {
-    "tokens": {
+    "priorityTokens": {
       "kusama-NATIVE-KSM" : 5
     },
-    "priority": 5
+    "groupPriority": 5
   },
 
   "AVAIL-Avail": {
-    "tokens": {
+    "priorityTokens": {
       "avail_mainnet-NATIVE-AVAIL" : 6
     },
-    "priority": 6
+    "groupPriority": 6
   },
 
   "bittensor-NATIVE-TAO": {
-    "tokens": {
+    "priorityTokens": {
       "bittensor-NATIVE-TAO" : 7
     },
-    "priority": 7
+    "groupPriority": 7
   },
 
   "OP-Optimism": {
-    "tokens": {
+    "priorityTokens": {
       "optimism-ERC20-OP-0x4200000000000000000000000000000000000042" : 8
     },
-    "priority": 8
+    "groupPriority": 8
   },
 
   "POL-Polygon": {
-    "tokens": {
+    "priorityTokens": {
       "polygon-NATIVE-POL" : 9
     },
-    "priority": 9
+    "groupPriority": 9
   },
 
   "ARB-ArbitrumOne": {
-    "tokens": {
+    "priorityTokens": {
       "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548" : 10
     },
-    "priority": 10
+    "groupPriority": 10
   },
 
   "BNB-Binance": {
-    "tokens": {
+    "priorityTokens": {
       "binance-NATIVE-BNB" : 11
     },
-    "priority": 11
+    "groupPriority": 11
   },
 
   "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
-    "tokens": {
+    "priorityTokens": {
       "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E" : 12
     },
-    "priority": 12
+    "groupPriority": 12
   },
 
   "MANTA-MantaAtlantic": {
-    "tokens": {
+    "priorityTokens": {
       "manta_network-NATIVE-MANTA" : 13
     },
-    "priority": 13
+    "groupPriority": 13
   },
 
   "MYTH-Mythos": {
-    "tokens": {
+    "priorityTokens": {
       "mythos-NATIVE-MYTH" : 14
     },
-    "priority": 14
+    "groupPriority": 14
   },
 
   "TON-TONCoin": {
-    "tokens": {
+    "priorityTokens": {
       "ton-NATIVE-TON" : 15
     },
-    "priority": 15
+    "groupPriority": 15
   }
 }
