@@ -456,7 +456,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": ">=1.2.32",
+    "app_version_range": null,
     "os_version_range": null,
     "media": null,
     "position_params": [],
