@@ -378,7 +378,7 @@
     },
     "action": {
       "id": 146,
-      "url": "subwallet://home/main/earning/earning-pool-list?group=avail_mainnet-NATIVE-AVAIL&symbol=AVAIL",
+      "url": "subwallet://home/main/earning/earning-pool-list?group=AVAIL-Avail&symbol=AVAIL",
       "screen": null,
       "params": null,
       "is_cancel": null
