@@ -359,9 +359,7 @@
     "id": 97,
     "position": "token",
     "priority": 1,
-    "locations": [
-      "Vietnam_VN"
-    ],
+    "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
