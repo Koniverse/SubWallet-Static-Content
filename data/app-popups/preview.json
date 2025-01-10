@@ -1031,5 +1031,41 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 75,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": ">**Unified account now LIVE on mobile app!**\n>![TAO token supported in SubWallet - 358x144-1.png](https://media-resources.subwallet.app/6/TAO_token_supported_in_Sub_Wallet_358x144_1_3815c8e871.png)\n > With only one unified account, you can keep track of all your tokens and NFTs on 200+ networks across Ethereum, Polkadot and TON ecosystems. No more account-switching hassle. **[Create an unified account now!](index.html#/accounts/new-seed-phrase)**\n\n>**SubWallet now supports TON network**\n>![TON support - 358x144.png](https://media-resources.subwallet.app/6/TON_support_358x144_8534bdee93.png)\n > Send & receive TON and USD₮; plus create, import, or export TON accounts — you can do it all in SubWallet.\n\n>**TAO is fully supported in SubWallet**\n>![TAO token supported in SubWallet - 358x144.png](https://media-resources.subwallet.app/6/TAO_token_supported_in_Sub_Wallet_358x144_2c5b12b4fd.png)\n > - Send and receive TAO tokens\n > - Connect with Ledger account\n > - Native in-app TAO staking\n",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 183,
+      "name": "What’s new in SubWallet",
+      "description": null,
+      "start_time": "2025-01-09T17:00:00.000Z",
+      "stop_time": "2025-01-24T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 127,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
