@@ -1067,5 +1067,41 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 76,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![Unified account.png](https://media-resources.subwallet.app/6/Unified_account_ac0f330372.png)\n\n![TON support - 358x144.png](https://media-resources.subwallet.app/6/TON_support_358x144_3c0105280e.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">1.1.30",
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 184,
+      "name": "What’s new in SubWallet",
+      "description": null,
+      "start_time": "2025-01-09T17:00:00.000Z",
+      "stop_time": "2025-01-24T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 128,
+        "label": "I understand",
+        "color": "primary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
