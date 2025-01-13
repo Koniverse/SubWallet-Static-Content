@@ -118,7 +118,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
@@ -241,7 +241,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       },
       {
@@ -6761,7 +6761,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
@@ -6846,7 +6846,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
@@ -15585,7 +15585,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-NATIVE-ETH"
       }
     ]
@@ -16225,7 +16225,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-NATIVE-ETH"
       }
     ]
