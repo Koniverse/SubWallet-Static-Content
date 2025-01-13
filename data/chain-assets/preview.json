@@ -247,7 +247,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
       }
     ]
@@ -12970,7 +12970,7 @@
     "name": "Gavun Wud",
     "symbol": "WUD",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "gavun-wud",
     "minAmount": "10000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -12988,7 +12988,7 @@
     "name": "Gavun Wud",
     "symbol": "WUD",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "gavun-wud",
     "minAmount": "200000000000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -17216,6 +17216,42 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_3e7774cff6.png",
     "originChain": "ithaca",
     "multiChainAsset": "AVAIL-AvailTuringTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "acala-LOCAL-NEMO",
+    "name": "NEMO",
+    "symbol": "NEMO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Erc20": "0xfa904c86b73fd041d6cc2aeed9e6ec0148fd51da"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nemo_5dfd4ae9dd.png",
+    "originChain": "acala",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "muse_testnet-NATIVE-MUSE",
+    "name": "Muse Testnet",
+    "symbol": "MUSE",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "muse_testnet",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]
