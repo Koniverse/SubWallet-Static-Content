@@ -1037,7 +1037,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": ">**Unified account now LIVE on mobile app!** \n >\n >![Unified account.png](https://media-resources.subwallet.app/6/Unified_account_ac0f330372.png)\n > With only one unified account, you can keep track of all your tokens and NFTs on 200+ networks across Ethereum, Polkadot and TON ecosystems. No more account-switching hassle. [Create an unified account now!](index.html#/accounts/new-seed-phrase)\n\n>**SubWallet now supports TON network** \n>\n >![TON support - 358x144.png](https://media-resources.subwallet.app/6/TON_support_358x144_3c0105280e.png)\n > Send & receive TON and USD₮; plus create, import, or export TON accounts — you can do it all in SubWallet.\n",
+    "content": ">**Unified account now LIVE on mobile app!** \n>\n>![Unified account.png](https://media-resources.subwallet.app/6/Unified_account_ac0f330372.png)\n> With only one unified account, you can keep track of all your tokens and NFTs on 200+ networks across Ethereum, Polkadot and TON ecosystems. No more account-switching hassle. [Create an unified account now!](index.html#/accounts/new-seed-phrase)\n\n>**SubWallet now supports TON network** \n>\n>![TON support - 358x144.png](https://media-resources.subwallet.app/6/TON_support_358x144_3c0105280e.png)\n> Send & receive TON and USD₮; plus create, import, or export TON accounts — you can do it all in SubWallet.\n",
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
