@@ -118,7 +118,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
@@ -241,13 +241,13 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       },
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
       }
     ]
@@ -6761,7 +6761,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
@@ -6846,7 +6846,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
       }
     ]
@@ -12970,7 +12970,7 @@
     "name": "Gavun Wud",
     "symbol": "WUD",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "gavun-wud",
     "minAmount": "10000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -12988,7 +12988,7 @@
     "name": "Gavun Wud",
     "symbol": "WUD",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "gavun-wud",
     "minAmount": "200000000000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -15519,7 +15519,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-NATIVE-ETH"
       }
     ]
@@ -16116,7 +16116,7 @@
       {
         "type": "XCM",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "ethereum-NATIVE-ETH"
       }
     ]
