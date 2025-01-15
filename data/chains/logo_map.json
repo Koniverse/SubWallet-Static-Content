@@ -318,5 +318,8 @@
   "lens_network_sepolia": "https://static-data.subwallet.app/chains/images/icon/lens_7ff5ef1098.png",
   "sophon_testnet": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
   "abstract_testnet": "https://static-data.subwallet.app/chains/images/icon/abstract_90ad4ac251.png",
-  "dia_lasernet_testnet": "https://static-data.subwallet.app/chains/images/icon/dia_3d9375d8d1.png"
+  "dia_lasernet_testnet": "https://static-data.subwallet.app/chains/images/icon/dia_3d9375d8d1.png",
+  "muse_testnet": null,
+  "soneium": "https://static-data.subwallet.app/chains/images/icon/soneium_168213375d.png",
+  "dbcchain_evm": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_ef2b94fd9a.png"
 }

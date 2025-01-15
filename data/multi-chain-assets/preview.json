@@ -968,7 +968,7 @@
     "slug": "WUD-GavunWud",
     "name": "Gavun Wud",
     "symbol": "WUD",
-    "priceId": null,
+    "priceId": "gavun-wud",
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/wud_4aa551727c.png",
     "originChainAsset": "statemint-LOCAL-WUD",

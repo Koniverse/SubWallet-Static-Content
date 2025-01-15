@@ -17253,5 +17253,37 @@
     "originChain": "muse_testnet",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "soneium-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "soneium",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "dbcchain_evm-NATIVE-DBC",
+    "name": "DBC",
+    "symbol": "DBC",
+    "decimals": 18,
+    "priceId": "deepbrain-chain",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/deepbrain_chain_ef2b94fd9a.png",
+    "originChain": "dbcchain_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
