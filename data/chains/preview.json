@@ -92,7 +92,7 @@
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
       "MevBlocker": "https://rpc.mevblocker.io/",
-      "Ethereum": "https://eth-mainnet.koni.studio/"
+      "Ethereum Koni": "https://eth-rpc.koni.studio/"
     },
     "evmInfo": {
       "evmChainId": 1,
