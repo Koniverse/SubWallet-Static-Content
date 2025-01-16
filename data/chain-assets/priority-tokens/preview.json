@@ -5,6 +5,12 @@
     },
     "groupPriority": 1
   },
+  "OP-Optimism": {
+    "priorityTokens": {
+      "optimism-ERC20-OP-0x4200000000000000000000000000000000000042" : 8
+    },
+    "groupPriority": 8
+  },
   "USDC-USDCoin": {
     "priorityTokens": {
       "calamari-LOCAL-USDC" : 4
@@ -14,5 +20,11 @@
   "AVAIL-Avail": {
     "priorityTokens": {},
     "groupPriority": 1
+  },
+  "ETH-Ethereum": {
+    "priorityTokens": {
+      "ethereum-NATIVE-ETH" : 2
+    },
+    "groupPriority": 2
   }
 }
