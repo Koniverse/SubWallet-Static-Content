@@ -12,9 +12,7 @@
     "groupPriority": 4
   },
   "AVAIL-Avail": {
-    "priorityTokens": {
-      "avail_mainnet-NATIVE-AVAIL" : 6
-    },
+    "priorityTokens": {},
     "groupPriority": 1
   }
 }
