@@ -3,7 +3,7 @@
     "priorityTokens": {
       "polkadot-NATIVE-DOT" : 1
     },
-    "groupPriority": 1
+    "groupPriority": 3
   },
 
   "ETH-Ethereum": {
@@ -17,7 +17,7 @@
     "priorityTokens": {
       "acala-LOCAL-USDT" : 3
     },
-    "groupPriority": 3
+    "groupPriority": 1
   },
 
   "USDC-USDCoin": {
