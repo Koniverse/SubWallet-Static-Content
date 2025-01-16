@@ -3,12 +3,12 @@
     "priorityTokens": {
       "bittensor-NATIVE-TAO" : 7
     },
-    "groupPriority": 3
+    "groupPriority": 1
   },
   "AVAIL-Avail": {
     "priorityTokens": {
       "avail_mainnet-NATIVE-AVAIL" : 6
     },
-    "groupPriority": 2
+    "groupPriority": 1
   }
 }
