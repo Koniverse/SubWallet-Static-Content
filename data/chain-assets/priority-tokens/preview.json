@@ -5,6 +5,12 @@
     },
     "groupPriority": 1
   },
+  "USDC-USDCoin": {
+    "priorityTokens": {
+      "calamari-LOCAL-USDC" : 4
+    },
+    "groupPriority": 4
+  },
   "AVAIL-Avail": {
     "priorityTokens": {
       "avail_mainnet-NATIVE-AVAIL" : 6
