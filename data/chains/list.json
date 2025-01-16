@@ -92,7 +92,7 @@
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
       "MevBlocker": "https://rpc.mevblocker.io/",
-      "Ethereum": "https://eth-mainnet.koni.studio/"
+      "Ethereum Koni": "https://eth-rpc.koni.studio/"
     },
     "evmInfo": {
       "evmChainId": 1,
@@ -2488,7 +2488,7 @@
     "slug": "khala",
     "name": "Khala",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 61,
     "icon": "https://static-data.subwallet.app/chains/images/icon/khala_network_543481c0c1.png",
     "providers": {
@@ -9684,7 +9684,7 @@
       "symbol": "CERE",
       "decimals": 10,
       "hasNativeNft": null,
-      "supportStaking": null,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
