@@ -1,30 +1,36 @@
 {
-  "bittensor-NATIVE-TAO": {
-    "priorityTokens": {
-      "bittensor-NATIVE-TAO" : 7
-    },
-    "groupPriority": 1
+  "tokenGroup" : {
+    "DOT-Polkadot": 1,
+    "ETH-Ethereum": 2,
+    "USDT-Tether": 3,
+    "USDC-USDCoin": 4,
+    "KSM-Kusama": 5,
+    "AVAIL-Avail": 6,
+    "bittensor-NATIVE-TAO": 7,
+    "OP-Optimism": 8,
+    "POL-Polygon": 9,
+    "ARB-ArbitrumOne": 10,
+    "BNB-Binance": 11,
+    "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": 12,
+    "MANTA-MantaAtlantic": 13,
+    "MYTH-Mythos": 14,
+    "TON-TONCoin": 15
   },
-  "OP-Optimism": {
-    "priorityTokens": {
-      "optimism-ERC20-OP-0x4200000000000000000000000000000000000042" : 8
-    },
-    "groupPriority": 8
-  },
-  "USDC-USDCoin": {
-    "priorityTokens": {
-      "calamari-LOCAL-USDC" : 4
-    },
-    "groupPriority": 4
-  },
-  "AVAIL-Avail": {
-    "priorityTokens": {},
-    "groupPriority": 1
-  },
-  "ETH-Ethereum": {
-    "priorityTokens": {
-      "ethereum-NATIVE-ETH" : 2
-    },
-    "groupPriority": 2
+  "token" : {
+    "polkadot-NATIVE-DOT": 1,
+    "ethereum-NATIVE-ETH": 2,
+    "acala-LOCAL-USDT": 3,
+    "calamari-LOCAL-USDC": 4,
+    "kusama-NATIVE-KSM": 5,
+    "avail_mainnet-NATIVE-AVAIL": 6,
+    "bittensor-NATIVE-TAO": 7,
+    "optimism-ERC20-OP-0x4200000000000000000000000000000000000042": 8,
+    "polygon-NATIVE-POL": 9,
+    "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548": 10,
+    "binance-NATIVE-BNB": 11,
+    "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": 12,
+    "manta_network-NATIVE-MANTA": 13,
+    "mythos-NATIVE-MYTH": 14,
+    "ton-NATIVE-TON": 15
   }
 }
