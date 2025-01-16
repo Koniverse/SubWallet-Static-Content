@@ -10,11 +10,5 @@
       "avail_mainnet-NATIVE-AVAIL" : 6
     },
     "groupPriority": 1
-  },
-  "ETH-Ethereum": {
-    "priorityTokens": {
-      "ethereum-NATIVE-ETH" : 2
-    },
-    "groupPriority": 2
   }
 }
