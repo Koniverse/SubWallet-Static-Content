@@ -11253,7 +11253,7 @@
     "slug": "muse_testnet",
     "name": "Muse Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": null,
     "providers": {
@@ -11373,7 +11373,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/rootstock_f0cb87e74e.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rootstock_34e44ecbba.png",
     "providers": {
       "Blast": "https://rootstock-mainnet.public.blastapi.io",
       "PublicNode": "https://public-node.rsk.co",

@@ -12014,7 +12014,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/deepbrain_chain_2296ab9a21.png",
     "originChain": "dbcchain",
-    "multiChainAsset": null,
+    "multiChainAsset": "DBC-DBC",
     "assetRefs": []
   },
   {
@@ -17267,7 +17267,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "soneium",
-    "multiChainAsset": null,
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   },
   {
@@ -17283,7 +17283,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/deepbrain_chain_ef2b94fd9a.png",
     "originChain": "dbcchain_evm",
-    "multiChainAsset": null,
+    "multiChainAsset": "DBC-DBC",
     "assetRefs": []
   },
   {
@@ -17313,7 +17313,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rootstock_f0cb87e74e.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rootstock_34e44ecbba.png",
     "originChain": "rootstock",
     "multiChainAsset": null,
     "assetRefs": []

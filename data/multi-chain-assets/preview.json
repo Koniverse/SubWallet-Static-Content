@@ -33,7 +33,8 @@
       "zircuit-NATIVE-ETH",
       "zksync_era-NATIVE-ETH",
       "cyber-NATIVE-ETH",
-      "ink-NATIVE-ETH"
+      "ink-NATIVE-ETH",
+      "soneium-NATIVE-ETH"
     ]
   },
   {
@@ -1479,6 +1480,19 @@
     "chainAssets": [
       "statemint-LOCAL-LOVA",
       "hydradx_main-LOCAL-LOVA"
+    ]
+  },
+  {
+    "slug": "DBC-DBC",
+    "name": "DBC",
+    "symbol": "DBC",
+    "priceId": "deepbrain-chain",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/deepbrain_chain_ef2b94fd9a.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "dbcchain-NATIVE-DBC",
+      "dbcchain_evm-NATIVE-DBC"
     ]
   }
 ]
