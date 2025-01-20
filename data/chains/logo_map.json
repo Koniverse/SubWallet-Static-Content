@@ -321,5 +321,7 @@
   "dia_lasernet_testnet": "https://static-data.subwallet.app/chains/images/icon/dia_3d9375d8d1.png",
   "muse_testnet": null,
   "soneium": "https://static-data.subwallet.app/chains/images/icon/soneium_168213375d.png",
-  "dbcchain_evm": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_ef2b94fd9a.png"
+  "dbcchain_evm": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_ef2b94fd9a.png",
+  "analog_timechain": "https://static-data.subwallet.app/chains/images/icon/analog_timechain_adaf96fd5a.png",
+  "rootstock": "https://static-data.subwallet.app/chains/images/icon/rootstock_f0cb87e74e.png"
 }

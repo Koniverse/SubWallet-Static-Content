@@ -807,5 +807,7 @@
   "acala-LOCAL-NEMO": null,
   "muse_testnet-NATIVE-MUSE": null,
   "soneium-NATIVE-ETH": "ethereum",
-  "dbcchain_evm-NATIVE-DBC": "deepbrain-chain"
+  "dbcchain_evm-NATIVE-DBC": "deepbrain-chain",
+  "analog_timechain-NATIVE-ANLOG": null,
+  "rootstock-NATIVE-RBTC": "rootstock"
 }

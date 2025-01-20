@@ -8,11 +8,11 @@
       "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,15tEXHHDjEv6VKR2MhpnfeJZnKQnTyMPVvGH51BJvBXNoCNK"
     },
     "kusama": {
-      "maxCount": 3,
+      "maxCount": 2,
       "preSelectValidators": "ERYwYjy1LGY1GWovnxxmXo68SZLLYwjMXNEvhhDhp48zyED,EwwczfxHvFq8zyYFkQv29r9us7M8Gbmw4cUtrvF5ozx6Mf2"
     },
     "alephTest": {
-      "maxCount": 1,
+      "maxCount": 4,
       "preSelectValidators": "5Di64jbUcvZUFRsSQFSg7v9wp5Ug2ggEibj4hr5y9Tpb9xao,5GUEHigCuhDRwCjEFjB4iWz8ccXTLYoeWus5NeAHnXpjgj4h,5FKY75ESqdk2M75ATBPjvKJBCSgNGkxt5n8vvoVJyozVvYLn"
     }
   }  
