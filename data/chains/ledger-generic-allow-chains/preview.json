@@ -41,5 +41,6 @@
   "pendulum",
   "amplitude",
   "karura",
-  "polimec"
+  "polimec",
+  "analog_timechain"
 ]
