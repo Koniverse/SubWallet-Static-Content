@@ -10794,7 +10794,7 @@
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://astral.autonomys.xyz/mainnet/consensus",
-      "existentialDeposit": "200000000000000",
+      "existentialDeposit": "10000000000000",
       "symbol": "AI3",
       "decimals": 18,
       "hasNativeNft": null,
@@ -11036,7 +11036,7 @@
     "slug": "ithaca",
     "name": "Odyssey Ithaca",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
     "providers": {
@@ -11272,7 +11272,7 @@
       "symbol": "MUSE",
       "decimals": 18,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -11323,6 +11323,67 @@
       "blockExplorer": "http://www.dbcscan.io/",
       "existentialDeposit": "0",
       "symbol": "DBC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "analog_timechain",
+    "name": "Analog Timechain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/analog_timechain_adaf96fd5a.png",
+    "providers": {
+      "Analog": "wss://rpc.timechain.analog.one"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x1459b0204b92719ffc978c5da3d6a2057973916bd548f8076df2064bc1cb4cfc",
+      "addressPrefix": 12850,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "ANLOG",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "rootstock",
+    "name": "Rootstock",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rootstock_f0cb87e74e.png",
+    "providers": {
+      "Blast": "https://rootstock-mainnet.public.blastapi.io",
+      "PublicNode": "https://public-node.rsk.co",
+      "DRPC": "https://rootstock.drpc.org"
+    },
+    "evmInfo": {
+      "evmChainId": 30,
+      "blockExplorer": "https://explorer.rootstock.io",
+      "existentialDeposit": "0",
+      "symbol": "RBTC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
