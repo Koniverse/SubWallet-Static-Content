@@ -1,7 +1,7 @@
 {
   "tokenGroup" : {},
   "token" : {
-    "polkadot-NATIVE-DOT": 1,
+    "statemint-NATIVE-DOT": 1,
     "ethereum-NATIVE-ETH": 2,
     "acala-LOCAL-USDT": 3,
     "calamari-LOCAL-USDC": 4,
