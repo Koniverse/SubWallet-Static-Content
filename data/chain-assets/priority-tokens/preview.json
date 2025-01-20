@@ -17,6 +17,7 @@
     "TON-TONCoin": 15
   },
   "token" : {
+    "statemint-NATIVE-DOT": 2
     "polkadot-NATIVE-DOT": 3,
     "ethereum-NATIVE-ETH": 2,
     "acala-LOCAL-USDT": 3,
