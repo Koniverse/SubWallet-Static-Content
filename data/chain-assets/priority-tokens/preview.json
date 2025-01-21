@@ -21,7 +21,7 @@
     "ethereum-NATIVE-ETH": 2,
     "acala-LOCAL-USDT": 3,
     "calamari-LOCAL-USDC": 4,
-    "kusama-NATIVE-KSM": 5
+    "kusama-NATIVE-KSM": 5,
     "polkadot-NATIVE-DOT" : 6
   }
 }
