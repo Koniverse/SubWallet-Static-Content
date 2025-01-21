@@ -17,10 +17,9 @@
     "TON-TONCoin": 15
   },
   "token" : {
-    "polkadot-NATIVE-DOT": 3,
     "moonbeam-LOCAL-xcDOT": 2
     "ethereum-NATIVE-ETH": 1,
-    "acala-LOCAL-USDT": 2,
+    "acala-LOCAL-USDT": 3,
     "calamari-LOCAL-USDC": 4,
     "kusama-NATIVE-KSM": 5,
     "avail_mainnet-NATIVE-AVAIL": 6,
