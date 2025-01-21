@@ -19,7 +19,7 @@
   "token" : {
     "statemint-NATIVE-DOT": 2
     "polkadot-NATIVE-DOT": 3,
-    "ethereum-NATIVE-ETH": 2,
+    "ethereum-NATIVE-ETH": 1,
     "acala-LOCAL-USDT": 3,
     "calamari-LOCAL-USDC": 4,
     "kusama-NATIVE-KSM": 5,
