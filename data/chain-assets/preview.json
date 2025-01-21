@@ -17317,5 +17317,23 @@
     "originChain": "rootstock",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+    "name": "Bridged USDC (Soneium)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "soneium",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
   }
 ]
