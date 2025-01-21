@@ -1,7 +1,7 @@
 {
   "tokenGroup" : {},
   "token" : {
-    "moonbeam-LOCAL-xcDOT": 1
+    "moonbeam-LOCAL-xcDOT": 1,
     "ethereum-NATIVE-ETH": 2,
     "acala-LOCAL-USDT": 3,
     "calamari-LOCAL-USDC": 4,
