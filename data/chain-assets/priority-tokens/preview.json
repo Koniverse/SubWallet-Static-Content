@@ -24,6 +24,6 @@
     "acala-LOCAL-USDT": 4,
     "calamari-LOCAL-USDC": 5,
     "kusama-NATIVE-KSM": 6,
-    "polkadot-NATIVE-DOT" : 7
+    "bridgeHubPolkadot-NATIVE-DOT" : 7
   }
 }
