@@ -18,6 +18,7 @@
   },
   "token" : {
     "polkadot-NATIVE-DOT": 3,
+    "moonbeam-LOCAL-xcDOT": 2
     "ethereum-NATIVE-ETH": 1,
     "acala-LOCAL-USDT": 2,
     "calamari-LOCAL-USDC": 4,
