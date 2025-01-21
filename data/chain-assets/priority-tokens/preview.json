@@ -1,6 +1,6 @@
 {
   "tokenGroup" : {
-    "ETH-Ethereum": 2,
+    "ETH-Ethereum": 1,
     "DOT-Polkadot": 2,
     "USDT-Tether": 3,
     "USDC-USDCoin": 4,
@@ -17,10 +17,9 @@
     "TON-TONCoin": 15
   },
   "token" : {
-    "statemint-NATIVE-DOT": 2
     "polkadot-NATIVE-DOT": 3,
     "ethereum-NATIVE-ETH": 1,
-    "acala-LOCAL-USDT": 3,
+    "acala-LOCAL-USDT": 2,
     "calamari-LOCAL-USDC": 4,
     "kusama-NATIVE-KSM": 5,
     "avail_mainnet-NATIVE-AVAIL": 6,
