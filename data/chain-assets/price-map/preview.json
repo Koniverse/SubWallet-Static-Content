@@ -810,5 +810,7 @@
   "dbcchain_evm-NATIVE-DBC": "deepbrain-chain",
   "analog_timechain-NATIVE-ANLOG": null,
   "rootstock-NATIVE-RBTC": "rootstock",
-  "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369": "usd-coin"
+  "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369": "usd-coin",
+  "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth",
+  "soneium-ERC20-ASTR-0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441": "astar"
 }

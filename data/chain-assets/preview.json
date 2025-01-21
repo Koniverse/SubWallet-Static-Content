@@ -17331,9 +17331,45 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
     "originChain": "soneium",
     "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4200000000000000000000000000000000000006"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "soneium",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-ASTR-0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "priceId": "astar",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "soneium",
+    "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
   }
 ]
