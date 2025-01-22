@@ -1,7 +1,7 @@
 {
   "0c788767-4c87-4d84-acad-b18fa5dd2d9c": {
     "appConfig": {
-      "environment": "mobile",
+      "environment": "extension",
       "version": ">1.2.0"
     }
   }
