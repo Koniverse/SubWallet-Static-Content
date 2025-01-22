@@ -17371,5 +17371,23 @@
     "originChain": "soneium",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
+  },
+  {
+    "slug": "ithaca-LOCAL-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ithaca",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
