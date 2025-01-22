@@ -1,5 +1,7 @@
 {
-  "blockedFeaturesList": [],
+  "blockedFeaturesList": [
+    "send_nft___rootstock"
+  ],
   "blockedActionsMap": {
     "transfer.balance": [],
     "transfer.token": [
