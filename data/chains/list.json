@@ -91,8 +91,7 @@
       "Llamarpc": "https://eth.llamarpc.com",
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
-      "MevBlocker": "https://rpc.mevblocker.io/",
-      "Ethereum Koni": "https://eth-rpc.koni.studio/"
+      "MevBlocker": "https://rpc.mevblocker.io/"
     },
     "evmInfo": {
       "evmChainId": 1,
@@ -9662,6 +9661,87 @@
     "tonInfo": null
   },
   {
+    "slug": "core",
+    "name": "Core Blockchain Mainnet",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/core_dao_5e1b5d8709.png",
+    "providers": {
+      "Core Dao": "https://rpc.coredao.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 1116,
+      "blockExplorer": "https://scan.coredao.org",
+      "existentialDeposit": "0",
+      "symbol": "CORE",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "satoshivm",
+    "name": "SatoshiVM Alpha Mainnet",
+    "isTestnet": false,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
+    "providers": {
+      "Alpha Rpc Node": "https://alpha-rpc-node-http.svmscan.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 3109,
+      "blockExplorer": "https://svmscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "satoshivm_testnet",
+    "name": "SatoshiVM Testnet",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
+    "providers": {
+      "Test Rpc Node": "https://test-rpc-node-http.svmscan.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 3110,
+      "blockExplorer": "https://testnet.svmscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "BTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
     "slug": "cere",
     "name": "Cere Network",
     "isTestnet": false,
@@ -10713,7 +10793,7 @@
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://astral.autonomys.xyz/mainnet/consensus",
-      "existentialDeposit": "200000000000000",
+      "existentialDeposit": "10000000000000",
       "symbol": "AI3",
       "decimals": 18,
       "hasNativeNft": null,
@@ -10952,6 +11032,33 @@
     "tonInfo": null
   },
   {
+    "slug": "ithaca",
+    "name": "Odyssey Ithaca",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
+    "providers": {
+      "Odyssey": "https://odyssey.ithaca.xyz"
+    },
+    "evmInfo": {
+      "evmChainId": 911867,
+      "blockExplorer": "https://odyssey-explorer.ithaca.xyz",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
     "slug": "ink",
     "name": "Ink",
     "isTestnet": false,
@@ -11129,6 +11236,153 @@
       "blockExplorer": "https://testnet-explorer.diadata.org/",
       "existentialDeposit": "0",
       "symbol": "DIA",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "muse_testnet",
+    "name": "Muse Testnet",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Parity": "wss://paseo-muse-rpc.polkadot.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 3369,
+      "genesisHash": "0x15f6788bcf1d1a3b7e1c36074584e1a3f3d07e0a46e362a102c3c3df1a93669f",
+      "addressPrefix": 29972,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000000000",
+      "symbol": "MUSE",
+      "decimals": 18,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "soneium",
+    "name": "Soneium",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/soneium_168213375d.png",
+    "providers": {
+      "Soneium": "https://rpc.soneium.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 1868,
+      "blockExplorer": "https://soneium.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "dbcchain_evm",
+    "name": "DeepBrainChain Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_ef2b94fd9a.png",
+    "providers": {
+      "DBCwallet": "https://rpc.dbcwallet.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 19880818,
+      "blockExplorer": "http://www.dbcscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "DBC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "analog_timechain",
+    "name": "Analog Timechain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/analog_timechain_adaf96fd5a.png",
+    "providers": {
+      "Analog": "wss://rpc.timechain.analog.one"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x1459b0204b92719ffc978c5da3d6a2057973916bd548f8076df2064bc1cb4cfc",
+      "addressPrefix": 12850,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "ANLOG",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "rootstock",
+    "name": "Rootstock",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/rootstock_34e44ecbba.png",
+    "providers": {
+      "Blast": "https://rootstock-mainnet.public.blastapi.io",
+      "PublicNode": "https://public-node.rsk.co",
+      "DRPC": "https://rootstock.drpc.org"
+    },
+    "evmInfo": {
+      "evmChainId": 30,
+      "blockExplorer": "https://explorer.rootstock.io",
+      "existentialDeposit": "0",
+      "symbol": "RBTC",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
