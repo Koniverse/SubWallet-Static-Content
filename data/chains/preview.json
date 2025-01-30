@@ -91,8 +91,7 @@
       "Llamarpc": "https://eth.llamarpc.com",
       "PublicNode": "https://ethereum.publicnode.com",
       "DRPC": "https://eth.drpc.org/",
-      "MevBlocker": "https://rpc.mevblocker.io/",
-      "Ethereum Koni": "https://eth-rpc.koni.studio/"
+      "MevBlocker": "https://rpc.mevblocker.io/"
     },
     "evmInfo": {
       "evmChainId": 1,
@@ -9665,7 +9664,7 @@
     "slug": "core",
     "name": "Core Blockchain Mainnet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/core_dao_5e1b5d8709.png",
     "providers": {
@@ -9692,7 +9691,7 @@
     "slug": "satoshivm",
     "name": "SatoshiVM Alpha Mainnet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
     "providers": {
@@ -9719,7 +9718,7 @@
     "slug": "satoshivm_testnet",
     "name": "SatoshiVM Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/satoshivm_3ca3ed561e.png",
     "providers": {
@@ -11384,6 +11383,33 @@
       "blockExplorer": "https://explorer.rootstock.io",
       "existentialDeposit": "0",
       "symbol": "RBTC",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "pectradev5",
+    "name": "Pectra Dev 5",
+    "isTestnet": true,
+    "chainStatus": "INACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
+    "providers": {
+      "pectradev5": "https://rpc.pectra-devnet-5.ethpandaops.io"
+    },
+    "evmInfo": {
+      "evmChainId": null,
+      "blockExplorer": "https://explorer.pectra-devnet-5.ethpandaops.io",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
