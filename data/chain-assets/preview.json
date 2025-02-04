@@ -17439,5 +17439,23 @@
     "originChain": "paseo_assethub",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-SOL",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": 9,
+    "priceId": "solana",
+    "minAmount": "46339",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000752"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/solana_f122efe438.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
