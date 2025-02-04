@@ -1,5 +1,30 @@
 [
   {
+    "id": 86,
+    "name": "Earn Points with Soneium Conquest on Galxe",
+    "status": "live",
+    "ordinal": 49,
+    "description": "Embark on a new web3 adventure with Soneium Conquest.\n\nDive into a 4-week journey through the heart of the Soneium ecosystem.\n\nCreators, developers, and web3 explorers: this is your moment to connect, learn, and shape the future of Soneium.",
+    "start_time": "2025-01-28T23:00:00.000Z",
+    "end_time": "2025-02-25T23:00:00.000Z",
+    "url": "https://app.galxe.com/quest/Soneium/GC2UgtpsP7",
+    "twitter_url": "https://x.com/soneium",
+    "reward": null,
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://soneium.org/en/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/soneium_580d7b8428.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Giakca_MW_8_A_Ap_V_7b419fe2f2.jpeg",
+    "chains": [
+      "soneium"
+    ],
+    "categories": []
+  },
+  {
     "id": 82,
     "name": "Share up to $75,000 in RARI rewards with DeFi Days campaign",
     "status": "live",
