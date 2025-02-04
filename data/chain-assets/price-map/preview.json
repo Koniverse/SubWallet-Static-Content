@@ -813,5 +813,8 @@
   "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369": "usd-coin",
   "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth",
   "soneium-ERC20-ASTR-0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441": "astar",
-  "ithaca-LOCAL-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE": null
+  "ithaca-ERC20-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE": null,
+  "pectradev5-NATIVE-ETH": null,
+  "hydradx_main-LOCAL-2-Pool": null,
+  "paseo_assethub-NATIVE-PAS": null
 }

@@ -17373,7 +17373,7 @@
     "assetRefs": []
   },
   {
-    "slug": "ithaca-LOCAL-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE",
+    "slug": "ithaca-ERC20-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE",
     "name": "Wrapped ETH",
     "symbol": "WETH",
     "decimals": 18,
@@ -17387,6 +17387,56 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "ithaca",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "pectradev5-NATIVE-ETH",
+    "name": "Ethereum (Pectra dev 5)",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "pectradev5",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-2-Pool",
+    "name": "USDT- USDC",
+    "symbol": "2-Pool",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "102"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/2_pool_fc2b0010ad.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "paseo_assethub-NATIVE-PAS",
+    "name": "Paseo Testnet",
+    "symbol": "PAS",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "paseo_assethub",
     "multiChainAsset": null,
     "assetRefs": []
   }
