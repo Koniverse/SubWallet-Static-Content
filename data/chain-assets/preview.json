@@ -17524,7 +17524,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
     "originChain": "westend_assethub",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "westend_assethub-LOCAL-PRIM"
+      }
+    ]
   },
   {
     "slug": "westend_assethub-LOCAL-PRIM",
