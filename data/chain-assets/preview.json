@@ -17525,5 +17525,23 @@
     "originChain": "westend_assethub",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "westend_assethub-LOCAL-PRIM",
+    "name": "Primordial Coin",
+    "symbol": "PRIM",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "10000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "333333333"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "westend_assethub",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
