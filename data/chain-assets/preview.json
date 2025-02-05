@@ -17546,7 +17546,7 @@
     },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/default_a0af7bbbc2.png",
     "originChain": "westend_assethub",
     "multiChainAsset": null,
     "assetRefs": []
