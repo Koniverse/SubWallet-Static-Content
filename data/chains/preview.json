@@ -11488,5 +11488,40 @@
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
+  },
+  {
+    "slug": "westend_assethub",
+    "name": "Westend Asset Hub",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
+    "providers": {
+      "Parity": "wss://westend-asset-hub-rpc.polkadot.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "westend",
+      "paraId": 1000,
+      "genesisHash": "0x67f9723393ef76214df0118c34bbbd3dbebc8ed46a10973a8c969d48fe7598c9",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://assethub-westend.subscan.io/",
+      "existentialDeposit": "1000000000",
+      "symbol": "WND",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "assethub-westend",
+      "chainBalanceSlug": null
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null
   }
 ]

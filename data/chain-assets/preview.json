@@ -17491,5 +17491,21 @@
     "originChain": "gravity_alpha",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "westend_assethub-NATIVE-WND",
+    "name": "Westend",
+    "symbol": "WND",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
+    "originChain": "westend_assethub",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
