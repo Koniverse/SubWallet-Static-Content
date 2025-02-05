@@ -1105,13 +1105,25 @@
     "priceId": null,
     "minAmount": "10000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      }
+    },
     "hasValue": false,
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
     "originChain": "westend",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "westend_assethub-NATIVE-WND"
+      }
+    ]
   },
   {
     "slug": "rococo-NATIVE-ROC",
@@ -17500,7 +17512,13 @@
     "priceId": null,
     "minAmount": "1000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": "Here"
+      },
+      "alternativeSwapAsset": "westend-NATIVE-WND"
+    },
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
