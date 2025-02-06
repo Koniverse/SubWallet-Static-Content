@@ -17550,5 +17550,23 @@
     "originChain": "westend_assethub",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "polygon-ERC20-GSX-0xb92190E31c9d5CC334cEF0a156979CB9Beed90C7",
+    "name": "GSX",
+    "symbol": "GSX",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xb92190E31c9d5CC334cEF0a156979CB9Beed90C7"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gsx_26b9fb2783.png",
+    "originChain": "polygon",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

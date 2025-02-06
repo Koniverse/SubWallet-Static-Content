@@ -821,5 +821,6 @@
   "ethereum-ERC20-vPHA-0x21d6eC8fc14CaAcc55aFA23cBa66798DAB3a0ec0": null,
   "gravity_alpha-NATIVE-G": "g-token",
   "westend_assethub-NATIVE-WND": null,
-  "westend_assethub-LOCAL-PRIM": null
+  "westend_assethub-LOCAL-PRIM": null,
+  "polygon-ERC20-GSX-0xb92190E31c9d5CC334cEF0a156979CB9Beed90C7": null
 }
