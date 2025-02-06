@@ -8,14 +8,20 @@
       "transfer.token___optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
        "transfer.token___hydradx_main-LOCAL-USDT"
     ],
-    "transfer.xcm": [],
-    "send_nft": [],
+    "transfer.xcm": [
+      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
+    ],
+    "send_nft": [
+      "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
+    ],
     "swap": [],
     "staking.join_pool": [],
     "staking.leave_pool": [],
     "staking.bond": [],
     "staking.unbond": [],
-    "staking.claim_reward": [],
+    "staking.claim_reward": [
+      "staking.claim_reward___VARA___nomination_pool___vara_network"
+    ],
     "staking.withdraw": [],
     "staking.compounding": [],
     "staking.cancel_compounding": [],
