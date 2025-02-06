@@ -3,7 +3,9 @@
     "send_nft___rootstock"
   ],
   "blockedActionsMap": {
-    "transfer.balance": [],
+    "transfer.balance": [
+      "transfer.balance___moonbase-NATIVE-DEV"
+    ],
     "transfer.token": [
       "transfer.token___optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
        "transfer.token___hydradx_main-LOCAL-USDT"
@@ -14,7 +16,9 @@
     "send_nft": [
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
     ],
-    "swap": [],
+    "swap": [
+      "swap___hydradx_main-NATIVE-HDX___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET"
+    ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
     "staking.bond": [],
