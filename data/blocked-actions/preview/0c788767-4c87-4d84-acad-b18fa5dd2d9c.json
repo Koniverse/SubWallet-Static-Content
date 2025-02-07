@@ -11,7 +11,8 @@
        "transfer.token___hydradx_main-LOCAL-USDT"
     ],
     "transfer.xcm": [
-      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main"
+      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main",
+      "transfer.xcm___avail_mainnet-NATIVE-AVAIL___ethereum"
     ],
     "send_nft": [
       "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
