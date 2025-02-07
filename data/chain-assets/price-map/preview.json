@@ -824,5 +824,7 @@
   "westend_assethub-LOCAL-PRIM": null,
   "polygon-ERC20-GSX-0xb92190E31c9d5CC334cEF0a156979CB9Beed90C7": null,
   "muse_testnet-LOCAL-MUSE": null,
-  "torus-NATIVE-TORUS": "torus"
+  "torus-NATIVE-TORUS": "torus",
+  "sonic-NATIVE-S": null,
+  "statemint-LOCAL-BEAST": null
 }

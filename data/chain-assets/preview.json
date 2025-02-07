@@ -17630,5 +17630,37 @@
     "originChain": "torus",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "sonic-NATIVE-S",
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "sonic",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-BEAST",
+    "name": "Mr. Beast Coin",
+    "symbol": "BEAST",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "10000000",
+    "assetType": "LOCAL",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

@@ -328,5 +328,6 @@
   "paseo_assethub": null,
   "gravity_alpha": "https://static-data.subwallet.app/chains/images/icon/gravity_alpha_84a56b3683.png",
   "westend_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
-  "torus": "https://static-data.subwallet.app/chains/images/icon/torus_6c6d077239.png"
+  "torus": "https://static-data.subwallet.app/chains/images/icon/torus_6c6d077239.png",
+  "sonic": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png"
 }

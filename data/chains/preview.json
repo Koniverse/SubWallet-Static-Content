@@ -11557,5 +11557,33 @@
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
+  },
+  {
+    "slug": "sonic",
+    "name": "Sonic Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
+    "providers": {
+      "SonicLab": "https://rpc.soniclabs.com",
+      "SonicDRPC": "https://sonic.drpc.org"
+    },
+    "evmInfo": {
+      "evmChainId": 146,
+      "blockExplorer": "https://explorer.soniclabs.com",
+      "existentialDeposit": "0",
+      "symbol": "S",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
   }
 ]
