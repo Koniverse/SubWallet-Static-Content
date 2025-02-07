@@ -1,8 +1,12 @@
 {
   "0c788767-4c87-4d84-acad-b18fa5dd2d9c": {
     "appConfig": {
-      "environment": "extension",
+      "environment": "mobile",
       "version": ">=1.3.12"
+    },
+    "osConfig": {
+      "type": "android",
+      "version": ">=13.0"
     }
   }
 }
