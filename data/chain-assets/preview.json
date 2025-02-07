@@ -17614,5 +17614,21 @@
     "originChain": "muse_testnet",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "torus-NATIVE-TORUS",
+    "name": "Torus",
+    "symbol": "TORUS",
+    "decimals": 18,
+    "priceId": "torus",
+    "minAmount": "100000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/torus_6c6d077239.png",
+    "originChain": "torus",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
