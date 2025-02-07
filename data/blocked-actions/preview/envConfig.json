@@ -1,8 +1,12 @@
 {
   "0c788767-4c87-4d84-acad-b18fa5dd2d9c": {
-     "osConfig": {
-      "type": "android",
-       "version": ">14.0"
+    "appConfig": {
+      "environment": "mobile",
+      "version": ">1.3.12"
+}, 
+    "osConfig": {
+      "type": "ios",
+       "version": ">=18.0"
     }
   }
 }
