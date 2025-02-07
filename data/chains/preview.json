@@ -11367,7 +11367,7 @@
       "symbol": "ANLOG",
       "decimals": 12,
       "hasNativeNft": null,
-      "supportStaking": null,
+      "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []

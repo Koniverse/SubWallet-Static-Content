@@ -17530,6 +17530,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "westend_assethub-LOCAL-PRIM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "westend-NATIVE-WND"
       }
     ]
   },
@@ -17542,7 +17548,20 @@
     "minAmount": "10000000000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "333333333"
+      "assetId": "333333333",
+      "multilocation": {
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 333333333
+            }
+          ]
+        }
+      }
     },
     "hasValue": false,
     "ordinal": 9999,
@@ -17566,6 +17585,33 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gsx_26b9fb2783.png",
     "originChain": "polygon",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "muse_testnet-LOCAL-MUSE",
+    "name": "Muse Testnet",
+    "symbol": "MUSE",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X1": [
+            {
+              "Parachain": 3369
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "muse_testnet",
     "multiChainAsset": null,
     "assetRefs": []
   }
