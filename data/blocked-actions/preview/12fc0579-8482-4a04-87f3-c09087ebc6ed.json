@@ -9,7 +9,9 @@
       "transfer.xcm___avail_mainnet-NATIVE-AVAIL___ethereum",
       "transfer.xcm___ethereum-NATIVE-ETH___avail_mainnet",
       "transfer.xcm___ethereum-NATIVE-ETH___polygon",
-      "transfer.xcm___ethereum-NATIVE-ETH___polygonZkEvm"
+      "transfer.xcm___ethereum-NATIVE-ETH___polygonZkEvm",
+      "transfer.xcm___polygonZkEvm-NATIVE-ETH___ethereum",
+      "transfer.xcm___polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619___ethereum"
     ],
     "send_nft": [],
     "swap": [],
