@@ -1041,7 +1041,7 @@
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": ">1.1.30",
+    "app_version_range": ">=1.2.2",
     "os_version_range": null,
     "media": null,
     "position_params": [],
@@ -1049,8 +1049,8 @@
       "id": 183,
       "name": "What’s new in SubWallet",
       "description": null,
-      "start_time": "2025-01-09T17:00:00.000Z",
-      "stop_time": "2025-01-24T17:00:00.000Z",
+      "start_time": "2025-02-09T17:00:00.000Z",
+      "stop_time": "2025-02-23T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
