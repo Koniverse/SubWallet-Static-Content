@@ -11562,7 +11562,7 @@
     "slug": "sonic",
     "name": "Sonic Mainnet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
     "providers": {

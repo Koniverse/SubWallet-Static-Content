@@ -1305,10 +1305,10 @@
       "start_block_at": 1661717322,
       "end_lease_block": 21595000,
       "extrinsic_index": "11805930-3",
-      "last_change_block": 24569164,
+      "last_change_block": 24646824,
       "fund_auction_status": 2,
-      "last_change_event_idx": 60,
-      "last_change_timestamp": 1738576254
+      "last_change_event_idx": 54,
+      "last_change_timestamp": 1739043240
     },
     "relayChain": "polkadot",
     "auctionIndex": 26,
