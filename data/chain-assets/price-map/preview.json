@@ -808,7 +808,7 @@
   "muse_testnet-NATIVE-MUSE": null,
   "soneium-NATIVE-ETH": "ethereum",
   "dbcchain_evm-NATIVE-DBC": "deepbrain-chain",
-  "analog_timechain-NATIVE-ANLOG": null,
+  "analog_timechain-NATIVE-ANLOG": "analog",
   "rootstock-NATIVE-RBTC": "rootstock",
   "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369": "usd-coin",
   "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth",
@@ -826,5 +826,11 @@
   "muse_testnet-LOCAL-MUSE": null,
   "torus-NATIVE-TORUS": "torus",
   "sonic-NATIVE-S": null,
-  "statemint-LOCAL-BEAST": null
+  "statemint-LOCAL-BEAST": null,
+  "story_protocol-NATIVE-IP": "story-2",
+  "sophon-NATIVE-SOPH": "sophon",
+  "hydradx_main-LOCAL-tBTC": "tbtc",
+  "story_aeneid-NATIVE-IP": null,
+  "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14": "usd-coin",
+  "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8": "tether"
 }
