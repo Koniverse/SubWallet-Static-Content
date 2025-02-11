@@ -11585,5 +11585,87 @@
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
+  },
+  {
+    "slug": "story_protocol",
+    "name": "Story Protocol",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
+    "providers": {
+      "Story": "https://mainnet.storyrpc.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 1514,
+      "blockExplorer": "https://kmnzxolweu42.blockscout.com/",
+      "existentialDeposit": "0",
+      "symbol": "IP",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "sophon",
+    "name": "Sophon",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
+    "providers": {
+      "Sophon": "https://rpc.sophon.xyz/",
+      "Unifra": "https://sophon-mainnet-public.unifra.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 50104,
+      "blockExplorer": "https://explorer.sophon.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "SOPH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "story_aeneid",
+    "name": "Story Aeneid Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
+    "providers": {
+      "Aeneid": "https://aeneid.storyrpc.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 1315,
+      "blockExplorer": "https://aeneid.storyscan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "IP",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
   }
 ]

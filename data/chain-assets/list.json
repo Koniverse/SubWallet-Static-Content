@@ -1105,13 +1105,25 @@
     "priceId": null,
     "minAmount": "10000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      }
+    },
     "hasValue": false,
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
     "originChain": "westend",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": null
+      }
+    ]
   },
   {
     "slug": "rococo-NATIVE-ROC",
@@ -12014,7 +12026,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/deepbrain_chain_2296ab9a21.png",
     "originChain": "dbcchain",
-    "multiChainAsset": null,
+    "multiChainAsset": "DBC-DBC",
     "assetRefs": []
   },
   {
@@ -15066,6 +15078,72 @@
     "assetRefs": []
   },
   {
+    "slug": "core-NATIVE-CORE",
+    "name": "Core",
+    "symbol": "CORE",
+    "decimals": 18,
+    "priceId": "coredaoorg",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/core_dao_5e1b5d8709.png",
+    "originChain": "core",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "satoshivm-NATIVE-BTC",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": "bitcoin",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "satoshivm",
+    "multiChainAsset": "BTC-Bitcoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "satoshivm_testnet-NATIVE-BTC",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitcoin_testnet_fa76c3afed.png",
+    "originChain": "satoshivm_testnet",
+    "multiChainAsset": "BTC-BitcoinTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "satoshivm-ERC20-SAVM-0x0E02765992f946397E6d2e65642eABb9cc674928",
+    "name": "SatoshiVM",
+    "symbol": "SAVM",
+    "decimals": 18,
+    "priceId": "satoshivm",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x0E02765992f946397E6d2e65642eABb9cc674928"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/savm_3f1f81c4f5.png",
+    "originChain": "satoshivm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "ethereum-ERC20-CERE-0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
     "name": "Cere Network",
     "symbol": "CERE",
@@ -16580,7 +16658,7 @@
     "symbol": "AI3",
     "decimals": 18,
     "priceId": null,
-    "minAmount": "200000000000000",
+    "minAmount": "10000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -16867,6 +16945,22 @@
     "assetRefs": []
   },
   {
+    "slug": "ithaca-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ithaca",
+    "multiChainAsset": "ETH-EthereumSepolia",
+    "assetRefs": []
+  },
+  {
     "slug": "ink-NATIVE-ETH",
     "name": "Ethereum",
     "symbol": "ETH",
@@ -16975,6 +17069,214 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dia_3d9375d8d1.png",
     "originChain": "dia_lasernet_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ithaca-ERC20-USDC-0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
+    "originChain": "ithaca",
+    "multiChainAsset": "USDC-USDCSepolia",
+    "assetRefs": []
+  },
+  {
+    "slug": "ithaca-ERC20-AVAIL-0x6f59A38564B51c628db66D2a2D0A36A7D14Fe3E5",
+    "name": "Avail",
+    "symbol": "AVAIL",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6f59A38564B51c628db66D2a2D0A36A7D14Fe3E5"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_3e7774cff6.png",
+    "originChain": "ithaca",
+    "multiChainAsset": "AVAIL-AvailTuringTestnet",
+    "assetRefs": []
+  },
+  {
+    "slug": "acala-LOCAL-NEMO",
+    "name": "NEMO",
+    "symbol": "NEMO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Erc20": "0xfa904c86b73fd041d6cc2aeed9e6ec0148fd51da"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nemo_5dfd4ae9dd.png",
+    "originChain": "acala",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "muse_testnet-NATIVE-MUSE",
+    "name": "Muse Testnet",
+    "symbol": "MUSE",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "muse_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "soneium",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "dbcchain_evm-NATIVE-DBC",
+    "name": "DBC",
+    "symbol": "DBC",
+    "decimals": 18,
+    "priceId": "deepbrain-chain",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/deepbrain_chain_ef2b94fd9a.png",
+    "originChain": "dbcchain_evm",
+    "multiChainAsset": "DBC-DBC",
+    "assetRefs": []
+  },
+  {
+    "slug": "analog_timechain-NATIVE-ANLOG",
+    "name": "Analog Timechain",
+    "symbol": "ANLOG",
+    "decimals": 12,
+    "priceId": "analog",
+    "minAmount": "1000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/analog_timechain_adaf96fd5a.png",
+    "originChain": "analog_timechain",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "rootstock-NATIVE-RBTC",
+    "name": "Rootstock",
+    "symbol": "RBTC",
+    "decimals": 18,
+    "priceId": "rootstock",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/rootstock_34e44ecbba.png",
+    "originChain": "rootstock",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+    "name": "Bridged USDC (Soneium)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
+    "originChain": "soneium",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4200000000000000000000000000000000000006"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "soneium",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-ASTR-0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18,
+    "priceId": "astar",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/astr_eb0e51ec62.png",
+    "originChain": "soneium",
+    "multiChainAsset": "ASTR-Astar",
+    "assetRefs": []
+  },
+  {
+    "slug": "ithaca-ERC20-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ithaca",
     "multiChainAsset": null,
     "assetRefs": []
   }

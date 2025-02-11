@@ -17303,7 +17303,7 @@
     "name": "Analog Timechain",
     "symbol": "ANLOG",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "analog",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -17661,6 +17661,108 @@
     "icon": null,
     "originChain": "statemint",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "story_protocol-NATIVE-IP",
+    "name": "IP",
+    "symbol": "IP",
+    "decimals": 18,
+    "priceId": "story-2",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ip_2d8ee54f69.png",
+    "originChain": "story_protocol",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "sophon-NATIVE-SOPH",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "priceId": "sophon",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sophon_19df409d27.png",
+    "originChain": "sophon",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-tBTC",
+    "name": "tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "priceId": "tbtc",
+    "minAmount": "106803374987",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000765"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbtc_c8dc10d3ee.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "story_aeneid-NATIVE-IP",
+    "name": "IP",
+    "symbol": "IP",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ip_2d8ee54f69.png",
+    "originChain": "story_aeneid",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF1815bd50389c46847f0Bda824eC8da914045D14"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "story_protocol",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "story_protocol",
+    "multiChainAsset": "USDT-Tether",
     "assetRefs": []
   }
 ]
