@@ -926,6 +926,78 @@
     ]
   },
   {
+    "id": 185,
+    "title": "Stargate",
+    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.\nWith Stargate, users & dApps can transfer native assets cross-chain while accessing the protocol’s unified liquidity pools with instant guaranteed finality. The universe is infinite with Stargate.",
+    "url": "https://stargate.finance/",
+    "subtitle": "Liquidity transport protocol",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 372,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/stargate_d9ab9358b3.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "bridge"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "PiperX",
+    "description": "PiperX is the next-generation IPFi platform, aiming to serve as the ultimate liquidity layer for $61T IP assets on Story.",
+    "url": "https://app.piperx.xyz/",
+    "subtitle": "DEX and Liquidity Layer",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 374,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/piperx_a399accd85.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Verio",
+    "description": "Unlock IP liquidity with Verio vIP through Asset Staking and Liquid Staking",
+    "url": "https://www.verio.network/staking",
+    "subtitle": "IP Trust Engine on Story",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 376,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/verio_24709ffb12.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Story Hunt",
+    "description": "The Story Native DEX, unlocking $61T IP market liquidity and yields, powering IPFi.",
+    "url": "https://app.storyhunt.xyz/",
+    "subtitle": "IPFi DEX on Story",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 378,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/storyhunt_fe3d3b83bf.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 114,
     "title": "Jur Society DApp",
     "description": "Explore and join societies of your interest or create your own.",
