@@ -17697,7 +17697,9 @@
     "priceId": "story-2",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ip_2d8ee54f69.png",
@@ -17707,7 +17709,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8"
       },
       {
@@ -17813,7 +17815,7 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": false,
+        "disable": true,
         "destAsset": "story_protocol-NATIVE-IP"
       }
     ]
