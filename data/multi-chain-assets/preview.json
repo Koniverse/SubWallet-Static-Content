@@ -34,7 +34,8 @@
       "zksync_era-NATIVE-ETH",
       "cyber-NATIVE-ETH",
       "ink-NATIVE-ETH",
-      "soneium-NATIVE-ETH"
+      "soneium-NATIVE-ETH",
+      "unichain-NATIVE-ETH"
     ]
   },
   {
@@ -169,7 +170,8 @@
       "moonbeam-ERC20-USDT.wh-0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f",
       "b2-ERC20-USDT-0x681202351a488040Fa4FdCc24188AfB582c9DD62",
       "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
-      "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8"
+      "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
+      "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3"
     ]
   },
   {
@@ -460,7 +462,8 @@
       "base_mainnet-ERC20-WETH-0x4200000000000000000000000000000000000006",
       "arbitrum_one-ERC20-WETH-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-      "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006"
+      "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006",
+      "story_protocol-ERC20-WETH-0xBAb93B7ad7fE8692A878B95a8e689423437cc500"
     ]
   },
   {
@@ -1119,7 +1122,8 @@
     "chainAssets": [
       "statemint-LOCAL-tBTC",
       "ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-      "bobMainnet-ERC20-tBTC-0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2"
+      "bobMainnet-ERC20-tBTC-0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
+      "hydradx_main-LOCAL-tBTC"
     ]
   },
   {
@@ -1365,7 +1369,8 @@
       "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
       "base_sepolia-ERC20-USDC-0x036CbD53842c5426634e7929541eC2318f3dCF7e",
       "arbitrum_sepolia-ERC20-USDC-0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d",
-      "ithaca-ERC20-USDC-0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695"
+      "ithaca-ERC20-USDC-0xaE83AD7A59ee18CFE97b79a5cf5Cdf2dF18d0695",
+      "storyOdyssey_testnet-ERC20-USDC-0x40fCa9cB1AB15eD9B5bDA19A52ac00A78AE08e1D"
     ]
   },
   {

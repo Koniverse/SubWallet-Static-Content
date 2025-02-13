@@ -16590,7 +16590,26 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/story_protocol_4cc0450d94.png",
     "originChain": "storyOdyssey_testnet",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "storyOdyssey_testnet-ERC20-PIP-0x6e990040Fd9b06F98eFb62A147201696941680b5"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "storyOdyssey_testnet-ERC20-USDC-0x40fCa9cB1AB15eD9B5bDA19A52ac00A78AE08e1D"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3"
+      }
+    ]
   },
   {
     "slug": "polygon_amoy-NATIVE-POL",
@@ -16892,7 +16911,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pip_7a2e0b016f.png",
     "originChain": "storyOdyssey_testnet",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "storyOdyssey_testnet-NATIVE-IP"
+      }
+    ]
   },
   {
     "slug": "g6_testnet-NATIVE-GSX",
@@ -17677,7 +17703,20 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ip_2d8ee54f69.png",
     "originChain": "story_protocol",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14"
+      }
+    ]
   },
   {
     "slug": "sophon-NATIVE-SOPH",
@@ -17710,7 +17749,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbtc_c8dc10d3ee.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "tBTC-tBTCv2",
     "assetRefs": []
   },
   {
@@ -17745,7 +17784,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
     "originChain": "story_protocol",
     "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "story_protocol-NATIVE-IP"
+      }
+    ]
   },
   {
     "slug": "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
@@ -17763,6 +17809,97 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "story_protocol",
     "multiChainAsset": "USDT-Tether",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "story_protocol-NATIVE-IP"
+      }
+    ]
+  },
+  {
+    "slug": "storyOdyssey_testnet-ERC20-USDC-0x40fCa9cB1AB15eD9B5bDA19A52ac00A78AE08e1D",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x40fCa9cB1AB15eD9B5bDA19A52ac00A78AE08e1D"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "storyOdyssey_testnet",
+    "multiChainAsset": "USDC-USDCSepolia",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "storyOdyssey_testnet-NATIVE-IP"
+      }
+    ]
+  },
+  {
+    "slug": "story_protocol-ERC20-WETH-0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xBAb93B7ad7fE8692A878B95a8e689423437cc500"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "story_protocol",
+    "multiChainAsset": "WETH-WrappedEther",
     "assetRefs": []
+  },
+  {
+    "slug": "unichain-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "unichain",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 18,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "storyOdyssey_testnet",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "storyOdyssey_testnet-NATIVE-IP"
+      }
+    ]
   }
 ]
