@@ -19,8 +19,8 @@
   "token" : {
     "polkadot-NATIVE-DOT": 1,
     "ethereum-NATIVE-ETH": 2,
-    "acala-LOCAL-USDT": 3,
-    "calamari-LOCAL-USDC": 4,
+    "statemint-LOCAL-USDt": 3,
+    "statemint-LOCAL-USDC": 4,
     "kusama-NATIVE-KSM": 5,
     "avail_mainnet-NATIVE-AVAIL": 6,
     "bittensor-NATIVE-TAO": 7,
