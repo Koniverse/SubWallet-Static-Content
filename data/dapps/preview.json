@@ -926,6 +926,26 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Unleash",
+    "description": "Unleash is dedicated to revolutionizing the way Intellectual Property (IP) is managed, addressing longstanding challenges through innovative solutions. Our aim is to create a more efficient, transparent, and secure system that protects creators and fosters economic growth. ",
+    "url": "https://app.unleashprotocol.xyz/",
+    "subtitle": "IP Operating System on Story",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 371,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/unleash_96a1173f64.png",
+    "preview_image": null,
+    "chains": [
+      "story_protocol"
+    ],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 185,
     "title": "Stargate",
     "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.\nWith Stargate, users & dApps can transfer native assets cross-chain while accessing the protocol’s unified liquidity pools with instant guaranteed finality. The universe is infinite with Stargate.",
@@ -1006,6 +1026,26 @@
     ]
   },
   {
+    "id": 190,
+    "title": "Standard",
+    "description": "Trade on Standard to earn points and stake, unlock Benefits.",
+    "url": "https://app.standardweb3.com/",
+    "subtitle": "Earn points by trading",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 380,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/standard_4d0aa672f4.png",
+    "preview_image": null,
+    "chains": [
+      "story_protocol"
+    ],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 114,
     "title": "Jur Society DApp",
     "description": "Explore and join societies of your interest or create your own.",
@@ -1014,7 +1054,7 @@
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
-    "ordinal": 380,
+    "ordinal": 385,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/jur_8792d81143.png",
     "preview_image": null,
