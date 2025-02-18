@@ -663,7 +663,7 @@
     },
     "hasValue": true,
     "ordinal": 19,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "acala",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -1019,7 +1019,7 @@
     },
     "hasValue": true,
     "ordinal": 34,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "astar",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -1060,7 +1060,7 @@
     },
     "hasValue": true,
     "ordinal": 36,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "astarEvm",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -1360,7 +1360,7 @@
     },
     "hasValue": true,
     "ordinal": 52,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "bifrost_dot",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -1569,7 +1569,7 @@
     },
     "hasValue": true,
     "ordinal": 63,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "calamari",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -1587,7 +1587,7 @@
     },
     "hasValue": true,
     "ordinal": 64,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "calamari",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -1946,7 +1946,7 @@
     },
     "hasValue": true,
     "ordinal": 84,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "parallel",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -2079,6 +2079,66 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -2112,7 +2172,7 @@
     },
     "hasValue": true,
     "ordinal": 88,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -2193,6 +2253,66 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -2307,7 +2427,7 @@
     },
     "hasValue": true,
     "ordinal": 93,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "interlay",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -2804,7 +2924,7 @@
     },
     "hasValue": true,
     "ordinal": 118,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "kintsugi",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -3583,7 +3703,7 @@
     },
     "hasValue": true,
     "ordinal": 163,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "pendulum",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -4343,7 +4463,7 @@
     },
     "hasValue": true,
     "ordinal": 210,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "statemint",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -4634,7 +4754,7 @@
     },
     "hasValue": true,
     "ordinal": 222,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "moonbeam",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -4981,7 +5101,7 @@
     },
     "hasValue": true,
     "ordinal": 239,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "statemine",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -5956,7 +6076,7 @@
     },
     "hasValue": true,
     "ordinal": 293,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "shidenEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6386,7 +6506,7 @@
     },
     "hasValue": true,
     "ordinal": 317,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -6712,7 +6832,7 @@
     },
     "hasValue": true,
     "ordinal": 336,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "binance",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -6730,7 +6850,7 @@
     },
     "hasValue": true,
     "ordinal": 337,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "ethereum",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -7777,7 +7897,7 @@
     },
     "hasValue": true,
     "ordinal": 389,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "polygon",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -7795,7 +7915,7 @@
     },
     "hasValue": true,
     "ordinal": 390,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -7820,7 +7940,7 @@
     },
     "hasValue": true,
     "ordinal": 391,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "optimism",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -7838,7 +7958,7 @@
     },
     "hasValue": true,
     "ordinal": 392,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "tomochain",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -8192,7 +8312,7 @@
     },
     "hasValue": true,
     "ordinal": 407,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lp_kbtc_usdt_e5ed60bdee.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lp_kbtc_usdt_c3393dae7d.png",
     "originChain": "kintsugi",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8296,7 +8416,7 @@
     },
     "hasValue": true,
     "ordinal": 412,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lp_ibtc_usdt_8f00df7878.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lp_ibtc_usdt_c5964b607d.png",
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8323,7 +8443,7 @@
     },
     "hasValue": true,
     "ordinal": 413,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lp_intr_usdt_bd97baee3f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lp_intr_usdt_050f16e407.png",
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8877,6 +8997,48 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -9460,6 +9622,114 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
   },
@@ -9893,7 +10163,128 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/intr_9327b8d0af.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "INTR-Interlay",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "rococo_assethub-NATIVE-ROC",
@@ -10213,6 +10604,78 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -10250,6 +10713,108 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
   },
@@ -10330,6 +10895,78 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-ASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -10666,7 +11303,7 @@
     },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "hydradx_rococo",
     "multiChainAsset": null,
     "assetRefs": [
@@ -11163,7 +11800,128 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subsocial_d5a92d522b.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-4Pool",
@@ -11179,7 +11937,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/4_pool_3d681660cb.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/4_pool_d1e7d2c97c.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": [
@@ -11242,6 +12000,78 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -11322,6 +12152,78 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -11402,6 +12304,78 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
       }
     ]
   },
@@ -11488,6 +12462,72 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
       }
     ]
   },
@@ -11558,7 +12598,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -12163,7 +13203,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "bitlayer",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -12785,7 +13825,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "amplitude",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -12846,7 +13886,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "bobMainnet",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -13023,6 +14063,114 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
   },
@@ -13109,7 +14257,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "aleph",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -13611,7 +14759,7 @@
     },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "rococo_assethub",
     "multiChainAsset": null,
     "assetRefs": [
@@ -14130,7 +15278,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "moonbeam",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -14245,6 +15393,120 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
   },
@@ -14264,7 +15526,128 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_00b4f01b3e.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "KILT-KILTProtocol",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-ZTG",
@@ -14282,7 +15665,128 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/zeitgeist_dfd051f93d.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "ZTG-Zeitgeist",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-CRU",
@@ -14300,7 +15804,128 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/crust_7a61ae94c2.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "CRU-Crust",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "hydradx_main-LOCAL-RING",
@@ -14389,7 +16014,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "karura",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -14712,6 +16337,120 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
   },
@@ -14868,7 +16607,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "b2",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -15776,6 +17515,120 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2-Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
   },
@@ -17457,10 +19310,131 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/2_pool_fc2b0010ad.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/2_pool_usdc_usdt_a6f09fb3c2.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-4Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-2Pool"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KILT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WETH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-GLMR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-WUD"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-BNC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vASTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-vDOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CFG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-CRU"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-SUB"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-PHA"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ZTG"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-ASTR"
+      }
+    ]
   },
   {
     "slug": "paseo_assethub-NATIVE-PAS",
@@ -17709,12 +19683,6 @@
       {
         "type": "SWAP",
         "metadata": null,
-        "disable": true,
-        "destAsset": "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8"
-      },
-      {
-        "type": "SWAP",
-        "metadata": null,
         "disable": false,
         "destAsset": "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14"
       }
@@ -17811,14 +19779,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "story_protocol",
     "multiChainAsset": "USDT-Tether",
-    "assetRefs": [
-      {
-        "type": "SWAP",
-        "metadata": null,
-        "disable": true,
-        "destAsset": "story_protocol-NATIVE-IP"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "storyOdyssey_testnet-ERC20-USDC-0x40fCa9cB1AB15eD9B5bDA19A52ac00A78AE08e1D",
@@ -17903,5 +19864,41 @@
         "destAsset": "storyOdyssey_testnet-NATIVE-IP"
       }
     ]
+  },
+  {
+    "slug": "story_protocol-ERC20-vIP-0x5267F7eE069CEB3D8F1c760c215569b79d0685aD",
+    "name": "VerioIP",
+    "symbol": "vIP",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5267F7eE069CEB3D8F1c760c215569b79d0685aD"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vip_3daa27a783.png",
+    "originChain": "story_protocol",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "story_protocol-ERC20-WTF-0x5a212776066b81e449fE74396cCe368Dc4b14043",
+    "name": "WhatTheFreg",
+    "symbol": "WTF",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5a212776066b81e449fE74396cCe368Dc4b14043"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wtf_b07e32bf6f.png",
+    "originChain": "story_protocol",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
