@@ -8282,9 +8282,10 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_c2910543ab.png",
     "providers": {
-      "Europe RPC 2": "https://rpc2.sepolia.org",
-      "Zan": "https://api.zan.top/eth-sepolia",
-      "1RPC": "https://1rpc.io/sepolia"
+      "1RPC": "https://1rpc.io/sepolia",
+      "Tenderly": "https://gateway.tenderly.co/public/sepolia",
+      "0xrpc": "https://0xrpc.io/sep",
+      "Public node": "https://ethereum-sepolia-rpc.publicnode.com"
     },
     "evmInfo": {
       "evmChainId": 11155111,
