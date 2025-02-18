@@ -8282,10 +8282,9 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_c2910543ab.png",
     "providers": {
-      "Asia RPC": "https://rpc.sepolia.org",
       "Europe RPC 2": "https://rpc2.sepolia.org",
       "Zan": "https://api.zan.top/eth-sepolia",
-      "Blast": "https://eth-sepolia.public.blastapi.io"
+      "1RPC": "https://1rpc.io/sepolia"
     },
     "evmInfo": {
       "evmChainId": 11155111,
