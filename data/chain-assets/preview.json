@@ -3600,7 +3600,7 @@
     "ordinal": 159,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ternoa_4adb8423c0.png",
     "originChain": "ternoa",
-    "multiChainAsset": null,
+    "multiChainAsset": "CAPS-Ternoa",
     "assetRefs": []
   },
   {
@@ -19899,6 +19899,38 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wtf_b07e32bf6f.png",
     "originChain": "story_protocol",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "siliconZkEvm-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "siliconZkEvm",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "ternoaZkEvm-NATIVE-CAPS",
+    "name": "Ternoa",
+    "symbol": "CAPS",
+    "decimals": 18,
+    "priceId": "coin-capsule",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ternoa_5fd0d569eb.png",
+    "originChain": "ternoaZkEvm",
+    "multiChainAsset": "CAPS-Ternoa",
     "assetRefs": []
   }
 ]

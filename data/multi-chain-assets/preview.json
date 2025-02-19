@@ -35,7 +35,8 @@
       "cyber-NATIVE-ETH",
       "ink-NATIVE-ETH",
       "soneium-NATIVE-ETH",
-      "unichain-NATIVE-ETH"
+      "unichain-NATIVE-ETH",
+      "siliconZkEvm-NATIVE-ETH"
     ]
   },
   {
@@ -137,7 +138,7 @@
     "symbol": "USDT",
     "priceId": "tether",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdt_c166c71805.png",
     "originChainAsset": null,
     "chainAssets": [
       "acala-LOCAL-USDT",
@@ -1503,6 +1504,19 @@
     "chainAssets": [
       "dbcchain-NATIVE-DBC",
       "dbcchain_evm-NATIVE-DBC"
+    ]
+  },
+  {
+    "slug": "CAPS-Ternoa",
+    "name": "Ternoa",
+    "symbol": "CAPS",
+    "priceId": "coin-capsule",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ternoa_5fd0d569eb.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "ternoa-NATIVE-CAPS",
+      "ternoaZkEvm-NATIVE-CAPS"
     ]
   }
 ]

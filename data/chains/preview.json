@@ -5495,7 +5495,7 @@
     "slug": "creditcoin",
     "name": "CC Enterprise",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 137,
     "icon": "https://static-data.subwallet.app/chains/images/icon/creditcoin_96595e8993.png",
     "providers": {
@@ -11685,6 +11685,61 @@
       "blockExplorer": "https://uniscan.xyz/",
       "existentialDeposit": "0",
       "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "siliconZkEvm",
+    "name": "Silicon zkEVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/silicon_d51ff85172.png",
+    "providers": {
+      "Silicon": "https://rpc.silicon.network/",
+      "Nodeinfra": "https://silicon-mainnet.nodeinfra.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 2355,
+      "blockExplorer": "https://scope.silicon.network/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "ternoaZkEvm",
+    "name": "Ternoa zkEVM+",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ternoa_5fd0d569eb.png",
+    "providers": {
+      "Ternoa": "https://rpc-mainnet.zkevm.ternoa.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 752025,
+      "blockExplorer": "https://explorer-mainnet.zkevm.ternoa.network/",
+      "existentialDeposit": "0",
+      "symbol": "CAPS",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",

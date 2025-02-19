@@ -838,5 +838,7 @@
   "unichain-NATIVE-ETH": "ethereum",
   "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3": "tether",
   "story_protocol-ERC20-vIP-0x5267F7eE069CEB3D8F1c760c215569b79d0685aD": null,
-  "story_protocol-ERC20-WTF-0x5a212776066b81e449fE74396cCe368Dc4b14043": null
+  "story_protocol-ERC20-WTF-0x5a212776066b81e449fE74396cCe368Dc4b14043": null,
+  "siliconZkEvm-NATIVE-ETH": "ethereum",
+  "ternoaZkEvm-NATIVE-CAPS": "coin-capsule"
 }

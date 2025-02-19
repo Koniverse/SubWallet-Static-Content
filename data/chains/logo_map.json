@@ -333,5 +333,7 @@
   "story_protocol": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
   "sophon": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
   "story_aeneid": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
-  "unichain": "https://static-data.subwallet.app/chains/images/icon/unichain_9b73cf34be.png"
+  "unichain": "https://static-data.subwallet.app/chains/images/icon/unichain_9b73cf34be.png",
+  "siliconZkEvm": "https://static-data.subwallet.app/chains/images/icon/silicon_d51ff85172.png",
+  "ternoaZkEvm": "https://static-data.subwallet.app/chains/images/icon/ternoa_5fd0d569eb.png"
 }
