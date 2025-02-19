@@ -19932,5 +19932,21 @@
     "originChain": "ternoaZkEvm",
     "multiChainAsset": "CAPS-Ternoa",
     "assetRefs": []
+  },
+  {
+    "slug": "gen6_public-NATIVE-GSX",
+    "name": "GSX",
+    "symbol": "GSX",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "100000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gsx_26b9fb2783.png",
+    "originChain": "gen6_public",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

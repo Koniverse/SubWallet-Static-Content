@@ -840,5 +840,6 @@
   "story_protocol-ERC20-vIP-0x5267F7eE069CEB3D8F1c760c215569b79d0685aD": null,
   "story_protocol-ERC20-WTF-0x5a212776066b81e449fE74396cCe368Dc4b14043": null,
   "siliconZkEvm-NATIVE-ETH": "ethereum",
-  "ternoaZkEvm-NATIVE-CAPS": "coin-capsule"
+  "ternoaZkEvm-NATIVE-CAPS": "coin-capsule",
+  "gen6_public-NATIVE-GSX": null
 }
