@@ -1,8 +1,8 @@
 {
   "tokenGroup" : {
     "DOT-Polkadot": 1,
-    "ETH-Ethereum": 2,
-    "USDT-Tether": 3,
+    "ETH-Ethereum": 3,
+    "USDT-Tether": 2,
     "USDC-USDCoin": 4,
     "KSM-Kusama": 5,
     "AVAIL-Avail": 6,
@@ -18,8 +18,8 @@
   },
   "token" : {
     "polkadot-NATIVE-DOT": 1,
-    "ethereum-NATIVE-ETH": 2,
-    "statemint-LOCAL-USDt": 3,
+    "ethereum-NATIVE-ETH": 3,
+    "statemint-LOCAL-USDt": 2,
     "statemint-LOCAL-USDC": 4,
     "kusama-NATIVE-KSM": 5,
     "avail_mainnet-NATIVE-AVAIL": 6,
