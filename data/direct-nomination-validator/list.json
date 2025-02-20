@@ -10,5 +10,9 @@
     "kusama": {
       "maxCount": 3,
       "preSelectValidators": "ERYwYjy1LGY1GWovnxxmXo68SZLLYwjMXNEvhhDhp48zyED,EwwczfxHvFq8zyYFkQv29r9us7M8Gbmw4cUtrvF5ozx6Mf2"
+    },
+    "vara_network": {
+      "maxCount": 1,
+      "preSelectValidators": "kGjCvG5HmCuUJf1XqXEo7giTkLeSJWaNSB7dfcs5KHvWsHKV6"
     }
   }  
