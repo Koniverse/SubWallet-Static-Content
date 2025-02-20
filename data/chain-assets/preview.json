@@ -249,6 +249,12 @@
         "metadata": null,
         "disable": true,
         "destAsset": "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
       }
     ]
   },
@@ -7390,6 +7396,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-WBTC"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
       }
     ]
   },

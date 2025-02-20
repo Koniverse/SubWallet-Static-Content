@@ -1198,7 +1198,9 @@
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
       "Dwellir": "wss://bifrost-rpc.dwellir.com",
-      "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws"
+      "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws",
+      "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
+      "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5495,7 +5497,7 @@
     "slug": "creditcoin",
     "name": "CC Enterprise",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 137,
     "icon": "https://static-data.subwallet.app/chains/images/icon/creditcoin_96595e8993.png",
     "providers": {
@@ -6534,7 +6536,8 @@
     "ordinal": 168,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bittensor_f643972064.png",
     "providers": {
-      "Opentensor": "wss://entrypoint-finney.opentensor.ai:443"
+      "Opentensor": "wss://entrypoint-finney.opentensor.ai:443",
+      "Latent": "wss://lite.sub.latent.to:443"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8282,8 +8285,10 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_c2910543ab.png",
     "providers": {
-      "Asia RPC": "https://rpc.sepolia.org",
-      "Europe RPC 2": "https://rpc2.sepolia.org"
+      "1RPC": "https://1rpc.io/sepolia",
+      "Tenderly": "https://gateway.tenderly.co/public/sepolia",
+      "0xrpc": "https://0xrpc.io/sep",
+      "Public node": "https://ethereum-sepolia-rpc.publicnode.com"
     },
     "evmInfo": {
       "evmChainId": 11155111,

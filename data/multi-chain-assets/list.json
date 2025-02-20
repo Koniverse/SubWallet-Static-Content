@@ -136,7 +136,7 @@
     "symbol": "USDT",
     "priceId": "tether",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdt_c166c71805.png",
     "originChainAsset": null,
     "chainAssets": [
       "acala-LOCAL-USDT",
