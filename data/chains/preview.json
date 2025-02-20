@@ -1198,7 +1198,9 @@
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
       "Dwellir": "wss://bifrost-rpc.dwellir.com",
-      "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws"
+      "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws",
+      "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
+      "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6534,7 +6536,8 @@
     "ordinal": 168,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bittensor_f643972064.png",
     "providers": {
-      "Opentensor": "wss://entrypoint-finney.opentensor.ai:443"
+      "Opentensor": "wss://entrypoint-finney.opentensor.ai:443",
+      "Latent": "wss://lite.sub.latent.to:443"
     },
     "evmInfo": null,
     "substrateInfo": {
