@@ -5,7 +5,7 @@
     },
      "polkadot": {
       "maxCount": 3,
-      "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,15tEXHHDjEv6VKR2MhpnfeJZnKQnTyMPVvGH51BJvBXNoCNK, 15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
+      "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,15tEXHHDjEv6VKR2MhpnfeJZnKQnTyMPVvGH51BJvBXNoCNK,15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
     },
     "kusama": {
       "maxCount": 2,
