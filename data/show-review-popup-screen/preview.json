@@ -1,1 +1,1 @@
-['staking.withdraw', 'swap', 'staking.claim_reward']
+['staking.withdraw', 'swap', 'staking.claim_reward', 'transfer.balance']
