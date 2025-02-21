@@ -529,6 +529,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-FLIP-0x826180541412D574cf1336d22c0C0a287822678A"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548"
       }
     ]
   },
@@ -548,7 +560,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/arbitrum_09c31bf783.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "ARB-ArbitrumOne",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      }
+    ]
   },
   {
     "slug": "optimism-NATIVE-ETH",
@@ -7936,6 +7955,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
       }
     ]
   },
@@ -19149,7 +19174,13 @@
     "priceId": null,
     "minAmount": "10000000000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "multilocation": {
+        "parents": 0,
+        "interior": "Here"
+      },
+      "disableEvmTransfer": true
+    },
     "hasValue": false,
     "ordinal": 9999,
     "icon": null,
@@ -19290,22 +19321,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "ithaca",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "pectradev5-NATIVE-ETH",
-    "name": "Ethereum (Pectra dev 5)",
-    "symbol": "ETH",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": "0",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
-    "originChain": "pectradev5",
     "multiChainAsset": null,
     "assetRefs": []
   },
@@ -19601,33 +19616,6 @@
     "assetRefs": []
   },
   {
-    "slug": "muse_testnet-LOCAL-MUSE",
-    "name": "Muse Testnet",
-    "symbol": "MUSE",
-    "decimals": 18,
-    "priceId": null,
-    "minAmount": "10000000000000000",
-    "assetType": "LOCAL",
-    "metadata": {
-      "multilocation": {
-        "parents": 1,
-        "interior": {
-          "X1": [
-            {
-              "Parachain": 3369
-            }
-          ]
-        }
-      }
-    },
-    "hasValue": false,
-    "ordinal": 9999,
-    "icon": null,
-    "originChain": "muse_testnet",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "torus-NATIVE-TORUS",
     "name": "Torus",
     "symbol": "TORUS",
@@ -19656,22 +19644,6 @@
     "ordinal": 9999,
     "icon": null,
     "originChain": "sonic",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "statemint-LOCAL-BEAST",
-    "name": "Mr. Beast Coin",
-    "symbol": "BEAST",
-    "decimals": 8,
-    "priceId": null,
-    "minAmount": "10000000",
-    "assetType": "LOCAL",
-    "metadata": null,
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": null,
-    "originChain": "statemint",
     "multiChainAsset": null,
     "assetRefs": []
   },

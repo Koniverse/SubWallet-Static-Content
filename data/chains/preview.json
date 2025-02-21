@@ -11259,7 +11259,7 @@
     "slug": "muse_testnet",
     "name": "Muse Testnet",
     "isTestnet": true,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": null,
     "providers": {
@@ -11398,33 +11398,6 @@
       "blockExplorer": "https://explorer.rootstock.io",
       "existentialDeposit": "0",
       "symbol": "RBTC",
-      "decimals": 18,
-      "supportSmartContract": [
-        "ERC20",
-        "ERC721"
-      ],
-      "abiExplorer": null
-    },
-    "substrateInfo": null,
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null
-  },
-  {
-    "slug": "pectradev5",
-    "name": "Pectra Dev 5",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
-    "providers": {
-      "pectradev5": "https://rpc.pectra-devnet-5.ethpandaops.io"
-    },
-    "evmInfo": {
-      "evmChainId": null,
-      "blockExplorer": "https://explorer.pectra-devnet-5.ethpandaops.io",
-      "existentialDeposit": "0",
-      "symbol": "ETH",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
