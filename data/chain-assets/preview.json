@@ -19183,7 +19183,7 @@
     },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/muse_869e3bf5d0.png",
     "originChain": "muse_testnet",
     "multiChainAsset": null,
     "assetRefs": []

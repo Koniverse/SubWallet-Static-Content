@@ -11261,7 +11261,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/muse_869e3bf5d0.png",
     "providers": {
       "Parity": "wss://paseo-muse-rpc.polkadot.io"
     },
