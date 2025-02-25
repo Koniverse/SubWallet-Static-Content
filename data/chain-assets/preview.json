@@ -4415,22 +4415,6 @@
     "assetRefs": []
   },
   {
-    "slug": "alephSmartNet-NATIVE-SZERO",
-    "name": "Aleph Zero Smartnet",
-    "symbol": "SZERO",
-    "decimals": 12,
-    "priceId": null,
-    "minAmount": "500",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": false,
-    "ordinal": 207,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/aleph_zero_ea0888883e.png",
-    "originChain": null,
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "kulupu-NATIVE-KLP",
     "name": "Kulupu",
     "symbol": "KLP",
@@ -19930,6 +19914,56 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gsx_26b9fb2783.png",
     "originChain": "gen6_public",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "monad_testnet-NATIVE-MON",
+    "name": "Monad",
+    "symbol": "MON",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/monad_fbb386b6c4.png",
+    "originChain": "monad_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-CAPS-0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
+    "name": "CAPS",
+    "symbol": "CAPS",
+    "decimals": 18,
+    "priceId": "coin-capsule",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ternoa_5fd0d569eb.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "CAPS-Ternoa",
+    "assetRefs": []
+  },
+  {
+    "slug": "melodie_testnet-NATIVE-MEL",
+    "name": "Allfeat Testnet",
+    "symbol": "MEL",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "100000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/allfeat_0312a3da99.png",
+    "originChain": "melodie_testnet",
     "multiChainAsset": null,
     "assetRefs": []
   }

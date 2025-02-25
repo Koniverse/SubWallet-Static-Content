@@ -206,7 +206,6 @@
   "sora_substrate-NATIVE-XOR": "sora",
   "swapdex-NATIVE-SDX": null,
   "3dpass-NATIVE-P3D": "3dpass",
-  "alephSmartNet-NATIVE-SZERO": null,
   "kulupu-NATIVE-KLP": "kulupu",
   "joystream-NATIVE-JOY": "joystream",
   "statemint-LOCAL-USDt": "tether",
@@ -838,5 +837,8 @@
   "story_protocol-ERC20-WTF-0x5a212776066b81e449fE74396cCe368Dc4b14043": null,
   "siliconZkEvm-NATIVE-ETH": "ethereum",
   "ternoaZkEvm-NATIVE-CAPS": "coin-capsule",
-  "gen6_public-NATIVE-GSX": null
+  "gen6_public-NATIVE-GSX": null,
+  "monad_testnet-NATIVE-MON": null,
+  "ethereum-ERC20-CAPS-0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2": "coin-capsule",
+  "melodie_testnet-NATIVE-MEL": null
 }

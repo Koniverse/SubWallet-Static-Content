@@ -1516,7 +1516,8 @@
     "originChainAsset": null,
     "chainAssets": [
       "ternoa-NATIVE-CAPS",
-      "ternoaZkEvm-NATIVE-CAPS"
+      "ternoaZkEvm-NATIVE-CAPS",
+      "ethereum-ERC20-CAPS-0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2"
     ]
   }
 ]

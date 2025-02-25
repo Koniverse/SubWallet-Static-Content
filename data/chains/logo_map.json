@@ -335,5 +335,7 @@
   "unichain": "https://static-data.subwallet.app/chains/images/icon/unichain_9b73cf34be.png",
   "siliconZkEvm": "https://static-data.subwallet.app/chains/images/icon/silicon_d51ff85172.png",
   "ternoaZkEvm": "https://static-data.subwallet.app/chains/images/icon/ternoa_5fd0d569eb.png",
-  "gen6_public": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png"
+  "gen6_public": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
+  "monad_testnet": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
+  "melodie_testnet": "https://static-data.subwallet.app/chains/images/icon/allfeat_0312a3da99.png"
 }

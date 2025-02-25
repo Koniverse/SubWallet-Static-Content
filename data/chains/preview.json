@@ -4212,7 +4212,7 @@
     "slug": "bajun",
     "name": "Bajun Kusama",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 100,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bajun_network_fa6d5efe53.png",
     "providers": {
@@ -11750,6 +11750,65 @@
       "existentialDeposit": "100000000000000000",
       "symbol": "GSX",
       "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "monad_testnet",
+    "name": "Monad Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
+    "providers": {
+      "Monad": "https://testnet-rpc.monad.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 10143,
+      "blockExplorer": "https://testnet.monadexplorer.com/",
+      "existentialDeposit": "0",
+      "symbol": "MON",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "melodie_testnet",
+    "name": "Melodie Testnet Live",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/allfeat_0312a3da99.png",
+    "providers": {
+      "Allfeat": "wss://melodie-rpc.allfeat.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xb2b98482cdadce88e03feb60dfb1122630326b404b599938ec997aa819e31983",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000",
+      "symbol": "MEL",
+      "decimals": 12,
       "hasNativeNft": null,
       "supportStaking": null,
       "supportSmartContract": null,
