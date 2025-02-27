@@ -1,5 +1,31 @@
 [
   {
+    "id": 87,
+    "name": "100M ASTR up for grabs with ACS Campaign",
+    "status": "live",
+    "ordinal": 48,
+    "description": "The Astar Contribution Score (ACS) campaign is launching on Soneium to drive user adoption, incentivize on-chain activity, and expand the utility of ASTR. Starting on February 20 and running until May 30, ACS will reward users for engaging with the ecosystem—whether through gaming, consumer apps, or liquidity provision.\n\nACS utilizes a score-based model to measure and reward contributions across the Soneium ecosystem. Here’s how it works:\n\n- Users earn ACS points based on their interactions within Soneium, from gaming and consumer applications to liquidity provision.\n- Liquidity providers receive multipliers on their contributions, with ASTR-based liquidity enjoying the highest multiplier to reinforce its role as the ecosystem’s primary asset.\n- Gaming and consumer application users accumulate points based on their engagement, driving real utility across web3 experiences.\n- Projects integrating ASTR play a key role in the campaign, distributing ACS rewards to their users and strengthening the token’s adoption.\n\nOnce the campaign concludes, ACS points will be redeemable for ASTR tokens at a fixed rate of 1 ACS = 0.1 ASTR, directly rewarding users based on their engagement and contributions throughout the event.",
+    "start_time": "2025-02-20T00:00:00.000Z",
+    "end_time": "2025-05-30T00:00:00.000Z",
+    "url": "https://acs.astar.network/",
+    "twitter_url": "https://x.com/AstarNetwork",
+    "reward": "100M ASTR",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://astar.network/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/astr_eb0e51ec62.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Blog_Header_a317d10366_931fcfe05f.jpg",
+    "chains": [
+      "astar",
+      "soneium"
+    ],
+    "categories": []
+  },
+  {
     "id": 86,
     "name": "Earn Points with Soneium Conquest on Galxe",
     "status": "live",
