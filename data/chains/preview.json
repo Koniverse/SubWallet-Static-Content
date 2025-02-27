@@ -5038,7 +5038,10 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "OnFinality": "wss://ajuna.api.onfinality.io/public-ws"
+      "OnFinality": "wss://ajuna.api.onfinality.io/public-ws",
+      "Para": "wss://rpc-para.ajuna.network",
+      "Ibp": "wss://ajuna.ibp.network",
+      "Dotters": "wss://ajuna.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
