@@ -541,6 +541,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-ERC20-WBTC-0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
       }
     ]
   },
@@ -19966,5 +19972,30 @@
     "originChain": "melodie_testnet",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "arbitrum_one-ERC20-WBTC-0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "priceId": "arbitrum-bridged-wbtc-arbitrum-one",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": null,
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      }
+    ]
   }
 ]

@@ -840,5 +840,6 @@
   "gen6_public-NATIVE-GSX": null,
   "monad_testnet-NATIVE-MON": null,
   "ethereum-ERC20-CAPS-0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2": "coin-capsule",
-  "melodie_testnet-NATIVE-MEL": null
+  "melodie_testnet-NATIVE-MEL": null,
+  "arbitrum_one-ERC20-WBTC-0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": "arbitrum-bridged-wbtc-arbitrum-one"
 }
