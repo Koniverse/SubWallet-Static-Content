@@ -4212,7 +4212,7 @@
     "slug": "bajun",
     "name": "Bajun Kusama",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 100,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bajun_network_fa6d5efe53.png",
     "providers": {
@@ -5038,7 +5038,10 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "OnFinality": "wss://ajuna.api.onfinality.io/public-ws"
+      "OnFinality": "wss://ajuna.api.onfinality.io/public-ws",
+      "Para": "wss://rpc-para.ajuna.network",
+      "Ibp": "wss://ajuna.ibp.network",
+      "Dotters": "wss://ajuna.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -11259,9 +11262,9 @@
     "slug": "muse_testnet",
     "name": "Muse Testnet",
     "isTestnet": true,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/muse_869e3bf5d0.png",
     "providers": {
       "Parity": "wss://paseo-muse-rpc.polkadot.io"
     },
@@ -11406,6 +11409,320 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "gravity_alpha",
+    "name": "Gravity Alpha Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/gravity_alpha_84a56b3683.png",
+    "providers": {
+      "Gravity": "https://rpc.gravity.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 1625,
+      "blockExplorer": "https://explorer.gravity.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "G",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "torus",
+    "name": "Torus",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/torus_6c6d077239.png",
+    "providers": {
+      "Torus": "wss://api.torus.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x0e00b212768e28b176d069890c106e37c331ea9b16b207f4e9baf67b3f3f3021",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "TORUS",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "story_protocol",
+    "name": "Story Protocol",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
+    "providers": {
+      "Story": "https://mainnet.storyrpc.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 1514,
+      "blockExplorer": "https://www.storyscan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "IP",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "sophon",
+    "name": "Sophon",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
+    "providers": {
+      "Sophon": "https://rpc.sophon.xyz/",
+      "Unifra": "https://sophon-mainnet-public.unifra.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 50104,
+      "blockExplorer": "https://explorer.sophon.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "SOPH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "story_aeneid",
+    "name": "Story Aeneid Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
+    "providers": {
+      "Aeneid": "https://aeneid.storyrpc.io/"
+    },
+    "evmInfo": {
+      "evmChainId": 1315,
+      "blockExplorer": "https://aeneid.storyscan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "IP",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "unichain",
+    "name": "Unichain Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/unichain_9b73cf34be.png",
+    "providers": {
+      "Unichain": "https://mainnet.unichain.org/"
+    },
+    "evmInfo": {
+      "evmChainId": 130,
+      "blockExplorer": "https://uniscan.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "siliconZkEvm",
+    "name": "Silicon zkEVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/silicon_d51ff85172.png",
+    "providers": {
+      "Silicon": "https://rpc.silicon.network/",
+      "Nodeinfra": "https://silicon-mainnet.nodeinfra.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 2355,
+      "blockExplorer": "https://scope.silicon.network/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "ternoaZkEvm",
+    "name": "Ternoa zkEVM+",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/ternoa_5fd0d569eb.png",
+    "providers": {
+      "Ternoa": "https://rpc-mainnet.zkevm.ternoa.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 752025,
+      "blockExplorer": "https://explorer-mainnet.zkevm.ternoa.network/",
+      "existentialDeposit": "0",
+      "symbol": "CAPS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "gen6_public",
+    "name": "Gen6 Public Chain",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
+    "providers": {
+      "Gen6": "wss://gen6.app:443/node"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x9226d527cd7fb37ea0f466e06182c3c5f330f3f522799cb8cc17e0a080b49a2d",
+      "addressPrefix": 355,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000000000",
+      "symbol": "GSX",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "monad_testnet",
+    "name": "Monad Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
+    "providers": {
+      "Monad": "https://testnet-rpc.monad.xyz/"
+    },
+    "evmInfo": {
+      "evmChainId": 10143,
+      "blockExplorer": "https://testnet.monadexplorer.com/",
+      "existentialDeposit": "0",
+      "symbol": "MON",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null
+  },
+  {
+    "slug": "melodie_testnet",
+    "name": "Melodie Testnet Live",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/allfeat_0312a3da99.png",
+    "providers": {
+      "Allfeat": "wss://melodie-rpc.allfeat.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xb2b98482cdadce88e03feb60dfb1122630326b404b599938ec997aa819e31983",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000000",
+      "symbol": "MEL",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null
