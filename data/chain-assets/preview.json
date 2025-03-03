@@ -3104,7 +3104,7 @@
     "symbol": "ZTG",
     "decimals": 10,
     "priceId": "zeitgeist",
-    "minAmount": "50000000",
+    "minAmount": "5000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
@@ -19997,5 +19997,77 @@
         "destAsset": "arbitrum_one-NATIVE-ETH"
       }
     ]
+  },
+  {
+    "slug": "cardano-NATIVE-ADA",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "decimals": 6,
+    "priceId": "cardano",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": {
+      "cardanoId": "lovelace"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cardano_63d94f6cbb.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano-CIP26-HOSKY-a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+    "name": "HOSKY",
+    "symbol": "HOSKY",
+    "decimals": 0,
+    "priceId": "hosky",
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hosky_9b94474937.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano_preproduction-NATIVE-tADA",
+    "name": "Cardano Preproduction",
+    "symbol": "tADA",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": {
+      "cardanoId": "lovelace"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cardano_63d94f6cbb.png",
+    "originChain": "cardano_preproduction",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano_preproduction-CIP26-BLUEDOT",
+    "name": "Bluedot Cardano",
+    "symbol": "BLUEDOT",
+    "decimals": 8,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "3d64987c567150b011edeed959cd1293432b7f2bc228982e2be395f70014df10426c7565646f742043617264616e6f"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bluedot_52bcff66b6.png",
+    "originChain": "cardano_preproduction",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]

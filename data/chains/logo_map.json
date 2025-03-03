@@ -337,5 +337,7 @@
   "ternoaZkEvm": "https://static-data.subwallet.app/chains/images/icon/ternoa_5fd0d569eb.png",
   "gen6_public": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
   "monad_testnet": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
-  "melodie_testnet": "https://static-data.subwallet.app/chains/images/icon/allfeat_0312a3da99.png"
+  "melodie_testnet": "https://static-data.subwallet.app/chains/images/icon/allfeat_0312a3da99.png",
+  "cardano": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
+  "cardano_preproduction": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png"
 }
