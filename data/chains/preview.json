@@ -3816,7 +3816,7 @@
     "slug": "litmus",
     "name": "Litmus",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 88,
     "icon": "https://static-data.subwallet.app/chains/images/icon/litmus_2e86f51933.png",
     "providers": {
