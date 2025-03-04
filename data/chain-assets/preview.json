@@ -9066,6 +9066,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KSM"
       }
     ]
   },
@@ -19714,10 +19720,10 @@
   },
   {
     "slug": "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14",
-    "name": "USD Coin",
-    "symbol": "USDC",
+    "name": "Stargate Bridged USDC (Story)",
+    "symbol": "USDC.e",
     "decimals": 6,
-    "priceId": "usd-coin",
+    "priceId": "stargate-bridged-usdc-story",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -20197,5 +20203,30 @@
     "originChain": "acala",
     "multiChainAsset": null,
     "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "313283208",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000771"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b37165518e.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "KSM-Kusama",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      }
+    ]
   }
 ]

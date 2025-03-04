@@ -827,7 +827,7 @@
   "sophon-NATIVE-SOPH": "sophon",
   "hydradx_main-LOCAL-tBTC": "tbtc",
   "story_aeneid-NATIVE-IP": null,
-  "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14": "usd-coin",
+  "story_protocol-ERC20-USDC-0xF1815bd50389c46847f0Bda824eC8da914045D14": "stargate-bridged-usdc-story",
   "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8": "tether",
   "storyOdyssey_testnet-ERC20-USDC-0x40fCa9cB1AB15eD9B5bDA19A52ac00A78AE08e1D": "usd-coin",
   "story_protocol-ERC20-WETH-0xBAb93B7ad7fE8692A878B95a8e689423437cc500": "weth",
@@ -852,5 +852,6 @@
   "ethereum-ERC20-aEthUSDC-0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c": "aave-v3-usdc",
   "ethereum-ERC20-sUSDS-0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD": "susds",
   "ethereum-ERC20-sDAI-0x83F20F44975D03b1b09e64809B757c47f942BEeA": "savings-dai",
-  "acala-LOCAL-LOVA": null
+  "acala-LOCAL-LOVA": null,
+  "hydradx_main-LOCAL-KSM": "kusama"
 }
