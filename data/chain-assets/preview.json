@@ -17274,7 +17274,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_7399b730ca.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "ton",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -20067,6 +20067,134 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bluedot_52bcff66b6.png",
     "originChain": "cardano_preproduction",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthWETH-0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+    "name": "Aave Ethereum WETH",
+    "symbol": "aEthWETH",
+    "decimals": 18,
+    "priceId": "aave-v3-weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthUSDT-0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+    "name": "Aave Ethereum USDT",
+    "symbol": "aEthUSDT",
+    "decimals": 6,
+    "priceId": "aave-v3-usdt",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthWBTC-0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8",
+    "name": "Aave Ethereum WBTC",
+    "symbol": "aEthWBTC",
+    "decimals": 8,
+    "priceId": "aave-v3-wbtc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthUSDC-0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+    "name": "Aave Ethereum USDC",
+    "symbol": "aEthUSDC",
+    "decimals": 6,
+    "priceId": "aave-v3-usdc",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-sUSDS-0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "name": "Savings USDS",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "priceId": "susds",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/susds_e5ab748382.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-sDAI-0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "name": "Saving DAI",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "priceId": "savings-dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sdai_c45005952f.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "acala-LOCAL-LOVA",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": 18
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChain": "acala",
     "multiChainAsset": null,
     "assetRefs": []
   }

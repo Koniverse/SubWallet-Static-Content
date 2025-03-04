@@ -1,5 +1,72 @@
 [
   {
+    "id": 89,
+    "name": "Get a share of 2 BILLION $WUD rewards with WUD Airlyft Campaign - Into the WUD 🪵",
+    "status": "live",
+    "ordinal": 46,
+    "description": "WUD Airlyft Campaign - Into the WUDs 🪵\n\nStep Into the WUDs — a campaign designed to onboard new users into the Polkadot ecosystem while rewarding those who engage with WUD and its partners.\n\nComplete quests to earn XP by:\n\n🪙 Buying WUD with your connected wallet\n🪙 Holding WUD on Hydration\n🪙 Joining community chats\n🪙 Following socials\n🪙 Participating in fun quizzes\n\nThe more XP you earn, the higher your chance of winning! 100 winners will share the 2 BILLION $WUD prize pool at the end of the campaign.\n\nMore quests will be added along the way, so be sure to follow our Airlyft page and check daily to stay ahead!",
+    "start_time": "2025-03-02T17:00:00.000Z",
+    "end_time": "2025-04-03T04:00:00.000Z",
+    "url": "https://airlyft.one/gavunwud/into-the-wuds",
+    "twitter_url": "https://x.com/gavunwud",
+    "reward": "2B WUD",
+    "total_winner": "100",
+    "total_supply": null,
+    "tags": [
+      "manual_selection"
+    ],
+    "campaign_url": "https://www.gavunwud.lol/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/wud_4aa551727c.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Gl_DEK_Fi_Xg_AA_gto_c421254d37.jpg",
+    "chains": [
+      "hydradx_main"
+    ],
+    "categories": [
+      {
+        "color": "lime",
+        "name": "Meme",
+        "slug": "meme"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Earn WAVE points and share 40,000 BNC pool prize with Bifrost BNC Explorers Campaign",
+    "status": "live",
+    "ordinal": 47,
+    "description": "Following vBNC’s successful migration from Bifrost-Kusama to Bifrost-Polkadot, we proudly unveil BNC Explorers—the second phase of the Liquid Wave campaign.\n\nThis stage empowers users to mint vBNC, engage with the ecosystem, and prepare for Bifrost Tokenomics 2.0 and step into the new era of Fee Switch.\n\nEarn WAVE points through the following tasks to claim BNC rewards, convertible to bbBNC post-event:\n1. Mint vBNC\n- Earn 5 WAVE per 1 vBNC minted.\n- 10% bonus WAVE for minting during Week 1.\n- Redeeming vBNC during the event deducts corresponding WAVE points.\n\n2. Invite & Earn\n- Inviters receive 10% of their invitees’ minted WAVE points.\n- Example: If Alice invites Bob, and Bob earns 150 WAVE, Alice gains 15 WAVE.\n\n3. Convert Raindrops: Exchange legacy Raindrops points for WAVE at 100:1 during the event.\n\n4. Governance Participation: Voting on designated OpenGov proposals with vBNC unlocks an additional 10% minting bonus.\n\nThe sooner and more WAVE points you earn, the bigger your farmed BNC rewards will be!",
+    "start_time": "2025-02-27T12:00:00.000Z",
+    "end_time": "2025-03-27T12:00:00.000Z",
+    "url": "https://wave.bifrost.io/?inviter=16V5YQ989Ch4fNhvFUaBAd4aXvd2DAkLzRyrNo5g1FGJHZgJ",
+    "twitter_url": "https://x.com/Bifrost",
+    "reward": "40,000 BNC",
+    "total_winner": "N/A",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://bifrost.io/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_7bc34a05fc.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Frame_1171275226_7958bce4aa_c89d078e75.png",
+    "chains": [
+      "bifrost_dot"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      },
+      {
+        "color": "geekblue",
+        "name": "Staking",
+        "slug": "staking"
+      }
+    ]
+  },
+  {
     "id": 87,
     "name": "100M ASTR up for grabs with ACS Campaign",
     "status": "live",
