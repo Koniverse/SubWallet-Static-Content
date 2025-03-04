@@ -3,29 +3,19 @@
     "send_nft___rootstock"
   ],
   "blockedActionsMap": {
-    "transfer.balance": [
-      "transfer.balance___moonbase-NATIVE-DEV"
-    ],
-    "transfer.token": [
-      "transfer.token___optimism-ERC20-WCT-0xeF4461891DfB3AC8572cCf7C794664A8DD927945"
-    ],
-    "transfer.xcm": [
-      "transfer.xcm___mythos-NATIVE-MYTH___hydradx_main",
-      "transfer.xcm___avail_mainnet-NATIVE-AVAIL___ethereum"
-    ],
-    "send_nft": [
-      "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
-    ],
+    "transfer.balance": [],
+    "transfer.token": [],
+    "transfer.xcm": [],
+    "send_nft": [],
     "swap": [
-      "swap___hydradx_main-NATIVE-HDX___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET"
+      "swap___bittensor-NATIVE-TAO___polkadot-NATIVE-DOT___SIMPLE_SWAP",
+      "swap___polkadot-NATIVE-DOT___bittensor-NATIVE-TAO___SIMPLE_SWAP",
     ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
     "staking.bond": [],
     "staking.unbond": [],
-    "staking.claim_reward": [
-      "staking.claim_reward___VARA___nomination_pool___vara_network"
-    ],
+    "staking.claim_reward": [],
     "staking.withdraw": [],
     "staking.compounding": [],
     "staking.cancel_compounding": [],
