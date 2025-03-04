@@ -2,9 +2,5 @@
   "astar": 7,
   "acala": 10,
   "phala": 30,
-  "bifrost_dot": 6,
-  "sepolia_ethereum": 3,
-  "statemint": 1,
-  "statemine": 0,
-  "polkadot": 1
+  "bifrost_dot": 6
 }
