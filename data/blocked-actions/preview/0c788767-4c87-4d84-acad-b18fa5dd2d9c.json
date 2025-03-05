@@ -9,7 +9,13 @@
     "send_nft": [],
     "swap": [
       "swap___bittensor-NATIVE-TAO___polkadot-NATIVE-DOT___SIMPLE_SWAP",
-      "swap___polkadot-NATIVE-DOT___bittensor-NATIVE-TAO___SIMPLE_SWAP"
+      "swap___polkadot-NATIVE-DOT___bittensor-NATIVE-TAO___SIMPLE_SWAP",
+      "swap___ethereum-NATIVE-ETH___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___SIMPLE_SWAP",
+      "swap___ethereum-NATIVE-ETH___ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7___SIMPLE_SWAP",
+      "swap___ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7___ethereum-NATIVE-ETH___SIMPLE_SWAP",
+      "swap___ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___SIMPLE_SWAP",
+      "swap___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___ethereum-NATIVE-ETH___SIMPLE_SWAP",
+      "swap___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7___SIMPLE_SWAP"
     ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
