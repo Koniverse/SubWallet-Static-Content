@@ -1,5 +1,30 @@
 [
   {
+    "id": 90,
+    "name": "Split the pool prize of 300,000 AVAIL with Avail Odyssey Campaign",
+    "status": "live",
+    "ordinal": 45,
+    "description": "Avail Odyssey isn’t just another rewards program—it’s a movement for builders, contributors, and leaders. Earn exclusive perks, real recognition, and VIP access while shaping the future of Avail.\n\nWhat is Avail Odyssey?\nAvail Odyssey is a community-driven initiative where engagement, collaboration, and innovation are rewarded. We’ve allocated 300,000 AVAIL tokens to recognize top contributors who help grow the Avail ecosystem.\n\nBeyond tokens, top participants unlock:\n- Early access to product updates, Alphas, and exclusive perks.\n- Whitelist spots for NFT drops, airdrops, and ecosystem rewards.\n- Merch, badges, and bragging rights to showcase your status.\n- Exclusive invites to Avail team discussions, AMAs, and events.\n- Inner circle access with visibility, networking, and potential moderator roles.\nYour contributions—onboarding, content creation, tech engagement—shape Avail’s future and earn real rewards.\n\nHow to Join Avail Odyssey\nEngage, contribute, and be rewarded for growing the Avail community:\n1. Complete Missions on Zealy – Tackle tasks, support members, and earn rewards.\n2. Join Community Events – Participate in AMAs, game nights, and interactive sessions.\n3. Support & Engage – Welcome newcomers, answer questions, and contribute to discussions.\n\nClimb the Ranks & Unlock Rewards\nYour rank in Avail Odyssey determines your influence, rewards, and recognition:\n- Stardust (Explorer-in-Training) – Your starting point in the Avail universe.\n- Space Wanderer (Trailblazer) – Earn 2,500 XP/quarter to qualify for the monthly AVAIL prize pool and perks.\n- Moonwalker (Elite Contributor) – Reach 5,000 XP/quarter to unlock exclusive benefits and greater influence.\n- Availian (The Chosen Few) – The ultimate status for top contributors, granting direct access to the Avail team, a separate AVAIL prize pool, and high-level opportunities.\nThe higher you climb, the greater the rewards!\n\nClaim Your Share of the AVAIL Prize Pool\nEach month, the top 20 participants and those ranked Space Wanderer and Moonwalker earn a share of the AVAIL prize pool. Availians unlock additional exclusive rewards and team access.\n\nBonus Challenges & Hidden Rewards\nExpect mystery flash challenges—high-stakes, surprise tasks that test your creativity, knowledge, and engagement. Exclusive bonus AVAIL rewards await those who rise to the occasion. Stay active and be ready!\n\nThe journey starts now. Are you ready to make your mark in the Avail ecosystem? 🚀",
+    "start_time": "2025-03-03T13:30:00.000Z",
+    "end_time": "2025-03-31T14:30:00.000Z",
+    "url": "https://zealy.io/cw/availproject/invite/QmtEWn-eUhNRh4SD2tW4e",
+    "twitter_url": "https://x.com/AvailProject",
+    "reward": "300,000 AVAIL",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.availproject.org/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/avail_16bb040742.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Screenshot_35_c8b36861b1.png",
+    "chains": [
+      "avail_mainnet"
+    ],
+    "categories": []
+  },
+  {
     "id": 89,
     "name": "Get a share of 2 BILLION $WUD rewards with WUD Airlyft Campaign - Into the WUD 🪵",
     "status": "live",
