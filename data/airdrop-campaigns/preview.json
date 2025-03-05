@@ -1,5 +1,36 @@
 [
   {
+    "id": 91,
+    "name": "Join Tanssi's Let's Forkin' Dance Season 2 campaign to share the pool of 10M Tanssi tokens",
+    "status": "live",
+    "ordinal": 44,
+    "description": "Tanssi's Flagship Incentivized Testnet Campaign is Back!\n\nSeason 2 takes you on an exciting journey through Tanssiland—a vibrant gamified world. Guided by Forkie and Coco, you’ll tackle challenges across three unique islands, protecting the Beat that powers it all. Compete for a share of the 10,000,000 Tanssi tokens incentive pool, distributed after the mainnet launch.\n\nHere’s how to get started:\n1️⃣ Log in here: https://lfd.tanssi.network \n2️⃣ Start at LFDegen District and let the groove guide you.\n\nTanssiland is calling—and the Tanssi Mini App is your backstage pass.\n✺ Take on creative, interactive quests.\n✺ Climb the leaderboard—every point matters.\n✺ Join Forkie, Coco, and the community to protect The Beat.\n\nThe allocation is divided across the campaign’s key audiences:\n- Tanssians (General Users): 70% of the pool (7M tokens) is set aside for top-performing general users who engage with the campaign and climb the leaderboard.\n- Network Operators: 30% of the pool (3M tokens) will be distributed to high-performing operators based on a detailed technical evaluation of their contributions.\n\nThe Beat is live, the rhythm is strong, and the clock is ticking. 🕰 Don’t get left behind—join Forkie and Coco in Tanssiland today. Let’s. Forkin’. Dance.",
+    "start_time": "2025-01-22T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://lfd.tanssi.network/",
+    "twitter_url": "https://twitter.com/TanssiNetwork",
+    "reward": "10M Tanssi",
+    "total_winner": "5625",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://www.tanssi.network/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/LFD_2_LOGO_FINALE_LFD_LOGO_light_bg_ff9cc1c425.avif",
+    "chains": [
+      "dancebox"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 90,
     "name": "Split the pool prize of 300,000 AVAIL with Avail Odyssey Campaign",
     "status": "live",
