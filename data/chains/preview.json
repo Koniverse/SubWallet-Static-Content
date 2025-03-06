@@ -5282,7 +5282,6 @@
       "Para": "wss://rpc-para.ajuna.network",
       "Ibp": "wss://ajuna.ibp.network",
       "Dotters": "wss://ajuna.dotters.network",
-      "AjunaNetwork": "wss://rpc-para.ajuna.network",
       "IBP1": "wss://ajuna.ibp.network",
       "IBP2": "wss://ajuna.dotters.network"
     },
