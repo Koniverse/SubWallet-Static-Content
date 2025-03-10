@@ -210,15 +210,20 @@
     "url": "https://omni.ls",
     "subtitle": "Omni-chain liquid staking protocol",
     "is_substrate": true,
-    "is_evm": null,
+    "is_evm": true,
     "is_featured": false,
     "ordinal": 80,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/bifrost_omni_liquid_staking_d2327ebe60.png",
     "preview_image": null,
     "chains": [
-      "bifrost",
-      "bifrost_dot"
+      "ethereum",
+      "astar",
+      "astarZkEvm",
+      "manta_network_evm",
+      "soneium",
+      "moonriver",
+      "moonbeam"
     ],
     "categories": [
       "staking"
@@ -288,7 +293,8 @@
     ],
     "categories": [
       "staking",
-      "smart contract"
+      "smart contract",
+      "bridge"
     ]
   },
   {
@@ -350,8 +356,7 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/phala_network_84a301ea7e.png",
     "preview_image": null,
     "chains": [
-      "phala",
-      "khala"
+      "phala"
     ],
     "categories": [
       "staking"
@@ -393,7 +398,8 @@
     ],
     "categories": [
       "defi",
-      "bridge"
+      "bridge",
+      "staking"
     ]
   },
   {
@@ -402,16 +408,22 @@
     "description": "Multi-chain NFT marketplace across Polkadot parachains",
     "url": "https://kodadot.xyz/",
     "subtitle": "KodaDot",
-    "is_substrate": null,
+    "is_substrate": true,
     "is_evm": null,
     "is_featured": null,
     "ordinal": 170,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/kodadot_9069442d5a.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "polkadot",
+      "statemint",
+      "kusama",
+      "statemine"
+    ],
     "categories": [
-      "nft"
+      "nft",
+      "bridge"
     ]
   },
   {
@@ -429,7 +441,10 @@
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/Centrifuge_c1a847d712.png",
     "chains": [
       "ethereum",
-      "centrifuge"
+      "centrifuge",
+      "celo",
+      "base_mainnet",
+      "arbitrum_one"
     ],
     "categories": [
       "rwa"
@@ -450,7 +465,8 @@
     "preview_image": null,
     "chains": [
       "manta_network",
-      "manta_network_evm"
+      "manta_network_evm",
+      "calamari"
     ],
     "categories": [
       "bridge",
@@ -471,7 +487,7 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/bitavatar_a0a2b018f1.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/thumb_bit_avatar_57c39fbf15.jpg",
     "chains": [
-      "bitcountry"
+      "continuum_network"
     ],
     "categories": [
       "socialfi"
@@ -614,7 +630,8 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/avail_159b28d79b.png",
     "preview_image": null,
     "chains": [
-      "avail_mainnet"
+      "avail_mainnet",
+      "availTuringTest"
     ],
     "categories": [
       "staking"
@@ -644,7 +661,7 @@
     "id": 181,
     "title": "Avail Bridge",
     "description": "The Avail team partnered with Succinct Labs to develop a trust-minimized bridge between Avail DA and Ethereum. The Avail bridge currently supports bridging AVAIL tokens between Avail DA and Ethereum.",
-    "url": "https://bridge.avail.so/",
+    "url": "https://bridge.availproject.org/",
     "subtitle": "Bridge AVAIL token between Avail and Ethereum",
     "is_substrate": null,
     "is_evm": null,
@@ -717,7 +734,16 @@
     "preview_image": null,
     "chains": [
       "ethereum",
-      "statemint"
+      "statemint",
+      "polkadot",
+      "bifrost_dot",
+      "mythos",
+      "phala",
+      "moonbeam",
+      "centrifuge",
+      "astar",
+      "acala",
+      "hydradx_main"
     ],
     "categories": [
       "bridge"
@@ -727,7 +753,7 @@
     "id": 83,
     "title": "Grill",
     "description": "Revolutionary Web3 social finance platform built on Subsocial where bloggers and their followers earn together.",
-    "url": "https://bit.ly/grillxsubwallet",
+    "url": "https://grillapp.net/",
     "subtitle": "Monetize Every Like, Comment, Post",
     "is_substrate": null,
     "is_evm": null,
@@ -740,7 +766,9 @@
       "subsocial_x"
     ],
     "categories": [
-      "socialfi"
+      "socialfi",
+      "staking",
+      "governance"
     ]
   },
   {
@@ -779,7 +807,8 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/unique_network_b207ab1ac7.png",
     "preview_image": null,
     "chains": [
-      "unique_network"
+      "unique_network",
+      "quartz"
     ],
     "categories": [
       "nft"
@@ -802,7 +831,8 @@
       "mangatax_para"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "staking"
     ]
   },
   {
@@ -881,7 +911,8 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/creditcoin_448a940bb0.png",
     "preview_image": null,
     "chains": [
-      "creditcoin"
+      "creditcoin_native",
+      "creditcoinTest"
     ],
     "categories": [
       "staking"
@@ -900,7 +931,9 @@
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/nft_io_838ae7c63a.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "enjin_matrixchain"
+    ],
     "categories": [
       "nft"
     ]
@@ -1081,18 +1114,20 @@
     "chains": [
       "base_mainnet",
       "moonbeam",
-      "moonriver"
+      "moonriver",
+      "optimism"
     ],
     "categories": [
       "staking",
-      "defi"
+      "defi",
+      "governance"
     ]
   },
   {
     "id": 136,
     "title": "Polkadex Orderbook",
     "description": "A fully decentralized platform for exchanging tokens in a peer-to-peer trustless environment, while additionally enabling high-liquidity, lightning-fast transaction speed and advanced trading features such as high-frequency trading and trading bots.",
-    "url": "https://orderbook.polkadex.trade",
+    "url": "https://orderbook.polkadex.ee/",
     "subtitle": "Decentralized Exchange Platform",
     "is_substrate": null,
     "is_evm": null,
@@ -1145,7 +1180,8 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/panorama_swap_9722c877f4.png",
     "preview_image": null,
     "chains": [
-      "aleph"
+      "aleph",
+      "shiden"
     ],
     "categories": [
       "defi"
@@ -1168,8 +1204,8 @@
       "integritee"
     ],
     "categories": [
-      "defi",
-      "utilities"
+      "utilities",
+      "staking"
     ]
   },
   {
@@ -1185,7 +1221,10 @@
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/chainviz_9cb286e02f.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
     "categories": [
       "data",
       "tooling"
@@ -1193,7 +1232,7 @@
   },
   {
     "id": 117,
-    "title": "Airlyft",
+    "title": "AirLyft",
     "description": "Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.",
     "url": "https://airlyft.one/",
     "subtitle": "Multichain & Decentralized Quest Platform",
@@ -1275,7 +1314,7 @@
   },
   {
     "id": 89,
-    "title": "Singular 2.0",
+    "title": "Singular",
     "description": "Discover the future of NFTs on Singular - the NFT 2.0 marketplace. Mint, trade, & experience advanced NFTs with unique capabilities.",
     "url": "https://singular.app/",
     "subtitle": "the NFT 2.0 Marketplace - the future of NFTs starts here",
@@ -1287,10 +1326,13 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/singular_e657ed912b.png",
     "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/singular_989e984522.jpg",
     "chains": [
-      "kusama",
-      "statemine",
-      "statemint",
-      "moonbeam"
+      "moonbeam",
+      "base_mainnet",
+      "ethereum",
+      "polygon",
+      "astar",
+      "binance",
+      "bobMainnet"
     ],
     "categories": [
       "nft"
@@ -1310,10 +1352,13 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/common_da3bacbe30.png",
     "preview_image": null,
     "chains": [
-      "aleph"
+      "aleph",
+      "ethereum",
+      "aleph_evm"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "bridge"
     ]
   },
   {
@@ -1355,7 +1400,8 @@
     ],
     "categories": [
       "nft",
-      "utilities"
+      "utilities",
+      "staking"
     ]
   },
   {
@@ -1373,14 +1419,15 @@
     "preview_image": null,
     "chains": [
       "moonbeam",
-      "astarEvm",
       "arbitrum_one",
       "base_mainnet",
       "moonriver",
       "bifrost_dot",
       "bifrost",
       "amplitude",
-      "pendulum"
+      "pendulum",
+      "astar",
+      "scroll"
     ],
     "categories": [
       "defi"
@@ -1424,7 +1471,8 @@
       "moonriver"
     ],
     "categories": [
-      "nft"
+      "nft",
+      "gaming"
     ]
   },
   {
@@ -1465,7 +1513,9 @@
       "polygon",
       "moonbeam",
       "base_mainnet",
-      "astarEvm"
+      "astarZkEvm",
+      "binance",
+      "astar"
     ],
     "categories": [
       "nft"
@@ -1506,7 +1556,9 @@
     "preview_image": null,
     "chains": [
       "binance",
-      "binance_test"
+      "polkadot",
+      "cardano",
+      "ethereum"
     ],
     "categories": [
       "defi",
@@ -1579,10 +1631,19 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/polkaswap_1140fc2be0.png",
     "preview_image": null,
     "chains": [
-      "sora_ksm"
+      "sora_ksm",
+      "sora_substrate",
+      "acala",
+      "astar",
+      "curio",
+      "polkadot",
+      "ethereum",
+      "liberland"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "bridge",
+      "staking"
     ]
   },
   {
@@ -1636,10 +1697,12 @@
     "preview_image": null,
     "chains": [
       "ethereum",
-      "astarEvm"
+      "astar",
+      "cardano"
     ],
     "categories": [
-      "nft"
+      "nft",
+      "gaming"
     ]
   },
   {
@@ -1661,7 +1724,8 @@
       "astar"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "bridge"
     ]
   },
   {
@@ -1678,8 +1742,9 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/arthswap_fb8a7c7543.png",
     "preview_image": null,
     "chains": [
-      "astarEvm",
-      "shibuyaEvm"
+      "shibuyaEvm",
+      "astar",
+      "astarZkEvm"
     ],
     "categories": [
       "defi"
@@ -1702,7 +1767,8 @@
       "moonbeam"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "bridge"
     ]
   },
   {
@@ -1711,7 +1777,7 @@
     "description": "Polkawatch is an analytic tool designed to measure effective decentralization of Polkadot’s Validation process.",
     "url": "https://polkawatch.app/",
     "subtitle": "Decentralization analytics for Polkadot",
-    "is_substrate": null,
+    "is_substrate": true,
     "is_evm": null,
     "is_featured": null,
     "ordinal": 640,
@@ -1720,8 +1786,7 @@
     "preview_image": null,
     "chains": [
       "polkadot",
-      "kusama",
-      "statemine"
+      "kusama"
     ],
     "categories": [
       "data"
@@ -1732,7 +1797,7 @@
     "title": "TAIGA",
     "description": "Taiga is a synthetic asset protocol designed to unify different formats of staking and crowdloan derivatives into a highly efficient standard.",
     "url": "https://app.taigaprotocol.io/assets",
-    "subtitle": "Asset protocol on Karura",
+    "subtitle": "Asset protocol on Polkadot & Kusama",
     "is_substrate": null,
     "is_evm": null,
     "is_featured": null,
@@ -1741,10 +1806,15 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/taiga_c899f8fc63.png",
     "preview_image": null,
     "chains": [
-      "karura"
+      "polkadot",
+      "kusama",
+      "acala",
+      "moonbeam"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "staking",
+      "bridge"
     ]
   },
   {
@@ -1762,7 +1832,8 @@
     "preview_image": null,
     "chains": [
       "moonbeam",
-      "moonriver"
+      "moonriver",
+      "astar"
     ],
     "categories": [
       "defi"
@@ -1772,10 +1843,10 @@
     "id": 141,
     "title": "MantaDEX",
     "description": "Step into the world of seamless digital asset exchange with \nMantaDEX - the cutting-edge decentralized exchange operating on the innovative Manta Network blockchain. ",
-    "url": "https://bit.ly/mantadex",
+    "url": "https://mantadex.com/",
     "subtitle": "Decentralized Exchange for Manta zk Ecosystem",
-    "is_substrate": null,
-    "is_evm": null,
+    "is_substrate": true,
+    "is_evm": true,
     "is_featured": false,
     "ordinal": 670,
     "desktop_mode": null,
@@ -1832,7 +1903,7 @@
     "description": "dotreasury.com aim to introduce remarks from councilors and communities to improve current kusama treasury with a retrospect mechanism.",
     "url": "https://www.dotreasury.com/",
     "subtitle": "doTreasury | Empower treasury with credit building",
-    "is_substrate": null,
+    "is_substrate": true,
     "is_evm": null,
     "is_featured": false,
     "ordinal": 700,
@@ -1841,7 +1912,8 @@
     "preview_image": null,
     "chains": [
       "polkadot",
-      "kusama"
+      "kusama",
+      "centrifuge"
     ],
     "categories": [
       "governance",
@@ -1863,14 +1935,14 @@
     "preview_image": null,
     "chains": [
       "binance",
-      "ethereum",
       "arbitrum_one",
       "polygon",
-      "astarEvm",
-      "shidenEvm",
-      "fantom",
       "optimism",
-      "moonbeam"
+      "moonbeam",
+      "avalanche_c",
+      "ethereum",
+      "polygonZkEvm",
+      "astar"
     ],
     "categories": [
       "nft"
@@ -1889,7 +1961,14 @@
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/emotes_2501d01fc2.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "ethereum",
+      "base_mainnet",
+      "polygon",
+      "moonbeam",
+      "astar",
+      "sepolia_ethereum"
+    ],
     "categories": [
       "nft"
     ]
@@ -1910,7 +1989,8 @@
     "chains": [
       "polkadot",
       "kusama",
-      "rococo"
+      "paseoTest",
+      "westend"
     ],
     "categories": [
       "tooling"
@@ -1956,7 +2036,8 @@
     ],
     "categories": [
       "community",
-      "utilities"
+      "utilities",
+      "gaming"
     ]
   },
   {
@@ -1976,7 +2057,8 @@
       "dancebox"
     ],
     "categories": [
-      "tooling"
+      "tooling",
+      "staking"
     ]
   },
   {
@@ -1994,7 +2076,21 @@
     "preview_image": null,
     "chains": [
       "karura",
-      "karura_evm"
+      "karura_evm",
+      "altair",
+      "basilisk",
+      "statemint",
+      "bifrost",
+      "calamari",
+      "crabParachain",
+      "ethereum",
+      "integritee",
+      "kintsugi",
+      "moonriver",
+      "quartz",
+      "shadow",
+      "shiden",
+      "phala"
     ],
     "categories": [
       "staking",
@@ -2047,27 +2143,30 @@
   },
   {
     "id": 33,
-    "title": "Litmus App",
-    "description": "Litmus is a companion canary network to Litentry and connects to the Kusama ecosystem as parachain. Litmus is expected to be fast-paced and integrated with cutting-edge technology, molding itself into a perfect field to experiment with new ideas and products before they finally land on Litentry parachain.",
-    "url": "https://apps.litentry.com/",
-    "subtitle": "The platform for Litmus Network",
+    "title": "Heima Dashboard",
+    "description": "Heima Network is a cutting-edge Layer 1 blockchain designed to enable seamless multi-chain and cross-chain interoperability. Evolved from the Litentry Network, Heima integrates all the advanced components of its predecessor, including:\n- Identity Management Module: A robust framework for managing decentralized identities.\n= Security and Privacy Module: Powered by Trusted Execution Environments (TEE) to safeguard sensitive data and transactions.",
+    "url": "https://apps.heima.network/",
+    "subtitle": "The platform for Heima Network",
     "is_substrate": null,
     "is_evm": null,
     "is_featured": null,
     "ordinal": 800,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/litmus_2e86f51933.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/heima_9721f3204f.png",
     "preview_image": null,
     "chains": [
-      "litmus"
+      "ethereum",
+      "binance"
     ],
     "categories": [
-      "utilities"
+      "bridge",
+      "staking",
+      "defi"
     ]
   },
   {
     "id": 6,
-    "title": "Basilisk Snek Swap",
+    "title": "Basilisk UI",
     "description": "Snek Swap is an AMM built for the Kusama ecosystem which enables users to trade tokens in a decentralized and permissionless manner. With Snake Swap, users can trade tokens or become a liquidity provider and earn rewards from the generated trading fees.",
     "url": "https://app.basilisk.cloud/#/trade",
     "subtitle": "AMM for the Kusama ecosystem",
@@ -2079,7 +2178,12 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/basilisk_5c8a4b00d8.png",
     "preview_image": null,
     "chains": [
-      "basilisk"
+      "basilisk",
+      "kusama",
+      "statemint",
+      "integritee",
+      "karura",
+      "robonomics"
     ],
     "categories": [
       "defi"
@@ -2123,9 +2227,12 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/avault_2a1efa87b6.png",
     "preview_image": null,
     "chains": [
-      "astarEvm"
+      "astar",
+      "shiden"
     ],
-    "categories": []
+    "categories": [
+      "defi"
+    ]
   },
   {
     "id": 156,
@@ -2142,10 +2249,9 @@
     "preview_image": null,
     "chains": [
       "statemint",
-      "statemine",
-      "rococo_assethub",
       "paseoTest",
-      "westend"
+      "westend",
+      "polkadot"
     ],
     "categories": [
       "utilities"
@@ -2352,7 +2458,9 @@
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/Dotordinals_017d877f44.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "polkadot"
+    ],
     "categories": [
       "nft",
       "utilities"
@@ -2496,7 +2604,8 @@
       "aleph"
     ],
     "categories": [
-      "nft"
+      "nft",
+      "staking"
     ]
   },
   {
@@ -2517,7 +2626,8 @@
       "ethereum",
       "polygon",
       "base_mainnet",
-      "binance"
+      "binance",
+      "vara_network"
     ],
     "categories": [
       "nft"
@@ -2530,17 +2640,27 @@
     "url": "https://app.1inch.io/",
     "subtitle": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
     "is_substrate": null,
-    "is_evm": null,
+    "is_evm": true,
     "is_featured": null,
     "ordinal": 1030,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/1inch_689ac3fdae.png",
     "preview_image": null,
     "chains": [
-      "ethereum"
+      "ethereum",
+      "optimism",
+      "arbitrum_one",
+      "base_mainnet",
+      "lineaZkEvm",
+      "binance",
+      "polygon",
+      "avalanche_c",
+      "gnosis"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "governance",
+      "staking"
     ]
   },
   {
@@ -2557,15 +2677,22 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/portalbridge_c36a3d4540.png",
     "preview_image": null,
     "chains": [
-      "acala_evm",
       "base_mainnet",
       "binance",
       "ethereum",
       "fantom",
-      "karura",
       "moonbeam",
       "optimism",
-      "polygon"
+      "polygon",
+      "arbitrum_one",
+      "unichain",
+      "avalanche_c",
+      "celo",
+      "scroll",
+      "mantle",
+      "berachain_testnet",
+      "world_chain",
+      "xlayer"
     ],
     "categories": [
       "bridge"
@@ -2585,10 +2712,23 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/aave_28364b7b66.png",
     "preview_image": null,
     "chains": [
-      "ethereum"
+      "ethereum",
+      "sonic",
+      "arbitrum_one",
+      "base_mainnet",
+      "avalanche_c",
+      "optimism",
+      "polygon",
+      "gnosis",
+      "binance",
+      "zksync_era",
+      "scroll",
+      "lineaZkEvm"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "staking",
+      "governance"
     ]
   },
   {
@@ -2610,7 +2750,14 @@
       "optimism",
       "polygon",
       "base_mainnet",
-      "binance"
+      "binance",
+      "unichain",
+      "blast_mainnet",
+      "avalanche_c",
+      "celo",
+      "world_chain",
+      "zksync_era",
+      "monad_testnet"
     ],
     "categories": [
       "defi"
@@ -2623,13 +2770,15 @@
     "url": "https://chainlist.org/",
     "subtitle": "RPCs list for EVM networks",
     "is_substrate": null,
-    "is_evm": null,
+    "is_evm": true,
     "is_featured": null,
     "ordinal": 1070,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/chainlist_org_1d6bae934a.png",
     "preview_image": null,
-    "chains": [],
+    "chains": [
+      "ethereum"
+    ],
     "categories": [
       "data"
     ]
@@ -2675,15 +2824,24 @@
       "fantom",
       "moonbeam",
       "optimism",
-      "polygon"
+      "polygon",
+      "sonic",
+      "xlayer",
+      "binance",
+      "celo",
+      "fraxtal",
+      "gnosis",
+      "ink",
+      "mantle"
     ],
     "categories": [
-      "defi"
+      "defi",
+      "governance"
     ]
   },
   {
     "id": 116,
-    "title": "Openseas",
+    "title": "OpenSea",
     "description": "The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.",
     "url": "https://opensea.io/",
     "subtitle": "Marketplace for crypto collectibles and NFTs",
@@ -2721,7 +2879,7 @@
     "id": 50,
     "title": "Robonomics",
     "description": "Robonomics platform provides tools for working with the robot economy network. Robonomics allow designers of smart cities and industry 4.0 zones to build trust among the autonomous robots services, provide direct user access via dapp for ordering products from autonomous factories and services of urban sensor networks. This in turn will allow us to put in place a decentralized system that globally monitors the activities of cyber physical systems.",
-    "url": "https://dapp.robonomics.network/#/staking/",
+    "url": "https://v0.dapp.robonomics.network/#/staking/",
     "subtitle": "Robonomics",
     "is_substrate": null,
     "is_evm": null,
@@ -2731,7 +2889,9 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/robonomics_efe081dce3.png",
     "preview_image": null,
     "chains": [
-      "robonomics"
+      "robonomics",
+      "kusama",
+      "polkadot"
     ],
     "categories": [
       "utilities"
@@ -2790,6 +2950,34 @@
     ]
   },
   {
+    "id": 191,
+    "title": "Hyperbridge",
+    "description": "Hyperbridge is a fully chain-agnostic interoperability protocol that enables developers to build applications that can securely interoperate with any blockchain. The Hyperbridge protocol presents developers with a unified interface for the multi-chain that allows for the secure and trust-free transfer of assets and data between different blockchains.",
+    "url": "https://app.hyperbridge.network/",
+    "subtitle": "A fully chain-agnostic interoperability protocol",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 3456,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/hyperbridge_dcdd354226.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "bifrost_dot",
+      "binance",
+      "base_mainnet",
+      "optimism",
+      "arbitrum_one",
+      "polkadot",
+      "gnosis",
+      "cere"
+    ],
+    "categories": [
+      "bridge"
+    ]
+  },
+  {
     "id": 138,
     "title": "Cypress AMM",
     "description": "Cypress AMM is a decentralized exchange that leverages the code optimization capabilities of the DOT system. The uniqueness of the DOT system lies in providing development projects with SDKs, which are like Lego pieces that can be reused by other projects. In this case, Zenlink's SDK was utilized. It has undergone thorough testing by Slowmist and Peckshield, ensuring exceptional safety.\n\nCypress focuses on optimizing user experience, and the coins on the exchange are carefully selected by a team of researchers and are all in Cypress Capital's investment portfolio.",
@@ -2841,11 +3029,37 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/chessonchain_a6efe75999.png",
     "preview_image": null,
     "chains": [
-      "uniqueNft",
-      "ton_testnet"
+      "ton_testnet",
+      "polkadot",
+      "avalanche_c"
     ],
     "categories": [
       "gaming"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Snowbridge",
+    "description": "Snowbridge is a general-purpose, trustless, and decentralized bridge between Polkadot and Ethereum. It is part of the Polkadot SDK and exists as a common-good bridge on BridgeHub. ",
+    "url": "https://app.snowbridge.network/",
+    "subtitle": "General-purpose, trustless, and decentralized bridge between Polkadot and Ethereum",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/snowfork_769edfeb67.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "statemint",
+      "moonbeam",
+      "bifrost_dot",
+      "mythos",
+      "hydradx_main"
+    ],
+    "categories": [
+      "bridge"
     ]
   }
 ]
