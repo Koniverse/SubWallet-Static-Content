@@ -4,5 +4,11 @@
       "environment": "mobile",
       "version": "1.3.17-0"
     }
+  },
+  "12fc0579-8482-4a04-87f3-c09087ebc6ed": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.15-0"
+    }
   }
 }
