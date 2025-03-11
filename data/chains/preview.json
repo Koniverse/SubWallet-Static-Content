@@ -17,7 +17,6 @@
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
       "RockX": "wss://rockx-dot.w3node.com/polka-public-dot/ws",
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
-      "SubQuery": "wss://polkadot.rpc.subquery.network/public/ws",
       "Onfinality": "wss://polkadot.api.onfinality.io/public-ws",
       "Helixstreet": "wss://rpc-polkadot.helixstreet.io",
       "IBP2": "wss://polkadot.dotters.network",
@@ -57,7 +56,6 @@
     "ordinal": 2,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_3a65d79366.png",
     "providers": {
-      "Dwellir": "wss://kusama-rpc.dwellir.com",
       "RadiumBlock": "wss://kusama.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://kusama-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
@@ -332,7 +330,6 @@
       "OnFinality": "wss://astar.api.onfinality.io/public-ws",
       "Dwellir": "wss://astar-rpc.dwellir.com",
       "Blast": "wss://astar.public.blastapi.io",
-      "1RPC": "wss://1rpc.io/astr",
       "Light Client": "light://substrate-connect/polkadot/astar",
       "RadiumBlock": "wss://astar.public.curie.radiumblock.co/ws"
     },
@@ -416,7 +413,6 @@
     "ordinal": 10,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
-      "RadiumBlock": "wss://statemint.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://sys.ibp.network/statemint",
       "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
@@ -467,7 +463,6 @@
       "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
       "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
-      "Dwellir": "wss://acala-rpc.dwellir.com",
       "IBP1": "wss://acala.ibp.network",
       "IBP2": "wss://acala.dotters.network"
     },
@@ -684,8 +679,7 @@
       "OnFinality": "wss://shiden.api.onfinality.io/public-ws",
       "Dwellir": "wss://shiden-rpc.dwellir.com",
       "Blast": "wss://shiden.public.blastapi.io",
-      "RadiumBlock": "wss://shiden.public.curie.radiumblock.co/ws",
-      "light client": "light://substrate-connect/kusama/shiden"
+      "RadiumBlock": "wss://shiden.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -907,11 +901,9 @@
       "Parity": "wss://westend-rpc.polkadot.io",
       "Dwellir": "wss://westend-rpc.dwellir.com",
       "Light Client": "light://substrate-connect/westend",
-      "DottersNet": "wss://rpc.dotters.network/westend",
       "Dwellir Tunisia": "wss://westend-rpc-tn.dwellir.com",
       "IBP1": "wss://rpc.ibp.network/westend",
       "IBP2": "wss://westend.dotters.network",
-      "OnFinality": "wss://westend.api.onfinality.io/public-ws",
       "RadiumBlock": "wss://westend.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
@@ -1120,11 +1112,7 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
-      "Dwellir": "wss://moonriver-rpc.dwellir.com",
-      "Allnodes": "wss://moonriver-rpc.publicnode.com",
-      "Dwellir 2": "wss://moonriver-rpc.n.dwellir.com",
       "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
-      "RadiumBlock": "wss://moonriver.public.curie.radiumblock.co/ws",
       "UnitedBloc": "wss://moonriver.unitedbloc.com"
     },
     "evmInfo": {
@@ -1228,7 +1216,6 @@
     "ordinal": 29,
     "icon": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
     "providers": {
-      "Turing": "wss://rpc.turing.oak.tech",
       "Dwellir": "wss://turing-rpc.dwellir.com"
     },
     "evmInfo": null,
@@ -1279,7 +1266,6 @@
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
       "Dwellir": "wss://bifrost-rpc.dwellir.com",
-      "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws",
       "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
       "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
     },
@@ -1343,7 +1329,6 @@
       "Dwellir": "wss://bifrost-polkadot-rpc.dwellir.com",
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
       "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
-      "OnFinality": "wss://bifrost-polkadot.api.onfinality.io/public-ws",
       "IBP1": "wss://bifrost-polkadot.ibp.network",
       "IBP2": "wss://bifrost-polkadot.dotters.network"
     },
@@ -1393,7 +1378,6 @@
     "ordinal": 32,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
     "providers": {
-      "Liebi": "wss://bifrost-rpc.rococo.liebi.com/ws",
       "Pilab #1": "wss://public-01.testnet.bifrostnetwork.com/wss",
       "Pilab #2": "wss://public-02.testnet.bifrostnetwork.com/wss"
     },
@@ -1641,7 +1625,6 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
-      "Dwellir": "wss://parallel-rpc.dwellir.com",
       "Gatotech": "wss://parallel.gatotech.network"
     },
     "evmInfo": null,
@@ -1799,7 +1782,6 @@
       "Galactic Council": "wss://rpc.hydradx.cloud",
       "Dwellir": "wss://hydradx-rpc.dwellir.com",
       "Helikon": "wss://rpc.helikon.io/hydradx",
-      "Dwellir 2": "wss://hydration-rpc.n.dwellir.com",
       "IBP1": "wss://hydration.ibp.network",
       "IBP2": "wss://hydration.dotters.network"
     },
@@ -1849,7 +1831,6 @@
     "ordinal": 43,
     "icon": "https://static-data.subwallet.app/chains/images/icon/edgeware_6a0057274c.png",
     "providers": {
-      "JelliedOwl": "wss://edgeware.jelliedowl.net",
       "JelliedOwl Bangalore": "wss://edgeware-rpc3.jelliedowl.net",
       "JelliedOwl London": "wss://edgeware-rpc1.jelliedowl.net",
       "JelliedOwl New York": "wss://edgeware-rpc0.jelliedowl.net",
@@ -1891,7 +1872,6 @@
     "providers": {
       "Centrifuge": "wss://fullnode.parachain.centrifuge.io",
       "OnFinality": "wss://centrifuge-parachain.api.onfinality.io/public-ws",
-      "Fullnode": "wss://fullnode.centrifuge.io",
       "Dwellir": "wss://centrifuge-rpc.dwellir.com",
       "LuckyFriday": "wss://rpc-centrifuge.luckyfriday.io"
     },
@@ -2450,7 +2430,6 @@
     "ordinal": 57,
     "icon": "https://static-data.subwallet.app/chains/images/icon/phala_network_47928dadfd.png",
     "providers": {
-      "Phala": "wss://api.phala.network/ws",
       "OnFinality": "wss://phala.api.onfinality.io/public-ws",
       "Dwellir": "wss://phala-rpc.dwellir.com",
       "Helikon": "wss://rpc.helikon.io/phala",
@@ -2556,11 +2535,9 @@
       "Dwellir": "wss://statemine-rpc.dwellir.com",
       "RadiumBlock": "wss://statemine.public.curie.radiumblock.co/ws",
       "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com",
-      "IBP-GeoDNS1": "wss://sys.ibp.network/statemine",
       "Lucky Friday": "wss://rpc-asset-hub-kusama.luckyfriday.io",
       "Stake World": "wss://ksm-rpc.stakeworld.io/assethub",
       "Parity": "wss://kusama-asset-hub-rpc.polkadot.io",
-      "Dwellir 2": "wss://asset-hub-kusama-rpc.dwellir.com",
       "IBP1": "wss://sys.ibp.network/asset-hub-kusama",
       "IBP2": "wss://asset-hub-kusama.dotters.network"
     },
@@ -2690,7 +2667,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kilt_35ce98e3b5.png",
     "providers": {
       "KILT Protocol": "wss://spiritnet.kilt.io/",
-      "OnFinality": "wss://spiritnet.api.onfinality.io/public-ws",
       "Dwellir": "wss://kilt-rpc.dwellir.com",
       "IBP1": "wss://kilt.ibp.network",
       "IBP2": "wss://kilt.dotters.network"
@@ -2730,8 +2706,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/basilisk_bebf244e67.png",
     "providers": {
       "Basilisk ": "wss://rpc.basilisk.cloud",
-      "Dwellir": "wss://basilisk-rpc.dwellir.com",
-      "Dwellir 2": "wss://basilisk-rpc.n.dwellir.com"
+      "Dwellir": "wss://basilisk-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3091,16 +3066,11 @@
     "ordinal": 70,
     "icon": "https://static-data.subwallet.app/chains/images/icon/unique_network_2e3617d2d1.png",
     "providers": {
-      "unique": "wss://us-ws.unique.network/",
       "UniqueEu": "wss://eu-ws.unique.network/",
-      "UniqueAsia": "wss://asia-ws.unique.network/",
       "Dwellir": "wss://unique-rpc.dwellir.com",
       "Geo Load Balancer": "wss://ws.unique.network",
       "IBP1": "wss://unique.ibp.network",
-      "IBP2": "wss://unique.dotters.network",
-      "Unique America": "wss://us-ws.unique.network",
-      "Unique Asia": "wss://asia-ws.unique.network",
-      "Unique Europe": "wss://eu-ws.unique.network"
+      "IBP2": "wss://unique.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3238,7 +3208,6 @@
     "ordinal": 73,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subsocial_3e001a3b15.png",
     "providers": {
-      "subsocialx": "wss://para.f3joule.space",
       "Dappforce": "wss://para.subsocial.network",
       "Dwellir": "wss://subsocial-rpc.dwellir.com"
     },
@@ -3273,8 +3242,7 @@
     "ordinal": 74,
     "icon": "https://static-data.subwallet.app/chains/images/icon/zeitgeist_c8bd3e2ac5.png",
     "providers": {
-      "OnFinality": "wss://zeitgeist.api.onfinality.io/public-ws",
-      "Dwellir": "wss://zeitgeist-rpc.dwellir.com"
+      "OnFinality": "wss://zeitgeist.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3322,8 +3290,7 @@
     "ordinal": 75,
     "icon": "https://static-data.subwallet.app/chains/images/icon/sakura_81c2a3fc75.png",
     "providers": {
-      "Clover": "wss://rpc.sakura.clover.finance",
-      "Finance": "wss://api-sakura.clover.finance"
+      "Clover": "wss://rpc.sakura.clover.finance"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4536,8 +4503,7 @@
     "ordinal": 102,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kabocha_94a09c6441.png",
     "providers": {
-      "JelliedOwl": "wss://kabocha.jelliedowl.com",
-      "Kabocha": "wss://kabocha.jelliedowl.net"
+      "JelliedOwl": "wss://kabocha.jelliedowl.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5278,11 +5244,7 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "OnFinality": "wss://ajuna.api.onfinality.io/public-ws",
-      "Para": "wss://rpc-para.ajuna.network",
-      "Ibp": "wss://ajuna.ibp.network",
       "Dotters": "wss://ajuna.dotters.network",
-      "IBP1": "wss://ajuna.ibp.network",
       "IBP2": "wss://ajuna.dotters.network"
     },
     "evmInfo": null,
@@ -5400,7 +5362,6 @@
     "ordinal": 128,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hashed_78ed238d01.png",
     "providers": {
-      "Hashed Systems 2": "wss://c2.hashed.network",
       "Hashed Systems 1": "wss://c1.hashed.network"
     },
     "evmInfo": null,
@@ -5547,7 +5508,6 @@
     "ordinal": 131,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dao_ipci_93612c0315.png",
     "providers": {
-      "viaAiralab": "wss://kusama.rpc.ipci.io",
       "Airalab": "wss://ipci.rpc.robonomics.network"
     },
     "evmInfo": null,
@@ -6213,7 +6173,6 @@
     "ordinal": 149,
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
-      "3dpass": "wss://rpc.3dpass.org",
       "3dpscan": "wss://rpc.3dpscan.io"
     },
     "evmInfo": null,
@@ -6317,8 +6276,7 @@
     "ordinal": 153,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.testnet.aventus.network",
-      "AventusTest": "wss://public-rpc.testnet.aventus.io"
+      "Aventus": "wss://public-rpc.testnet.aventus.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6352,8 +6310,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
       "Vara Network": "wss://rpc.vara.network",
-      "BlastApi": "wss://vara-mainnet.public.blastapi.io",
-      "P2P.org": "wss://vara.substrate-rpc.p2p.org/"
+      "BlastApi": "wss://vara-mainnet.public.blastapi.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6475,7 +6432,6 @@
       "IBP-GeoDNS2": "wss://sys.dotters.network/bridgehub-kusama",
       "Dwellir": "wss://bridge-hub-kusama-rpc.dwellir.com",
       "Dwellir Tunisia": "wss://kusama-bridge-hub-rpc-tn.dwellir.com",
-      "IBP2": "wss://bridge-hub-kusama.dotters.network",
       "LuckyFriday": "wss://rpc-bridge-hub-kusama.luckyfriday.io",
       "RadiumBlock": "wss://bridgehub-kusama.public.curie.radiumblock.co/ws"
     },
@@ -7223,7 +7179,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
     "providers": {
-      "EWX": "wss://public-rpc.mainnet.energywebx.com/ws",
       "Energy Web": "wss://public-rpc.mainnet.energywebx.com/"
     },
     "evmInfo": null,
@@ -8783,8 +8738,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_ea6dbcc424.png",
     "providers": {
-      "Acurast": "wss://acurast-canarynet-ws.prod.gke.papers.tech",
-      "Subwallet": "wss://subwallet-rpc.canary.acurast.com",
       "Canary": "wss://public-rpc.canary.acurast.com"
     },
     "evmInfo": null,
