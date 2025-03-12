@@ -80,6 +80,20 @@
   {
     "serviceInfo": {
       "transak": {
+        "network": "ethereum",
+        "symbol": "ETH",
+        "isSuspended": false,
+        "supportSell": true
+      }
+    },
+    "network": "sepolia_ethereum",
+    "slug": "sepolia_ethereum-NATIVE-ETH",
+    "symbol": "ETH",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
         "network": "astar",
         "symbol": "ASTR",
         "isSuspended": false,
