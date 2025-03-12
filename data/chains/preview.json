@@ -460,9 +460,9 @@
     "providers": {
       "Acala Foundation 0": "wss://acala-rpc-0.aca-api.network",
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
-      "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
       "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
+      "Dwellir": "wss://acala-rpc.dwellir.com",
       "IBP1": "wss://acala.ibp.network",
       "IBP2": "wss://acala.dotters.network"
     },
@@ -1112,6 +1112,7 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
+      "Dwellir": "wss://moonriver-rpc.dwellir.com",
       "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
       "UnitedBloc": "wss://moonriver.unitedbloc.com"
     },
@@ -3066,7 +3067,9 @@
     "ordinal": 70,
     "icon": "https://static-data.subwallet.app/chains/images/icon/unique_network_2e3617d2d1.png",
     "providers": {
+      "unique": "wss://us-ws.unique.network/",
       "UniqueEu": "wss://eu-ws.unique.network/",
+      "UniqueAsia": "wss://asia-ws.unique.network/",
       "Dwellir": "wss://unique-rpc.dwellir.com",
       "Geo Load Balancer": "wss://ws.unique.network",
       "IBP1": "wss://unique.ibp.network",
@@ -5244,7 +5247,8 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "Dotters": "wss://ajuna.dotters.network",
+      "Para": "wss://rpc-para.ajuna.network",
+      "Ibp": "wss://ajuna.ibp.network",
       "IBP2": "wss://ajuna.dotters.network"
     },
     "evmInfo": null,
@@ -11435,7 +11439,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {
-      "LaosFoundation": "wss://rpc.laos.laosfoundation.io"
+      "LaosFoundation": "wss://rpc.laos.laosfoundation.io",
+      "Dwellir": "wss://laos-rpc.dwellir.com"
     },
     "evmInfo": {
       "evmChainId": 6283,
