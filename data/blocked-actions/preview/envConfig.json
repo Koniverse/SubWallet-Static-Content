@@ -15,5 +15,11 @@
     "appConfig": {
       "environment": "webapp"
     }
+  },
+  "2665d4e3-ca43-4277-8919-e38467b531f1": {
+    "appConfig": {
+      "environment": "extension",
+      "version": ">=1.2.29-0"
+    }
   }
 }
