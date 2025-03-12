@@ -43,5 +43,14 @@
     "termUrl": " ",
     "policyUrl": " ",
     "url": " "
+  },
+  {
+    "id": 6,
+    "slug": "meld",
+    "name": "Meld",
+    "contactUrl": "https://www.meld.io/contact",
+    "termUrl": "https://www.meld.io/terms-of-use",
+    "policyUrl": "https://www.meld.io/privacy-policy",
+    "url": "https://www.meld.io"
   }
 ]
