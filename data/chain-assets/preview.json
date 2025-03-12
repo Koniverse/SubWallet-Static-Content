@@ -20081,7 +20081,7 @@
     "name": "Aave Ethereum WETH",
     "symbol": "aEthWETH",
     "decimals": 18,
-    "priceId": "aave-v3-weth",
+    "priceId": "weth",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -20099,7 +20099,7 @@
     "name": "Aave Ethereum USDT",
     "symbol": "aEthUSDT",
     "decimals": 6,
-    "priceId": "aave-v3-usdt",
+    "priceId": "tether",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -20117,7 +20117,7 @@
     "name": "Aave Ethereum WBTC",
     "symbol": "aEthWBTC",
     "decimals": 8,
-    "priceId": "aave-v3-wbtc",
+    "priceId": "wrapped-bitcoin",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -20135,7 +20135,7 @@
     "name": "Aave Ethereum USDC",
     "symbol": "aEthUSDC",
     "decimals": 6,
-    "priceId": "aave-v3-usdc",
+    "priceId": "usd-coin",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
