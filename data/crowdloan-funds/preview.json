@@ -978,10 +978,10 @@
       "start_block_at": 1666370940,
       "end_lease_block": 23051200,
       "extrinsic_index": "12579521-2",
-      "last_change_block": 24540664,
+      "last_change_block": 25079308,
       "fund_auction_status": 2,
-      "last_change_event_idx": 45,
-      "last_change_timestamp": 1738404630
+      "last_change_event_idx": 59,
+      "last_change_timestamp": 1741647216
     },
     "relayChain": "polkadot",
     "auctionIndex": 31,
