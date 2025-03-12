@@ -28,6 +28,15 @@
   },
   {
     "id": 4,
+    "slug": "meld",
+    "name": "Meld",
+    "contactUrl": "https://www.meld.io/contact",
+    "termUrl": "https://www.meld.io/terms-of-use",
+    "policyUrl": "https://www.meld.io/privacy-policy",
+    "url": "https://www.meld.io"
+  },
+  {
+    "id": 5,
     "slug": "moonpay",
     "name": "Moonpay",
     "contactUrl": " ",
@@ -36,7 +45,7 @@
     "url": " "
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "onramper",
     "name": "OnRamper",
     "contactUrl": " ",
