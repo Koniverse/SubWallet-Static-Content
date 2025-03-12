@@ -22,5 +22,16 @@
       "environment": "extension",
       "version": ">=1.2.29-0"
     }
+  },
+  "46f06e1f-e1f9-4a1e-b77b-05aa5e62b305": {
+    "appConfig": {
+      "environment": "webapp"
+    }
+  },
+  "26226aec-00a3-4388-a2ad-aadd5b75f249": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": ">=1.2.3-454"
+    }
   }
 }
