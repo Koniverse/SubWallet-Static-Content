@@ -1412,7 +1412,7 @@
     "slug": "calamari",
     "name": "Calamari",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 33,
     "icon": "https://static-data.subwallet.app/chains/images/icon/calamarinetwork_ad869dd66b.png",
     "providers": {
@@ -3935,11 +3935,11 @@
   },
   {
     "slug": "litentry",
-    "name": "Litentry",
+    "name": "Heima",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 89,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/litentry_66fd883eb2.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/heima_8db29ca204.png",
     "providers": {
       "Litentry": "wss://rpc.litentry-parachain.litentry.io",
       "Dwellir": "wss://litentry-rpc.dwellir.com"
@@ -3952,9 +3952,9 @@
       "addressPrefix": 31,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crowdloan.litentry.com/",
-      "blockExplorer": null,
+      "blockExplorer": "https://heima.statescan.io/",
       "existentialDeposit": "100000000000000000",
-      "symbol": "LIT",
+      "symbol": "HEI",
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
@@ -4783,7 +4783,7 @@
     "slug": "calamari_test",
     "name": "Calamari Staging",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 109,
     "icon": "https://static-data.subwallet.app/chains/images/icon/calamarinetwork_ad869dd66b.png",
     "providers": {
@@ -11303,7 +11303,7 @@
     "slug": "g6_testnet",
     "name": "G6 Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
     "providers": {
