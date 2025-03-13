@@ -10,11 +10,17 @@
       "Dwellir": "wss://polkadot-rpc.dwellir.com",
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
+      "LuckyFriday": "wss://rpc-polkadot.luckyfriday.io",
+      "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
+      "RockX": "wss://rockx-dot.w3node.com/polka-public-dot/ws",
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
-      "Onfinality": "wss://polkadot.api.onfinality.io/public-ws"
+      "Onfinality": "wss://polkadot.api.onfinality.io/public-ws",
+      "Helixstreet": "wss://rpc-polkadot.helixstreet.io",
+      "IBP2": "wss://polkadot.dotters.network",
+      "Permanence DAO EU": "wss://polkadot.rpc.permanence.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -39,7 +45,8 @@
       "chainBalanceSlug": "polkadot"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kusama",
@@ -50,10 +57,16 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_3a65d79366.png",
     "providers": {
       "RadiumBlock": "wss://kusama.public.curie.radiumblock.co/ws",
+      "Dwellir Tunisia": "wss://kusama-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
-      "Light Client": "light://substrate-connect/kusama"
+      "Light Client": "light://substrate-connect/kusama",
+      "Allnodes": "wss://kusama-rpc.publicnode.com",
+      "RockX": "wss://rockx-ksm.w3node.com/polka-public-ksm/ws",
+      "Helixstreet": "wss://rpc-kusama.helixstreet.io",
+      "IBP2": "wss://kusama.dotters.network",
+      "OnFinality": "wss://kusama.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -78,7 +91,8 @@
       "chainBalanceSlug": "kusama"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ethereum",
@@ -111,7 +125,8 @@
       "chainBalanceSlug": "ethereum"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "binance",
@@ -144,7 +159,8 @@
       "chainBalanceSlug": "bsc"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "moonbeam",
@@ -155,7 +171,14 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbeam_fe54e27668.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbeam.network",
-      "Blast": "wss://moonbeam.public.blastapi.io"
+      "Blast": "wss://moonbeam.public.blastapi.io",
+      "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws",
+      "UnitedBloc": "wss://moonbeam.unitedbloc.com",
+      "Allnodes": "wss://moonbeam-rpc.publicnode.com",
+      "Dwellir": "wss://moonbeam-rpc.n.dwellir.com",
+      "IBP1": "wss://moonbeam.ibp.network",
+      "IBP2": "wss://moonbeam.dotters.network",
+      "RadiumBlock": "wss://moonbeam.public.curie.radiumblock.co/ws"
     },
     "evmInfo": {
       "evmChainId": 1284,
@@ -203,7 +226,8 @@
       "chainBalanceSlug": "moonbeam"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "pioneer",
@@ -250,7 +274,8 @@
       "chainBalanceSlug": "pioneer"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aleph",
@@ -261,6 +286,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
       "Aleph Zero Foundation": "wss://ws.azero.dev",
+      "Dwellir": "wss://aleph-zero-rpc.dwellir.com",
       "Onfinality": "wss://aleph-zero.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -289,7 +315,8 @@
       "chainBalanceSlug": "alephzero"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "astar",
@@ -301,8 +328,10 @@
     "providers": {
       "Astar": "wss://rpc.astar.network",
       "OnFinality": "wss://astar.api.onfinality.io/public-ws",
+      "Dwellir": "wss://astar-rpc.dwellir.com",
       "Blast": "wss://astar.public.blastapi.io",
-      "Light Client": "light://substrate-connect/polkadot/astar"
+      "Light Client": "light://substrate-connect/polkadot/astar",
+      "RadiumBlock": "wss://astar.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -342,7 +371,8 @@
       "chainBalanceSlug": "astar"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "astarEvm",
@@ -372,7 +402,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "statemint",
@@ -382,9 +413,16 @@
     "ordinal": 10,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
+      "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://sys.ibp.network/statemint",
+      "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
+      "Parity": "wss://polkadot-asset-hub-rpc.polkadot.io",
       "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub",
-      "OnFinality": "wss://statemint.api.onfinality.io/public-ws"
+      "OnFinality": "wss://statemint.api.onfinality.io/public-ws",
+      "Blockops": "wss://polkadot-assethub-rpc.blockops.network/ws",
+      "Dwellir": "wss://asset-hub-polkadot-rpc.dwellir.com",
+      "IBP1": "wss://sys.ibp.network/asset-hub-polkadot",
+      "IBP2": "wss://asset-hub-polkadot.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -409,7 +447,8 @@
       "chainBalanceSlug": "statemint"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "acala",
@@ -421,9 +460,11 @@
     "providers": {
       "Acala Foundation 0": "wss://acala-rpc-0.aca-api.network",
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
-      "Acala Foundation 2": "wss://acala-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
-      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws"
+      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
+      "Dwellir": "wss://acala-rpc.dwellir.com",
+      "IBP1": "wss://acala.ibp.network",
+      "IBP2": "wss://acala.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -460,7 +501,8 @@
       "chainBalanceSlug": "acala"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polygon",
@@ -493,7 +535,8 @@
       "chainBalanceSlug": "polygon"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "arbitrum_one",
@@ -524,7 +567,8 @@
       "chainBalanceSlug": "arbitrum"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "optimism",
@@ -555,7 +599,8 @@
       "chainBalanceSlug": "optimism"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "tomochain",
@@ -582,7 +627,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "alephTest",
@@ -592,7 +638,8 @@
     "ordinal": 16,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
-      "Aleph Zero Foundation": "wss://ws.test.azero.dev"
+      "Aleph Zero Foundation": "wss://ws.test.azero.dev",
+      "Dwellir": "wss://aleph-zero-testnet-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -617,7 +664,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "shiden",
@@ -630,7 +678,8 @@
       "Astar": "wss://rpc.shiden.astar.network",
       "OnFinality": "wss://shiden.api.onfinality.io/public-ws",
       "Dwellir": "wss://shiden-rpc.dwellir.com",
-      "Blast": "wss://shiden.public.blastapi.io"
+      "Blast": "wss://shiden.public.blastapi.io",
+      "RadiumBlock": "wss://shiden.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -692,7 +741,8 @@
       "chainBalanceSlug": "shiden"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "shidenEvm",
@@ -722,7 +772,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "shibuya",
@@ -761,7 +812,8 @@
       "chainBalanceSlug": "shibuya"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "shibuyaEvm",
@@ -789,7 +841,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aventus",
@@ -799,7 +852,8 @@
     "ordinal": 21,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.mainnet.aventus.network"
+      "Aventus": "wss://public-rpc.mainnet.aventus.network",
+      "Mainnet": "wss://public-rpc.mainnet.aventus.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -833,7 +887,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "westend",
@@ -846,8 +901,10 @@
       "Parity": "wss://westend-rpc.polkadot.io",
       "Dwellir": "wss://westend-rpc.dwellir.com",
       "Light Client": "light://substrate-connect/westend",
-      "DottersNet": "wss://rpc.dotters.network/westend",
-      "Dwellir Tunisia": "wss://westend-rpc-tn.dwellir.com"
+      "Dwellir Tunisia": "wss://westend-rpc-tn.dwellir.com",
+      "IBP1": "wss://rpc.ibp.network/westend",
+      "IBP2": "wss://westend.dotters.network",
+      "RadiumBlock": "wss://westend.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -872,7 +929,8 @@
       "chainBalanceSlug": "westend"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rococo",
@@ -911,7 +969,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bitcountry",
@@ -943,7 +1002,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "equilibrium_parachain",
@@ -988,7 +1048,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "moonbase",
@@ -999,7 +1060,10 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbase_493ce13342.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbase.moonbeam.network",
-      "Blast": "wss://moonbase-alpha.public.blastapi.io"
+      "Blast": "wss://moonbase-alpha.public.blastapi.io",
+      "Dwellir": "wss://moonbase-rpc.dwellir.com",
+      "RadiumBlock": "wss://moonbase.public.curie.radiumblock.co/ws",
+      "UnitedBloc": "wss://moonbase.unitedbloc.com"
     },
     "evmInfo": {
       "evmChainId": 1287,
@@ -1035,7 +1099,8 @@
       "chainBalanceSlug": "moonbase"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "moonriver",
@@ -1047,7 +1112,9 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
-      "Dwellir": "wss://moonriver-rpc.dwellir.com"
+      "Dwellir 2": "wss://moonriver-rpc.n.dwellir.com",
+      "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
+      "UnitedBloc": "wss://moonriver.unitedbloc.com"
     },
     "evmInfo": {
       "evmChainId": 1285,
@@ -1106,7 +1173,8 @@
       "chainBalanceSlug": "moonriver"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "turingStaging",
@@ -1138,7 +1206,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "turing",
@@ -1148,7 +1217,6 @@
     "ordinal": 29,
     "icon": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
     "providers": {
-      "Turing": "wss://rpc.turing.oak.tech",
       "Dwellir": "wss://turing-rpc.dwellir.com"
     },
     "evmInfo": null,
@@ -1186,7 +1254,8 @@
       "chainBalanceSlug": "turing"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bifrost",
@@ -1198,7 +1267,6 @@
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
       "Dwellir": "wss://bifrost-rpc.dwellir.com",
-      "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws",
       "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
       "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
     },
@@ -1248,7 +1316,8 @@
       "chainBalanceSlug": "bifrost"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bifrost_dot",
@@ -1261,7 +1330,8 @@
       "Dwellir": "wss://bifrost-polkadot-rpc.dwellir.com",
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
       "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
-      "OnFinality": "wss://bifrost-polkadot.api.onfinality.io/public-ws"
+      "IBP1": "wss://bifrost-polkadot.ibp.network",
+      "IBP2": "wss://bifrost-polkadot.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1298,7 +1368,8 @@
       "chainBalanceSlug": "bifrost-p"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bifrost_testnet",
@@ -1308,7 +1379,8 @@
     "ordinal": 32,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
     "providers": {
-      "Liebi": "wss://bifrost-rpc.rococo.liebi.com/ws"
+      "Pilab #1": "wss://public-01.testnet.bifrostnetwork.com/wss",
+      "Pilab #2": "wss://public-02.testnet.bifrostnetwork.com/wss"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1333,13 +1405,14 @@
       "chainBalanceSlug": "bifrost-testnet"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "calamari",
     "name": "Calamari",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 33,
     "icon": "https://static-data.subwallet.app/chains/images/icon/calamarinetwork_ad869dd66b.png",
     "providers": {
@@ -1380,7 +1453,8 @@
       "chainBalanceSlug": "calamari"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "amplitude",
@@ -1390,7 +1464,8 @@
     "ordinal": 34,
     "icon": "https://static-data.subwallet.app/chains/images/icon/amplitude_7704334d11.png",
     "providers": {
-      "Amplitude": "wss://rpc-amplitude.pendulumchain.tech"
+      "Amplitude": "wss://rpc-amplitude.pendulumchain.tech",
+      "Dwellir": "wss://amplitude-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1424,7 +1499,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "amplitude_test",
@@ -1456,7 +1532,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bobabase",
@@ -1481,7 +1558,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ethereum_goerli",
@@ -1508,7 +1586,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "binance_test",
@@ -1536,7 +1615,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "parallel",
@@ -1546,7 +1626,7 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
-      "Dwellir": "wss://parallel-rpc.dwellir.com"
+      "Gatotech": "wss://parallel.gatotech.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1602,7 +1682,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "clover",
@@ -1660,7 +1741,8 @@
       "chainBalanceSlug": "clover"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "cloverEvm",
@@ -1687,7 +1769,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "hydradx_main",
@@ -1698,8 +1781,10 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_285eea3042.png",
     "providers": {
       "Galactic Council": "wss://rpc.hydradx.cloud",
-      "Dwellir": "wss://hydradx-rpc.dwellir.com",
-      "Helikon": "wss://rpc.helikon.io/hydradx"
+      "Helikon": "wss://rpc.helikon.io/hydradx",
+      "Dwellir 2": "wss://hydration-rpc.n.dwellir.com",
+      "IBP1": "wss://hydration.ibp.network",
+      "IBP2": "wss://hydration.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1736,7 +1821,8 @@
       "chainBalanceSlug": "hydradx"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "edgeware",
@@ -1746,7 +1832,10 @@
     "ordinal": 43,
     "icon": "https://static-data.subwallet.app/chains/images/icon/edgeware_6a0057274c.png",
     "providers": {
-      "JelliedOwl": "wss://edgeware.jelliedowl.net"
+      "JelliedOwl Bangalore": "wss://edgeware-rpc3.jelliedowl.net",
+      "JelliedOwl London": "wss://edgeware-rpc1.jelliedowl.net",
+      "JelliedOwl New York": "wss://edgeware-rpc0.jelliedowl.net",
+      "JelliedOwl Singapore": "wss://edgeware-rpc2.jelliedowl.net"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1771,7 +1860,8 @@
       "chainBalanceSlug": "edgeware"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "centrifuge",
@@ -1781,8 +1871,10 @@
     "ordinal": 44,
     "icon": "https://static-data.subwallet.app/chains/images/icon/centrifuge_1210a93e56.png",
     "providers": {
-      "Centrifuge": "wss://fullnode.parachain.centrifuge.io",
-      "OnFinality": "wss://centrifuge-parachain.api.onfinality.io/public-ws"
+      "OnFinality": "wss://centrifuge-parachain.api.onfinality.io/public-ws",
+      "Fullnode": "wss://fullnode.centrifuge.io",
+      "Dwellir": "wss://centrifuge-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-centrifuge.luckyfriday.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1819,7 +1911,8 @@
       "chainBalanceSlug": "centrifuge-parachain"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "interlay",
@@ -1868,7 +1961,8 @@
       "chainBalanceSlug": "interlay"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "nodle",
@@ -1878,7 +1972,8 @@
     "ordinal": 46,
     "icon": "https://static-data.subwallet.app/chains/images/icon/nodle_fba7fd5ae5.png",
     "providers": {
-      "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws"
+      "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws",
+      "Dwellir": "wss://nodle-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1915,7 +2010,8 @@
       "chainBalanceSlug": "nodle"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "darwinia2",
@@ -1926,7 +2022,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/darwinia_8a711cb162.png",
     "providers": {
       "Darwinia Network": "wss://rpc.darwinia.network",
-      "Dwellir": "wss://darwinia-rpc.dwellir.com"
+      "Dwellir": "wss://darwinia-rpc.dwellir.com",
+      "Subquery": "wss://darwinia.rpc.subquery.network/public/ws"
     },
     "evmInfo": {
       "evmChainId": 46,
@@ -1962,7 +2059,8 @@
       "chainBalanceSlug": "darwinia2"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sora_ksm",
@@ -2017,7 +2115,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "odyssey",
@@ -2049,7 +2148,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polkadex",
@@ -2060,7 +2160,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_dc0b44d234.png",
     "providers": {
       "RadiumBlock": "wss://polkadex.public.curie.radiumblock.co/ws",
-      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws"
+      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws",
+      "Dwellir": "wss://polkadex-mainnet-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2085,7 +2186,8 @@
       "chainBalanceSlug": "polkadex"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polkadexTest",
@@ -2117,7 +2219,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rmrk",
@@ -2149,7 +2252,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dolphin",
@@ -2182,7 +2286,8 @@
       "chainBalanceSlug": "dolphin"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "opal",
@@ -2217,7 +2322,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "efinity",
@@ -2265,7 +2371,8 @@
       "chainBalanceSlug": "efinity"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "composableFinance",
@@ -2275,7 +2382,8 @@
     "ordinal": 56,
     "icon": "https://static-data.subwallet.app/chains/images/icon/composable_finance_3f20ca49fb.png",
     "providers": {
-      "Composable": "wss://rpc.composable.finance"
+      "Composable": "wss://rpc.composable.finance",
+      "Dwellir": "wss://composable-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2312,7 +2420,8 @@
       "chainBalanceSlug": "composable"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "phala",
@@ -2322,8 +2431,10 @@
     "ordinal": 57,
     "icon": "https://static-data.subwallet.app/chains/images/icon/phala_network_47928dadfd.png",
     "providers": {
-      "Phala": "wss://api.phala.network/ws",
-      "OnFinality": "wss://phala.api.onfinality.io/public-ws"
+      "OnFinality": "wss://phala.api.onfinality.io/public-ws",
+      "Dwellir": "wss://phala-rpc.dwellir.com",
+      "Helikon": "wss://rpc.helikon.io/phala",
+      "RadiumBlock": "wss://phala.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2360,7 +2471,8 @@
       "chainBalanceSlug": "phala"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "crust",
@@ -2370,7 +2482,10 @@
     "ordinal": 58,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crust_6ae326cd51.png",
     "providers": {
-      "Crust": "wss://crust-parachain.crustapps.net"
+      "Crust": "wss://crust-parachain.crustapps.net",
+      "Crust APP": "wss://crust-parachain.crustnetwork.app",
+      "Crust CC": "wss://crust-parachain.crustnetwork.cc",
+      "Crust XYZ": "wss://crust-parachain.crustnetwork.xyz"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2407,7 +2522,8 @@
       "chainBalanceSlug": "crust-parachain"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "statemine",
@@ -2418,10 +2534,13 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_asset_hub_9ae4528303.png",
     "providers": {
       "Dwellir": "wss://statemine-rpc.dwellir.com",
-      "IBP-GeoDNS1": "wss://sys.ibp.network/statemine",
+      "RadiumBlock": "wss://statemine.public.curie.radiumblock.co/ws",
+      "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com",
       "Lucky Friday": "wss://rpc-asset-hub-kusama.luckyfriday.io",
       "Stake World": "wss://ksm-rpc.stakeworld.io/assethub",
-      "Parity": "wss://kusama-asset-hub-rpc.polkadot.io"
+      "Parity": "wss://kusama-asset-hub-rpc.polkadot.io",
+      "IBP1": "wss://sys.ibp.network/asset-hub-kusama",
+      "IBP2": "wss://asset-hub-kusama.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2446,7 +2565,8 @@
       "chainBalanceSlug": "statemine"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "karura",
@@ -2460,7 +2580,8 @@
       "Acala Foundation 1": "wss://karura-rpc-1.aca-api.network",
       "Acala Foundation 2": "wss://karura-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://karura-rpc-3.aca-api.network/ws",
-      "OnFinality": "wss://karura.api.onfinality.io/public-ws"
+      "OnFinality": "wss://karura.api.onfinality.io/public-ws",
+      "Dwellir": "wss://karura-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2485,7 +2606,8 @@
       "chainBalanceSlug": "karura"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "khala",
@@ -2534,7 +2656,8 @@
       "chainBalanceSlug": "khala"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kilt",
@@ -2545,8 +2668,9 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kilt_35ce98e3b5.png",
     "providers": {
       "KILT Protocol": "wss://spiritnet.kilt.io/",
-      "OnFinality": "wss://spiritnet.api.onfinality.io/public-ws",
-      "Dwellir": "wss://kilt-rpc.dwellir.com"
+      "Dwellir": "wss://kilt-rpc.dwellir.com",
+      "IBP1": "wss://kilt.ibp.network",
+      "IBP2": "wss://kilt.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2571,7 +2695,8 @@
       "chainBalanceSlug": "spiritnet"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "basilisk",
@@ -2582,7 +2707,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/basilisk_bebf244e67.png",
     "providers": {
       "Basilisk ": "wss://rpc.basilisk.cloud",
-      "Dwellir": "wss://basilisk-rpc.dwellir.com"
+      "Dwellir 2": "wss://basilisk-rpc.n.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2619,7 +2744,8 @@
       "chainBalanceSlug": "basilisk"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "altair",
@@ -2667,7 +2793,8 @@
       "chainBalanceSlug": "altair"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "heiko",
@@ -2725,7 +2852,8 @@
       "chainBalanceSlug": "parallel-heiko"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kintsugi",
@@ -2736,7 +2864,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kintsugi_dfa1bdb733.png",
     "providers": {
       "Kintsugi Labs": "wss://api-kusama.interlay.io/parachain",
-      "OnFinality": "wss://kintsugi.api.onfinality.io/public-ws"
+      "OnFinality": "wss://kintsugi.api.onfinality.io/public-ws",
+      "Dwellir": "wss://kintsugi-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2773,7 +2902,8 @@
       "chainBalanceSlug": "kintsugi"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kintsugi_test",
@@ -2805,7 +2935,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "picasso",
@@ -2815,7 +2946,8 @@
     "ordinal": 68,
     "icon": "https://static-data.subwallet.app/chains/images/icon/picasso_b491f37486.png",
     "providers": {
-      "Composable": "wss://rpc.composablenodes.tech"
+      "Composable": "wss://rpc.composablenodes.tech",
+      "Dwellir": "wss://picasso-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2874,7 +3006,8 @@
       "chainBalanceSlug": "picasso"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "quartz",
@@ -2923,7 +3056,8 @@
       "chainBalanceSlug": "quartz"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "unique_network",
@@ -2933,9 +3067,13 @@
     "ordinal": 70,
     "icon": "https://static-data.subwallet.app/chains/images/icon/unique_network_2e3617d2d1.png",
     "providers": {
-      "unique": "wss://us-ws.unique.network/",
-      "UniqueEu": "wss://eu-ws.unique.network/",
-      "UniqueAsia": "wss://asia-ws.unique.network/"
+      "unique": "wss://us-ws.unique.network",
+      "UniqueEu": "wss://eu-ws.unique.network",
+      "UniqueAsia": "wss://asia-ws.unique.network",
+      "Dwellir": "wss://unique-rpc.dwellir.com",
+      "Geo Load Balancer": "wss://ws.unique.network",
+      "IBP1": "wss://unique.ibp.network",
+      "IBP2": "wss://unique.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2972,7 +3110,8 @@
       "chainBalanceSlug": "unique"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "genshiro",
@@ -3030,7 +3169,8 @@
       "chainBalanceSlug": "genshiro"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "genshiro_testnet",
@@ -3060,7 +3200,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subsocial_x",
@@ -3070,7 +3211,8 @@
     "ordinal": 73,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subsocial_3e001a3b15.png",
     "providers": {
-      "subsocialx": "wss://para.f3joule.space"
+      "Dappforce": "wss://para.subsocial.network",
+      "Dwellir": "wss://subsocial-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3092,7 +3234,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "zeitgeist",
@@ -3102,8 +3245,7 @@
     "ordinal": 74,
     "icon": "https://static-data.subwallet.app/chains/images/icon/zeitgeist_c8bd3e2ac5.png",
     "providers": {
-      "OnFinality": "wss://zeitgeist.api.onfinality.io/public-ws",
-      "Dwellir": "wss://zeitgeist-rpc.dwellir.com"
+      "OnFinality": "wss://zeitgeist.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3140,7 +3282,8 @@
       "chainBalanceSlug": "zeitgeist"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sakura",
@@ -3187,7 +3330,8 @@
       "chainBalanceSlug": "sakura"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "shadow",
@@ -3197,7 +3341,10 @@
     "ordinal": 76,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crust_shadow_e58a33c95d.png",
     "providers": {
-      "Crust": "wss://rpc-shadow.crust.network/"
+      "Crust": "wss://rpc-shadow.crust.network/",
+      "Crust APP": "wss://rpc-shadow.crustnetwork.app",
+      "Crust CC": "wss://rpc-shadow.crustnetwork.cc",
+      "Crust XYZ": "wss://rpc-shadow.crustnetwork.xyz"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3245,7 +3392,8 @@
       "chainBalanceSlug": "shadow"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "uniqueNft",
@@ -3277,7 +3425,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "robonomics",
@@ -3336,7 +3485,8 @@
       "chainBalanceSlug": "robonomics"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "integritee",
@@ -3384,7 +3534,8 @@
       "chainBalanceSlug": "integritee-para"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "integriteePolkadot",
@@ -3394,7 +3545,8 @@
     "ordinal": 80,
     "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_kusama_70fdf54661.png",
     "providers": {
-      "Integritee": "wss://polkadot.api.integritee.network"
+      "Integritee": "wss://polkadot.api.integritee.network",
+      "Dwellir": "wss://integritee-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3428,7 +3580,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "crabParachain",
@@ -3487,7 +3640,8 @@
       "chainBalanceSlug": "darwinia-crab"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "pangolin",
@@ -3530,7 +3684,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "chainx",
@@ -3562,7 +3717,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "acala_testnet",
@@ -3597,7 +3753,8 @@
       "chainBalanceSlug": "acala-testnet"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "mangatax",
@@ -3629,7 +3786,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "mangatax_para",
@@ -3688,7 +3846,8 @@
       "chainBalanceSlug": "mangata"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "encointer",
@@ -3698,7 +3857,10 @@
     "ordinal": 87,
     "icon": "https://static-data.subwallet.app/chains/images/icon/encointer_3ba587ebc9.png",
     "providers": {
-      "Encointer Association": "wss://kusama.api.encointer.org"
+      "Encointer Association": "wss://kusama.api.encointer.org",
+      "Dwellir": "wss://encointer-kusama-rpc.dwellir.com",
+      "IBP1": "wss://sys.ibp.network/encointer-kusama",
+      "IBP2": "wss://encointer-kusama.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3723,13 +3885,14 @@
       "chainBalanceSlug": "encointer"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "litmus",
     "name": "Litmus",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 88,
     "icon": "https://static-data.subwallet.app/chains/images/icon/litmus_2e86f51933.png",
     "providers": {
@@ -3767,15 +3930,16 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "litentry",
-    "name": "Litentry",
+    "name": "Heima",
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 89,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/litentry_66fd883eb2.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/heima_8db29ca204.png",
     "providers": {
       "Litentry": "wss://rpc.litentry-parachain.litentry.io",
       "Dwellir": "wss://litentry-rpc.dwellir.com"
@@ -3788,9 +3952,9 @@
       "addressPrefix": 31,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crowdloan.litentry.com/",
-      "blockExplorer": null,
+      "blockExplorer": "https://heima.statescan.io/",
       "existentialDeposit": "100000000000000000",
-      "symbol": "LIT",
+      "symbol": "HEI",
       "decimals": 18,
       "hasNativeNft": false,
       "supportStaking": false,
@@ -3812,7 +3976,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "tinkernet",
@@ -3857,7 +4022,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "imbue_network",
@@ -3901,7 +4067,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_test",
@@ -3931,7 +4098,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_2a",
@@ -3963,7 +4131,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_3c",
@@ -3993,7 +4162,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_3d",
@@ -4023,7 +4193,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_3e",
@@ -4053,7 +4224,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_3f",
@@ -4085,7 +4257,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "origintrail",
@@ -4095,7 +4268,8 @@
     "ordinal": 98,
     "icon": "https://static-data.subwallet.app/chains/images/icon/origintrail_cda66dc997.png",
     "providers": {
-      "TraceLabs": "wss://parachain-rpc.origin-trail.network"
+      "TraceLabs": "wss://parachain-rpc.origin-trail.network",
+      "Dwellir": "wss://neuroweb-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4132,7 +4306,8 @@
       "chainBalanceSlug": "origintrail"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_3g",
@@ -4164,7 +4339,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dorafactory",
@@ -4206,7 +4382,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bajun",
@@ -4254,7 +4431,8 @@
       "chainBalanceSlug": "bajun"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dancebox",
@@ -4286,7 +4464,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "listen",
@@ -4316,7 +4495,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kabocha",
@@ -4326,7 +4506,7 @@
     "ordinal": 102,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kabocha_94a09c6441.png",
     "providers": {
-      "JelliedOwl": "wss://kabocha.jelliedowl.com"
+      "Kabocha": "wss://kabocha.jelliedowl.net"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4360,7 +4540,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "gmdie",
@@ -4402,7 +4583,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ternoa",
@@ -4434,7 +4616,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "tanganika",
@@ -4479,7 +4662,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "pendulum",
@@ -4526,7 +4710,8 @@
       "chainBalanceSlug": "pendulum"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "gear_testnet",
@@ -4558,7 +4743,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ternoa_alphanet",
@@ -4590,13 +4776,14 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "calamari_test",
     "name": "Calamari Staging",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 109,
     "icon": "https://static-data.subwallet.app/chains/images/icon/calamarinetwork_ad869dd66b.png",
     "providers": {
@@ -4622,7 +4809,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "boba",
@@ -4650,7 +4838,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bobabeam",
@@ -4678,7 +4867,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kilt_peregrine",
@@ -4713,7 +4903,8 @@
       "chainBalanceSlug": "kilt-testnet"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "xx_network",
@@ -4745,7 +4936,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "watr_network",
@@ -4777,7 +4969,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "watr_network_evm",
@@ -4804,7 +4997,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "fusotao",
@@ -4836,7 +5030,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "discovol",
@@ -4868,7 +5063,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "discovol_testnet",
@@ -4900,7 +5096,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "atocha",
@@ -4932,7 +5129,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "myriad",
@@ -4964,7 +5162,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "deBio",
@@ -4996,7 +5195,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "collectives",
@@ -5006,7 +5206,15 @@
     "ordinal": 124,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_collectives_0d4f158ac1.png",
     "providers": {
-      "viaParity": "wss://polkadot-collectives-rpc.polkadot.io"
+      "viaParity": "wss://polkadot-collectives-rpc.polkadot.io",
+      "Dwellir": "wss://collectives-polkadot-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://polkadot-collectives-rpc-tn.dwellir.com",
+      "IBP1": "wss://sys.ibp.network/collectives-polkadot",
+      "IBP2": "wss://collectives-polkadot.dotters.network",
+      "LuckyFriday": "wss://rpc-collectives-polkadot.luckyfriday.io",
+      "OnFinality": "wss://collectives.api.onfinality.io/public-ws",
+      "RadiumBlock": "wss://collectives.public.curie.radiumblock.co/ws",
+      "Stakeworld": "wss://dot-rpc.stakeworld.io/collectives"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5028,7 +5236,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ajunaPolkadot",
@@ -5038,10 +5247,9 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "OnFinality": "wss://ajuna.api.onfinality.io/public-ws",
       "Para": "wss://rpc-para.ajuna.network",
       "Ibp": "wss://ajuna.ibp.network",
-      "Dotters": "wss://ajuna.dotters.network"
+      "IBP2": "wss://ajuna.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5078,7 +5286,8 @@
       "chainBalanceSlug": "ajuna"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bitgreen",
@@ -5110,7 +5319,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "frequency",
@@ -5121,7 +5331,9 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/frequency_87c25c3315.png",
     "providers": {
       "Frequency 0": "wss://0.rpc.frequency.xyz",
-      "Frequency 1": "wss://1.rpc.frequency.xyz"
+      "Frequency 1": "wss://1.rpc.frequency.xyz",
+      "Dwellir": "wss://frequency-rpc.dwellir.com",
+      "OnFinality": "wss://frequency-polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5143,7 +5355,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "hashedNetwork",
@@ -5153,7 +5366,7 @@
     "ordinal": 128,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hashed_78ed238d01.png",
     "providers": {
-      "Hashed Systems 2": "wss://c2.hashed.network"
+      "Hashed Systems 1": "wss://c1.hashed.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5198,7 +5411,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kapex",
@@ -5242,7 +5456,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kylinNetwork",
@@ -5286,7 +5501,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ipci",
@@ -5296,7 +5512,7 @@
     "ordinal": 131,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dao_ipci_93612c0315.png",
     "providers": {
-      "viaAiralab": "wss://kusama.rpc.ipci.io"
+      "Airalab": "wss://ipci.rpc.robonomics.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -5318,7 +5534,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kico",
@@ -5360,7 +5577,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "luhnNetwork",
@@ -5390,7 +5608,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "pichiu",
@@ -5432,7 +5651,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "riodefi",
@@ -5462,7 +5682,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "automata",
@@ -5494,7 +5715,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "creditcoin",
@@ -5529,7 +5751,8 @@
       "chainBalanceSlug": "creditcoin"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "crownSterling",
@@ -5561,7 +5784,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dockPosMainnet",
@@ -5596,7 +5820,8 @@
       "chainBalanceSlug": "dock-pos"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kusari",
@@ -5626,7 +5851,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "logion",
@@ -5681,7 +5907,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "neatcoin",
@@ -5713,7 +5940,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "nftmart",
@@ -5745,7 +5973,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polymesh",
@@ -5780,7 +6009,8 @@
       "chainBalanceSlug": "polymesh"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "riochain",
@@ -5810,7 +6040,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sherpax",
@@ -5840,7 +6071,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sora_substrate",
@@ -5901,7 +6133,8 @@
       "chainBalanceSlug": "sora"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "swapdex",
@@ -5933,7 +6166,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "3dpass",
@@ -5943,7 +6177,6 @@
     "ordinal": 149,
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
-      "3dpass": "wss://rpc.3dpass.org",
       "3dpscan": "wss://rpc.3dpscan.io"
     },
     "evmInfo": null,
@@ -5966,7 +6199,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kulupu",
@@ -5998,7 +6232,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "joystream",
@@ -6008,7 +6243,8 @@
     "ordinal": 152,
     "icon": "https://static-data.subwallet.app/chains/images/icon/joystream_fe4b9f5208.png",
     "providers": {
-      "Jsgenesis": "wss://rpc.joystream.org"
+      "Jsgenesis": "wss://rpc.joystream.org",
+      "Joyutils": "wss://rpc.joyutils.org"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6033,7 +6269,8 @@
       "chainBalanceSlug": "joystream"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aventus_testnet",
@@ -6065,7 +6302,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "vara_network",
@@ -6104,7 +6342,8 @@
       "chainBalanceSlug": "vara"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kate",
@@ -6136,7 +6375,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bridgeHubPolkadot",
@@ -6147,7 +6387,14 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_bridge_hub_c3ab010f45.png",
     "providers": {
       "Parity": "wss://polkadot-bridge-hub-rpc.polkadot.io",
-      "Stakeworld": "wss://dot-rpc.stakeworld.io/bridgehub"
+      "Stakeworld": "wss://dot-rpc.stakeworld.io/bridgehub",
+      "Dwellir": "wss://bridge-hub-polkadot-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://polkadot-bridge-hub-rpc-tn.dwellir.com",
+      "IBP1": "wss://sys.ibp.network/bridgehub-polkadot",
+      "IBP2": "wss://bridge-hub-polkadot.dotters.network",
+      "LuckyFriday": "wss://rpc-bridge-hub-polkadot.luckyfriday.io",
+      "OnFinality": "wss://bridgehub-polkadot.api.onfinality.io/public-ws",
+      "RadiumBlock": "wss://bridgehub-polkadot.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6172,7 +6419,8 @@
       "chainBalanceSlug": "bridgehub-polkadot"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bridgeHubKusama",
@@ -6185,7 +6433,11 @@
       "Parity": "wss://kusama-bridge-hub-rpc.polkadot.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io/bridgehub",
       "IBP-GeoDNS1": "wss://sys.ibp.network/bridgehub-kusama",
-      "IBP-GeoDNS2": "wss://sys.dotters.network/bridgehub-kusama"
+      "IBP-GeoDNS2": "wss://sys.dotters.network/bridgehub-kusama",
+      "Dwellir": "wss://bridge-hub-kusama-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://kusama-bridge-hub-rpc-tn.dwellir.com",
+      "LuckyFriday": "wss://rpc-bridge-hub-kusama.luckyfriday.io",
+      "RadiumBlock": "wss://bridgehub-kusama.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6210,7 +6462,8 @@
       "chainBalanceSlug": "bridgehub-kusama"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "fantom_testnet",
@@ -6239,7 +6492,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "fantom",
@@ -6270,7 +6524,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "krest_network",
@@ -6280,7 +6535,9 @@
     "ordinal": 160,
     "icon": "https://static-data.subwallet.app/chains/images/icon/krest_6217afc787.png",
     "providers": {
-      "OnFinality": "wss://krest.api.onfinality.io/public-ws"
+      "Peaq": "wss://wss-krest.peaq.network/",
+      "OnFinality": "wss://krest.api.onfinality.io/public-ws",
+      "Dwellir": "wss://krest-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6317,7 +6574,8 @@
       "chainBalanceSlug": "krest"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "deeper_network",
@@ -6349,7 +6607,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "jur_network",
@@ -6381,7 +6640,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "base_mainnet",
@@ -6408,7 +6668,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "avalanche_c",
@@ -6439,7 +6700,8 @@
       "chainBalanceSlug": "avalanche"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "crust_mainnet",
@@ -6450,7 +6712,11 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/crust_6ae326cd51.png",
     "providers": {
       "OnFinality": "wss://crust.api.onfinality.io/public-ws",
-      "Crust Network": "wss://rpc.crust.network"
+      "Crust Network": "wss://rpc.crust.network",
+      "Crust Network APP": "wss://rpc.crustnetwork.app",
+      "Crust Network CC": "wss://rpc.crustnetwork.cc",
+      "Crust Network XYZ": "wss://rpc.crustnetwork.xyz",
+      "Dwellir": "wss://crust-mainnet-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6475,7 +6741,8 @@
       "chainBalanceSlug": "crust-main"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "acala_evm",
@@ -6502,7 +6769,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "karura_evm",
@@ -6529,7 +6797,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bittensor",
@@ -6574,7 +6843,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "xcavate",
@@ -6606,7 +6876,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "unorthodox",
@@ -6636,7 +6907,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "coinversation",
@@ -6678,7 +6950,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "layerx_network",
@@ -6708,7 +6981,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "moonsama",
@@ -6750,7 +7024,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "oak_network",
@@ -6792,7 +7067,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "omnibtc",
@@ -6834,7 +7110,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "quantum_portal",
@@ -6864,7 +7141,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "virto_network",
@@ -6894,7 +7172,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "energy_web_x",
@@ -6904,7 +7183,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
     "providers": {
-      "EWX": "wss://public-rpc.mainnet.energywebx.com/ws"
+      "Energy Web": "wss://public-rpc.mainnet.energywebx.com/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6938,7 +7217,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "invarch",
@@ -6948,7 +7228,9 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/invarch_d95283c9f7.png",
     "providers": {
-      "Dwellir": "wss://invarch-rpc.dwellir.com"
+      "Dwellir": "wss://invarch-rpc.dwellir.com",
+      "IBP1": "wss://invarch.ibp.network",
+      "IBP2": "wss://invarch.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6982,7 +7264,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "zero",
@@ -7012,7 +7295,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kpron_network",
@@ -7042,7 +7326,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "mars",
@@ -7072,7 +7357,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "snow",
@@ -7117,7 +7403,8 @@
       "chainBalanceSlug": "snow"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aband",
@@ -7159,7 +7446,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "alpha_network",
@@ -7189,7 +7477,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "loom_network",
@@ -7219,7 +7508,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subgame_gamma",
@@ -7249,7 +7539,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "trustbase",
@@ -7279,7 +7570,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "manta_network",
@@ -7314,7 +7606,8 @@
       "chainBalanceSlug": "manta"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "t3rn",
@@ -7344,7 +7637,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "geminis_network",
@@ -7374,7 +7668,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polimec",
@@ -7385,7 +7680,10 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polimec_ddd1a7c51d.png",
     "providers": {
       "Polimec": "wss://rpc.polimec.org",
-      "Amforc": "wss://polimec.rpc.amforc.com"
+      "Amforc": "wss://polimec.rpc.amforc.com",
+      "Helikon": "wss://rpc.helikon.io/polimec",
+      "IBP1": "wss://polimec.ibp.network",
+      "IBP2": "wss://polimec.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7419,7 +7717,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subdao",
@@ -7449,7 +7748,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subgame_network",
@@ -7479,7 +7779,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "zeta_test",
@@ -7503,7 +7804,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "watr_mainnet",
@@ -7535,7 +7837,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "watr_mainnet_evm",
@@ -7559,7 +7862,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "enjin_relaychain",
@@ -7594,7 +7898,8 @@
       "chainBalanceSlug": "enjin-relay"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "enjin_matrixchain",
@@ -7630,7 +7935,8 @@
       "chainBalanceSlug": "enjin-matrix"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "vara_testnet",
@@ -7640,7 +7946,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_5aa38c4458.png",
     "providers": {
-      "Vara": "wss://testnet.vara-network.io"
+      "Vara": "wss://testnet.vara-network.io",
+      "Gear": "wss://testnet.vara.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7665,7 +7972,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "goldberg_testnet",
@@ -7700,7 +8008,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "energy_web_x_testnet",
@@ -7732,7 +8041,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "energy_web_chain",
@@ -7759,7 +8069,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "energy_web_x_rococo",
@@ -7791,7 +8102,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "manta_network_evm",
@@ -7818,7 +8130,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polkadex_dot",
@@ -7829,7 +8142,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png",
     "providers": {
       "RadiumBlock": "wss://polkadex-parachain.public.curie.radiumblock.co/ws",
-      "OnFinality": "wss://polkadex-parachain.api.onfinality.io/public-ws"
+      "OnFinality": "wss://polkadex-parachain.api.onfinality.io/public-ws",
+      "Dwellir": "wss://polkadex-parachain-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7866,7 +8180,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bittensor_testnet",
@@ -7898,7 +8213,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "subspace_gemini_3h",
@@ -7933,7 +8249,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "continuum_network",
@@ -7968,7 +8285,8 @@
       "chainBalanceSlug": "continuum"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rococo_assethub",
@@ -8003,7 +8321,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "okxTest",
@@ -8031,7 +8350,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "liberlandTest",
@@ -8063,7 +8383,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "liberland",
@@ -8096,7 +8417,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "chainflip_dot",
@@ -8128,7 +8450,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "tangleTest",
@@ -8160,7 +8483,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dentnet",
@@ -8192,7 +8516,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "phykenTest",
@@ -8224,7 +8549,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "creditcoinTestEvm",
@@ -8251,7 +8577,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "astarZkEvm",
@@ -8278,7 +8605,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sepolia_ethereum",
@@ -8308,7 +8636,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "hydradx_rococo",
@@ -8340,7 +8669,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "creditcoinTest",
@@ -8375,7 +8705,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "xlayer",
@@ -8400,7 +8731,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "acurast",
@@ -8410,8 +8742,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/acurast_ea6dbcc424.png",
     "providers": {
-      "Acurast": "wss://acurast-canarynet-ws.prod.gke.papers.tech",
-      "Subwallet": "wss://subwallet-rpc.canary.acurast.com"
+      "Canary": "wss://public-rpc.canary.acurast.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8433,7 +8764,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "mythos",
@@ -8443,7 +8775,9 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/mythos_chain_430c6d1b1e.png",
     "providers": {
-      "Parity": "wss://polkadot-mythos-rpc.polkadot.io"
+      "Parity": "wss://polkadot-mythos-rpc.polkadot.io",
+      "Helikon": "wss://rpc.helikon.io/mythos",
+      "IBP1": "wss://mythos.ibp.network"
     },
     "evmInfo": {
       "evmChainId": -1,
@@ -8476,7 +8810,8 @@
       "chainBalanceSlug": "mythos"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "humanode",
@@ -8511,7 +8846,8 @@
       "chainBalanceSlug": "humanode"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "humanodeEvm",
@@ -8538,7 +8874,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "paseoTest",
@@ -8576,7 +8913,8 @@
       "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "commune",
@@ -8608,7 +8946,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dbcchain",
@@ -8643,7 +8982,8 @@
       "chainBalanceSlug": "deepbrain"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "availTuringTest",
@@ -8683,7 +9023,8 @@
       "chainBalanceSlug": "avail"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bitlayer",
@@ -8712,7 +9053,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bitlayerTest",
@@ -8739,7 +9081,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bevm",
@@ -8767,7 +9110,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bevmTest",
@@ -8794,7 +9138,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "b2",
@@ -8822,7 +9167,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bobMainnet",
@@ -8849,7 +9195,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "avail_mainnet",
@@ -8890,7 +9237,8 @@
       "chainBalanceSlug": "avail"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "merlinEvm",
@@ -8917,7 +9265,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "botanixEvmTest",
@@ -8944,7 +9293,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "curio",
@@ -8976,7 +9326,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "hyperbridge",
@@ -8986,7 +9337,9 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
     "providers": {
-      "BlockOps": "wss://hyperbridge-nexus-rpc.blockops.network"
+      "BlockOps": "wss://hyperbridge-nexus-rpc.blockops.network",
+      "IBP1": "wss://nexus.ibp.network",
+      "IBP2": "wss://nexus.dotters.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9008,7 +9361,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "cess_testnet",
@@ -9041,7 +9395,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bitcoin",
@@ -9063,7 +9418,8 @@
       "symbol": "BTC",
       "bitcoinNetwork": "mainnet"
     },
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bitcoinTestnet",
@@ -9085,7 +9441,8 @@
       "symbol": "BTC",
       "bitcoinNetwork": "testnet"
     },
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "peopleKusama",
@@ -9096,7 +9453,11 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_people_66e51c3245.png",
     "providers": {
       "Parity": "wss://kusama-people-rpc.polkadot.io",
-      "Stakeworld": "wss://ksm-rpc.stakeworld.io/people"
+      "Stakeworld": "wss://ksm-rpc.stakeworld.io/people",
+      "Dwellir": "wss://people-kusama-rpc.dwellir.com",
+      "IBP1": "wss://sys.ibp.network/people-kusama",
+      "IBP2": "wss://people-kusama.dotters.network",
+      "LuckyFriday": "wss://rpc-people-kusama.luckyfriday.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9118,7 +9479,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "lineaZkEvm",
@@ -9145,7 +9507,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bounceBitEvm",
@@ -9172,7 +9535,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bounceBitEvmTest",
@@ -9199,7 +9563,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "kreivo",
@@ -9232,7 +9597,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "analog_testnet",
@@ -9264,7 +9630,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "peaq",
@@ -9299,7 +9666,8 @@
       "chainBalanceSlug": "peaq-main"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "layerEdge_testnet",
@@ -9326,7 +9694,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bevm_testnet",
@@ -9350,7 +9719,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "berachain_testnet",
@@ -9377,7 +9747,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "atletaOlympia_testnet",
@@ -9420,7 +9791,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "syscoin_evm",
@@ -9447,7 +9819,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rollux_evm",
@@ -9474,7 +9847,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "b2_testnet",
@@ -9503,7 +9877,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "boolAlpha",
@@ -9530,7 +9905,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "boolBeta_testnet",
@@ -9557,7 +9933,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rollux_testnet",
@@ -9584,7 +9961,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "syscoin_evm_testnet",
@@ -9611,7 +9989,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aura",
@@ -9638,7 +10017,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "unique_evm",
@@ -9668,7 +10048,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "core",
@@ -9695,7 +10076,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "satoshivm",
@@ -9722,7 +10104,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "satoshivm_testnet",
@@ -9749,7 +10132,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "cere",
@@ -9759,7 +10143,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cere_network_5feb6aadb1.png",
     "providers": {
-      "Cere Network": "wss://rpc.mainnet.cere.network/ws"
+      "Cere Network": "wss://rpc.mainnet.cere.network/ws",
+      "Archive": "wss://archive.mainnet.cere.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9781,7 +10166,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aleph_testnet_evm",
@@ -9809,7 +10195,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "aleph_evm",
@@ -9836,7 +10223,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "exosama",
@@ -9863,7 +10251,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "blast_mainnet",
@@ -9890,7 +10279,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "storyPartner_testnet",
@@ -9915,7 +10305,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ton",
@@ -9940,7 +10331,8 @@
         "TEP74",
         "TEP62"
       ]
-    }
+    },
+    "cardanoInfo": null
   },
   {
     "slug": "ton_testnet",
@@ -9965,7 +10357,8 @@
         "TEP74",
         "TEP62"
       ]
-    }
+    },
+    "cardanoInfo": null
   },
   {
     "slug": "5irechain_mainnet",
@@ -9992,7 +10385,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polygonZkEvm",
@@ -10019,7 +10413,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "immutableZkEvm",
@@ -10046,7 +10441,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "storyPublic_testnet",
@@ -10073,7 +10469,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "soneiumMinato",
@@ -10100,7 +10497,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "base_sepolia",
@@ -10129,7 +10527,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "creditcoin_native",
@@ -10164,7 +10563,8 @@
       "chainBalanceSlug": "creditcoin-cc3"
     },
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "creditcoin_evm",
@@ -10191,7 +10591,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "arbitrum_sepolia",
@@ -10220,7 +10621,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ternoaZkEvm_testnet",
@@ -10247,7 +10649,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "bittensor_devnet",
@@ -10279,7 +10682,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "mantle",
@@ -10306,7 +10710,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "zkverify_testnet",
@@ -10338,7 +10743,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rari",
@@ -10365,7 +10771,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "scroll",
@@ -10392,7 +10799,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "unichain_sepolia",
@@ -10419,7 +10827,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "world_chain",
@@ -10446,7 +10855,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "mode",
@@ -10473,7 +10883,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "lisk",
@@ -10500,7 +10911,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "zircuit",
@@ -10529,7 +10941,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "tangle",
@@ -10539,7 +10952,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
     "providers": {
-      "Tangle": "wss://rpc.tangle.tools"
+      "Tangle": "wss://rpc.tangle.tools",
+      "Dwellir": "wss://tangle-mainnet-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -10561,7 +10975,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "tangle_evm",
@@ -10588,7 +11003,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "storyOdyssey_testnet",
@@ -10615,7 +11031,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polygon_amoy",
@@ -10642,7 +11059,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polygonzkEvm_cardona",
@@ -10669,7 +11087,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "zksync_era",
@@ -10696,7 +11115,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "apechain",
@@ -10723,7 +11143,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "autonomys_taurus",
@@ -10733,7 +11154,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_3711a63c98.png",
     "providers": {
-      "Taurus": "wss://rpc-0.taurus.subspace.network/ws"
+      "Taurus": "wss://rpc-0.taurus.subspace.network/ws",
+      "Labs 2": "wss://rpc-1.taurus.subspace.network/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -10755,7 +11177,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "gnosis",
@@ -10782,7 +11205,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "autonomys",
@@ -10792,7 +11216,9 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_8a1889d3e1.png",
     "providers": {
-      "Subspace": "wss://rpc-1.mainnet.subspace.network/ws"
+      "Subspace": "wss://rpc-1.mainnet.subspace.network/ws",
+      "Foundation": "wss://rpc.mainnet.subspace.foundation/ws",
+      "Labs": "wss://rpc-0.mainnet.autonomys.xyz/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -10814,7 +11240,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "fraxtal",
@@ -10841,7 +11268,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "cyber",
@@ -10868,13 +11296,14 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "g6_testnet",
     "name": "G6 Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/g6_network_d7f88c1505.png",
     "providers": {
@@ -10900,7 +11329,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "jamton",
@@ -10932,7 +11362,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "etherlink",
@@ -10959,7 +11390,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "polkadot_people",
@@ -10996,7 +11428,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "laos_network",
@@ -11006,7 +11439,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {
-      "LaosFoundation": "wss://rpc.laos.laosfoundation.io"
+      "LaosFoundation": "wss://rpc.laos.laosfoundation.io",
+      "Dwellir": "wss://laos-rpc.dwellir.com"
     },
     "evmInfo": {
       "evmChainId": 6283,
@@ -11039,7 +11473,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ithaca",
@@ -11066,7 +11501,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ink",
@@ -11094,7 +11530,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "celo",
@@ -11121,7 +11558,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "celo_alfajores",
@@ -11148,7 +11586,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "lens_network_sepolia",
@@ -11175,7 +11614,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sophon_testnet",
@@ -11202,7 +11642,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "abstract_testnet",
@@ -11229,7 +11670,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dia_lasernet_testnet",
@@ -11256,7 +11698,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "muse_testnet",
@@ -11296,7 +11739,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "soneium",
@@ -11323,7 +11767,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "dbcchain_evm",
@@ -11350,7 +11795,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "analog_timechain",
@@ -11382,7 +11828,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "rootstock",
@@ -11411,7 +11858,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "gravity_alpha",
@@ -11438,7 +11886,49 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "westend_assethub",
+    "name": "Westend Asset Hub",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
+    "providers": {
+      "Parity": "wss://westend-asset-hub-rpc.polkadot.io",
+      "Dwellir": "wss://asset-hub-westend-rpc.dwellir.com",
+      "Dwellir Tunisia": "wss://westmint-rpc-tn.dwellir.com",
+      "IBP1": "wss://sys.ibp.network/asset-hub-westend",
+      "IBP2": "wss://asset-hub-westend.dotters.network",
+      "Permanence DAO EU": "wss://asset-hub-westend.rpc.permanence.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "westend",
+      "paraId": 1000,
+      "genesisHash": "0x67f9723393ef76214df0118c34bbbd3dbebc8ed46a10973a8c969d48fe7598c9",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://assethub-westend.subscan.io/",
+      "existentialDeposit": "1000000000",
+      "symbol": "WND",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "assethub-westend",
+      "chainBalanceSlug": null
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "torus",
@@ -11470,7 +11960,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "story_protocol",
@@ -11497,7 +11988,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "sophon",
@@ -11525,7 +12017,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "story_aeneid",
@@ -11552,7 +12045,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "unichain",
@@ -11579,7 +12073,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "siliconZkEvm",
@@ -11607,7 +12102,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "ternoaZkEvm",
@@ -11634,7 +12130,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "gen6_public",
@@ -11666,7 +12163,8 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "monad_testnet",
@@ -11693,7 +12191,8 @@
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
   },
   {
     "slug": "melodie_testnet",
@@ -11725,6 +12224,51 @@
     },
     "extraInfo": null,
     "bitcoinInfo": null,
-    "tonInfo": null
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "cardano",
+    "name": "Cardano",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
+    "providers": {
+      "Blockfrost": "FAKE"
+    },
+    "evmInfo": null,
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": {
+      "blockExplorer": "https://cardanoscan.io",
+      "existentialDeposit": "0",
+      "decimals": 6,
+      "symbol": "ADA"
+    }
+  },
+  {
+    "slug": "cardano_preproduction",
+    "name": "Cardano Preproduction",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
+    "providers": {
+      "Blockfrost": "FAKE"
+    },
+    "evmInfo": null,
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": {
+      "blockExplorer": "https://preprod.cardanoscan.io",
+      "existentialDeposit": "0",
+      "decimals": 6,
+      "symbol": "tADA"
+    }
   }
 ]

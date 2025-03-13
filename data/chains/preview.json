@@ -1112,7 +1112,7 @@
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
       "Blast": "wss://moonriver.public.blastapi.io",
-      "Dwellir": "wss://moonriver-rpc.dwellir.com",
+      "Dwellir 2": "wss://moonriver-rpc.n.dwellir.com",
       "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
       "UnitedBloc": "wss://moonriver.unitedbloc.com"
     },
@@ -1781,8 +1781,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_285eea3042.png",
     "providers": {
       "Galactic Council": "wss://rpc.hydradx.cloud",
-      "Dwellir": "wss://hydradx-rpc.dwellir.com",
       "Helikon": "wss://rpc.helikon.io/hydradx",
+      "Dwellir 2": "wss://hydration-rpc.n.dwellir.com",
       "IBP1": "wss://hydration.ibp.network",
       "IBP2": "wss://hydration.dotters.network"
     },
@@ -1871,8 +1871,8 @@
     "ordinal": 44,
     "icon": "https://static-data.subwallet.app/chains/images/icon/centrifuge_1210a93e56.png",
     "providers": {
-      "Centrifuge": "wss://fullnode.parachain.centrifuge.io",
       "OnFinality": "wss://centrifuge-parachain.api.onfinality.io/public-ws",
+      "Fullnode": "wss://fullnode.centrifuge.io",
       "Dwellir": "wss://centrifuge-rpc.dwellir.com",
       "LuckyFriday": "wss://rpc-centrifuge.luckyfriday.io"
     },
@@ -2707,7 +2707,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/basilisk_bebf244e67.png",
     "providers": {
       "Basilisk ": "wss://rpc.basilisk.cloud",
-      "Dwellir": "wss://basilisk-rpc.dwellir.com"
+      "Dwellir 2": "wss://basilisk-rpc.n.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3067,9 +3067,9 @@
     "ordinal": 70,
     "icon": "https://static-data.subwallet.app/chains/images/icon/unique_network_2e3617d2d1.png",
     "providers": {
-      "unique": "wss://us-ws.unique.network/",
-      "UniqueEu": "wss://eu-ws.unique.network/",
-      "UniqueAsia": "wss://asia-ws.unique.network/",
+      "unique": "wss://us-ws.unique.network",
+      "UniqueEu": "wss://eu-ws.unique.network",
+      "UniqueAsia": "wss://asia-ws.unique.network",
       "Dwellir": "wss://unique-rpc.dwellir.com",
       "Geo Load Balancer": "wss://ws.unique.network",
       "IBP1": "wss://unique.ibp.network",
@@ -4506,7 +4506,7 @@
     "ordinal": 102,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kabocha_94a09c6441.png",
     "providers": {
-      "JelliedOwl": "wss://kabocha.jelliedowl.com"
+      "Kabocha": "wss://kabocha.jelliedowl.net"
     },
     "evmInfo": null,
     "substrateInfo": {
