@@ -772,6 +772,26 @@
     ]
   },
   {
+    "id": 194,
+    "title": "Polimec",
+    "description": "Polimec enables fundraising in a decentralized, transparent, and regulatory compliant manner, aligning stakeholder incentives during and beyond the fundraise.",
+    "url": "https://app.polimec.org/",
+    "subtitle": "Decentralized Fundraising platform",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 295,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polimec_487d8ec1e2.png",
+    "preview_image": null,
+    "chains": [
+      "polimec"
+    ],
+    "categories": [
+      "utilities"
+    ]
+  },
+  {
     "id": 18,
     "title": "Parallel Finance App",
     "description": "Parallel Finance is designed to create a low entry barrier to accessing Decentralized Finance. Parallel users can leverage derivative assets generated from one product to earn additional yields through the money market protocol.",
@@ -1228,6 +1248,27 @@
     "categories": [
       "data",
       "tooling"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "PolkaIdentity",
+    "description": "PolkaIdentity revolutionizes digital identity with self-sovereign, fraud-proof credentials anchored to Polkadot’s blockchain. Own your data, share selectively, and unlock seamless access to DeFi, DAOs, and Web3.",
+    "url": "https://app.polkaidentity.com/",
+    "subtitle": "Decentralized IDs Registration on Polkadot",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 435,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkaidentity_6b29a71144.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "categories": [
+      "utilities"
     ]
   },
   {
