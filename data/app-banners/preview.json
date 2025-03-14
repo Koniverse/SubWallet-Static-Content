@@ -898,5 +898,40 @@
     ],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 109,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/MYTH_staking_at_tokens_home_screen_9416590604.png",
+    "info": {
+      "id": 185,
+      "name": "Extension - Stake MYTH Today",
+      "description": null,
+      "start_time": "2025-03-13T17:00:00.000Z",
+      "stop_time": "2025-03-29T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "mythos-NATIVE-MYTH"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
   }
 ]
