@@ -920,7 +920,13 @@
       "os": null,
       "is_changelog_popup": null
     },
-    "action": null,
+    "action": {
+      "id": 160,
+      "url": "index.html#/home/earning",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [
       {
         "property": "tokenSlug",
@@ -932,13 +938,6 @@
       }
     ],
     "conditions": {},
-    "instruction": {
-      "id": 100,
-      "confirm_label": "Stake",
-      "cancel_label": "Cancel",
-      "instruction_id": 2,
-      "group": "earning",
-      "slug": "NATIVE_STAKING"
-    }
+    "instruction": null
   }
 ]
