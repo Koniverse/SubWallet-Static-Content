@@ -1067,5 +1067,54 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 77,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "![MYTH popup.png](https://media-resources.subwallet.app/6/MYTH_popup_7e5a2e583f.png)",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 187,
+      "name": "Stake MYTH Today",
+      "description": null,
+      "start_time": "2025-03-13T17:00:00.000Z",
+      "stop_time": "2025-03-29T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 129,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 130,
+        "label": "Stake",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 162,
+          "url": "index.html#/home/earning",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
