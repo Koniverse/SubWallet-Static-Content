@@ -3379,17 +3379,17 @@
     "assetRefs": []
   },
   {
-    "slug": "litentry-NATIVE-LIT",
-    "name": "Litentry",
-    "symbol": "LIT",
+    "slug": "litentry-NATIVE-HEI",
+    "name": "Heima",
+    "symbol": "HEI",
     "decimals": 18,
-    "priceId": "litentry",
+    "priceId": "heima",
     "minAmount": "100000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
     "ordinal": 144,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/litentry_510131ace4.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_8db29ca204.png",
     "originChain": "litentry",
     "multiChainAsset": null,
     "assetRefs": []
@@ -14274,7 +14274,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "aleph",
-    "multiChainAsset": "WETH-WrappedEther",
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   },
   {
