@@ -932,6 +932,13 @@
       }
     ],
     "conditions": {},
-    "instruction": null
+    "instruction": {
+      "id": 100,
+      "confirm_label": "Stake",
+      "cancel_label": "Cancel",
+      "instruction_id": 2,
+      "group": "earning",
+      "slug": "NATIVE_STAKING"
+    }
   }
 ]
