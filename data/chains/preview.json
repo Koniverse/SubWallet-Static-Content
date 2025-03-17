@@ -1431,7 +1431,7 @@
       "symbol": "KMA",
       "decimals": 12,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -4802,7 +4802,7 @@
       "symbol": "KMA",
       "decimals": 12,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -10316,7 +10316,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc-mainnet.koni.studio"
+      "Toncenter": "https://ton-rpc-migrate.koni.studio/"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -10342,7 +10342,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet.koni.studio"
+      "TonCenter": "https://ton-rpc-testnet-migrate.koni.studio/"
     },
     "evmInfo": null,
     "substrateInfo": null,
