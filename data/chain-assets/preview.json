@@ -120,6 +120,18 @@
         "metadata": null,
         "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-NATIVE-HDX"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-USDT"
       }
     ]
   },
