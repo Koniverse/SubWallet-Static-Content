@@ -10316,7 +10316,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc-migrate.koni.studio/"
+      "Toncenter": "https://ton-rpc-migrate.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -10342,7 +10342,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet-migrate.koni.studio/"
+      "TonCenter": "https://ton-rpc-testnet-migrate.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
