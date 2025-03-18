@@ -18,6 +18,12 @@
         "symbol": "DOT",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "polkadot",
+        "symbol": "DOT",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "polkadot",
@@ -44,6 +50,12 @@
         "symbol": "KSM",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "kusama",
+        "symbol": "KSM",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "kusama",
@@ -94,6 +106,12 @@
   {
     "serviceInfo": {
       "transak": {
+        "network": "astar",
+        "symbol": "ASTR",
+        "isSuspended": false,
+        "supportSell": null
+      },
+      "meld": {
         "network": "astar",
         "symbol": "ASTR",
         "isSuspended": false,
@@ -266,6 +284,12 @@
         "symbol": "GLMR",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "moonbeam",
+        "symbol": "GLMR",
+        "isSuspended": false,
+        "supportSell": null
       }
     },
     "network": "moonbeam",
@@ -297,6 +321,12 @@
       },
       "banxa": {
         "network": "MOVR",
+        "symbol": "MOVR",
+        "isSuspended": false,
+        "supportSell": null
+      },
+      "meld": {
+        "network": "moonriver",
         "symbol": "MOVR",
         "isSuspended": false,
         "supportSell": null
@@ -706,6 +736,12 @@
         "symbol": "AZERO",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "aleph",
+        "symbol": "AZERO",
+        "isSuspended": false,
+        "supportSell": null
       }
     },
     "network": "aleph",
@@ -762,6 +798,12 @@
         "symbol": "BNC",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "bifrost",
+        "symbol": "BNC",
+        "isSuspended": false,
+        "supportSell": null
       }
     },
     "network": "bifrost",
@@ -801,6 +843,12 @@
     "serviceInfo": {
       "banxa": {
         "network": "KAR",
+        "symbol": "KAR",
+        "isSuspended": false,
+        "supportSell": null
+      },
+      "meld": {
+        "network": "karura",
         "symbol": "KAR",
         "isSuspended": false,
         "supportSell": null
@@ -874,6 +922,12 @@
         "symbol": "VARA",
         "isSuspended": false,
         "supportSell": false
+      },
+      "meld": {
+        "network": "vara_network",
+        "symbol": "VARA",
+        "isSuspended": false,
+        "supportSell": null
       }
     },
     "network": "vara_network",
@@ -900,5 +954,103 @@
     "slug": "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
     "symbol": "USDC",
     "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "hydradx_main",
+        "symbol": "HDX",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "hydradx_main",
+    "slug": "hydradx_main-NATIVE-HDX",
+    "symbol": "HDX",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "basilisk",
+        "symbol": "BSX",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "basilisk",
+    "slug": "basilisk-NATIVE-BSX",
+    "symbol": "BSX",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "kilt",
+        "symbol": "KILT",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "kilt",
+    "slug": "kilt-NATIVE-KILT",
+    "symbol": "KILT",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "bifrost_dot",
+        "symbol": "BNC_BNCPOLKA",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "bifrost_dot",
+    "slug": "bifrost_dot-NATIVE-BNC",
+    "symbol": "BNC",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "acala",
+        "symbol": "ACA",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "acala",
+    "slug": "acala-NATIVE-ACA",
+    "symbol": "ACA",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "statemint",
+        "symbol": "USDT_DOT",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "statemint",
+    "slug": "statemint-LOCAL-USDt",
+    "symbol": "USDt",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "statemint",
+        "symbol": "USDC_DOT",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "statemint",
+    "slug": "statemint-LOCAL-USDC",
+    "symbol": "USDC",
+    "support": "SUBSTRATE"
   }
 ]
