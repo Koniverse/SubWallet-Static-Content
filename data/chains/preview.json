@@ -3256,7 +3256,7 @@
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crowdloan.zeitgeist.pm/",
       "blockExplorer": "https://zeitgeist.subscan.io/",
-      "existentialDeposit": "50000000",
+      "existentialDeposit": "5000000000",
       "symbol": "ZTG",
       "decimals": 10,
       "hasNativeNft": false,
@@ -10316,7 +10316,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "Toncenter": "https://ton-rpc-migrate.koni.studio"
+      "Toncenter": "https://ton-rpc-mainnet.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -10342,7 +10342,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ton_050d3ba698.png",
     "providers": {
-      "TonCenter": "https://ton-rpc-testnet-migrate.koni.studio"
+      "TonCenter": "https://ton-rpc-testnet.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
