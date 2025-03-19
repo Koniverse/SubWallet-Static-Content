@@ -1029,7 +1029,7 @@
     "serviceInfo": {
       "meld": {
         "network": "statemint",
-        "symbol": "USDT_DOT",
+        "symbol": "USDT_ASSETHUB",
         "isSuspended": false,
         "supportSell": null
       }
