@@ -33,7 +33,7 @@
         "icon": "Wallet",
         "icon_color": "#51BC5E",
         "title": "Claim your rewards",
-        "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
+        "description": "Your staking rewards will be paid out every {paidOut} hours. Make sure to claim them <strong>manually</strong>"
       },
       {
         "id": 33,
@@ -171,7 +171,7 @@
         "icon": "Wallet",
         "icon_color": "#51BC5E",
         "title": "Check your rewards",
-        "description": "Your staking rewards will be paid out every {paidOut} hour and will be automatically compounded to your stake"
+        "description": "Your staking rewards will be paid out every {paidOut} hours and will be automatically compounded to your stake"
       },
       {
         "id": 10,
@@ -217,7 +217,7 @@
         "icon": "Wallet",
         "icon_color": "#51BC5E",
         "title": "Claim your rewards",
-        "description": "Your staking rewards will be paid out every {paidOut} hour. Make sure to claim them <strong>manually</strong>"
+        "description": "Your staking rewards will be paid out every {paidOut} hours. Make sure to claim them <strong>manually</strong>"
       },
       {
         "id": 5,
