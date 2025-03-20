@@ -90,6 +90,15 @@ const cacheConfigs = [
         langs: ['en', 'vi', 'zh', 'ja', 'ru'],
     },
     {
+        url: `${STRAPI_URL}/api/list/instruction-new`,
+        folder: 'instruction-news',
+        fileName: 'list.json',
+        imageFields: ['media'],
+        removeFields: [],
+        preview: 'preview.json',
+        langs: ['en', 'vi', 'zh', 'ja', 'ru'],
+    },
+    {
         url: `${STRAPI_URL}/api/list/change-log`,
         folder: 'change-logs',
         fileName: 'list.json',
