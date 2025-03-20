@@ -1,0 +1,600 @@
+[
+  {
+    "id": 2,
+    "group": "earning",
+    "slug": "DAPP_STAKING",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 215,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select {validatorNumber} dApps",
+        "description": "It is recommended that you select {validatorNumber} dApp to optimize your staking rewards"
+      },
+      {
+        "id": 216,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are <strong>not automated</strong> and will incur network fees"
+      },
+      {
+        "id": 217,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, reward claiming, unstaking and withdrawals"
+      },
+      {
+        "id": 218,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hours. Make sure to claim them <strong>manually</strong>"
+      },
+      {
+        "id": 219,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 7,
+    "group": "earning",
+    "slug": "DEMO_VARCH",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 240,
+        "icon": "NumberCircleOne",
+        "icon_color": "#e42121",
+        "title": "Stake $DOT to get $VARCH",
+        "description": "1. To qualify, your $DOT must be staked on the Polkadot relay, or staked via Bifrost for $vDOT or Composable for $LSDOT. For staking on the relay, we recommend checking out SubWallet \n\n2. $vDOT utilized on hydraDX will also count, pending cooperation with the HydraDX team. The same goes for $vDOT used on Interlay & Stellaswap. However, this will all depend on those teams cooperation \nleading up to the snapshot. "
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 8,
+    "group": "earning",
+    "slug": "LENDING",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 242,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Receive {derivative}",
+        "description": "You will receive {derivative} as a representation of your supplied {inputToken}"
+      },
+      {
+        "id": 241,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Withdraw anytime",
+        "description": "Once supplied, your funds will be locked. Withdraw your funds anytime with a fee"
+      },
+      {
+        "id": 243,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 244,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Check your {derivative}",
+        "description": "The amount of {derivative} doesn’t increase over time, only its value in {inputToken} does. This means that by the time you decide to withdraw {inputToken} from {derivative}, your {derivative} should be worth more than your originally supplied {inputToken}"
+      },
+      {
+        "id": 245,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your APY",
+        "description": "Keep an eye on your supply as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 13,
+    "group": "earning",
+    "slug": "LIQUID_STAKING",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 266,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Receive {derivative}",
+        "description": "You will receive {derivative} as a representation of your staked {inputToken}"
+      },
+      {
+        "id": 267,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw immediately with a higher fee or wait up to {periodNumb} before withdrawing with a lower fee"
+      },
+      {
+        "id": 268,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 269,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Check your {derivative}",
+        "description": "The amount of {derivative} doesn’t increase over time, only its value in {inputToken} does. This means that by the time you decide to withdraw {inputToken} from {derivative}, your {derivative} should be worth more than your originally staked {inputToken}"
+      },
+      {
+        "id": 270,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your APY",
+        "description": "Keep an eye on your stake as APY can fluctuate over time. APY fluctuation is determined by the protocol beyond SubWallet’s control"
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 18,
+    "group": "earning",
+    "slug": "NATIVE_STAKING",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 291,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select {validatorNumber} {validatorType}",
+        "description": "It is recommended that you select {validatorNumber} {validatorType} to optimize your staking rewards"
+      },
+      {
+        "id": 292,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are <strong>not automated</strong> and will incur network fees"
+      },
+      {
+        "id": 293,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 294,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Check your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hours and will be automatically compounded to your stake"
+      },
+      {
+        "id": 295,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Manage your stake",
+        "description": "You need to monitor your stake constantly and change {validatorType} when needed as staking status can fluctuate over time"
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 23,
+    "group": "earning",
+    "slug": "NOMINATION_POOL",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 316,
+        "icon": "ThumbsUp",
+        "icon_color": "#aada62",
+        "title": "Select active pool",
+        "description": "It is recommended that you select an active pool with the <strong>Earning</strong> status to earn staking rewards"
+      },
+      {
+        "id": 317,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "Unstake and withdraw",
+        "description": "Once staked, your funds will be locked. Unstake your funds anytime and withdraw after a period of <strong>{periodNumb}</strong>. Keep in mind that these actions are not automated and will incur network fees"
+      },
+      {
+        "id": 318,
+        "icon": "CheckCircle",
+        "icon_color": "#4cd9ac",
+        "title": "Keep your transferable balance",
+        "description": "Ensure that your transferable balance includes <strong>a minimum of {maintainBalance} {maintainSymbol}</strong> to cover your existential deposit and network fees associated with staking, unstaking, and withdrawals"
+      },
+      {
+        "id": 319,
+        "icon": "Wallet",
+        "icon_color": "#51BC5E",
+        "title": "Claim your rewards",
+        "description": "Your staking rewards will be paid out every {paidOut} hours. Make sure to claim them <strong>manually</strong>"
+      },
+      {
+        "id": 320,
+        "icon": "Eye",
+        "icon_color": "#008dff",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 29,
+    "group": "earning",
+    "slug": "UNSTAKE_INFO",
+    "title": null,
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 344,
+        "icon": "ClockClockwise",
+        "icon_color": "#2595e6",
+        "title": "Wait time",
+        "description": "Once unstaked, your funds will become available for withdrawal after {unBondedTime}"
+      },
+      {
+        "id": 345,
+        "icon": "Coins",
+        "icon_color": "#e6dc25",
+        "title": "No rewards",
+        "description": "During the unstaking period of {unBondedTime}, your tokens produce no rewards"
+      },
+      {
+        "id": 346,
+        "icon": "DownloadSimple",
+        "icon_color": "#aada62",
+        "title": "Manual withdrawal",
+        "description": "Keep in mind that you need to withdraw manually after the wait time is over"
+      }
+    ],
+    "media": null
+  },
+  {
+    "id": 1,
+    "group": null,
+    "slug": "AZERO_Alephzero",
+    "title": "Stake AZERO. Get Common Drops!",
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 210,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "How to get involved",
+        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
+      },
+      {
+        "id": 211,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Common Staking Drops distribution",
+        "description": "The rewards are calculated based on your Effective Stake. They are distributed in four main rounds: the OG Drop, which will award long-time stakers, and the Intro Drop, which has already been distributed. Go to the Common blog for a detailed breakdown!"
+      },
+      {
+        "id": 212,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "What is Effective Stake?",
+        "description": "Effective Stake is the lower number of either your daily average stake of AZERO during a round, or your staked AZERO at the time of distribution."
+      },
+      {
+        "id": 213,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "How to get the Liquidity Drops?",
+        "description": "There are also Common LP Drops (CLD) waiting for you–just add liquidity to the pools with the Drops icon, and you’ll get them daily, together with additional AZERO from farming.\nBoth CSD and CLD are non-transferable and will be redeemable for CMN tokens after their launch."
+      },
+      {
+        "id": 214,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Common LP Drops distribution",
+        "description": "The Common LP Drops are distributed daily to users who join the farms in Common, marked with the Drops icon. To see them in your wallet, you must manually claim the rewards. Go to Alephoria website to find out more!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instruction-news/images/media/A0_1_c671ff3eec.png"
+  },
+  {
+    "id": 28,
+    "group": null,
+    "slug": "Test_AZERO",
+    "title": "Stake AZERO",
+    "faq_url": "https://docs.subwallet.app/main/mobile-app-user-guide/getting-started",
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 341,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "How to get involved",
+        "description": "- Stake AZERO during the campaign and get Common Staking Drops (CSD)! \n- The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
+      },
+      {
+        "id": 342,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "What is Effective Stake?",
+        "description": "- Stake AZERO during the campaign and get Common Staking Drops (CSD)!\n- The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
+      },
+      {
+        "id": 343,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "How to get involved",
+        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instruction-news/images/media/Update_your_app_version_b142589838.png"
+  },
+  {
+    "id": 34,
+    "group": null,
+    "slug": "Vara_Campaign",
+    "title": "$9,500 pool prize in VARA",
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 359,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 360,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 361,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 362,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 363,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 365,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 364,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instruction-news/images/media/1432_480_b162ce7765.png"
+  },
+  {
+    "id": 35,
+    "group": null,
+    "slug": "Vara_Campaign Extension 2",
+    "title": "$9,500 pool prize in VARA",
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 366,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 367,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 368,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 369,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 370,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 371,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 372,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instruction-news/images/media/1432_480_1_246c478270.png"
+  },
+  {
+    "id": 36,
+    "group": null,
+    "slug": "Vara_Campaign_Mobile",
+    "title": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 373,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 374,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 375,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 376,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 377,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 379,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 378,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instruction-news/images/media/1432_480_b162ce7765.png"
+  },
+  {
+    "id": 37,
+    "group": null,
+    "slug": "Vara_Campaign_Mobile - 2",
+    "title": "$9,500 pool prize in VARA with Vara Kick-to-Airdrop campaign",
+    "faq_url": null,
+    "locale": "en",
+    "instructions": [
+      {
+        "id": 380,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Terms and Conditions",
+        "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 30,000 NPS for 1 raffle entry.\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\nThe detailed mechanism is as follows"
+      },
+      {
+        "id": 381,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Football Leaderboard",
+        "description": "The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries."
+      },
+      {
+        "id": 382,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Vara Onchain Check-In Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS."
+      },
+      {
+        "id": 383,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Based on Invite Leaderboard",
+        "description": "The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased."
+      },
+      {
+        "id": 384,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Social Event Activities",
+        "description": "Participate in social activities to earn additional raffle entries with NPS."
+      },
+      {
+        "id": 385,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Notes",
+        "description": "Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited."
+      },
+      {
+        "id": 386,
+        "icon": null,
+        "icon_color": "#1A1A1A",
+        "title": "Disclaimer",
+        "description": "We're responsible for listing campaigns only. The decision to participate is entirely up to you. So, make sure to do your own research!"
+      }
+    ],
+    "media": "https://static-data.subwallet.app/instruction-news/images/media/1432_480_1_246c478270.png"
+  }
+]
