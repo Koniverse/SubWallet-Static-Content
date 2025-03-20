@@ -243,6 +243,13 @@
         "icon_color": "#008dff",
         "title": "Track your stake",
         "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
+      },
+      {
+        "id": 387,
+        "icon": "Activity",
+        "icon_color": "#3f40d0",
+        "title": "Track your stake",
+        "description": "Keep an eye on your stake periodically, as rewards and staking status can fluctuate over time"
       }
     ],
     "media": null
