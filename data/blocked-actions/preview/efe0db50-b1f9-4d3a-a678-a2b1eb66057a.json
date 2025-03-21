@@ -1,7 +1,9 @@
 {
   "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [],
+    "transfer.balance": [
+      "transfer.balance___autonomys-NATIVE-AI3___autonomys"
+    ],
     "transfer.token": [],
     "transfer.xcm": [],
     "send_nft": [],
