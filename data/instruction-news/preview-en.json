@@ -326,38 +326,6 @@
     "media": "https://static-data.subwallet.app/instruction-news/images/media/A0_1_c671ff3eec.png"
   },
   {
-    "id": 28,
-    "group": null,
-    "slug": "Test_AZERO",
-    "title": "Stake AZERO",
-    "faq_url": "https://docs.subwallet.app/main/mobile-app-user-guide/getting-started",
-    "locale": "en",
-    "instructions": [
-      {
-        "id": 341,
-        "icon": null,
-        "icon_color": "#1A1A1A",
-        "title": "How to get involved",
-        "description": "- Stake AZERO during the campaign and get Common Staking Drops (CSD)! \n- The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
-      },
-      {
-        "id": 342,
-        "icon": null,
-        "icon_color": "#1A1A1A",
-        "title": "What is Effective Stake?",
-        "description": "- Stake AZERO during the campaign and get Common Staking Drops (CSD)!\n- The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
-      },
-      {
-        "id": 343,
-        "icon": null,
-        "icon_color": "#1A1A1A",
-        "title": "How to get involved",
-        "description": "Stake AZERO during the campaign and get Common Staking Drops (CSD)! The longer you stake during a round, the better - and you need to be staking actively when the distribution happens."
-      }
-    ],
-    "media": "https://static-data.subwallet.app/instruction-news/images/media/Update_your_app_version_b142589838.png"
-  },
-  {
     "id": 34,
     "group": null,
     "slug": "Vara_Campaign",
