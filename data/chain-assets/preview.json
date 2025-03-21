@@ -20342,5 +20342,23 @@
         "destAsset": "hydradx_main-LOCAL-DOT"
       }
     ]
+  },
+  {
+    "slug": "ethereum-ERC20-PEAQ-0x1EeF208926667594E5136e89D0e9DD6907959197",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "decimals": 18,
+    "priceId": "peaq-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x1EeF208926667594E5136e89D0e9DD6907959197"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
   }
 ]
