@@ -1,7 +1,9 @@
 {
   "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [],
+    "transfer.balance": [
+      "transfer.balance___autonomys-NATIVE-AI3___autonomys"
+    ],
     "transfer.token": [],
     "transfer.xcm": [
       "transfer.xcm___statemint-LOCAL-PINK___bifrost_dot",
