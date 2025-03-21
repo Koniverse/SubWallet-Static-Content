@@ -2,7 +2,7 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.balance___autonomys-NATIVE-AI3___autonomys"
+      "transfer.balance___autonomys-NATIVE-AI3"
     ],
     "transfer.token": [],
     "transfer.xcm": [],
