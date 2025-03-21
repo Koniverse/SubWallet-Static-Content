@@ -1040,14 +1040,7 @@
     "support": "SUBSTRATE"
   },
   {
-    "serviceInfo": {
-      "meld": {
-        "network": "statemint",
-        "symbol": "USDC_DOT",
-        "isSuspended": false,
-        "supportSell": null
-      }
-    },
+    "serviceInfo": {},
     "network": "statemint",
     "slug": "statemint-LOCAL-USDC",
     "symbol": "USDC",
