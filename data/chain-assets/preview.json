@@ -10927,6 +10927,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-NATIVE-ASTR"
       }
     ]
   },
