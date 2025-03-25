@@ -42,5 +42,10 @@
     "appConfig": {
       "environment": "webapp"
     }
+  },
+  "0b71427e-deaf-481a-b352-fb93b331e3a0": {
+    "appConfig": {
+      "environment": "extension"
+    }
   }
 }
