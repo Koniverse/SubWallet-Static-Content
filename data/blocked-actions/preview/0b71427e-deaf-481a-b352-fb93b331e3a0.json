@@ -6,11 +6,11 @@
     "transfer.xcm": [],
     "send_nft": [],
     "swap": [],
-    "staking.join_pool": [
-      "staking.join_pool___bittensor"
-    ],
+    "staking.join_pool": [],
     "staking.leave_pool": [],
-    "staking.bond": [],
+    "staking.bond": [
+      "staking.bond___bittensor"
+    ],
     "staking.unbond": [],
     "staking.claim_reward": [],
     "staking.withdraw": [],
