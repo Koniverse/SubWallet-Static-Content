@@ -20437,6 +20437,7 @@
     "minAmount": "70000",
     "assetType": "LOCAL",
     "metadata": {
+      "isBridged": true,
       "multilocation": {
         "parents": 1,
         "interior": {
@@ -20470,6 +20471,7 @@
     "minAmount": "70000",
     "assetType": "LOCAL",
     "metadata": {
+      "isBridged": true,
       "multilocation": {
         "parents": 1,
         "interior": {
@@ -20503,6 +20505,7 @@
     "minAmount": "100000000",
     "assetType": "LOCAL",
     "metadata": {
+      "isBridged": true,
       "multilocation": {
         "parents": 1,
         "interior": "Here"
@@ -20542,6 +20545,7 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
+      "isBridged": true,
       "multilocation": {
         "parents": 2,
         "interior": {
