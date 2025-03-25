@@ -11375,6 +11375,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polygon_amoy-ERC20-WETH-0x52eF3d68BaB452a294342DC3e5f464d7f610f72E"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -14841,6 +14847,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "rococo_assethub-LOCAL-WETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -17568,6 +17580,12 @@
         "metadata": null,
         "disable": true,
         "destAsset": "sepolia_ethereum-ERC20-USDC-0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
       }
     ]
   },
@@ -17957,7 +17975,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_39914b7817.png",
     "originChain": "base_sepolia",
     "multiChainAsset": null,
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      }
+    ]
   },
   {
     "slug": "ethereum-ERC20-XAUt-0x68749665FF8D2d112Fa859AA293F07A622782F38",
@@ -20365,6 +20390,184 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano-CIP26-USDA-fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
+    "name": "Anzens USDA Stablecoin",
+    "symbol": "USDA",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usda_b82e410779.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano-CIP26-MIN-29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+    "name": "Minswap",
+    "symbol": "MIN",
+    "decimals": 6,
+    "priceId": "minswap",
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/min_b02f383f89.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-LOCAL-USDT",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "70000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "polimec",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "70000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "polimec",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-LOCAL-DOT",
+    "name": "DOT AssetHub",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "multilocation": {
+        "parents": 1,
+        "interior": "Here"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "polimec",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-EWT",
+    "name": "EWT",
+    "symbol": "EWT",
+    "decimals": 18,
+    "priceId": "energy-web-token",
+    "minAmount": "3244646333550",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "252525"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/energy_web_chain_fb2360f26c.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-MYTH-Snowbridge",
+    "name": "MYTH-Snowbridge",
+    "symbol": "MYTH-Snowbridge",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "statemint",
+    "multiChainAsset": "MYTH-Mythos",
     "assetRefs": []
   }
 ]

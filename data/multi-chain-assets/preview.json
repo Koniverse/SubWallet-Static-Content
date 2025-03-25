@@ -97,7 +97,8 @@
       "hydradx_main-LOCAL-DOT",
       "manta_network-LOCAL-DOT",
       "statemine-LOCAL-DOT",
-      "polkadot_people-NATIVE-DOT"
+      "polkadot_people-NATIVE-DOT",
+      "polimec-LOCAL-DOT"
     ]
   },
   {
@@ -173,7 +174,8 @@
       "b2-ERC20-USDT-0x681202351a488040Fa4FdCc24188AfB582c9DD62",
       "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
       "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
-      "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3"
+      "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3",
+      "polimec-LOCAL-USDT"
     ]
   },
   {
@@ -552,7 +554,8 @@
       "b2-ERC20-USDC-0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5",
       "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
-      "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14"
+      "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "polimec-LOCAL-USDC"
     ]
   },
   {
@@ -1057,7 +1060,8 @@
       "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
       "mythos-NATIVE-MYTH",
       "statemint-LOCAL-MYTH",
-      "hydradx_main-LOCAL-MYTH"
+      "hydradx_main-LOCAL-MYTH",
+      "statemint-LOCAL-MYTH-Snowbridge"
     ]
   },
   {
