@@ -1266,7 +1266,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_kusama_cc2473707c.png",
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
-      "Dwellir": "wss://bifrost-rpc.dwellir.com",
       "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
       "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
     },
@@ -1327,7 +1326,6 @@
     "ordinal": 31,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
     "providers": {
-      "Dwellir": "wss://bifrost-polkadot-rpc.dwellir.com",
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
       "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
       "IBP1": "wss://bifrost-polkadot.ibp.network",
@@ -12037,7 +12035,7 @@
     },
     "evmInfo": {
       "evmChainId": 1514,
-      "blockExplorer": "https://www.storyscan.xyz/",
+      "blockExplorer": "https://storyscan.io/",
       "existentialDeposit": "0",
       "symbol": "IP",
       "decimals": 18,
@@ -12094,7 +12092,7 @@
     },
     "evmInfo": {
       "evmChainId": 1315,
-      "blockExplorer": "https://aeneid.storyscan.xyz/",
+      "blockExplorer": "https://aeneid.storyscan.io/",
       "existentialDeposit": "0",
       "symbol": "IP",
       "decimals": 18,
