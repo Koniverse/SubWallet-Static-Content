@@ -946,5 +946,37 @@
     ],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 112,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">=1.2.7",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/MYTH_staking_at_tokens_home_screen_Android_2ea5b202fb.png",
+    "info": {
+      "id": 189,
+      "name": "Mobile - Home - Stake MYTH Today",
+      "description": null,
+      "start_time": "2025-03-19T17:00:00.000Z",
+      "stop_time": "2025-04-02T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 164,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=MYTH-Mythos&symbol=MYTH",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
