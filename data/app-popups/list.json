@@ -724,54 +724,5 @@
       }
     ],
     "conditions": {}
-  },
-  {
-    "id": 78,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "![MYTH staking at tokens home screen - Extension.png](https://media-resources.subwallet.app/MYTH_staking_at_tokens_home_screen_Extension_b6017fa4c5.png)",
-    "repeat_every_x_days": null,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": ">=1.2.7",
-    "os_version_range": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 190,
-      "name": "MYTH Staking is Live",
-      "description": null,
-      "start_time": "2025-03-19T17:00:00.000Z",
-      "stop_time": "2025-04-02T17:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "buttons": [
-      {
-        "id": 131,
-        "label": "Dismiss",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 132,
-        "label": "Stake",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 165,
-          "url": "subwallet://home/main/earning/earning-pool-list?group=MYTH-Mythos&symbol=MYTH",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
   }
 ]
