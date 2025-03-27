@@ -3,7 +3,9 @@
   "blockedActionsMap": {
     "transfer.balance": [],
     "transfer.token": [],
-    "transfer.xcm": [],
+    "transfer.xcm": [
+      "transfer.xcm___polkadot-NATIVE-DOT___parallel"
+    ],
     "send_nft": [],
     "swap": [
         "swap___polkadot-NATIVE-DOT___arbitrum_one-NATIVE-ETH___CHAIN_FLIP_MAINNET",
