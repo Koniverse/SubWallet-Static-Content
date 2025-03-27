@@ -1266,7 +1266,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_kusama_cc2473707c.png",
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
-      "Dwellir": "wss://bifrost-rpc.dwellir.com",
       "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
       "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
     },
@@ -1327,7 +1326,6 @@
     "ordinal": 31,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
     "providers": {
-      "Dwellir": "wss://bifrost-polkadot-rpc.dwellir.com",
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
       "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
       "IBP1": "wss://bifrost-polkadot.ibp.network",
@@ -1431,7 +1429,7 @@
       "symbol": "KMA",
       "decimals": 12,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": [
@@ -3256,7 +3254,7 @@
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crowdloan.zeitgeist.pm/",
       "blockExplorer": "https://zeitgeist.subscan.io/",
-      "existentialDeposit": "50000000",
+      "existentialDeposit": "5000000000",
       "symbol": "ZTG",
       "decimals": 10,
       "hasNativeNft": false,
@@ -3939,9 +3937,9 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 89,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/heima_8db29ca204.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/heima_9721f3204f.png",
     "providers": {
-      "Litentry": "wss://rpc.litentry-parachain.litentry.io",
+      "Litentry": "wss://rpc.heima-parachain.heima.network",
       "Dwellir": "wss://litentry-rpc.dwellir.com"
     },
     "evmInfo": null,
@@ -3952,7 +3950,7 @@
       "addressPrefix": 31,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://crowdloan.litentry.com/",
-      "blockExplorer": "https://heima.statescan.io/",
+      "blockExplorer": "https://heima.subscan.io/",
       "existentialDeposit": "100000000000000000",
       "symbol": "HEI",
       "decimals": 18,
@@ -4802,7 +4800,7 @@
       "symbol": "KMA",
       "decimals": 12,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -6511,7 +6509,7 @@
     },
     "evmInfo": {
       "evmChainId": 250,
-      "blockExplorer": "https://ftmscan.com",
+      "blockExplorer": "https://explorer.fantom.network/",
       "existentialDeposit": "0",
       "symbol": "FTM",
       "decimals": 18,
@@ -6819,7 +6817,7 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://scan.bittensor.com/",
+      "blockExplorer": "https://taostats.io/",
       "existentialDeposit": "500",
       "symbol": "TAO",
       "decimals": 9,
@@ -7693,7 +7691,7 @@
       "addressPrefix": 41,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://explorer.polimec.org/polimec",
+      "blockExplorer": "https://polimec.statescan.io/",
       "existentialDeposit": "100000000",
       "symbol": "PLMC",
       "decimals": 10,
@@ -11975,7 +11973,7 @@
     },
     "evmInfo": {
       "evmChainId": 1514,
-      "blockExplorer": "https://www.storyscan.xyz/",
+      "blockExplorer": "https://storyscan.io/",
       "existentialDeposit": "0",
       "symbol": "IP",
       "decimals": 18,
@@ -12032,7 +12030,7 @@
     },
     "evmInfo": {
       "evmChainId": 1315,
-      "blockExplorer": "https://aeneid.storyscan.xyz/",
+      "blockExplorer": "https://aeneid.storyscan.io/",
       "existentialDeposit": "0",
       "symbol": "IP",
       "decimals": 18,
