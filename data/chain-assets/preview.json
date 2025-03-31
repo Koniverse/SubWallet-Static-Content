@@ -696,17 +696,13 @@
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDC"
       }
@@ -9201,17 +9197,13 @@
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-NATIVE-HDX"
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
@@ -10566,9 +10558,7 @@
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "rococo-NATIVE-ROC"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "rococo_assethub-LOCAL-USDt"
       }
@@ -10927,6 +10917,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KSM"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-EWT"
       },
       {
         "type": "XCM",
@@ -11508,9 +11510,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "rococo-NATIVE-ROC"
-        },
+        "metadata": null,
         "disable": true,
         "destAsset": "hydradx_rococo-LOCAL-DOT"
       },
