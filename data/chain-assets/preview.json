@@ -20617,7 +20617,7 @@
     "name": "Omron",
     "symbol": "β",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-2",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -20626,7 +20626,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omron_6c5c994e92.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20674,7 +20674,7 @@
     "name": "De_val",
     "symbol": "ο",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-15",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -20683,7 +20683,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/de_val_78cda9aa67.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20712,7 +20712,7 @@
     "name": "Subvortex",
     "symbol": "η",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-7",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -20721,7 +20721,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subvortex_379f312efa.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20959,7 +20959,7 @@
     "name": "Edge",
     "symbol": "מ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-39",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -20968,7 +20968,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/edge_maxxing_71d6f3c079.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21035,7 +21035,7 @@
     "name": "Celium",
     "symbol": "ת",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-51",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21044,7 +21044,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/compute_subnet_e2ccb6f526.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21111,7 +21111,7 @@
     "name": "Zuvu",
     "symbol": "ψ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-23",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21120,7 +21120,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/socialtensor_8b08d08370.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21149,7 +21149,7 @@
     "name": "Vector-store",
     "symbol": "ξ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-14",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21158,7 +21158,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vectorstore_7aed0a362d.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21187,7 +21187,7 @@
     "name": "Oracle",
     "symbol": "ד",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-28",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21196,7 +21196,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lol_0e0445df34.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21225,7 +21225,7 @@
     "name": "Storb",
     "symbol": "ב",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-26",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21234,7 +21234,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_26_fa92776c26.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21244,7 +21244,7 @@
     "name": "Webgenieai",
     "symbol": "ت",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-54",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21253,7 +21253,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/webgenieai_1692fb7e5f.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21282,7 +21282,7 @@
     "name": "Distributed training",
     "symbol": "ם",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-38",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21291,7 +21291,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/distributed_training_subnet_eae978e537.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21320,7 +21320,7 @@
     "name": "Automl",
     "symbol": "ר",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-49",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21329,7 +21329,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hivetrain_automl_1dfcd0e046.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21358,7 +21358,7 @@
     "name": "Synth",
     "symbol": "ש",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-50",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21367,7 +21367,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/synth_6a870df663.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21434,7 +21434,7 @@
     "name": "Web-agents",
     "symbol": "כ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-36",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21443,7 +21443,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/web_agents_autoppia_bdb8fe91be.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21472,7 +21472,7 @@
     "name": "Naschain",
     "symbol": "ז",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-31",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21481,7 +21481,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nas_chain_de0a51ff12.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21567,7 +21567,7 @@
     "name": "Precog",
     "symbol": "ث",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-55",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21576,7 +21576,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/precog_d246c4a5d6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21662,7 +21662,7 @@
     "name": "Zeus",
     "symbol": "σ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-18",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21671,7 +21671,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cortex_t_39284e8d05.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21681,7 +21681,7 @@
     "name": "Hippius",
     "symbol": "م",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-75",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21700,7 +21700,7 @@
     "name": "Τaos",
     "symbol": "ي",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-79",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21719,7 +21719,7 @@
     "name": "Ai factory",
     "symbol": "ى",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-80",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21738,7 +21738,7 @@
     "name": "Ain",
     "symbol": "ع",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-69",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21747,7 +21747,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_69_45ef11ff9c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21795,7 +21795,7 @@
     "name": "Agentao",
     "symbol": "ز",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-62",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21804,7 +21804,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/agentao_803a0e9ba4.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21814,7 +21814,7 @@
     "name": "Waw",
     "symbol": "و",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-78",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21833,7 +21833,7 @@
     "name": "Bitsec.ai",
     "symbol": "ذ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-60",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21842,7 +21842,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitsec_c487504c5c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21852,7 +21852,7 @@
     "name": "Reserved",
     "symbol": "ه",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-77",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21871,7 +21871,7 @@
     "name": "Fakenews",
     "symbol": "ض",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-66",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21880,7 +21880,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/fakenews_d81a78c631.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21909,7 +21909,7 @@
     "name": "Fa",
     "symbol": "ف",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-71",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21947,7 +21947,7 @@
     "name": "Vericore",
     "symbol": "غ",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-70",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21956,7 +21956,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_70_634ce71eac.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21966,7 +21966,7 @@
     "name": "Tensor private network (tpn)",
     "symbol": "ص",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-65",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -21975,7 +21975,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tao_private_network_t_b7fe3d96e4.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21985,7 +21985,7 @@
     "name": "F(x)integral",
     "symbol": "ك",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-73",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -22004,7 +22004,7 @@
     "name": "Safe scan",
     "symbol": "ن",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-76",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -22023,7 +22023,7 @@
     "name": "Ta",
     "symbol": "ط",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-67",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -22032,7 +22032,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_67_7063f7f05f.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22042,7 +22042,7 @@
     "name": "Qaf",
     "symbol": "ق",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-72",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -22061,7 +22061,7 @@
     "name": "Lam",
     "symbol": "ل",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-74",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
@@ -22099,7 +22099,7 @@
     "name": "Patrol (tao.com)",
     "symbol": "ي",
     "decimals": 9,
-    "priceId": null,
+    "priceId": "dtao-81",
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
