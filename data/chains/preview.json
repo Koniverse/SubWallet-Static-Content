@@ -8582,7 +8582,7 @@
     "slug": "astarZkEvm",
     "name": "Astar zkEVM",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
     "providers": {
