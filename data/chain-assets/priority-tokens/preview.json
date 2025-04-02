@@ -14,7 +14,8 @@
     "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": 12,
     "MANTA-MantaAtlantic": 13,
     "MYTH-Mythos": 14,
-    "TON-TONCoin": 15
+    "TON-TONCoin": 15,
+    "westend-NATIVE-WND": 16
   },
   "token" : {
     "polkadot-NATIVE-DOT": 1,
