@@ -1,20 +1,6 @@
-[
-  "astar",
-  "calamari",
-  "parallel",
-  "darwinia2",
-  "crabParachain",
-  "pangolin",
-  "statemint",
-  "moonriver",
-  "shiden",
-  "moonbeam",
-  "statemine",
-  "liberland",
-  "dentnet",
-  "phala",
-  "crust",
-  "dbcchain",
-  "rococo_assethub",
-  "hydradx_main"
-]
+{
+  "assetHubPallet" : ["statemint", "statemine"],
+  "assetsPallet" : ["astar", "calamari", "parallel", "darwinia2", "crabParachain", "pangolin", "moonriver", "shiden", "moonbeam", "liberland", "dentnet", "phala", "crust", "dbcchain"],
+  "foreignAssetsPallet" : ["polimec"],
+  "assetRegistryPallet" : ["hydradx_main"]
+}
