@@ -1024,5 +1024,19 @@
     "slug": "statemint-LOCAL-USDt",
     "symbol": "USDt",
     "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "statemint",
+        "symbol": "USDC_ASSETHUB",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "statemint",
+    "slug": "statemint-LOCAL-USDC",
+    "symbol": "USDC",
+    "support": "SUBSTRATE"
   }
 ]
