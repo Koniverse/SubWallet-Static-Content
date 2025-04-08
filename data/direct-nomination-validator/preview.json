@@ -1,6 +1,6 @@
 {
     "avail_mainnet": {
-      "maxCount": 1,
+      "maxCount": 3,
       "preSelectValidators": "5FjdibsxmNFas5HWcT2i1AXbpfgiNfWqezzo88H2tskxWdt2"
     },
      "polkadot": {

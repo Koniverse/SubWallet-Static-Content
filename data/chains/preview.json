@@ -10152,7 +10152,7 @@
       "addressPrefix": 54,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://cere.statescan.io/",
       "existentialDeposit": "10000000000",
       "symbol": "CERE",
       "decimals": 10,
@@ -11996,18 +11996,17 @@
   },
   {
     "slug": "sonic",
-    "name": "Sonic Mainnet",
+    "name": "Sonic",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sonic_686bc1b5cd.png",
     "providers": {
-      "SonicLab": "https://rpc.soniclabs.com",
-      "SonicDRPC": "https://sonic.drpc.org"
+      "SonicLab": "https://rpc.soniclabs.com/"
     },
     "evmInfo": {
       "evmChainId": 146,
-      "blockExplorer": "https://explorer.soniclabs.com",
+      "blockExplorer": "https://sonicscan.org/",
       "existentialDeposit": "0",
       "symbol": "S",
       "decimals": 18,
@@ -12330,5 +12329,108 @@
       "decimals": 6,
       "symbol": "tADA"
     }
+  },
+  {
+    "slug": "peaq_evm",
+    "name": "peaq EVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_7f56164979.png",
+    "providers": {
+      "Onfinality": "https://peaq.api.onfinality.io/public",
+      "Peaq": "https://evm.peaq.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 3338,
+      "blockExplorer": "https://peaq.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "PEAQ",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "polkadot_coretime",
+    "name": "Polkadot Coretime",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_coretime_8abfcd09f9.png",
+    "providers": {
+      "IBP1": "wss://sys.ibp.network/coretime-polkadot",
+      "IBP2": "wss://coretime-polkadot.dotters.network",
+      "LuckyFriday": "wss://rpc-coretime-polkadot.luckyfriday.io",
+      "Parity": "wss://polkadot-coretime-rpc.polkadot.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 1005,
+      "genesisHash": "0xefb56e30d9b4a24099f88820987d0f45fb645992416535d87650d98e00f46fc4",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://coretime-polkadot.subscan.io/",
+      "existentialDeposit": "1000000000",
+      "symbol": "DOT",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "kusama_coretime",
+    "name": "Kusama Coretime",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_coretime_2896bde9ea.png",
+    "providers": {
+      "IBP1": "wss://sys.ibp.network/coretime-kusama",
+      "IBP2": "wss://coretime-kusama.dotters.network",
+      "Dwellir": "wss://coretime-kusama-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-coretime-kusama.luckyfriday.io",
+      "Parity": "wss://kusama-coretime-rpc.polkadot.io",
+      "Stakeworld": "wss://ksm-rpc.stakeworld.io/coretime"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 1005,
+      "genesisHash": "0x638cd2b9af4b3bb54b8c1f0d22711fc89924ca93300f0caf25a580432b29d050",
+      "addressPrefix": 2,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://coretime-kusama.subscan.io/",
+      "existentialDeposit": "33333333",
+      "symbol": "KSM",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
   }
 ]

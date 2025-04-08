@@ -328,7 +328,7 @@
   "gravity_alpha": "https://static-data.subwallet.app/chains/images/icon/gravity_alpha_84a56b3683.png",
   "westend_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
   "torus": "https://static-data.subwallet.app/chains/images/icon/torus_6c6d077239.png",
-  "sonic": "https://static-data.subwallet.app/chains/images/icon/ethereum_e819764047.png",
+  "sonic": "https://static-data.subwallet.app/chains/images/icon/sonic_686bc1b5cd.png",
   "story_protocol": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
   "sophon": "https://static-data.subwallet.app/chains/images/icon/sophon_19df409d27.png",
   "story_aeneid": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
@@ -339,5 +339,8 @@
   "monad_testnet": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
   "melodie_testnet": "https://static-data.subwallet.app/chains/images/icon/allfeat_0312a3da99.png",
   "cardano": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
-  "cardano_preproduction": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png"
+  "cardano_preproduction": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
+  "peaq_evm": "https://static-data.subwallet.app/chains/images/icon/Color_light_7f56164979.png",
+  "polkadot_coretime": "https://static-data.subwallet.app/chains/images/icon/polkadot_coretime_8abfcd09f9.png",
+  "kusama_coretime": "https://static-data.subwallet.app/chains/images/icon/kusama_coretime_2896bde9ea.png"
 }
