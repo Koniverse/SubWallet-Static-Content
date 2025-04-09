@@ -2838,7 +2838,7 @@
     "name": "Darwinia Commitment Token",
     "symbol": "KTON",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "darwinia-commitment-token",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -3811,7 +3811,7 @@
     "name": "OriginTrail",
     "symbol": "NEURO",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "neurowebai",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -5716,7 +5716,7 @@
     "name": "Cougar",
     "symbol": "CGS",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "cougar-token",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -5914,7 +5914,7 @@
     "name": "Liquid KSM",
     "symbol": "LKSM",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "liquid-ksm",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -9590,7 +9590,7 @@
     "name": "Stella stDOT",
     "symbol": "stDOT",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "stellaswap-staked-dot",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -13092,7 +13092,7 @@
     "name": "Wrapped Humanode",
     "symbol": "WeHMND",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "wrapped-ehmnd",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -13102,7 +13102,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChain": "humanodeEvm",
-    "multiChainAsset": "HMND-Humanode",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -13261,7 +13261,7 @@
     "name": "DeepLink Coin",
     "symbol": "DLC",
     "decimals": 8,
-    "priceId": null,
+    "priceId": "deeplink-protocol",
     "minAmount": "100000",
     "assetType": "LOCAL",
     "metadata": {
@@ -13561,7 +13561,7 @@
     "name": "Curio Governance Token",
     "symbol": "CGT",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "curio-gas-token",
     "minAmount": "10000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -16141,7 +16141,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
     "originChain": "peaq",
-    "multiChainAsset": null,
+    "multiChainAsset": "PEAQ-PEAQ",
     "assetRefs": []
   },
   {
@@ -17188,7 +17188,7 @@
     "name": "Apillon",
     "symbol": "NCTR",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "apillon",
     "minAmount": "100000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -17206,7 +17206,7 @@
     "name": "Apillon",
     "symbol": "xcNCTR",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "apillon",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -17586,6 +17586,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -17913,6 +17919,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -17981,6 +17993,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -19777,13 +19795,13 @@
     "name": "Sonic",
     "symbol": "S",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "sonic-3",
     "minAmount": "0",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/s_0a8f9c88dd.png",
     "originChain": "sonic",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20389,7 +20407,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
     "originChain": "ethereum",
-    "multiChainAsset": null,
+    "multiChainAsset": "PEAQ-PEAQ",
     "assetRefs": []
   },
   {
@@ -22111,6 +22129,90 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "peaq_evm-NATIVE-PEAQ",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "decimals": 18,
+    "priceId": "peaq-2",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_7f56164979.png",
+    "originChain": "peaq_evm",
+    "multiChainAsset": "PEAQ-PEAQ",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-tTAO-0xE4887Cf30fF3EDb843369f2161FCB7e064ff28f0",
+    "name": "Tensorplex Wrapped TAO",
+    "symbol": "tTAO",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xE4887Cf30fF3EDb843369f2161FCB7e064ff28f0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-stTAO-0xB60acD2057067DC9ed8c083f5aa227a244044fD6",
+    "name": "Tensorplex Staked TAO",
+    "symbol": "stTAO",
+    "decimals": 9,
+    "priceId": "tensorplex-staked-tao",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xB60acD2057067DC9ed8c083f5aa227a244044fD6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sttao_385b742f63.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polkadot_coretime-NATIVE-DOT",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "polkadot_coretime",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "kusama_coretime-NATIVE-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "33333333",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b37165518e.png",
+    "originChain": "kusama_coretime",
+    "multiChainAsset": "KSM-Kusama",
     "assetRefs": []
   }
 ]

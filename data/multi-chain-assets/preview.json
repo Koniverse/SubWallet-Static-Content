@@ -98,7 +98,8 @@
       "manta_network-LOCAL-DOT",
       "statemine-LOCAL-DOT",
       "polkadot_people-NATIVE-DOT",
-      "polimec-LOCAL-DOT"
+      "polimec-LOCAL-DOT",
+      "polkadot_coretime-NATIVE-DOT"
     ]
   },
   {
@@ -708,7 +709,8 @@
       "peopleKusama-NATIVE-KSM",
       "statemint-LOCAL-KSM",
       "kreivo-NATIVE-KSM",
-      "hydradx_main-LOCAL-KSM"
+      "hydradx_main-LOCAL-KSM",
+      "kusama_coretime-NATIVE-KSM"
     ]
   },
   {
@@ -882,8 +884,7 @@
     "originChainAsset": "humanode-NATIVE-HMND",
     "chainAssets": [
       "humanode-NATIVE-HMND",
-      "humanodeEvm-NATIVE-eHMND",
-      "humanodeEvm-ERC20-WeHMND-0x0000000000000000000000000000000000000802"
+      "humanodeEvm-NATIVE-eHMND"
     ]
   },
   {
@@ -1523,6 +1524,20 @@
       "ternoa-NATIVE-CAPS",
       "ternoaZkEvm-NATIVE-CAPS",
       "ethereum-ERC20-CAPS-0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2"
+    ]
+  },
+  {
+    "slug": "PEAQ-PEAQ",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "priceId": "peaq-2",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/Color_light_7f56164979.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "peaq-NATIVE-PEAQ",
+      "ethereum-ERC20-PEAQ-0x1EeF208926667594E5136e89D0e9DD6907959197",
+      "peaq_evm-NATIVE-PEAQ"
     ]
   }
 ]
