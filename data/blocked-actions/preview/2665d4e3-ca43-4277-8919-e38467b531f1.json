@@ -4,9 +4,7 @@
     "transfer.balance": [],
     "transfer.token": [],
     "transfer.xcm": [
-      "transfer.xcm___mythos-NATIVE-MYTH___statemint",
-      "transfer.xcm___statemint-LOCAL-MYTH___mythos",
-      "transfer.xcm___hydradx_main-LOCAL-MYTH___mythos"
+      "transfer.xcm___mythos-NATIVE-MYTH___statemint"
     ],
     "send_nft": [],
     "swap": [],
