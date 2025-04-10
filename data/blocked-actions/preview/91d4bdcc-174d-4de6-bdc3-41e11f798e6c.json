@@ -6,7 +6,7 @@
     "transfer.xcm": [],
     "send_nft": [],
     "swap": [
-      "swap___hydradx_main-LOCAL-ASTR___hydradx_main-LOCAL-USDC___HYDRADX_MAINNET"
+      "swap___astar-NATIVE-ASTR___hydradx_main-LOCAL-USDC___HYDRADX_MAINNET"
  ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
