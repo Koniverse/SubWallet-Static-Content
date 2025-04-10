@@ -947,5 +947,6 @@
   "ethereum-ERC20-tTAO-0xE4887Cf30fF3EDb843369f2161FCB7e064ff28f0": null,
   "ethereum-ERC20-stTAO-0xB60acD2057067DC9ed8c083f5aa227a244044fD6": "tensorplex-staked-tao",
   "polkadot_coretime-NATIVE-DOT": "polkadot",
-  "kusama_coretime-NATIVE-KSM": "kusama"
+  "kusama_coretime-NATIVE-KSM": "kusama",
+  "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth"
 }
