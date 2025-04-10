@@ -1312,7 +1312,7 @@
     "slug": "NCTR-Apillon",
     "name": "Apillon",
     "symbol": "NCTR",
-    "priceId": null,
+    "priceId": "apillon",
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/apillon_277b09e804.png",
     "originChainAsset": null,
