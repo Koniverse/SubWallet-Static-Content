@@ -2,7 +2,9 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [],
-    "transfer.token": [],
+    "transfer.token": [
+       "transfer.balance___alephTest-NATIVE-TZERO"
+    ],
     "transfer.xcm": [],
     "send_nft": [],
     "swap": [
