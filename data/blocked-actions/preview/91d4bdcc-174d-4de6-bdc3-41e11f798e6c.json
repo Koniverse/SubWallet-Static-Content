@@ -1,10 +1,18 @@
 {
   "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [],
-    "transfer.token": [],
-    "transfer.xcm": [],
-    "send_nft": [],
+    "transfer.balance": [
+      "transfer.balance___acala-NATIVE-ACA"
+    ],
+    "transfer.token": [
+      "transfer.balance___alephTest-NATIVE-TZERO"
+    ],
+    "transfer.xcm": [
+      "transfer.xcm___statemint-LOCAL-USDt___hydradx_main"
+    ],
+    "send_nft": [
+      "send_nft___kusama___8ac73a177ab39d3a7d-INITIALWORLD_CAT_V0"
+    ],
     "swap": [
       "swap___astar-NATIVE-ASTR___hydradx_main-LOCAL-USDC___HYDRADX_MAINNET",
       "swap___hydradx_main-LOCAL-ASTR___hydradx_main-LOCAL-USDC___HYDRADX_MAINNET",
@@ -24,7 +32,9 @@
     "staking.leave_pool": [],
     "staking.bond": [],
     "staking.unbond": [],
-    "staking.claim_reward": [],
+    "staking.claim_reward": [
+      "staking.claim_reward___VARA___nomination_pool___vara_network"
+    ],
     "staking.withdraw": [],
     "staking.compounding": [],
     "staking.cancel_compounding": [],
