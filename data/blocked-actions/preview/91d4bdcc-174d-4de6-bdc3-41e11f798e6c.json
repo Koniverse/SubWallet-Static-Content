@@ -11,7 +11,14 @@
       "swap___hydradx_main-LOCAL-USDC___hydradx_main-NATIVE-HDX___HYDRADX_MAINNET",
       "swap___polkadot-NATIVE-DOT___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___SIMPLE_SWAP",
       "swap___statemint-NATIVE-DOT___statemint-LOCAL-USDt___POLKADOT_ASSET_HUB",
-      "swap___polkadot-NATIVE-DOT___ethereum-NATIVE-ETH___CHAIN_FLIP_MAINNET"
+      "swap___polkadot-NATIVE-DOT___ethereum-NATIVE-ETH___CHAIN_FLIP_MAINNET",
+      "swap___statemint-NATIVE-DOT___mythos-NATIVE-MYTH___POLKADOT_ASSET_HUB",
+      "swap___statemint-NATIVE-DOT___moonbeam-LOCAL-xcUSDT___POLKADOT_ASSET_HUB",
+      "swap___polkadot-NATIVE-DOT___hydradx_main-LOCAL-USDT___HYDRADX_MAINNET",
+      "swap___statemint-LOCAL-USDt___polkadot-NATIVE-DOT___POLKADOT_ASSET_HUB",
+      "swap___polkadot-NATIVE-DOT___astar-LOCAL-USDT___POLKADOT_ASSET_HUB",
+      "swap___polkadot-NATIVE-DOT___astar-NATIVE-ASTR___HYDRADX_MAINNET",
+      "swap___polkadot-NATIVE-DOT___statemint-LOCAL-DED___POLKADOT_ASSET_HUB"
  ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
