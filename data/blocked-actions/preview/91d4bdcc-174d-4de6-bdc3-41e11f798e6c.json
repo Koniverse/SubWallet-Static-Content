@@ -9,7 +9,9 @@
       "swap___astar-NATIVE-ASTR___hydradx_main-LOCAL-USDC___HYDRADX_MAINNET",
       "swap___hydradx_main-LOCAL-ASTR___hydradx_main-LOCAL-USDC___HYDRADX_MAINNET",
       "swap___hydradx_main-LOCAL-USDC___hydradx_main-NATIVE-HDX___HYDRADX_MAINNET",
-      "swap___polkadot-NATIVE-DOT___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___SIMPLE_SWAP"
+      "swap___polkadot-NATIVE-DOT___ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48___SIMPLE_SWAP",
+      "swap___statemint-NATIVE-DOT___statemint-LOCAL-USDt___POLKADOT_ASSET_HUB",
+      "swap___polkadot-NATIVE-DOT___ethereum-NATIVE-ETH___CHAIN_FLIP_MAINNET"
  ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
