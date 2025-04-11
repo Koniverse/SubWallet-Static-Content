@@ -1,5 +1,62 @@
 [
   {
+    "id": 93,
+    "name": "Split the pool prize of 1,000 USDT with Polimec April AirLyft Campaign",
+    "status": "live",
+    "ordinal": 42,
+    "description": "The Polimec April AirLyft Campaign is here!\n\nMore inclusive. More opportunities. More impact.\n\nComplete tasks, earn rewards, and play a key role in shaping on-chain fundraising.\n\nTop 20 participants will win → 50 USDT.\n\nJoin today → http://polimec.link/communityhub",
+    "start_time": "2025-04-01T03:00:00.000Z",
+    "end_time": "2025-05-01T02:59:00.000Z",
+    "url": "https://airlyft.one/polimec/april-2025",
+    "twitter_url": "https://x.com/polimecprotocol",
+    "reward": "1,000 USDT",
+    "total_winner": "20",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://app.polimec.org/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/polimec_308c6e9fbc.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Polimec_Camp_08fad9ec47.png",
+    "chains": [
+      "polimec"
+    ],
+    "categories": []
+  },
+  {
+    "id": 92,
+    "name": "Be the FIRST and win a share of 50,000 AZERO in prizes with Common Web App waitlist campaign",
+    "status": "live",
+    "ordinal": 43,
+    "description": "🙀 Another waitlist, another 50,000 AZERO in prizes! 🙀 \n\nThe moment is finally here. We’re excited to announce that the waitlist for the Common Web App is already live! Join in to get early access to the application and an opportunity to win a share of 50,000 AZERO in rewards.\n\nHow to participate: To join the waitlist and compete for early prizes, follow these steps:\n1. Login with your email on Megaphone\n2. Connect your crypto wallet\n3. Follow and engage with Common on X\n4. Generate and share your referral link\n5. Climb the leaderboard\n\nBy getting others to link through your ref link, you’ll get points and climb the leaderboard. \n\nHere's what it looks like at the top:\n🥇 1x10,000 AZERO\n🥈 1x5,000 AZERO\n🥉 1x2,000 AZERO\n🏅 66 winners of 500 AZERO each\n\nThe waitlist signups close before the Mainnet release, so be quick! If there are winners with the same number of points, we'll look at who reached the high score first.\n\nHave fun, and let's make privacy Common!",
+    "start_time": "2025-04-09T14:00:00.000Z",
+    "end_time": null,
+    "url": "https://common.deform.cc/webapp?referral=Ed1qFXTtIdQc",
+    "twitter_url": "https://x.com/Common__App",
+    "reward": "50,000 AZERO",
+    "total_winner": "69",
+    "total_supply": null,
+    "tags": [
+      "points"
+    ],
+    "campaign_url": "https://common.fi/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/common_da3bacbe30.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Common_Camp_9d0c5244ed.jpg",
+    "chains": [
+      "aleph_evm",
+      "aleph"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
+  },
+  {
     "id": 91,
     "name": "Share the pool of 10M Tanssi tokens with Tanssi's Let's Forkin' Dance Season 2 campaign",
     "status": "live",
