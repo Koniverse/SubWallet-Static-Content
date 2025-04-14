@@ -1,6 +1,6 @@
 {
     "avail_mainnet": {
-      "maxCount": 16,
+      "maxCount": 2,
       "preSelectValidators": "5FjdibsxmNFas5HWcT2i1AXbpfgiNfWqezzo88H2tskxWdt2,5Fojgh3MTLRnphRgKdbthSa8qwG7VtmXW6JrqBQHtdcHW7Th"
     },
      "polkadot": {
@@ -12,7 +12,7 @@
       "preSelectValidators": "EwwczfxHvFq8zyYFkQv29r9us7M8Gbmw4cUtrvF5ozx6Mf2,ERYwYjy1LGY1GWovnxxmXo68SZLLYwjMXNEvhhDhp48zyED"
     },
     "vara_network": {
-      "maxCount": 1,
+      "maxCount": 2,
       "preSelectValidators": "kGjCvG5HmCuUJf1XqXEo7giTkLeSJWaNSB7dfcs5KHvWsHKV6,kGhucW9jt76TdBHQRPqNGokRJHFahTWeBzoQbzwSa14YN8SM7"
     }
   } 
