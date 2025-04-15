@@ -975,7 +975,8 @@
     "metadata": {
       "onChainInfo": {
         "Token": "DOT"
-      }
+      },
+      "isSufficient": true
     },
     "hasValue": true,
     "ordinal": 17,
@@ -1029,7 +1030,8 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 12
-      }
+      },
+      "isSufficient": true
     },
     "hasValue": true,
     "ordinal": 19,
@@ -1076,7 +1078,8 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 2
-      }
+      },
+      "isSufficient": true
     },
     "hasValue": true,
     "ordinal": 21,
@@ -3748,7 +3751,7 @@
     "ordinal": 144,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_token_8fc30bad1a.png",
     "originChain": "litentry",
-    "multiChainAsset": null,
+    "multiChainAsset": "HEI-Heima",
     "assetRefs": []
   },
   {
@@ -13668,7 +13671,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hyperbridge_fd417d6c23.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bridge_ffc9daafa1.png",
     "originChain": "hyperbridge",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19188,7 +19191,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
     "originChain": "laos_network",
-    "multiChainAsset": null,
+    "multiChainAsset": "LAOS-LAOS",
     "assetRefs": []
   },
   {
@@ -21830,7 +21833,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_75_391ea8f4c6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21849,7 +21852,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_79_9d802139da.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21868,7 +21871,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_80_2180264940.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21963,7 +21966,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_78_afcc6fbf13.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22001,7 +22004,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_77_67ec54c9c4.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22058,7 +22061,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_b73aad2a3c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22134,7 +22137,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_73_1c8203084f.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22153,7 +22156,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_76_17d3f4c2d6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22191,7 +22194,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_72_2e1e1a6267.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22210,7 +22213,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_74_97095309d7.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22248,7 +22251,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_81_3e2184018b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22373,5 +22376,147 @@
         "destAsset": "base_mainnet-NATIVE-ETH"
       }
     ]
+  },
+  {
+    "slug": "truth_network-NATIVE-TRUU",
+    "name": "Truth",
+    "symbol": "TRUU",
+    "decimals": 10,
+    "priceId": "truth",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/truth_d88d501084.png",
+    "originChain": "truth_network",
+    "multiChainAsset": "TRUU-Truth",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-TRUU-0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2",
+    "name": "Truth",
+    "symbol": "TRUU",
+    "decimals": 10,
+    "priceId": "truth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/truth_d88d501084.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "TRUU-Truth",
+    "assetRefs": []
+  },
+  {
+    "slug": "truth_network-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": 0
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "truth_network",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "tassi_demo-NATIVE-TANGO",
+    "name": "Tanssi Demo",
+    "symbol": "TANGO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dancebox_54a251b7f9.png",
+    "originChain": "tassi_demo",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-GASP-0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E",
+    "name": "GASP",
+    "symbol": "GASP",
+    "decimals": 18,
+    "priceId": "gasp-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gasp_4fa877344c.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083",
+    "name": "Heima",
+    "symbol": "HEI",
+    "decimals": 18,
+    "priceId": "heima",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF8F173E20e15f3b6CB686FB64724D370689De083"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_token_8fc30bad1a.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "HEI-Heima",
+    "assetRefs": []
+  },
+  {
+    "slug": "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083",
+    "name": "Heima",
+    "symbol": "HEI",
+    "decimals": 18,
+    "priceId": "heima",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF8F173E20e15f3b6CB686FB64724D370689De083"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_token_8fc30bad1a.png",
+    "originChain": "binance",
+    "multiChainAsset": "HEI-Heima",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588",
+    "name": "LAOS",
+    "symbol": "xcLAOS",
+    "decimals": 18,
+    "priceId": "laos-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "LAOS-LAOS",
+    "assetRefs": []
   }
 ]

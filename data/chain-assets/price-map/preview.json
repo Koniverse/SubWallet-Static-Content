@@ -948,5 +948,13 @@
   "ethereum-ERC20-stTAO-0xB60acD2057067DC9ed8c083f5aa227a244044fD6": "tensorplex-staked-tao",
   "polkadot_coretime-NATIVE-DOT": "polkadot",
   "kusama_coretime-NATIVE-KSM": "kusama",
-  "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth"
+  "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006": "weth",
+  "truth_network-NATIVE-TRUU": "truth",
+  "ethereum-ERC20-TRUU-0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2": "truth",
+  "truth_network-LOCAL-USDC": "usd-coin",
+  "tassi_demo-NATIVE-TANGO": null,
+  "ethereum-ERC20-GASP-0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E": "gasp-2",
+  "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083": "heima",
+  "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083": "heima",
+  "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588": "laos-network"
 }

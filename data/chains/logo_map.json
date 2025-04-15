@@ -239,7 +239,7 @@
   "merlinEvm": "https://static-data.subwallet.app/chains/images/icon/merlin_chain_a885212729.png",
   "botanixEvmTest": "https://static-data.subwallet.app/chains/images/icon/botanix_0f189648f7.png",
   "curio": "https://static-data.subwallet.app/chains/images/icon/curio_8150848526.png",
-  "hyperbridge": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
+  "hyperbridge": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_27e342468c.png",
   "cess_testnet": "https://static-data.subwallet.app/chains/images/icon/cess_c8b3ae185d.png",
   "bitcoin": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
   "bitcoinTestnet": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
@@ -342,5 +342,7 @@
   "cardano_preproduction": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
   "peaq_evm": "https://static-data.subwallet.app/chains/images/icon/Color_light_7f56164979.png",
   "polkadot_coretime": "https://static-data.subwallet.app/chains/images/icon/polkadot_coretime_8abfcd09f9.png",
-  "kusama_coretime": "https://static-data.subwallet.app/chains/images/icon/kusama_coretime_2896bde9ea.png"
+  "kusama_coretime": "https://static-data.subwallet.app/chains/images/icon/kusama_coretime_2896bde9ea.png",
+  "truth_network": "https://static-data.subwallet.app/chains/images/icon/truth_d88d501084.png",
+  "tassi_demo": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png"
 }

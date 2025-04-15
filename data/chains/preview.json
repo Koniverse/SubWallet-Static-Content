@@ -9333,7 +9333,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_27e342468c.png",
     "providers": {
       "BlockOps": "wss://hyperbridge-nexus-rpc.blockops.network",
       "IBP1": "wss://nexus.ibp.network",
@@ -12435,6 +12435,67 @@
       "subscanSlug": "coretime-kusama",
       "chainBalanceSlug": "coretime-kusama"
     },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "truth_network",
+    "name": "Truth Network Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/truth_d88d501084.png",
+    "providers": {
+      "External": "wss://chain-external.truth-network.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xa006eb47d5c9678d9cdc845958e5451217f2c72cf96a50e027df4549fd0111f0",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "http://explorer.truth-network.io/",
+      "existentialDeposit": "0",
+      "symbol": "TRUU",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "tassi_demo",
+    "name": "Tassi Demo",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
+    "providers": {
+      "DanceBox": "https://dancebox-3001.tanssi-api.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 5678,
+      "blockExplorer": "https://fra-dancebox-3001-bs.a.dancebox.tanssi.network/",
+      "existentialDeposit": "0",
+      "symbol": "TANGO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null

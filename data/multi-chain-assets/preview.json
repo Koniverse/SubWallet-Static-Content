@@ -557,7 +557,8 @@
       "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
       "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14",
-      "polimec-LOCAL-USDC"
+      "polimec-LOCAL-USDC",
+      "truth_network-LOCAL-USDC"
     ]
   },
   {
@@ -1539,6 +1540,46 @@
       "peaq-NATIVE-PEAQ",
       "ethereum-ERC20-PEAQ-0x1EeF208926667594E5136e89D0e9DD6907959197",
       "peaq_evm-NATIVE-PEAQ"
+    ]
+  },
+  {
+    "slug": "TRUU-Truth",
+    "name": "Truth",
+    "symbol": "TRUU",
+    "priceId": "truth",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/truth_d88d501084.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "truth_network-NATIVE-TRUU",
+      "ethereum-ERC20-TRUU-0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2"
+    ]
+  },
+  {
+    "slug": "HEI-Heima",
+    "name": "Heima",
+    "symbol": "HEI",
+    "priceId": "heima",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/heima_token_8fc30bad1a.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "litentry-NATIVE-HEI",
+      "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083",
+      "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083"
+    ]
+  },
+  {
+    "slug": "LAOS-LAOS",
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "priceId": "laos-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "laos_network-NATIVE-LAOS",
+      "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588"
     ]
   }
 ]
