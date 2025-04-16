@@ -18553,67 +18553,6 @@
     "assetRefs": []
   },
   {
-    "slug": "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "priceId": "dai",
-    "minAmount": "0",
-    "assetType": "ERC20",
-    "metadata": {
-      "contractAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
-    },
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
-    "originChain": "arbitrum_one",
-    "multiChainAsset": "DAI-DaiStablecoin",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
-      }
-    ]
-  },
-  {
-    "slug": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "priceId": "dai",
-    "minAmount": "0",
-    "assetType": "ERC20",
-    "metadata": {
-      "contractAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
-    },
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
-    "originChain": "optimism",
-    "multiChainAsset": "DAI-DaiStablecoin",
-    "assetRefs": []
-  },
-  {
-    "slug": "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "priceId": "dai",
-    "minAmount": "0",
-    "assetType": "ERC20",
-    "metadata": {
-      "contractAddress": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
-    },
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
-    "originChain": "base_mainnet",
-    "multiChainAsset": "DAI-DaiStablecoin",
-    "assetRefs": []
-  },
-  {
     "slug": "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d",
     "name": "Avail Turing Testnet",
     "symbol": "AVAIL",
@@ -19746,22 +19685,6 @@
         "destAsset": "hydradx_main-LOCAL-ASTR"
       }
     ]
-  },
-  {
-    "slug": "paseo_assethub-NATIVE-PAS",
-    "name": "Paseo Testnet",
-    "symbol": "PAS",
-    "decimals": 10,
-    "priceId": null,
-    "minAmount": "100000000",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": null,
-    "originChain": "paseo_assethub",
-    "multiChainAsset": null,
-    "assetRefs": []
   },
   {
     "slug": "hydradx_main-LOCAL-SOL",
@@ -22517,6 +22440,83 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
     "originChain": "moonbeam",
     "multiChainAsset": "LAOS-LAOS",
+    "assetRefs": []
+  },
+  {
+    "slug": "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "hasValue": true,
+    "ordinal": 10000,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+      }
+    ]
+  },
+  {
+    "slug": "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "hasValue": true,
+    "ordinal": 10000,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "optimism",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "priceId": "dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+    },
+    "hasValue": true,
+    "ordinal": 10000,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dai_bb6ca4f361.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "DAI-DaiStablecoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "paseo_assethub-NATIVE-PAS",
+    "name": "Paseo Testnet",
+    "symbol": "PAS",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 10000,
+    "icon": null,
+    "originChain": "paseo_assethub",
+    "multiChainAsset": null,
     "assetRefs": []
   }
 ]

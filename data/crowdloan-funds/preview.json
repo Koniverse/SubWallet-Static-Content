@@ -712,13 +712,16 @@
       "owner": "14VwUiNPMN2T9jGvWaSm5pwcUr5ziqLjTomRm6xUxwy3Urjm",
       "bid_id": "36-11-18",
       "raised": "761484365187737",
-      "status": 2,
+      "status": 4,
       "balance": "0",
       "fund_id": "2097-57",
       "para_id": 2097,
       "end_block": 14200000,
       "in_auctions": [
-        36
+        36,
+        37,
+        38,
+        39
       ],
       "last_period": 18,
       "start_block": 13548202,
@@ -735,10 +738,10 @@
       "start_block_at": 1672198584,
       "end_lease_block": 23876800,
       "extrinsic_index": "13548202-2",
-      "last_change_block": 23908960,
+      "last_change_block": 25592832,
       "fund_auction_status": 2,
-      "last_change_event_idx": 198,
-      "last_change_timestamp": 1734604560
+      "last_change_event_idx": 60,
+      "last_change_timestamp": 1744750722
     },
     "relayChain": "polkadot",
     "auctionIndex": 36,
@@ -1651,7 +1654,7 @@
       "owner": "133VgJJgp1s9wxLqgCFxYx6T873hZQNchJM9tmbU6NkYaaqW",
       "bid_id": "65-16-23",
       "raised": "4036581592262248",
-      "status": 2,
+      "status": 4,
       "balance": "0",
       "fund_id": "2030-37",
       "para_id": 2030,
@@ -1685,10 +1688,10 @@
       "start_block_at": 1650593100,
       "end_lease_block": 20558199,
       "extrinsic_index": "9979624-2",
-      "last_change_block": 23485156,
+      "last_change_block": 25592800,
       "fund_auction_status": 2,
-      "last_change_event_idx": 52,
-      "last_change_timestamp": 1732053180
+      "last_change_event_idx": 60,
+      "last_change_timestamp": 1744750530
     },
     "relayChain": "polkadot",
     "auctionIndex": 65,
@@ -1950,13 +1953,19 @@
       "owner": "14bEKMdGLwGKNTz4BtT7venXZ4RcXdGfBSdEYrJLPNoHRvoK",
       "bid_id": "14-8-15",
       "raised": "8229426309673905",
-      "status": 2,
+      "status": 4,
       "balance": "0",
       "fund_id": "2037-31",
       "para_id": 2037,
       "end_block": 10881401,
       "in_auctions": [
-        14
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
       ],
       "last_period": 15,
       "start_block": 9425211,
@@ -1979,10 +1988,10 @@
       "start_block_at": 1647259710,
       "end_lease_block": 20558201,
       "extrinsic_index": "9425211-4",
-      "last_change_block": 23560144,
+      "last_change_block": 25592813,
       "fund_auction_status": 2,
-      "last_change_event_idx": 52,
-      "last_change_timestamp": 1732505376
+      "last_change_event_idx": 66,
+      "last_change_timestamp": 1744750608
     },
     "relayChain": "polkadot",
     "auctionIndex": 14,
@@ -2230,7 +2239,7 @@
       "owner": "1Rp3mJJUxPD1nJ6gf179scdejMSSJb46eYoFyEktR6DYt6z",
       "bid_id": "9-7-14",
       "raised": "24625428629746054",
-      "status": 2,
+      "status": 4,
       "balance": "0",
       "fund_id": "2034-25",
       "para_id": 2034,
@@ -2239,7 +2248,9 @@
         6,
         7,
         8,
-        9
+        9,
+        10,
+        11
       ],
       "last_period": 14,
       "start_block": 8328599,
@@ -2256,10 +2267,10 @@
       "start_block_at": 1640675880,
       "end_lease_block": 19065600,
       "extrinsic_index": "8328599-2",
-      "last_change_block": 24490637,
+      "last_change_block": 25592803,
       "fund_auction_status": 2,
       "last_change_event_idx": 61,
-      "last_change_timestamp": 1738102494
+      "last_change_timestamp": 1744750548
     },
     "relayChain": "polkadot",
     "auctionIndex": 9,
@@ -8547,13 +8558,13 @@
   {
     "paraId": 2011,
     "fundId": "2011-83",
-    "status": "withdraw",
+    "status": "failed",
     "metadata": {
       "cap": "600000000000000",
       "owner": "14fhPR28n9EHZitNyf6wjYZVBPwKgcgogVjJPTzvCcb8qi9G",
       "bid_id": "",
       "raised": "298467253865711",
-      "status": 3,
+      "status": 4,
       "balance": "0",
       "fund_id": "2011-83",
       "para_id": 2011,
@@ -8588,10 +8599,10 @@
       "start_block_at": 1705416204,
       "end_lease_block": 29980800,
       "extrinsic_index": "19068048-3",
-      "last_change_block": 24901101,
+      "last_change_block": 25592806,
       "fund_auction_status": 3,
-      "last_change_event_idx": 102,
-      "last_change_timestamp": 1740573144
+      "last_change_event_idx": 69,
+      "last_change_timestamp": 1744750566
     },
     "relayChain": "polkadot",
     "auctionIndex": 0,

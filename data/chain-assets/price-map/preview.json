@@ -754,9 +754,6 @@
   "zkverify_testnet-NATIVE-ACME": null,
   "rari-NATIVE-ETH": "ethereum",
   "scroll-NATIVE-ETH": "ethereum",
-  "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
-  "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
-  "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb": "dai",
   "sepolia_ethereum-ERC20-AVAIL-0xb1C3Cb9b5e598d4E95a85870e7812B99f350982d": null,
   "unichain_sepolia-NATIVE-ETH": null,
   "world_chain-NATIVE-ETH": "ethereum",
@@ -814,7 +811,6 @@
   "soneium-ERC20-ASTR-0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441": "astar",
   "ithaca-ERC20-WETH-0x582fCdAEc1D2B61c1F71FC5e3D2791B8c76E44AE": null,
   "hydradx_main-LOCAL-2-Pool": null,
-  "paseo_assethub-NATIVE-PAS": null,
   "hydradx_main-LOCAL-SOL": "solana",
   "ethereum-ERC20-vPHA-0x21d6eC8fc14CaAcc55aFA23cBa66798DAB3a0ec0": null,
   "gravity_alpha-NATIVE-G": "g-token",
@@ -956,5 +952,9 @@
   "ethereum-ERC20-GASP-0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E": "gasp-2",
   "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083": "heima",
   "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083": "heima",
-  "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588": "laos-network"
+  "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588": "laos-network",
+  "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
+  "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": "dai",
+  "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb": "dai",
+  "paseo_assethub-NATIVE-PAS": null
 }
