@@ -31,6 +31,7 @@
     "zksync_era-ERC20-ZK-0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": 12,
     "manta_network-NATIVE-MANTA": 13,
     "mythos-NATIVE-MYTH": 14,
-    "westend-NATIVE-WND": 15
+    "westend-NATIVE-WND": 15,
+    "ton-NATIVE-TON": 16
   }
 }
