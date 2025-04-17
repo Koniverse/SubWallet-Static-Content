@@ -12,8 +12,7 @@
       "transfer.xcm___arbitrum_one-ERC20-WETH-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1___optimism",
       "transfer.xcm___base_mainnet-NATIVE-ETH___optimism",
       "transfer.xcm___base_mainnet-ERC20-WETH-0x4200000000000000000000000000000000000006___optimism",
-      "transfer.xcm___optimism-ERC20-WETH-0x4200000000000000000000000000000000000006___ethereum",
-      "transfer.xcm___sepolia_ethereum-ERC20-WETH-0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14___base_sepolia"
+      "transfer.xcm___optimism-ERC20-WETH-0x4200000000000000000000000000000000000006___ethereum"
     ],
     "send_nft": [],
     "swap": [],
