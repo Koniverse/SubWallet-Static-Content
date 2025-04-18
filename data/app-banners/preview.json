@@ -1076,5 +1076,37 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 115,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1432x272_51e8693e1d.png",
+    "info": {
+      "id": 195,
+      "name": "Extension - Home - Stake MYTH Today",
+      "description": null,
+      "start_time": "2025-03-13T17:00:00.000Z",
+      "stop_time": "2025-04-18T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 169,
+      "url": "index.html#/home/earning",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
