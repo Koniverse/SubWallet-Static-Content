@@ -22532,6 +22532,24 @@
     "assetRefs": []
   },
   {
+    "slug": "hydradx_main-LOCAL-GDOT",
+    "name": "GIGADOT",
+    "symbol": "GDOT",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "69"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gdot_94e5095eb0.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
