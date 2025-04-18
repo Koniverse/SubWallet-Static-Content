@@ -2,7 +2,9 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [],
-    "transfer.token": [],
+    "transfer.token": [
+      "transfer.token___hydradx_main-LOCAL-GDOT"
+    ],
     "transfer.xcm": [
       "transfer.xcm___polkadot-NATIVE-DOT___parallel",
       "transfer.xcm___statemint-LOCAL-PINK___bifrost_dot",
