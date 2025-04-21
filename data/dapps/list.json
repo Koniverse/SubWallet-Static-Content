@@ -2427,6 +2427,7 @@
     "preview_image": null,
     "chains": [
       "ethereum",
+      "sonic",
       "arbitrum_one",
       "base_mainnet",
       "avalanche_c",
@@ -2518,6 +2519,7 @@
       "moonbeam",
       "optimism",
       "polygon",
+      "sonic",
       "xlayer",
       "binance",
       "celo",

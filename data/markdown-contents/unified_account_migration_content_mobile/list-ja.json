@@ -1,0 +1,5 @@
+{
+  "content": "<div class=\"md-element md-subtitle\">From solo account to unified account</div>\n\n<img  class=\"md-element md-banner\" src=\"https://media-resources.subwallet.app/12/account_migration_banner_d7b7329265.png\" alt=\"banner\" />\n\n<div  class=\"md-element md-p-tag text-center\">You can migrate your solo accounts to unified accounts for seamless use on multiple ecosystems, including Polkadot, Ethereum, TON and Cardano.</div>\n\n<div  class=\"md-element md-p-tag text-center\">SubWallet automatically detects accounts imported via seed phrase and then lets you select the accounts you want to migrate. Hit “Migrate now” to start the migration, or “Cancel” to migrate later.</div>\n\n\n",
+  "description": "Header 1",
+  "title": null
+}

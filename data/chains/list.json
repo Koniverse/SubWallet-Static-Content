@@ -2950,7 +2950,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "kusama",
-      "paraId": 2087,
+      "paraId": 2104,
       "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
       "addressPrefix": 49,
       "chainType": "PARACHAIN",
@@ -8582,7 +8582,7 @@
     "slug": "astarZkEvm",
     "name": "Astar zkEVM",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/astar_zkevm_e3c6c227da.png",
     "providers": {
@@ -9333,7 +9333,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_fd417d6c23.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_27e342468c.png",
     "providers": {
       "BlockOps": "wss://hyperbridge-nexus-rpc.blockops.network",
       "IBP1": "wss://nexus.ibp.network",
@@ -9344,7 +9344,7 @@
       "relaySlug": "polkadot",
       "paraId": 3367,
       "genesisHash": "0x61ea8a51fd4a058ee8c0e86df0a89cc85b8b67a0a66432893d09719050c9f540",
-      "addressPrefix": 42,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
@@ -10152,7 +10152,7 @@
       "addressPrefix": 54,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://cere.statescan.io/",
       "existentialDeposit": "10000000000",
       "symbol": "CERE",
       "decimals": 10,
@@ -11962,6 +11962,34 @@
     "cardanoInfo": null
   },
   {
+    "slug": "sonic",
+    "name": "Sonic",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/sonic_686bc1b5cd.png",
+    "providers": {
+      "SonicLab": "https://rpc.soniclabs.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 146,
+      "blockExplorer": "https://sonicscan.org/",
+      "existentialDeposit": "0",
+      "symbol": "S",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
     "slug": "story_protocol",
     "name": "Story Protocol",
     "isTestnet": false,
@@ -12268,5 +12296,175 @@
       "decimals": 6,
       "symbol": "tADA"
     }
+  },
+  {
+    "slug": "peaq_evm",
+    "name": "peaq EVM",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_light_7f56164979.png",
+    "providers": {
+      "Onfinality": "https://peaq.api.onfinality.io/public",
+      "Peaq": "https://evm.peaq.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 3338,
+      "blockExplorer": "https://peaq.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "PEAQ",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "polkadot_coretime",
+    "name": "Polkadot Coretime",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_coretime_8abfcd09f9.png",
+    "providers": {
+      "IBP1": "wss://sys.ibp.network/coretime-polkadot",
+      "IBP2": "wss://coretime-polkadot.dotters.network",
+      "LuckyFriday": "wss://rpc-coretime-polkadot.luckyfriday.io",
+      "Parity": "wss://polkadot-coretime-rpc.polkadot.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 1005,
+      "genesisHash": "0xefb56e30d9b4a24099f88820987d0f45fb645992416535d87650d98e00f46fc4",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://coretime-polkadot.subscan.io/",
+      "existentialDeposit": "1000000000",
+      "symbol": "DOT",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "coretime-polkadot",
+      "chainBalanceSlug": "coretime-polkadot"
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "kusama_coretime",
+    "name": "Kusama Coretime",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_coretime_2896bde9ea.png",
+    "providers": {
+      "IBP1": "wss://sys.ibp.network/coretime-kusama",
+      "IBP2": "wss://coretime-kusama.dotters.network",
+      "Dwellir": "wss://coretime-kusama-rpc.dwellir.com",
+      "LuckyFriday": "wss://rpc-coretime-kusama.luckyfriday.io",
+      "Parity": "wss://kusama-coretime-rpc.polkadot.io",
+      "Stakeworld": "wss://ksm-rpc.stakeworld.io/coretime"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "kusama",
+      "paraId": 1005,
+      "genesisHash": "0x638cd2b9af4b3bb54b8c1f0d22711fc89924ca93300f0caf25a580432b29d050",
+      "addressPrefix": 2,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://coretime-kusama.subscan.io/",
+      "existentialDeposit": "33333333",
+      "symbol": "KSM",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "coretime-kusama",
+      "chainBalanceSlug": "coretime-kusama"
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "truth_network",
+    "name": "Truth Network Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/truth_d88d501084.png",
+    "providers": {
+      "External": "wss://chain-external.truth-network.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xa006eb47d5c9678d9cdc845958e5451217f2c72cf96a50e027df4549fd0111f0",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "http://explorer.truth-network.io/",
+      "existentialDeposit": "0",
+      "symbol": "TRUU",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "tassi_demo",
+    "name": "Tassi Demo",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
+    "providers": {
+      "DanceBox": "https://dancebox-3001.tanssi-api.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 5678,
+      "blockExplorer": "https://fra-dancebox-3001-bs.a.dancebox.tanssi.network/",
+      "existentialDeposit": "0",
+      "symbol": "TANGO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
   }
 ]

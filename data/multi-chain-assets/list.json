@@ -97,7 +97,9 @@
       "hydradx_main-LOCAL-DOT",
       "manta_network-LOCAL-DOT",
       "statemine-LOCAL-DOT",
-      "polkadot_people-NATIVE-DOT"
+      "polkadot_people-NATIVE-DOT",
+      "polimec-LOCAL-DOT",
+      "polkadot_coretime-NATIVE-DOT"
     ]
   },
   {
@@ -173,7 +175,8 @@
       "b2-ERC20-USDT-0x681202351a488040Fa4FdCc24188AfB582c9DD62",
       "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
       "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
-      "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3"
+      "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3",
+      "polimec-LOCAL-USDT"
     ]
   },
   {
@@ -457,9 +460,12 @@
     "originChainAsset": "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "chainAssets": [
       "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "base_mainnet-ERC20-WETH-0x4200000000000000000000000000000000000006",
+      "arbitrum_one-ERC20-WETH-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006",
-      "story_protocol-ERC20-WETH-0xBAb93B7ad7fE8692A878B95a8e689423437cc500"
+      "story_protocol-ERC20-WETH-0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+      "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006"
     ]
   },
   {
@@ -547,7 +553,9 @@
       "b2-ERC20-USDC-0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5",
       "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
-      "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14"
+      "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "polimec-LOCAL-USDC",
+      "truth_network-LOCAL-USDC"
     ]
   },
   {
@@ -699,7 +707,9 @@
       "amplitude-LOCAL-KSM",
       "peopleKusama-NATIVE-KSM",
       "statemint-LOCAL-KSM",
-      "kreivo-NATIVE-KSM"
+      "kreivo-NATIVE-KSM",
+      "hydradx_main-LOCAL-KSM",
+      "kusama_coretime-NATIVE-KSM"
     ]
   },
   {
@@ -873,8 +883,7 @@
     "originChainAsset": "humanode-NATIVE-HMND",
     "chainAssets": [
       "humanode-NATIVE-HMND",
-      "humanodeEvm-NATIVE-eHMND",
-      "humanodeEvm-ERC20-WeHMND-0x0000000000000000000000000000000000000802"
+      "humanodeEvm-NATIVE-eHMND"
     ]
   },
   {
@@ -1051,7 +1060,8 @@
       "ethereum-ERC20-MYTH-0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
       "mythos-NATIVE-MYTH",
       "statemint-LOCAL-MYTH",
-      "hydradx_main-LOCAL-MYTH"
+      "hydradx_main-LOCAL-MYTH",
+      "statemint-LOCAL-MYTH-Snowbridge"
     ]
   },
   {
@@ -1301,7 +1311,7 @@
     "slug": "NCTR-Apillon",
     "name": "Apillon",
     "symbol": "NCTR",
-    "priceId": null,
+    "priceId": "apillon",
     "hasValue": true,
     "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/apillon_277b09e804.png",
     "originChainAsset": null,
@@ -1513,6 +1523,60 @@
       "ternoa-NATIVE-CAPS",
       "ternoaZkEvm-NATIVE-CAPS",
       "ethereum-ERC20-CAPS-0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2"
+    ]
+  },
+  {
+    "slug": "PEAQ-PEAQ",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "priceId": "peaq-2",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/Color_light_7f56164979.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "peaq-NATIVE-PEAQ",
+      "ethereum-ERC20-PEAQ-0x1EeF208926667594E5136e89D0e9DD6907959197",
+      "peaq_evm-NATIVE-PEAQ"
+    ]
+  },
+  {
+    "slug": "TRUU-Truth",
+    "name": "Truth",
+    "symbol": "TRUU",
+    "priceId": "truth",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/truth_d88d501084.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "truth_network-NATIVE-TRUU",
+      "ethereum-ERC20-TRUU-0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2"
+    ]
+  },
+  {
+    "slug": "HEI-Heima",
+    "name": "Heima",
+    "symbol": "HEI",
+    "priceId": "heima",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/heima_token_8fc30bad1a.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "litentry-NATIVE-HEI",
+      "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083",
+      "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083"
+    ]
+  },
+  {
+    "slug": "LAOS-LAOS",
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "priceId": "laos-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "laos_network-NATIVE-LAOS",
+      "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588"
     ]
   }
 ]

@@ -11,7 +11,9 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 1,
@@ -48,12 +50,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "interlay-LOCAL-DOT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "parallel-LOCAL-DOT"
       },
       {
         "type": "XCM",
@@ -269,7 +265,7 @@
         "type": "SWAP",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "hydradx_main-LOCAL-KSM"
       }
     ]
   },
@@ -285,7 +281,9 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 2,
@@ -405,6 +403,24 @@
         "metadata": null,
         "disable": false,
         "destAsset": "ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-NATIVE-ETH"
       }
     ]
   },
@@ -436,7 +452,9 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "GLMR",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 5,
@@ -457,7 +475,9 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "NEER",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 6,
@@ -501,7 +521,9 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "ASTR",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 8,
@@ -668,6 +690,8 @@
         "parents": 1,
         "interior": "Here"
       },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol",
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
@@ -696,17 +720,13 @@
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDt"
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-USDC"
       }
@@ -729,7 +749,9 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "ACA",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 10,
@@ -742,12 +764,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcACA"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "parallel-LOCAL-ACA"
       }
     ]
   },
@@ -835,6 +851,24 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-ERC20-WBTC-0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-NATIVE-ETH"
       }
     ]
   },
@@ -877,7 +911,26 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChain": "optimism",
     "multiChainAsset": "ETH-Ethereum",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
+      }
+    ]
   },
   {
     "slug": "optimism-ERC20-OP-0x4200000000000000000000000000000000000042",
@@ -924,7 +977,10 @@
     "metadata": {
       "onChainInfo": {
         "Token": "DOT"
-      }
+      },
+      "isSufficient": true,
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 17,
@@ -951,7 +1007,9 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 0
-      }
+      },
+      "paraSpellValue": "GLMR",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 18,
@@ -978,7 +1036,10 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 12
-      }
+      },
+      "isSufficient": true,
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 19,
@@ -1025,7 +1086,10 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 2
-      }
+      },
+      "isSufficient": true,
+      "paraSpellValue": "ASTR",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 21,
@@ -1121,7 +1185,9 @@
     "metadata": {
       "assetId": "42259045809535163221576417993425387648",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080"
+      "paraSpellValue": "DOT",
+      "contractAddress": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 26,
@@ -1154,7 +1220,9 @@
     "metadata": {
       "assetId": "101170542313601871197860408087030232491",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab"
+      "paraSpellValue": "INTR",
+      "contractAddress": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 27,
@@ -1181,7 +1249,9 @@
     "metadata": {
       "assetId": "120637696315203257380661607956669368914",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52"
+      "paraSpellValue": "IBTC",
+      "contractAddress": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 28,
@@ -1208,7 +1278,9 @@
     "metadata": {
       "assetId": "224821240862170613278369189818311486111",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f"
+      "paraSpellValue": "ACA",
+      "contractAddress": "0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 29,
@@ -1277,6 +1349,24 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-WETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-NATIVE-ETH"
       }
     ]
   },
@@ -1293,7 +1383,9 @@
       "multilocation": {
         "parents": 1,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 33,
@@ -1334,7 +1426,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 34,
@@ -1675,7 +1769,9 @@
     "metadata": {
       "onChainInfo": {
         "Token2": "2"
-      }
+      },
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 52,
@@ -2268,14 +2364,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "parallel",
     "multiChainAsset": "USDT-Tether",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDt"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "clover-NATIVE-CLV",
@@ -2319,7 +2408,9 @@
     "assetType": "NATIVE",
     "metadata": {
       "assetId": "0",
-      "autoEnable": true
+      "autoEnable": true,
+      "paraSpellValue": "HDX",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 87,
@@ -2487,7 +2578,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "10",
+      "paraSpellAssetType": "id"
     },
     "hasValue": true,
     "ordinal": 88,
@@ -2662,7 +2755,9 @@
     "metadata": {
       "onChainInfo": {
         "Native": null
-      }
+      },
+      "paraSpellValue": "CFG",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 90,
@@ -2689,7 +2784,9 @@
     "metadata": {
       "onChainInfo": {
         "Token": "INTR"
-      }
+      },
+      "paraSpellValue": "INTR",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 91,
@@ -2742,7 +2839,9 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 2
-      }
+      },
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 93,
@@ -2769,7 +2868,9 @@
     "metadata": {
       "onChainInfo": {
         "Token": "IBTC"
-      }
+      },
+      "paraSpellValue": "IBTC",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 94,
@@ -2842,7 +2943,7 @@
     "name": "Darwinia Commitment Token",
     "symbol": "KTON",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "darwinia-commitment-token",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -2914,7 +3015,9 @@
     "metadata": {
       "onChainInfo": {
         "XCM": "0"
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 100,
@@ -3081,7 +3184,9 @@
       "multilocation": {
         "parents": 1,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 110,
@@ -3679,7 +3784,7 @@
     "ordinal": 144,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_token_8fc30bad1a.png",
     "originChain": "litentry",
-    "multiChainAsset": null,
+    "multiChainAsset": "HEI-Heima",
     "assetRefs": []
   },
   {
@@ -3815,7 +3920,7 @@
     "name": "OriginTrail",
     "symbol": "NEURO",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "neurowebai",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -3969,7 +4074,9 @@
       "multilocation": {
         "parents": 1,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 162,
@@ -4018,7 +4125,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 163,
@@ -4762,7 +4871,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 210,
@@ -4787,18 +4898,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "equilibrium_parachain-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -4843,7 +4942,9 @@
     "metadata": {
       "assetId": "42259045809535163221576417993425387648",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080"
+      "paraSpellValue": "KSM",
+      "contractAddress": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 211,
@@ -4866,7 +4967,9 @@
       "multilocation": {
         "parents": 1,
         "interior": "Here"
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 212,
@@ -4886,7 +4989,9 @@
     "metadata": {
       "onChainInfo": {
         "Token": "KSM"
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 213,
@@ -4906,7 +5011,9 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": "9"
-      }
+      },
+      "paraSpellValue": "NEER",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 214,
@@ -4966,7 +5073,9 @@
     "metadata": {
       "onChainInfo": {
         "Token": "KSM"
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 217,
@@ -5053,7 +5162,9 @@
     "metadata": {
       "assetId": "311091173110107856861649819128533077277",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d"
+      "paraSpellValue": "USDT",
+      "contractAddress": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 222,
@@ -5720,7 +5831,7 @@
     "name": "Cougar",
     "symbol": "CGS",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "cougar-token",
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
@@ -5918,7 +6029,7 @@
     "name": "Liquid KSM",
     "symbol": "LKSM",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "liquid-ksm",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -7283,6 +7394,12 @@
         "metadata": null,
         "disable": true,
         "destAsset": "bittensor-NATIVE-TAO"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-ERC20-USDC-0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
       }
     ]
   },
@@ -9021,6 +9138,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-NATIVE-ETH"
       }
     ]
   },
@@ -9087,7 +9216,9 @@
     "metadata": {
       "onChainInfo": {
         "Token2": "0"
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 432,
@@ -9137,14 +9268,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_63b5dd41ef.png",
     "originChain": "parallel",
     "multiChainAsset": "DOT-Polkadot",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "polkadot-NATIVE-DOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "interlay-LOCAL-DOT",
@@ -9157,7 +9281,9 @@
     "metadata": {
       "onChainInfo": {
         "Token": "DOT"
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 435,
@@ -9185,6 +9311,8 @@
       "assetId": "5",
       "autoEnable": true,
       "canPayTxFee": true,
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol",
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
@@ -9201,17 +9329,13 @@
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-NATIVE-HDX"
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "polkadot-NATIVE-DOT"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
@@ -9339,7 +9463,7 @@
         "type": "SWAP",
         "metadata": null,
         "disable": false,
-        "destAsset": null
+        "destAsset": "hydradx_main-LOCAL-KSM"
       }
     ]
   },
@@ -9397,7 +9521,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "USDC",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 439,
@@ -9509,7 +9635,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "22",
+      "paraSpellAssetType": "id"
     },
     "hasValue": true,
     "ordinal": 442,
@@ -9598,7 +9726,7 @@
     "name": "Stella stDOT",
     "symbol": "stDOT",
     "decimals": 10,
-    "priceId": null,
+    "priceId": "stellaswap-staked-dot",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -9848,7 +9976,9 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": 4
-      }
+      },
+      "paraSpellValue": "INTR",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9873,21 +10003,16 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "108"
+      "assetId": "108",
+      "paraSpellValue": "ACA",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/acala_45dd03b9eb.png",
     "originChain": "parallel",
     "multiChainAsset": "ACA-Acala",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-NATIVE-ACA"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "hydradx_main-LOCAL-CFG",
@@ -9898,7 +10023,9 @@
     "minAmount": "32467532467532500",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "13"
+      "assetId": "13",
+      "paraSpellValue": "CFG",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10151,7 +10278,9 @@
     "metadata": {
       "onChainInfo": {
         "MantaCurrency": "1"
-      }
+      },
+      "paraSpellValue": "MANTA",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10203,7 +10332,9 @@
       "assetId": "8",
       "onChainInfo": {
         "MantaCurrency": "8"
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10236,7 +10367,9 @@
     "metadata": {
       "assetId": "166446646689194205559791995948102903873",
       "assetType": "ForeignAsset",
-      "contractAddress": "0xfFFffFFf7D3875460d4509eb8d0362c611B4E841"
+      "paraSpellValue": "MANTA",
+      "contractAddress": "0xfFFffFFf7D3875460d4509eb8d0362c611B4E841",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10350,7 +10483,9 @@
     "metadata": {
       "onChainInfo": {
         "Token2": "8"
-      }
+      },
+      "paraSpellValue": "MANTA",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10566,9 +10701,7 @@
       },
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "rococo-NATIVE-ROC"
-        },
+        "metadata": null,
         "disable": false,
         "destAsset": "rococo_assethub-LOCAL-USDt"
       }
@@ -10788,6 +10921,8 @@
     "metadata": {
       "assetId": "9",
       "autoEnable": true,
+      "paraSpellValue": "ASTR",
+      "paraSpellAssetType": "symbol",
       "alternativeSwapAsset": "astar-NATIVE-ASTR"
     },
     "hasValue": true,
@@ -10927,6 +11062,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-INTR"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-KSM"
+      },
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-EWT"
       },
       {
         "type": "XCM",
@@ -11508,9 +11655,7 @@
     "assetRefs": [
       {
         "type": "SWAP",
-        "metadata": {
-          "alternativeAsset": "rococo-NATIVE-ROC"
-        },
+        "metadata": null,
         "disable": true,
         "destAsset": "hydradx_rococo-LOCAL-DOT"
       },
@@ -12974,7 +13119,9 @@
         "parents": 0,
         "interior": "Here"
       },
-      "disableEvmTransfer": true
+      "paraSpellValue": "MYTH",
+      "disableEvmTransfer": true,
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13092,7 +13239,7 @@
     "name": "Wrapped Humanode",
     "symbol": "WeHMND",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "wrapped-ehmnd",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -13102,7 +13249,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChain": "humanodeEvm",
-    "multiChainAsset": "HMND-Humanode",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -13261,7 +13408,7 @@
     "name": "DeepLink Coin",
     "symbol": "DLC",
     "decimals": 8,
-    "priceId": null,
+    "priceId": "deeplink-protocol",
     "minAmount": "100000",
     "assetType": "LOCAL",
     "metadata": {
@@ -13561,7 +13708,7 @@
     "name": "Curio Governance Token",
     "symbol": "CGT",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "curio-gas-token",
     "minAmount": "10000000000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -13583,7 +13730,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hyperbridge_fd417d6c23.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bridge_ffc9daafa1.png",
     "originChain": "hyperbridge",
     "multiChainAsset": null,
     "assetRefs": []
@@ -13694,7 +13841,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "USDC",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -14740,7 +14889,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -14775,7 +14926,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15013,7 +15166,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "WETH",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15048,7 +15203,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "MYTH",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15117,7 +15274,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "WBTC",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15162,7 +15321,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "SHIB",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15207,7 +15368,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "PEPE",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15270,7 +15433,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "TON",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15333,7 +15498,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "wstETH",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15378,7 +15545,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "tBTC",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -16141,7 +16310,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
     "originChain": "peaq",
-    "multiChainAsset": null,
+    "multiChainAsset": "PEAQ-PEAQ",
     "assetRefs": []
   },
   {
@@ -16483,7 +16652,9 @@
             }
           ]
         }
-      }
+      },
+      "paraSpellValue": "MYTH",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -17188,7 +17359,7 @@
     "name": "Apillon",
     "symbol": "NCTR",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "apillon",
     "minAmount": "100000000",
     "assetType": "LOCAL",
     "metadata": {
@@ -17206,7 +17377,7 @@
     "name": "Apillon",
     "symbol": "xcNCTR",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "apillon",
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
@@ -17586,6 +17757,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -17913,6 +18090,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "chainflip_dot-NATIVE-pDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -17981,6 +18164,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "sepolia_ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_sepolia-NATIVE-ETH"
       }
     ]
   },
@@ -18202,6 +18391,92 @@
         "metadata": null,
         "disable": true,
         "destAsset": null
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      }
+    ]
+  },
+  {
+    "slug": "base_mainnet-ERC20-WETH-0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4200000000000000000000000000000000000006"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-NATIVE-ETH"
+      }
+    ]
+  },
+  {
+    "slug": "arbitrum_one-ERC20-WETH-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_c2910543ab.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "optimism-NATIVE-ETH"
       }
     ]
   },
@@ -18944,7 +19219,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
     "originChain": "laos_network",
-    "multiChainAsset": null,
+    "multiChainAsset": "LAOS-LAOS",
     "assetRefs": []
   },
   {
@@ -19653,6 +19928,22 @@
     "assetRefs": []
   },
   {
+    "slug": "sonic-NATIVE-S",
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18,
+    "priceId": "sonic-3",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/s_0a8f9c88dd.png",
+    "originChain": "sonic",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "story_protocol-NATIVE-IP",
     "name": "IP",
     "symbol": "IP",
@@ -20083,6 +20374,2161 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bluedot_52bcff66b6.png",
     "originChain": "cardano_preproduction",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthWETH-0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+    "name": "Aave Ethereum WETH",
+    "symbol": "aEthWETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthUSDT-0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+    "name": "Aave Ethereum USDT",
+    "symbol": "aEthUSDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthWBTC-0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8",
+    "name": "Aave Ethereum WBTC",
+    "symbol": "aEthWBTC",
+    "decimals": 8,
+    "priceId": "wrapped-bitcoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-aEthUSDC-0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+    "name": "Aave Ethereum USDC",
+    "symbol": "aEthUSDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-sUSDS-0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "name": "Savings USDS",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "priceId": "susds",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/susds_e5ab748382.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-sDAI-0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "name": "Saving DAI",
+    "symbol": "sDAI",
+    "decimals": 18,
+    "priceId": "savings-dai",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sdai_c45005952f.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "acala-LOCAL-LOVA",
+    "name": "AIWeb3",
+    "symbol": "LOVA",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": 18
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lova_a624f51f5d.png",
+    "originChain": "acala",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "313283208",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000771"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b37165518e.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "KSM-Kusama",
+    "assetRefs": [
+      {
+        "type": "SWAP",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      }
+    ]
+  },
+  {
+    "slug": "ethereum-ERC20-PEAQ-0x1EeF208926667594E5136e89D0e9DD6907959197",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "decimals": 18,
+    "priceId": "peaq-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x1EeF208926667594E5136e89D0e9DD6907959197"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "PEAQ-PEAQ",
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano-CIP26-USDA-fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
+    "name": "Anzens USDA Stablecoin",
+    "symbol": "USDA",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usda_b82e410779.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano-CIP26-MIN-29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+    "name": "Minswap",
+    "symbol": "MIN",
+    "decimals": 6,
+    "priceId": "minswap",
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/min_b02f383f89.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-LOCAL-USDT",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "70000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1984
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "polimec",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "70000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "polimec",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-LOCAL-DOT",
+    "name": "DOT AssetHub",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "100000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 1,
+        "interior": "Here"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "polimec",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-EWT",
+    "name": "EWT",
+    "symbol": "EWT",
+    "decimals": 18,
+    "priceId": "energy-web-token",
+    "minAmount": "3244646333550",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "252525"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/energy_web_chain_fb2360f26c.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-MYTH-Snowbridge",
+    "name": "MYTH-Snowbridge",
+    "symbol": "MYTH-Snowbridge",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "statemint",
+    "multiChainAsset": "MYTH-Mythos",
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-α",
+    "name": "Apex",
+    "symbol": "α",
+    "decimals": 9,
+    "priceId": "dtao-1",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 1,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/apex_ccdad34f05.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-γ",
+    "name": "Τemplar",
+    "symbol": "γ",
+    "decimals": 9,
+    "priceId": "dtao-3",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 3,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/templar_bd5f206733.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-β",
+    "name": "Omron",
+    "symbol": "β",
+    "decimals": 9,
+    "priceId": "dtao-2",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 2,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omron_6c5c994e92.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ε",
+    "name": "Openkaito",
+    "symbol": "ε",
+    "decimals": 9,
+    "priceId": "dtao-5",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 5,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/open_kaito_3fc4243831.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-δ",
+    "name": "Targon",
+    "symbol": "δ",
+    "decimals": 9,
+    "priceId": "dtao-4",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 4,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/targon_2fc9f9ec0f.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ο",
+    "name": "De_val",
+    "symbol": "ο",
+    "decimals": 9,
+    "priceId": "dtao-15",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 15,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/de_val_78cda9aa67.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ק",
+    "name": "Nextplace",
+    "symbol": "ק",
+    "decimals": 9,
+    "priceId": "dtao-48",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 48,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nextplace_ai_70744cfbae.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-η",
+    "name": "Subvortex",
+    "symbol": "η",
+    "decimals": 9,
+    "priceId": "dtao-7",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 7,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subvortex_379f312efa.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-μ",
+    "name": "Compute horde",
+    "symbol": "μ",
+    "decimals": 9,
+    "priceId": "dtao-12",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 12,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/horde_ea91010e0b.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-κ",
+    "name": "Sturdy",
+    "symbol": "κ",
+    "decimals": 9,
+    "priceId": "dtao-10",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 10,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sturdy_849ddc5cb1.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ν",
+    "name": "Data universe",
+    "symbol": "ν",
+    "decimals": 9,
+    "priceId": "dtao-13",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 13,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/data_universe_61bd2d9bd8.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ω",
+    "name": "Omega labs",
+    "symbol": "ω",
+    "decimals": 9,
+    "priceId": "dtao-24",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 24,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omega_06e09589cb.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-χ",
+    "name": "Desearch",
+    "symbol": "χ",
+    "decimals": 9,
+    "priceId": "dtao-22",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 22,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/desearch_47d38e12d1.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-π",
+    "name": "Bitads",
+    "symbol": "π",
+    "decimals": 9,
+    "priceId": "dtao-16",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 16,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitads_027230dc5d.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ח",
+    "name": "Itsai",
+    "symbol": "ח",
+    "decimals": 9,
+    "priceId": "dtao-32",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 32,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/it_s_ai_c6d8964f4e.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ι",
+    "name": "Pretrain",
+    "symbol": "ι",
+    "decimals": 9,
+    "priceId": "dtao-9",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 9,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pretraining_a0ab5c95d5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ט",
+    "name": "Readyai",
+    "symbol": "ט",
+    "decimals": 9,
+    "priceId": "dtao-33",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 33,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/readyai_89823a99f9.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-λ",
+    "name": "Dippy",
+    "symbol": "λ",
+    "decimals": 9,
+    "priceId": "dtao-11",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 11,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dippy_roleplay_df646f8328.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ך",
+    "name": "Logicnet",
+    "symbol": "ך",
+    "decimals": 9,
+    "priceId": "dtao-35",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 35,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/logicnet_3e10917c7a.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ע",
+    "name": "Graphite",
+    "symbol": "ע",
+    "decimals": 9,
+    "priceId": "dtao-43",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 43,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/graphite_189ce95154.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-מ",
+    "name": "Edge",
+    "symbol": "מ",
+    "decimals": 9,
+    "priceId": "dtao-39",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 39,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/edge_maxxing_71d6f3c079.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-θ",
+    "name": "Proprietary trading network",
+    "symbol": "θ",
+    "decimals": 9,
+    "priceId": "dtao-8",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 8,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/proprietary_trading_network_b4c3d2fd9d.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ρ",
+    "name": "404—gen",
+    "symbol": "ρ",
+    "decimals": 9,
+    "priceId": "dtao-17",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 17,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/three_gen_d980d5c418.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ו",
+    "name": "Bettensor",
+    "symbol": "ו",
+    "decimals": 9,
+    "priceId": "dtao-30",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 30,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bettensor_356ebc9c7c.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ת",
+    "name": "Celium",
+    "symbol": "ת",
+    "decimals": 9,
+    "priceId": "dtao-51",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 51,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/compute_subnet_e2ccb6f526.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ب",
+    "name": "Efficientfrontier",
+    "symbol": "ب",
+    "decimals": 9,
+    "priceId": "dtao-53",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 53,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/efficient_frontier_9a73ddbd78.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ן",
+    "name": "Chunking",
+    "symbol": "ן",
+    "decimals": 9,
+    "priceId": "dtao-40",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 40,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chunking_6744e470b6.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ج",
+    "name": "Gradients",
+    "symbol": "ج",
+    "decimals": 9,
+    "priceId": "dtao-56",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 56,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gradients_0af61f9fec.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ψ",
+    "name": "Zuvu",
+    "symbol": "ψ",
+    "decimals": 9,
+    "priceId": "dtao-23",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 23,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/socialtensor_8b08d08370.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-פ",
+    "name": "Swe - rizzo",
+    "symbol": "פ",
+    "decimals": 9,
+    "priceId": "dtao-45",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 45,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/swe_rizzo_56117dfd54.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ξ",
+    "name": "Vector-store",
+    "symbol": "ξ",
+    "decimals": 9,
+    "priceId": "dtao-14",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 14,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vectorstore_7aed0a362d.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-خ",
+    "name": "Dippy speech",
+    "symbol": "خ",
+    "decimals": 9,
+    "priceId": "dtao-58",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 58,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dippy_speech_b54d2a55cb.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ד",
+    "name": "Oracle",
+    "symbol": "ד",
+    "decimals": 9,
+    "priceId": "dtao-28",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 28,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lol_0e0445df34.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-υ",
+    "name": "Bitagent - rizzo",
+    "symbol": "υ",
+    "decimals": 9,
+    "priceId": "dtao-20",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 20,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitagent_rizzo_1098209c20.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ב",
+    "name": "Storb",
+    "symbol": "ב",
+    "decimals": 9,
+    "priceId": "dtao-26",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 26,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_26_fa92776c26.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ت",
+    "name": "Webgenieai",
+    "symbol": "ت",
+    "decimals": 9,
+    "priceId": "dtao-54",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 54,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/webgenieai_1692fb7e5f.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ح",
+    "name": "Gaia",
+    "symbol": "ح",
+    "decimals": 9,
+    "priceId": "dtao-57",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 57,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gaia_4af3c4eb29.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ם",
+    "name": "Distributed training",
+    "symbol": "ם",
+    "decimals": 9,
+    "priceId": "dtao-38",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 38,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/distributed_training_subnet_eae978e537.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ס",
+    "name": "Real-time data by masa",
+    "symbol": "ס",
+    "decimals": 9,
+    "priceId": "dtao-42",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 42,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/real_time_data_by_masa_39f6014978.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ר",
+    "name": "Automl",
+    "symbol": "ר",
+    "decimals": 9,
+    "priceId": "dtao-49",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 49,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hivetrain_automl_1dfcd0e046.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-נ",
+    "name": "Sportstensor",
+    "symbol": "נ",
+    "decimals": 9,
+    "priceId": "dtao-41",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 41,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sportstensor_99e92f13bf.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ש",
+    "name": "Synth",
+    "symbol": "ש",
+    "decimals": 9,
+    "priceId": "dtao-50",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 50,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/synth_6a870df663.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-א",
+    "name": "Folding",
+    "symbol": "א",
+    "decimals": 9,
+    "priceId": "dtao-25",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 25,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/protein_folding_1073327ad5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-t",
+    "name": "Nineteen.ai",
+    "symbol": "t",
+    "decimals": 9,
+    "priceId": "dtao-19",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 19,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nineteen_1b53eb7fb3.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ا",
+    "name": "Dojo",
+    "symbol": "ا",
+    "decimals": 9,
+    "priceId": "dtao-52",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 52,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dojo_e56276791d.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-כ",
+    "name": "Web-agents",
+    "symbol": "כ",
+    "decimals": 9,
+    "priceId": "dtao-36",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 36,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/web_agents_autoppia_bdb8fe91be.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ג",
+    "name": "Ni compute",
+    "symbol": "ג",
+    "decimals": 9,
+    "priceId": "dtao-27",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 27,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ni_compute_bd9b67c6d9.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ז",
+    "name": "Naschain",
+    "symbol": "ז",
+    "decimals": 9,
+    "priceId": "dtao-31",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 31,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nas_chain_de0a51ff12.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ζ",
+    "name": "Infinite games",
+    "symbol": "ζ",
+    "decimals": 9,
+    "priceId": "dtao-6",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 6,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Infinite_Games_a2452398da.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-י",
+    "name": "Bitmind",
+    "symbol": "י",
+    "decimals": 9,
+    "priceId": "dtao-34",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 34,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitmind_0d979120e8.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ה",
+    "name": "Coldint",
+    "symbol": "ה",
+    "decimals": 9,
+    "priceId": "dtao-29",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 29,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/coldint_82d2ba0320.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ף",
+    "name": "Score",
+    "symbol": "ף",
+    "decimals": 9,
+    "priceId": "dtao-44",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 44,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/score_49b0cb89e9.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ث",
+    "name": "Precog",
+    "symbol": "ث",
+    "decimals": 9,
+    "priceId": "dtao-55",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 55,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/precog_d246c4a5d6.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-φ",
+    "name": "Omega any-to-any",
+    "symbol": "φ",
+    "decimals": 9,
+    "priceId": "dtao-21",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 21,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omega_any_to_any_450a5b0a86.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-צ",
+    "name": "Condenses.ai",
+    "symbol": "צ",
+    "decimals": 9,
+    "priceId": "dtao-47",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 47,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/condense_ai_31a6ee9e80.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ל",
+    "name": "Finetuning",
+    "symbol": "ל",
+    "decimals": 9,
+    "priceId": "dtao-37",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 37,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/finetuning_25404616a0.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ץ",
+    "name": "Neural3d",
+    "symbol": "ץ",
+    "decimals": 9,
+    "priceId": "dtao-46",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 46,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neural3d_36a864898f.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-σ",
+    "name": "Zeus",
+    "symbol": "σ",
+    "decimals": 9,
+    "priceId": "dtao-18",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 18,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cortex_t_39284e8d05.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-م",
+    "name": "Hippius",
+    "symbol": "م",
+    "decimals": 9,
+    "priceId": "dtao-75",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 75,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_75_391ea8f4c6.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ي",
+    "name": "Τaos",
+    "symbol": "ي",
+    "decimals": 9,
+    "priceId": "dtao-79",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 79,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_79_9d802139da.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ى",
+    "name": "Ai factory",
+    "symbol": "ى",
+    "decimals": 9,
+    "priceId": "dtao-80",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 80,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_80_2180264940.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ع",
+    "name": "Ain",
+    "symbol": "ع",
+    "decimals": 9,
+    "priceId": "dtao-69",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 69,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_69_45ef11ff9c.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-د",
+    "name": "Agent arena by masa",
+    "symbol": "د",
+    "decimals": 9,
+    "priceId": "dtao-59",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 59,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/agent_arena_by_masa_1f46264df5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ش",
+    "name": "Chutes",
+    "symbol": "ش",
+    "decimals": 9,
+    "priceId": "dtao-64",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 64,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chutes_2779a0df9d.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ز",
+    "name": "Agentao",
+    "symbol": "ز",
+    "decimals": 9,
+    "priceId": "dtao-62",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 62,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/agentao_803a0e9ba4.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-و",
+    "name": "Waw",
+    "symbol": "و",
+    "decimals": 9,
+    "priceId": "dtao-78",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 78,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_78_afcc6fbf13.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ذ",
+    "name": "Bitsec.ai",
+    "symbol": "ذ",
+    "decimals": 9,
+    "priceId": "dtao-60",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 60,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitsec_c487504c5c.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ه",
+    "name": "Reserved",
+    "symbol": "ه",
+    "decimals": 9,
+    "priceId": "dtao-77",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 77,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_77_67ec54c9c4.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ض",
+    "name": "Fakenews",
+    "symbol": "ض",
+    "decimals": 9,
+    "priceId": "dtao-66",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 66,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/fakenews_d81a78c631.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-س",
+    "name": "Lean-in",
+    "symbol": "س",
+    "decimals": 9,
+    "priceId": "dtao-63",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 63,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_63_b0f947f91b.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ف",
+    "name": "Fa",
+    "symbol": "ف",
+    "decimals": 9,
+    "priceId": "dtao-71",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 71,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_b73aad2a3c.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ر",
+    "name": "Redteam",
+    "symbol": "ر",
+    "decimals": 9,
+    "priceId": "dtao-61",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 61,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/red_team_c891277dd4.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-غ",
+    "name": "Vericore",
+    "symbol": "غ",
+    "decimals": 9,
+    "priceId": "dtao-70",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 70,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_70_634ce71eac.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ص",
+    "name": "Tensor private network (tpn)",
+    "symbol": "ص",
+    "decimals": 9,
+    "priceId": "dtao-65",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 65,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tao_private_network_t_b7fe3d96e4.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ك",
+    "name": "F(x)integral",
+    "symbol": "ك",
+    "decimals": 9,
+    "priceId": "dtao-73",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 73,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_73_1c8203084f.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ن",
+    "name": "Safe scan",
+    "symbol": "ن",
+    "decimals": 9,
+    "priceId": "dtao-76",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 76,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_76_17d3f4c2d6.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ط",
+    "name": "Ta",
+    "symbol": "ط",
+    "decimals": 9,
+    "priceId": "dtao-67",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 67,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_67_7063f7f05f.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ق",
+    "name": "Qaf",
+    "symbol": "ق",
+    "decimals": 9,
+    "priceId": "dtao-72",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 72,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_72_2e1e1a6267.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ل",
+    "name": "Lam",
+    "symbol": "ل",
+    "decimals": 9,
+    "priceId": "dtao-74",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 74,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_74_97095309d7.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ظ",
+    "name": "Nova",
+    "symbol": "ظ",
+    "decimals": 9,
+    "priceId": "dtao-68",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 68,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nova_3c2d788fe8.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ي-81",
+    "name": "Patrol (tao.com)",
+    "symbol": "ي",
+    "decimals": 9,
+    "priceId": "dtao-81",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 81,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_81_3e2184018b.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "peaq_evm-NATIVE-PEAQ",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "decimals": 18,
+    "priceId": "peaq-2",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_7f56164979.png",
+    "originChain": "peaq_evm",
+    "multiChainAsset": "PEAQ-PEAQ",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-tTAO-0xE4887Cf30fF3EDb843369f2161FCB7e064ff28f0",
+    "name": "Tensorplex Wrapped TAO",
+    "symbol": "tTAO",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xE4887Cf30fF3EDb843369f2161FCB7e064ff28f0"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-stTAO-0xB60acD2057067DC9ed8c083f5aa227a244044fD6",
+    "name": "Tensorplex Staked TAO",
+    "symbol": "stTAO",
+    "decimals": 9,
+    "priceId": "tensorplex-staked-tao",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xB60acD2057067DC9ed8c083f5aa227a244044fD6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sttao_385b742f63.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "polkadot_coretime-NATIVE-DOT",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "polkadot_coretime",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "kusama_coretime-NATIVE-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "33333333",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b37165518e.png",
+    "originChain": "kusama_coretime",
+    "multiChainAsset": "KSM-Kusama",
+    "assetRefs": []
+  },
+  {
+    "slug": "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4200000000000000000000000000000000000006"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "optimism",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "ethereum-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "arbitrum_one-NATIVE-ETH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "base_mainnet-NATIVE-ETH"
+      }
+    ]
+  },
+  {
+    "slug": "truth_network-NATIVE-TRUU",
+    "name": "Truth",
+    "symbol": "TRUU",
+    "decimals": 10,
+    "priceId": "truth",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/truth_d88d501084.png",
+    "originChain": "truth_network",
+    "multiChainAsset": "TRUU-Truth",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-TRUU-0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2",
+    "name": "Truth",
+    "symbol": "TRUU",
+    "decimals": 10,
+    "priceId": "truth",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xDAe0faFD65385E7775Cf75b1398735155EF6aCD2"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/truth_d88d501084.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "TRUU-Truth",
+    "assetRefs": []
+  },
+  {
+    "slug": "truth_network-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": 0
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "truth_network",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "tassi_demo-NATIVE-TANGO",
+    "name": "Tanssi Demo",
+    "symbol": "TANGO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dancebox_54a251b7f9.png",
+    "originChain": "tassi_demo",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-GASP-0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E",
+    "name": "GASP",
+    "symbol": "GASP",
+    "decimals": 18,
+    "priceId": "gasp-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x736ECc5237B31eDec6f1aB9a396FaE2416b1d96E"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gasp_4fa877344c.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083",
+    "name": "Heima",
+    "symbol": "HEI",
+    "decimals": 18,
+    "priceId": "heima",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF8F173E20e15f3b6CB686FB64724D370689De083"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_token_8fc30bad1a.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "HEI-Heima",
+    "assetRefs": []
+  },
+  {
+    "slug": "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083",
+    "name": "Heima",
+    "symbol": "HEI",
+    "decimals": 18,
+    "priceId": "heima",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xF8F173E20e15f3b6CB686FB64724D370689De083"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/heima_token_8fc30bad1a.png",
+    "originChain": "binance",
+    "multiChainAsset": "HEI-Heima",
+    "assetRefs": []
+  },
+  {
+    "slug": "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588",
+    "name": "LAOS",
+    "symbol": "xcLAOS",
+    "decimals": 18,
+    "priceId": "laos-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/laos_network_3b5afe97d9.png",
+    "originChain": "moonbeam",
+    "multiChainAsset": "LAOS-LAOS",
     "assetRefs": []
   }
 ]
