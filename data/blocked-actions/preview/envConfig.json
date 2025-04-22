@@ -48,5 +48,17 @@
       "environment": "extension",
       "version": "1.3.24-0"
     }
+  },
+  "6a3f34b2-c53c-4b6e-9ab0-13caba2d9794": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.20-0"
+    }
+  },
+  "18567f51-8d1e-4392-b0da-a21c91484c37": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.21-0"
+    }
   }
 }
