@@ -3073,12 +3073,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "amplitude-LOCAL-USDT"
       },
       {
@@ -6227,18 +6221,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "calamari-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "calamari-LOCAL-zkUSDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "parallel-LOCAL-USDT"
       },
       {
@@ -6276,12 +6258,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "equilibrium_parachain-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -14181,12 +14157,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
         "type": "XCM",
