@@ -1069,12 +1069,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -1106,12 +1100,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -1530,12 +1518,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -1567,12 +1549,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -1945,12 +1921,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -1982,12 +1952,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -2580,80 +2544,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "parallel",
     "multiChainAsset": "USDT-Tether",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "astar-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "bifrost_dot-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "kintsugi-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "clover-NATIVE-CLV",
@@ -3037,12 +2928,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "interlay-LOCAL-USDT"
       },
       {
@@ -3232,12 +3117,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -3263,12 +3142,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -3801,12 +3674,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -3838,12 +3705,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -4669,12 +4530,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -4700,12 +4555,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -5523,12 +5372,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "amplitude-LOCAL-USDT"
       },
       {
@@ -5808,12 +5651,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
       },
       {
@@ -5839,12 +5676,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -6191,7 +6022,9 @@
     "minAmount": "100",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "1984"
+      "assetId": "1984",
+      "paraSpellValue": "1984",
+      "paraSpellAssetType": "id"
     },
     "hasValue": true,
     "ordinal": 239,
@@ -6216,12 +6049,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "bifrost_dot-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -6258,12 +6085,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -10336,19 +10157,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -10486,12 +10295,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
       },
       {
@@ -10499,12 +10302,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -10684,68 +10481,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
     "originChain": "acala",
     "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "centrifuge-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "interlay-LOCAL-USDC.wh",
@@ -10800,12 +10536,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
       },
       {
@@ -10813,12 +10543,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -10881,12 +10605,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
       },
       {
@@ -10894,12 +10612,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -10962,12 +10674,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
       },
       {
@@ -10975,12 +10681,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -15130,19 +14830,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -15456,19 +15144,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -15511,7 +15187,9 @@
       "onChainInfo": {
         "XCM": "1"
       },
-      "isDisableTransfer": true
+      "paraSpellValue": "USDT",
+      "isDisableTransfer": true,
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15536,12 +15214,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "bifrost_dot-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -15584,12 +15256,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
@@ -17866,19 +17532,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
       },
       {
         "type": "XCM",
@@ -17899,7 +17553,9 @@
     "metadata": {
       "onChainInfo": {
         "ForeignAsset": "7"
-      }
+      },
+      "paraSpellValue": "USDT",
+      "paraSpellAssetType": "symbol"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -17924,12 +17580,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "bifrost_dot-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "parallel-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -17972,12 +17622,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT-23"
       },
       {
         "type": "XCM",
