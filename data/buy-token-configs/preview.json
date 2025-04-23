@@ -150,6 +150,12 @@
         "symbol": "BNB",
         "isSuspended": false,
         "supportSell": true
+      },
+      "banxa": {
+        "network": "BSC",
+        "symbol": "BNB",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "binance",
@@ -1052,5 +1058,39 @@
     "slug": "statemint-LOCAL-USDC",
     "symbol": "USDC",
     "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "zksync",
+        "symbol": "ETH",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "banxa": {
+        "network": "ZKSYNC2",
+        "symbol": "ETH",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "zksync_era",
+    "slug": "zksync_era-NATIVE-ETH",
+    "symbol": "ETH",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "ARB",
+        "symbol": "USDT",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "arbitrum_one",
+    "slug": "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "symbol": "USDT",
+    "support": "ETHEREUM"
   }
 ]

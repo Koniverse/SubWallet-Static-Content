@@ -10133,18 +10133,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "centrifuge-LOCAL-USDC"
       },
       {
@@ -10152,18 +10140,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
       }
     ]
   },
@@ -10271,18 +10247,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "centrifuge-LOCAL-USDC"
       },
       {
@@ -10296,18 +10260,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
       }
     ]
   },
@@ -10501,56 +10453,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
     "originChain": "interlay",
     "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "centrifuge-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "centrifuge-LOCAL-USDC",
@@ -10587,18 +10490,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDC"
       },
       {
@@ -10606,18 +10497,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
       }
     ]
   },
@@ -10656,18 +10535,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "centrifuge-LOCAL-USDC"
       },
       {
@@ -10675,18 +10542,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
       }
     ]
   },
@@ -14806,18 +14661,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "centrifuge-LOCAL-USDC"
       },
       {
@@ -14825,18 +14668,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
       }
     ]
   },
@@ -15103,56 +14934,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
     "originChain": "amplitude",
     "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "centrifuge-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "pendulum-LOCAL-BRZ",
@@ -15288,68 +15070,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_9b034b4c48.png",
     "originChain": "pendulum",
     "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "centrifuge-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC-21"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDC.s"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDCet"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
@@ -17491,56 +17212,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
     "originChain": "karura",
     "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-USDCet"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "centrifuge-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDC.s"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "karura-LOCAL-USDT",
