@@ -688,12 +688,6 @@
   },
   {
     "serviceInfo": {
-      "transak": {
-        "network": "alephzero",
-        "symbol": "AZERO",
-        "isSuspended": false,
-        "supportSell": null
-      },
       "banxa": {
         "network": "AZERO",
         "symbol": "AZERO",
@@ -937,6 +931,12 @@
         "symbol": "HDX",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "HDX",
+        "symbol": "HDX",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "hydradx_main",
@@ -951,6 +951,12 @@
         "symbol": "BSX",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "BSX",
+        "symbol": "BSX",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "basilisk",
@@ -965,6 +971,12 @@
         "symbol": "KILT",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "KILT",
+        "symbol": "KILT",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "kilt",
@@ -993,6 +1005,12 @@
         "symbol": "ACA",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "ACA",
+        "symbol": "ACA",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "acala",
@@ -1007,6 +1025,12 @@
         "symbol": "USDT_ASSETHUB",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "ASSETHUB",
+        "symbol": "USDT",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "statemint",
@@ -1021,6 +1045,12 @@
         "symbol": "USDC_ASSETHUB",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "ASSETHUB",
+        "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "statemint",
@@ -1191,62 +1221,6 @@
   {
     "serviceInfo": {
       "banxa": {
-        "network": "HDX",
-        "symbol": "HDX",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "hydradx_main",
-    "slug": "hydradx_main-NATIVE-HDX",
-    "symbol": "HDX",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "BSX",
-        "symbol": "BSX",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "basilisk",
-    "slug": "basilisk-NATIVE-BSX",
-    "symbol": "BSX",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "ACA",
-        "symbol": "ACA",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "acala",
-    "slug": "acala-NATIVE-ACA",
-    "symbol": "ACA",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "KILT",
-        "symbol": "KILT",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "kilt",
-    "slug": "kilt-NATIVE-KILT",
-    "symbol": "KILT",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
         "network": "OPTIMISM",
         "symbol": "USDC",
         "isSuspended": false,
@@ -1257,34 +1231,6 @@
     "slug": "optimism-ERC20-USDC-0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
     "symbol": "USDC",
     "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "ASSETHUB",
-        "symbol": "USDC",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "statemint",
-    "slug": "statemint-LOCAL-USDC",
-    "symbol": "USDC",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "ASSETHUB",
-        "symbol": "USDT",
-        "isSuspended": false,
-        "supportSell": null
-      }
-    },
-    "network": "statemint",
-    "slug": "statemint-LOCAL-USDt",
-    "symbol": "USDt",
-    "support": "SUBSTRATE"
   },
   {
     "serviceInfo": {
