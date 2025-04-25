@@ -3,7 +3,7 @@
   "blockedActionsMap": {
     "transfer.balance": [
       "transfer.balance___autonomys-NATIVE-AI3",
-      "transfer.balance___dbcchain_evm-NATIVE-DBC"
+      "transfer.balance___acurast-NATIVE-cACU"
     ],
     "transfer.token": [],
     "transfer.xcm": [],
