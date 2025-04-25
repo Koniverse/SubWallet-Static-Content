@@ -2,7 +2,8 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.balance___autonomys-NATIVE-AI3"
+      "transfer.balance___autonomys-NATIVE-AI3",
+      "transfer.balance___dbcchain_evm-NATIVE-DBC"
     ],
     "transfer.token": [],
     "transfer.xcm": [],
