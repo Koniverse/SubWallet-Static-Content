@@ -9204,7 +9204,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
-      "Avail": "wss://zeref-api.slowops.xyz/ws",
       "Ankr": "wss://mainnet.avail-rpc.com/",
       "Bware": "wss://avail-mainnet.public.blastapi.io/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
@@ -9404,7 +9403,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_1637df0b29.png",
     "providers": {
-      "Blockstream": "https://api.openbit.app"
+      "Blockstream": "https://btc-api.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
