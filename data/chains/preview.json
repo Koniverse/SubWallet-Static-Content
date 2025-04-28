@@ -9204,7 +9204,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
     "providers": {
-      "Avail": "wss://zeref-api.slowops.xyz/ws",
       "Ankr": "wss://mainnet.avail-rpc.com/",
       "Bware": "wss://avail-mainnet.public.blastapi.io/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
