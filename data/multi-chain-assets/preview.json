@@ -227,10 +227,7 @@
       "ethereum-ERC20-DAI-0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "hydradx_main-LOCAL-DAI",
       "hydradx_main-LOCAL-DAI-18",
-      "bobMainnet-ERC20-DAI-0x6c851f501a3f24e29a8e39a29591cddf09369080",
-      "arbitrum_one-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-      "optimism-ERC20-DAI-0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-      "base_mainnet-ERC20-DAI-0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+      "bobMainnet-ERC20-DAI-0x6c851f501a3f24e29a8e39a29591cddf09369080"
     ]
   },
   {
@@ -1580,6 +1577,33 @@
     "chainAssets": [
       "laos_network-NATIVE-LAOS",
       "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588"
+    ]
+  },
+  {
+    "slug": "TEER-IntegriteeShell",
+    "name": "Integritee Shell",
+    "symbol": "TEER",
+    "priceId": "integritee",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/integritee_polkadot_835d6230b5.png",
+    "originChainAsset": "integriteePolkadot-NATIVE-TEER",
+    "chainAssets": [
+      "ethereum-ERC20-TEER-0x769916A66fDAC0E3D57363129caac59386ea622B",
+      "integriteePolkadot-NATIVE-TEER",
+      "statemint-LOCAL-TEER"
+    ]
+  },
+  {
+    "slug": "LINK-Chainlink",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "priceId": "chainlink",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/chainlink_4f5e689be6.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "ethereum-ERC20-LINK-0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "hydradx_main-LOCAL-LINK"
     ]
   }
 ]

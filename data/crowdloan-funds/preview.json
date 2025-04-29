@@ -805,13 +805,17 @@
       "owner": "12rgGkphjoZ25FubPoxywaNm3oVhSHnzExnT6hsLnicuLaaj",
       "bid_id": "35-11-18",
       "raised": "2999970000000000",
-      "status": 2,
+      "status": 4,
       "balance": "0",
       "fund_id": "2094-55",
       "para_id": 2094,
       "end_block": 14164600,
       "in_auctions": [
-        35
+        35,
+        36,
+        37,
+        38,
+        39
       ],
       "last_period": 18,
       "start_block": 13378081,
@@ -825,10 +829,10 @@
       "start_block_at": 1671177126,
       "end_lease_block": 23841400,
       "extrinsic_index": "13378081-2",
-      "last_change_block": 23904100,
+      "last_change_block": 25710865,
       "fund_auction_status": 2,
-      "last_change_event_idx": 106,
-      "last_change_timestamp": 1734575346
+      "last_change_event_idx": 60,
+      "last_change_timestamp": 1745464134
     },
     "relayChain": "polkadot",
     "auctionIndex": 35,
