@@ -1605,5 +1605,18 @@
       "ethereum-ERC20-LINK-0x514910771AF9Ca656af840dff83E8264EcF986CA",
       "hydradx_main-LOCAL-LINK"
     ]
+  },
+  {
+    "slug": "PARTI-ParticleNetwork",
+    "name": "Particle Network",
+    "symbol": "PARTi",
+    "priceId": "particle-network",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/particle_network_0a438b4ea1.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "base_mainnet-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+      "binance-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00"
+    ]
   }
 ]

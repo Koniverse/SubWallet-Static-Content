@@ -3058,7 +3058,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 132,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_kusama_c9cadb1682.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_5f5ef68159.png",
     "originChain": "integritee",
     "multiChainAsset": null,
     "assetRefs": []
@@ -3074,7 +3074,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 133,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_kusama_c9cadb1682.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_5f5ef68159.png",
     "originChain": "integriteePolkadot",
     "multiChainAsset": "TEER-IntegriteeShell",
     "assetRefs": []
@@ -6946,7 +6946,7 @@
     },
     "hasValue": true,
     "ordinal": 348,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/link_bd71fad47b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chainlink_ae3305769b.png",
     "originChain": "ethereum",
     "multiChainAsset": "LINK-Chainlink",
     "assetRefs": []
@@ -8873,7 +8873,7 @@
   },
   {
     "slug": "xcavate-NATIVE-XCAV",
-    "name": "XCAV",
+    "name": "Xcavate",
     "symbol": "XCAV",
     "decimals": 12,
     "priceId": null,
@@ -8882,7 +8882,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xcavate_33bb0988ff.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Style_Style_2_df467dd6fc.png",
     "originChain": "xcavate",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19143,7 +19143,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_835d6230b5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_5f5ef68159.png",
     "originChain": "statemint",
     "multiChainAsset": "TEER-IntegriteeShell",
     "assetRefs": []
@@ -19161,7 +19161,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_835d6230b5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_5f5ef68159.png",
     "originChain": "ethereum",
     "multiChainAsset": "TEER-IntegriteeShell",
     "assetRefs": []
@@ -19218,6 +19218,42 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/slc_a42b1fa15b.png",
     "originChain": "peaq_evm",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "binance-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+    "name": "Particle Network",
+    "symbol": "PARTI",
+    "decimals": 18,
+    "priceId": "particle-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/particle_network_0a438b4ea1.png",
+    "originChain": "binance",
+    "multiChainAsset": "PARTI-ParticleNetwork",
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+    "name": "Particle Network",
+    "symbol": "PARTI",
+    "decimals": 18,
+    "priceId": "particle-network",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/particle_network_0a438b4ea1.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "PARTI-ParticleNetwork",
     "assetRefs": []
   },
   {

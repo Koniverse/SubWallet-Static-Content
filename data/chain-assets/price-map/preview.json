@@ -959,5 +959,7 @@
   "hydradx_main-LOCAL-LINK": "chainlink",
   "hydradx_main-LOCAL-SKY": "sky",
   "peaq_evm-ERC20-SLC-0x5c3126bfB9A68a7021d461230127470b3824886B": "silencio",
+  "binance-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00": "particle-network",
+  "base_mainnet-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00": "particle-network",
   "paseo_assethub-NATIVE-PAS": null
 }
