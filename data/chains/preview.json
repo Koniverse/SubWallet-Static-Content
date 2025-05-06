@@ -3492,7 +3492,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 79,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_kusama_70fdf54661.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
       "Integritee": "wss://kusama.api.integritee.network",
       "OnFinality": "wss://integritee-kusama.api.onfinality.io/public-ws"
@@ -3541,7 +3541,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 80,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_kusama_70fdf54661.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
       "Integritee": "wss://polkadot.api.integritee.network",
       "Dwellir": "wss://integritee-rpc.dwellir.com"
@@ -6845,39 +6845,6 @@
     "cardanoInfo": null
   },
   {
-    "slug": "xcavate",
-    "name": "Xcavate",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9998,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/Xcavate_f708d5eb64.png",
-    "providers": {
-      "Tanssi": "wss://fraa-dancebox-3031-rpc.a.dancebox.tanssi.network"
-    },
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
-      "genesisHash": "0x8472759fe1cf8ce507282ddea8af43dd08e598c9da2faed66f3e18f51f93080f",
-      "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": "1000000000",
-      "symbol": "XCAV",
-      "decimals": 12,
-      "hasNativeNft": false,
-      "supportStaking": false,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": []
-    },
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null,
-    "cardanoInfo": null
-  },
-  {
     "slug": "unorthodox",
     "name": "Unorthodox",
     "isTestnet": false,
@@ -7800,6 +7767,39 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "xcavate",
+    "name": "Xcavate",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Style_Style_2_df467dd6fc.png",
+    "providers": {
+      "Xcavate": "wss://rpc1-polkadot.xcavate.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3413,
+      "genesisHash": "0xd17bc7f93d054d8aba31f24d5bb0ac462247c594e31beed479b1c04d2d0ba48f",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "XCAV",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
