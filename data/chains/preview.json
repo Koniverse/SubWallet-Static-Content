@@ -1213,7 +1213,7 @@
     "slug": "turing",
     "name": "Turing",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 29,
     "icon": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
     "providers": {
@@ -9426,7 +9426,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Blockstream": "https://blockstream.info/testnet/api"
+      "Mempool": "https://mempool.space/testnet/api"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -12486,6 +12486,34 @@
       "blockExplorer": "https://fra-dancebox-3001-bs.a.dancebox.tanssi.network/",
       "existentialDeposit": "0",
       "symbol": "TANGO",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "zora",
+    "name": "Zora",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/zora_8331a2374c.png",
+    "providers": {
+      "Zora": "https://rpc.zora.energy/"
+    },
+    "evmInfo": {
+      "evmChainId": 7777777,
+      "blockExplorer": "https://explorer.zora.energy/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
