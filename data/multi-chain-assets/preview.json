@@ -37,7 +37,9 @@
       "soneium-NATIVE-ETH",
       "unichain-NATIVE-ETH",
       "siliconZkEvm-NATIVE-ETH",
-      "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u"
+      "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u",
+      "statemint-LOCAL-ETH-Snowbridge",
+      "zora-NATIVE-ETH"
     ]
   },
   {
@@ -176,7 +178,8 @@
       "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
       "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
       "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3",
-      "polimec-LOCAL-USDT"
+      "polimec-LOCAL-USDT",
+      "statemint-LOCAL-USDT-Snowbridge"
     ]
   },
   {
@@ -465,7 +468,8 @@
       "polygon-ERC20-WETH-0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "soneium-ERC20-WETH-0x4200000000000000000000000000000000000006",
       "story_protocol-ERC20-WETH-0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
-      "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006"
+      "optimism-ERC20-WETH-0x4200000000000000000000000000000000000006",
+      "statemint-LOCAL-WETH-Snowbridge"
     ]
   },
   {
@@ -555,7 +559,8 @@
       "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
       "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14",
       "polimec-LOCAL-USDC",
-      "truth_network-LOCAL-USDC"
+      "truth_network-LOCAL-USDC",
+      "statemint-LOCAL-USDC-Snowbridge"
     ]
   },
   {
@@ -603,7 +608,8 @@
       "bobMainnet-LOCAL-WBTC-0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
       "statemint-LOCAL-WBTC",
       "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
-      "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d"
+      "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d",
+      "statemint-LOCAL-WBTC-Snowbridge"
     ]
   },
   {

@@ -961,5 +961,11 @@
   "peaq_evm-ERC20-SLC-0x5c3126bfB9A68a7021d461230127470b3824886B": "silencio",
   "binance-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00": "particle-network",
   "base_mainnet-ERC20-PARTI-0x59264f02D301281f3393e1385c0aEFd446Eb0F00": "particle-network",
+  "statemint-LOCAL-USDC-Snowbridge": "usd-coin",
+  "statemint-LOCAL-ETH-Snowbridge": "ethereum",
+  "zora-NATIVE-ETH": "ethereum",
+  "statemint-LOCAL-USDT-Snowbridge": "tether",
+  "statemint-LOCAL-WBTC-Snowbridge": "wrapped-bitcoin",
+  "statemint-LOCAL-WETH-Snowbridge": "weth",
   "paseo_assethub-NATIVE-PAS": null
 }

@@ -19257,6 +19257,206 @@
     "assetRefs": []
   },
   {
+    "slug": "statemint-LOCAL-USDC-Snowbridge",
+    "name": "USDC-Snowbridge",
+    "symbol": "USDC-Snowbridge",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "statemint",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-ETH-Snowbridge",
+    "name": "ETH-Snowbridge",
+    "symbol": "ETH-Snowbridge",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "15000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X1": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "statemint",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "zora-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "zora",
+    "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-USDT-Snowbridge",
+    "name": "USDT-Snowbridge",
+    "symbol": "USDT-Snowbridge",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "statemint",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-WBTC-Snowbridge",
+    "name": "WBTC-Snowbridge",
+    "symbol": "WBTC-Snowbridge",
+    "decimals": 8,
+    "priceId": "wrapped-bitcoin",
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "statemint",
+    "multiChainAsset": "WBTC-WrappedBTC",
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-WETH-Snowbridge",
+    "name": "WETH-Snowbridge",
+    "symbol": "WETH-Snowbridge",
+    "decimals": 18,
+    "priceId": "weth",
+    "minAmount": "15000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X2": [
+            {
+              "GlobalConsensus": {
+                "Ethereum": {
+                  "chainId": 1
+                }
+              }
+            },
+            {
+              "AccountKey20": {
+                "key": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "network": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "statemint",
+    "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": []
+  },
+  {
     "slug": "paseo_assethub-NATIVE-PAS",
     "name": "Paseo Testnet",
     "symbol": "PAS",

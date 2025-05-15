@@ -2976,6 +2976,37 @@
     ]
   },
   {
+    "id": 197,
+    "title": "KyberSwap",
+    "description": "A multi-chain aggregator and DeFi hub that empowers users with the insights and tools to achieve financial autonomy",
+    "url": "https://kyberswap.com/swap/",
+    "subtitle": "DeFi's Open and Permissionless Liquidity Backbone",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1235,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/kyber_swap_78a24c38ed.png",
+    "preview_image": null,
+    "chains": [
+      "arbitrum_one",
+      "base_mainnet",
+      "ethereum",
+      "lineaZkEvm",
+      "binance",
+      "mantle",
+      "berachain_testnet",
+      "avalanche_c",
+      "unichain",
+      "sonic",
+      "zksync_era",
+      "optimism"
+    ],
+    "categories": [
+      "defi"
+    ]
+  },
+  {
     "id": 195,
     "title": "DotYappers",
     "description": "Join the Polkadot ecosystem and\nmake valuable contributions on X",
