@@ -176,7 +176,7 @@
   "common.Button.chainChecker": "Turn it on",
   "common.Button.continue": "Continue",
   "common.Button.createOne": "Create one",
-  "common.Button.enable": "",
+  "common.Button.enable": "Enable",
   "common.Button.importToken": "Import token",
   "common.Button.joinNow": "Join now",
   "common.Button.manageToken": "Manage tokens",
@@ -1610,5 +1610,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-15T10:08:12Z"
+  "texterify_timestamp": "2025-05-15T10:53:36Z"
 }
