@@ -1111,7 +1111,7 @@
   "settings.Screen.securitySetting.Selector.authPassword.Item.whenNeeded": "仅必要时",
   "settings.Screen.securitySetting.Selector.autoLock.itemLabel": "{{time}}分钟",
   "settings.Screen.securitySetting.Selector.autoLock.title": "Auto lock",
-  "settings.Screen.securitySetting.title": "安全设置1",
+  "settings.Screen.securitySetting.title": "安全设置",
   "settings.Screen.settingsEntry.Button.lock": "锁定",
   "settings.Screen.settingsEntry.Item.aboutSubwallet": "关于SubWallet",
   "settings.Screen.settingsEntry.Item.assetsAddresses": "Assets & addresses",
@@ -1610,5 +1610,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-15T10:53:35Z"
+  "texterify_timestamp": "2025-05-15T11:05:29Z"
 }

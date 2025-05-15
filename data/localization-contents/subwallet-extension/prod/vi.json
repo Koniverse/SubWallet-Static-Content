@@ -1125,7 +1125,7 @@
   "settings.Screen.settingsEntry.Item.manageWebsiteAccess": "Quản lý truy cập",
   "settings.Screen.settingsEntry.Item.missionPools": "Mission pools",
   "settings.Screen.settingsEntry.Item.requestFeature": "Request a feature",
-  "settings.Screen.settingsEntry.Item.securitySettings": "Cài đặt bảo mật1",
+  "settings.Screen.settingsEntry.Item.securitySettings": "Cài đặt bảo mật",
   "settings.Screen.settingsEntry.Item.userGuide": "Hướng dẫn sử dụng",
   "settings.Screen.settingsEntry.Item.walletConnect": "WalletConnect",
   "settings.Screen.settingsEntry.SectionTitle.communitySupport": "Cộng đồng & Hỗ trợ",
@@ -1610,5 +1610,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-15T10:53:37Z"
+  "texterify_timestamp": "2025-05-15T11:05:31Z"
 }
