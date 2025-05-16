@@ -44,6 +44,12 @@
       "version": "1.3.22-0"
     }
   },
+  "ee9083f1-777e-4a81-97e4-7c4e0fb22732": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.20-0"
+    }
+  },
   "efe0db50-b1f9-4d3a-a678-a2b1eb66057a": {
     "appConfig": {
       "environment": "webapp"
