@@ -1137,7 +1137,12 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [],
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "polkadot-NATIVE-DOT"
+      }
+    ],
     "conditions": {},
     "instruction": null
   }
