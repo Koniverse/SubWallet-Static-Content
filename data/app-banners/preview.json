@@ -1111,7 +1111,7 @@
   },
   {
     "id": 116,
-    "position": "token_detail",
+    "position": "token",
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
@@ -1137,12 +1137,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "DOT-Polkadot"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": null
   }
