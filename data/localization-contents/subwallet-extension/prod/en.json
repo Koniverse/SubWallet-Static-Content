@@ -1091,8 +1091,8 @@
   "settings.Screen.migrateAccount.soloAccountMigrationView.Input.accountName.Error.required": "Account name is required",
   "settings.Screen.migrateAccount.soloAccountMigrationView.Input.accountName.label": "Account name",
   "settings.Screen.migrateAccount.soloAccountMigrationView.Input.accountName.placeholder": "Enter the account name",
-  "settings.Screen.migrateAccount.soloAccountMigrationView.Text.migrateFrom": "Migrate from",
-  "settings.Screen.migrateAccount.soloAccountMigrationView.Text.migrateTo": "To",
+  "settings.Screen.migrateAccount.soloAccountMigrationView.Label.migrateFrom": "Migrate from",
+  "settings.Screen.migrateAccount.soloAccountMigrationView.Label.migrateTo": "To",
   "settings.Screen.migrateAccount.soloAccountMigrationView.title": "Accounts migrated",
   "settings.Screen.migrateAccount.summaryView.accountListModal.andOneOther": "And 1 other",
   "settings.Screen.migrateAccount.summaryView.accountListModalTriggerLabel.forMultiItems": "And {{number}} others",
@@ -1634,5 +1634,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-19T04:03:59Z"
+  "texterify_timestamp": "2025-05-19T04:15:02Z"
 }
