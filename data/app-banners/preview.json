@@ -1141,6 +1141,10 @@
       {
         "property": "tokenSlug",
         "value": "DOT-Polkadot"
+      },
+      {
+        "property": "tokenSlug",
+        "value": "bittensor-NATIVE-TAO"
       }
     ],
     "conditions": {},
