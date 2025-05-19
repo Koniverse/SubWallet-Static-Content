@@ -1218,7 +1218,7 @@
   {
     "id": 81,
     "priority": 1,
-    "position": "earning",
+    "position": "token",
     "repeat": "once",
     "content": "![MYTH popup.png](https://media-resources.subwallet.app/6/MYTH_popup_7e5a2e583f.png)",
     "repeat_every_x_days": null,
@@ -1232,8 +1232,8 @@
       "id": 196,
       "name": "MYTH Staking is Live",
       "description": null,
-      "start_time": "2025-03-13T17:00:00.000Z",
-      "stop_time": "2025-04-20T17:00:00.000Z",
+      "start_time": "2025-05-18T17:00:00.000Z",
+      "stop_time": "2025-05-20T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
