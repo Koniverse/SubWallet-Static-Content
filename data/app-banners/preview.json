@@ -1125,9 +1125,7 @@
       "start_time": "2025-05-17T17:00:00.000Z",
       "stop_time": "2025-05-26T17:00:00.000Z",
       "platforms": [
-        "web",
-        "extension",
-        "mobile"
+        "web"
       ],
       "os": null,
       "is_changelog_popup": null
