@@ -1117,8 +1117,8 @@
   "settings.Screen.migrateAccount.soloAccountMigrationView.Label.migrateFrom": "Migrate from",
   "settings.Screen.migrateAccount.soloAccountMigrationView.Label.migrateTo": "To",
   "settings.Screen.migrateAccount.soloAccountMigrationView.title": "Accounts migrated",
-  "settings.Screen.migrateAccount.summaryView.accountListModal.andOneOther": "And 1 other",
   "settings.Screen.migrateAccount.summaryView.accountListModalTriggerLabel.forMultiItems": "And {{number}} others",
+  "settings.Screen.migrateAccount.summaryView.accountListModalTriggerLabel.forOneItem": "And 1 other",
   "settings.Screen.migrateAccount.summaryView.migrateToMultiAccounts": "You have successfully migrated to <br/> <highlight>{{number}} unified accounts</highlight>",
   "settings.Screen.migrateAccount.summaryView.migrateToOneAccount": "You have successfully migrated to <br/> <highlight>{{number}} unified account</highlight>",
   "settings.Screen.migrateAccount.summaryView.noAccountToMigrate": "All eligible accounts have been migrated. Review <guide>our guide1</guide> to learn more about migration eligibility & process",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-20T09:12:31Z"
+  "texterify_timestamp": "2025-05-20T09:30:37Z"
 }
