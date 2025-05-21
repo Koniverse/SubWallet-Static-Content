@@ -1,5 +1,5 @@
 {
-  "abc.test.1": "anh",
+  "abc.test.2": "anh",
   "About SubWallet": "",
   "Access configuration": "",
   "Account": "",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-21T10:26:31Z"
+  "texterify_timestamp": "2025-05-21T10:37:46Z"
 }
