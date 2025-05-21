@@ -1,5 +1,5 @@
 {
-  "abc.test.1": "anh",
+  "abc.test.2": "anh",
   "About SubWallet": "",
   "Access configuration": "",
   "Account": "",
@@ -1009,7 +1009,7 @@
   "settings.networkDetail.Modal.SelectProvider.placeHolder": "Select provider",
   "settings.networkDetail.Modal.SelectProvider.title": "Select provider",
   "settings.Popup.authorizeRequest.title": "Connect with SubWallet",
-  "settings.Screen.accountSetting.Item.migrate": "Migrate to unified account",
+  "settings.Screen.accountSetting.Item.migrate": "Migrate to unified account1",
   "settings.Screen.accountSetting.Item.split": "Split unified account",
   "settings.Screen.accountSetting.title": "Account settings",
   "settings.Screen.addProvider.bodyTitle": "Currently support WSS provider for Substrate networks and HTTP provider for EVM networks",
@@ -1049,7 +1049,7 @@
   "settings.Screen.generalSetting.Selector.currency.Item.hkd": "Hong Kong Dollar",
   "settings.Screen.generalSetting.Selector.currency.Item.jpy": "Japanese Yen",
   "settings.Screen.generalSetting.Selector.currency.Item.rub": "Russian Ruble",
-  "settings.Screen.generalSetting.Selector.currency.Item.usd": "United States Dollar",
+  "settings.Screen.generalSetting.Selector.currency.Item.usd": "United States Dollar1",
   "settings.Screen.generalSetting.Selector.currency.Item.vnd": "Vietnamese Dong",
   "settings.Screen.generalSetting.Selector.currency.searchPlaceHolder": "Search currency",
   "settings.Screen.generalSetting.Selector.currency.title": "Select a currency",
@@ -1119,7 +1119,7 @@
   "settings.Screen.migrateAccount.soloAccountMigrationView.title": "Accounts migrated",
   "settings.Screen.migrateAccount.summaryView.accountListModalTriggerLabel.forMultiItems": "And {{number}} others",
   "settings.Screen.migrateAccount.summaryView.accountListModalTriggerLabel.forOneItem": "And 1 other",
-  "settings.Screen.migrateAccount.summaryView.migrateToMultiAccounts": "You have successfully migrated to <br/> <highlight>{{number}} unified accounts</highlight>",
+  "settings.Screen.migrateAccount.summaryView.migrateToMultiAccounts": "You have successfully migrated to <br/> <highlight>{{number}} unified accounts</highlight>1",
   "settings.Screen.migrateAccount.summaryView.migrateToOneAccount": "You have successfully migrated to <br/> <highlight>{{number}} unified account</highlight>",
   "settings.Screen.migrateAccount.summaryView.noAccountToMigrate": "All eligible accounts have been migrated. Review <guide>our guide</guide> to learn more about migration eligibility & process",
   "settings.Screen.migrateAccount.summaryView.title": "All done!",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-20T10:21:04Z"
+  "texterify_timestamp": "2025-05-21T11:10:26Z"
 }

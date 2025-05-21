@@ -1,5 +1,5 @@
 {
-  "abc.test.1": "trung",
+  "abc.test.2": "trung",
   "About SubWallet": "关于SubWallet",
   "Access configuration": "访问配置",
   "Account": "账户",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-20T10:21:04Z"
+  "texterify_timestamp": "2025-05-21T11:10:26Z"
 }

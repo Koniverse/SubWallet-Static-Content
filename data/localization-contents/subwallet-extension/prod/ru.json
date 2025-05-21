@@ -1,5 +1,5 @@
 {
-  "abc.test.1": "nga",
+  "abc.test.2": "nga",
   "About SubWallet": "О Subwallet",
   "Access configuration": "Конфигурация доступа",
   "Account": "Аккаунт",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-20T10:21:05Z"
+  "texterify_timestamp": "2025-05-21T11:10:27Z"
 }
