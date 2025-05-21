@@ -1039,7 +1039,7 @@
   "settings.Screen.crowdloans.searchPlaceHolder": "Tìm kiếm dự án",
   "settings.Screen.crowdloans.title": "Crowdloans",
   "settings.Screen.generalSetting.Item.currency": "Currency",
-  "settings.Screen.generalSetting.Item.language": "Ngôn ngữ11",
+  "settings.Screen.generalSetting.Item.language": "Ngôn ngữ",
   "settings.Screen.generalSetting.Item.notificationInApp": "",
   "settings.Screen.generalSetting.Item.notifications": "Notifications",
   "settings.Screen.generalSetting.Selector.currency.Item.brl": "",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-21T11:05:18Z"
+  "texterify_timestamp": "2025-05-21T11:12:21Z"
 }
