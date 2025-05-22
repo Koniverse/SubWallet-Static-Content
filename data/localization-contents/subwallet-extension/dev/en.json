@@ -1060,7 +1060,7 @@
   "settings.Screen.generalSetting.Selector.notification.title": "Notifications",
   "settings.Screen.generalSetting.Selector.theme.Item.dark": "Dark theme",
   "settings.Screen.generalSetting.Selector.theme.Item.light": "Light theme",
-  "settings.Screen.generalSetting.title": "General settings",
+  "settings.Screen.generalSetting.title": "General settings1",
   "settings.Screen.generalSetting.walletTheme": "Wallet theme",
   "settings.Screen.importNetwork.Input.blockExplorer.Error.invalidURL": "Invalid URL",
   "settings.Screen.importNetwork.Input.crowdloan.Error.invalidURL": "Invalid URL",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-21T11:15:20Z"
+  "texterify_timestamp": "2025-05-22T02:44:04Z"
 }
