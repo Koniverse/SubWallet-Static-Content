@@ -967,5 +967,8 @@
   "statemint-LOCAL-USDT-Snowbridge": "tether",
   "statemint-LOCAL-WBTC-Snowbridge": "wrapped-bitcoin",
   "statemint-LOCAL-WETH-Snowbridge": "weth",
+  "chainflip_assethub-NATIVE-DOT": null,
+  "chainflip_assethub-LOCAL-USDT": null,
+  "chainflip_assethub-LOCAL-USDC": null,
   "paseo_assethub-NATIVE-PAS": null
 }

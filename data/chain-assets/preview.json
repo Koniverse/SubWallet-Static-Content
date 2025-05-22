@@ -49,12 +49,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "interlay-LOCAL-DOT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "bifrost_dot-LOCAL-DOT"
       },
       {
@@ -74,6 +68,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "pendulum-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polkadot_people-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
       }
     ]
   },
@@ -134,6 +140,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "amplitude-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "peopleKusama-NATIVE-KSM"
       }
     ]
   },
@@ -345,6 +363,48 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemine-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "acala-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "manta_network-LOCAL-DOT"
       }
     ]
   },
@@ -548,6 +608,48 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "manta_network-LOCAL-DOT"
       }
     ]
   },
@@ -625,12 +727,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -797,6 +893,42 @@
         "metadata": null,
         "disable": false,
         "destAsset": "manta_network-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "acala-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
       }
     ]
   },
@@ -820,14 +952,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/interlay_04ffc38b2d.png",
     "originChain": "moonbeam",
     "multiChainAsset": "INTR-Interlay",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-NATIVE-INTR"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "moonbeam-LOCAL-xcIBTC",
@@ -849,14 +974,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ibtc_537a25a650.png",
     "originChain": "moonbeam",
     "multiChainAsset": "iBTC-interBTC",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-iBTC"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "moonbeam-LOCAL-xcACA",
@@ -989,6 +1107,48 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "acala-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "manta_network-LOCAL-DOT"
       }
     ]
   },
@@ -1050,12 +1210,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -1429,12 +1583,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "hydradx_main-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -2133,12 +2281,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDT"
       },
       {
@@ -2214,20 +2356,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/interlay_04ffc38b2d.png",
     "originChain": "interlay",
     "multiChainAsset": "INTR-Interlay",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcINTR"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-INTR"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "interlay-LOCAL-LDOT",
@@ -2269,50 +2398,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "interlay",
     "multiChainAsset": "USDT-Tether",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "statemint-LOCAL-USDt"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "acala-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "astar-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "bifrost_dot-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "hydradx_main-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "pendulum-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcUSDT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "interlay-LOCAL-iBTC",
@@ -2334,14 +2420,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ibtc_537a25a650.png",
     "originChain": "interlay",
     "multiChainAsset": "iBTC-interBTC",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "moonbeam-LOCAL-xcIBTC"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "kintsugi-LOCAL-kBTC",
@@ -2481,7 +2560,50 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_07ebdf0656.png",
     "originChain": "amplitude",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonriver-LOCAL-xcKSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "shiden-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "karura-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost-LOCAL-KSM"
+      }
+    ]
   },
   {
     "slug": "polkadex-NATIVE-PDEX",
@@ -2662,6 +2784,42 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonriver-LOCAL-xcKSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "shiden-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "karura-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
   },
@@ -3223,13 +3381,23 @@
     "priceId": "kusama",
     "minAmount": "33333333",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
+    },
     "hasValue": true,
     "ordinal": 142,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
     "originChain": "encointer",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      }
+    ]
   },
   {
     "slug": "litmus-NATIVE-LIT",
@@ -4384,12 +4552,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "pendulum-LOCAL-USDT"
       }
     ]
@@ -4414,7 +4576,50 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
     "originChain": "moonriver",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "shiden-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "karura-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "amplitude-LOCAL-KSM"
+      }
+    ]
   },
   {
     "slug": "shiden-LOCAL-KSM",
@@ -4439,7 +4644,50 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
     "originChain": "shiden",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonriver-LOCAL-xcKSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "karura-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "amplitude-LOCAL-KSM"
+      }
+    ]
   },
   {
     "slug": "karura-LOCAL-KSM",
@@ -4461,7 +4709,50 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b9766f7606.png",
     "originChain": "karura",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonriver-LOCAL-xcKSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "shiden-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "amplitude-LOCAL-KSM"
+      }
+    ]
   },
   {
     "slug": "karura-LOCAL-NEER",
@@ -4551,6 +4842,42 @@
         "metadata": null,
         "disable": false,
         "destAsset": "kusama-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonriver-LOCAL-xcKSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "shiden-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "karura-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "amplitude-LOCAL-KSM"
       }
     ]
   },
@@ -7909,13 +8236,23 @@
     "priceId": "polkadot",
     "minAmount": "1000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
+    },
     "hasValue": true,
     "ordinal": 401,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_63b5dd41ef.png",
     "originChain": "bridgeHubPolkadot",
     "multiChainAsset": "DOT-Polkadot",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polkadot-NATIVE-DOT"
+      }
+    ]
   },
   {
     "slug": "bridgeHubKusama-NATIVE-KSM",
@@ -8554,6 +8891,48 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "acala-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "manta_network-LOCAL-DOT"
       }
     ]
   },
@@ -8613,14 +8992,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadot_63b5dd41ef.png",
     "originChain": "interlay",
     "multiChainAsset": "DOT-Polkadot",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "polkadot-NATIVE-DOT"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "hydradx_main-LOCAL-DOT",
@@ -8649,6 +9021,54 @@
         "metadata": null,
         "disable": false,
         "destAsset": "polkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "acala-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "interlay-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "manta_network-LOCAL-DOT"
       }
     ]
   },
@@ -9169,14 +9589,7 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/interlay_909455ece5.png",
     "originChain": "acala",
     "multiChainAsset": "INTR-Interlay",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-NATIVE-INTR"
-      }
-    ]
+    "assetRefs": []
   },
   {
     "slug": "parallel-LOCAL-ACA",
@@ -9417,6 +9830,42 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "acala-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "astar-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bridgeHubPolkadot-NATIVE-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "bifrost_dot-LOCAL-DOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-DOT"
       }
     ]
   },
@@ -10648,12 +11097,6 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "interlay-LOCAL-USDC.wh"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
         "destAsset": "centrifuge-LOCAL-USDC"
       },
       {
@@ -10728,12 +11171,6 @@
         "metadata": null,
         "disable": false,
         "destAsset": "parallel-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "interlay-LOCAL-USDT"
       },
       {
         "type": "XCM",
@@ -12082,13 +12519,23 @@
     "priceId": "kusama",
     "minAmount": "33333333",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "paraSpellValue": "KSM",
+      "paraSpellAssetType": "symbol"
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_07ebdf0656.png",
     "originChain": "peopleKusama",
     "multiChainAsset": "KSM-Kusama",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "kusama-NATIVE-KSM"
+      }
+    ]
   },
   {
     "slug": "moonbeam-LOCAL-xcSTINK",
@@ -15918,13 +16365,23 @@
     "priceId": "polkadot",
     "minAmount": "1000000000",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "paraSpellValue": "DOT",
+      "paraSpellAssetType": "symbol"
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
     "originChain": "polkadot_people",
     "multiChainAsset": "DOT-Polkadot",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "polkadot-NATIVE-DOT"
+      }
+    ]
   },
   {
     "slug": "bifrost_dot-LOCAL-vBNC",
@@ -19454,6 +19911,58 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "statemint",
     "multiChainAsset": "WETH-WrappedEther",
+    "assetRefs": []
+  },
+  {
+    "slug": "chainflip_assethub-NATIVE-DOT",
+    "name": "Chainflip Dot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": null,
+    "minAmount": "100000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Polkadot_Color_1_12d6eccc97.png",
+    "originChain": "chainflip_assethub",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "chainflip_assethub-LOCAL-USDT",
+    "name": "Chainflip USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1984"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "chainflip_assethub",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "chainflip_assethub-LOCAL-USDC",
+    "name": "Chainflip USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1337"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "chainflip_assethub",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {

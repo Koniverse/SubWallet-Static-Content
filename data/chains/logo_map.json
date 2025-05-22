@@ -345,5 +345,6 @@
   "kusama_coretime": "https://static-data.subwallet.app/chains/images/icon/kusama_coretime_2896bde9ea.png",
   "truth_network": "https://static-data.subwallet.app/chains/images/icon/truth_d88d501084.png",
   "tassi_demo": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
-  "zora": "https://static-data.subwallet.app/chains/images/icon/zora_8331a2374c.png"
+  "zora": "https://static-data.subwallet.app/chains/images/icon/zora_8331a2374c.png",
+  "chainflip_assethub": null
 }
