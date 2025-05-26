@@ -1053,13 +1053,13 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/MYTH_staking_at_tokens_home_screen_9416590604.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Across_Bridge_ef599a7626.png",
     "info": {
       "id": 192,
-      "name": "Extension - Home - Stake MYTH Today",
+      "name": "Extension - Home -Across Bridge",
       "description": null,
-      "start_time": "2025-03-13T17:00:00.000Z",
-      "stop_time": "2025-04-18T17:00:00.000Z",
+      "start_time": "2025-05-25T17:00:00.000Z",
+      "stop_time": "2025-06-05T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -1068,7 +1068,7 @@
     },
     "action": {
       "id": 167,
-      "url": "index.html#/home/earning",
+      "url": "index.html#/transaction/swap",
       "screen": null,
       "params": null,
       "is_cancel": null
@@ -1078,20 +1078,20 @@
     "instruction": null
   },
   {
-    "id": 115,
+    "id": 117,
     "position": "token",
-    "priority": 1,
+    "priority": 2,
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1_click_cross_chain_swap_across_Ethereum_networks_1432x272_51e8693e1d.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Uniswap_2edd0e8e76.png",
     "info": {
-      "id": 195,
-      "name": "Extension - Home - Stake MYTH Today",
+      "id": 198,
+      "name": "Extension - Home - Uniswap",
       "description": null,
-      "start_time": "2025-05-16T17:00:00.000Z",
-      "stop_time": "2025-05-17T17:00:00.000Z",
+      "start_time": "2025-05-25T17:00:00.000Z",
+      "stop_time": "2025-06-05T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -1099,8 +1099,8 @@
       "is_changelog_popup": null
     },
     "action": {
-      "id": 169,
-      "url": "index.html#/home/earning",
+      "id": 172,
+      "url": "index.html#/transaction/swap",
       "screen": null,
       "params": null,
       "is_cancel": null
@@ -1110,43 +1110,34 @@
     "instruction": null
   },
   {
-    "id": 116,
-    "position": "token_detail",
-    "priority": 1,
+    "id": 118,
+    "position": "token",
+    "priority": 2,
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/2420_88_8ebde70924.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Kyber_d26e571f1c.png",
     "info": {
-      "id": 197,
-      "name": "WebApp Token Detail",
-      "description": "WebApp",
-      "start_time": "2025-05-17T17:00:00.000Z",
-      "stop_time": "2025-05-26T17:00:00.000Z",
+      "id": 199,
+      "name": "Extension - Home - Kyber Swap",
+      "description": null,
+      "start_time": "2025-05-25T17:00:00.000Z",
+      "stop_time": "2025-06-05T17:00:00.000Z",
       "platforms": [
-        "web"
+        "extension"
       ],
       "os": null,
       "is_changelog_popup": null
     },
     "action": {
-      "id": 171,
-      "url": "https://web.subwallet.app/transaction/swap",
+      "id": 173,
+      "url": "index.html#/transaction/swap",
       "screen": null,
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "DOT-Polkadot"
-      },
-      {
-        "property": "tokenSlug",
-        "value": "bittensor-NATIVE-TAO"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": null
   }
