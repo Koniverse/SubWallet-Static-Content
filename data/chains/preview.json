@@ -4027,7 +4027,7 @@
     "slug": "imbue_network",
     "name": "Imbue Kusama",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 91,
     "icon": "https://static-data.subwallet.app/chains/images/icon/imbue_network_d609852532.png",
     "providers": {
@@ -6311,6 +6311,7 @@
     "ordinal": 154,
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
+      "Vara": "wss://rpc.vara-network.io",
       "Vara Network": "wss://rpc.vara.network",
       "BlastApi": "wss://vara-mainnet.public.blastapi.io"
     },
@@ -8438,7 +8439,7 @@
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "10000000000",
-      "symbol": "pDOT",
+      "symbol": "DOT",
       "decimals": 10,
       "hasNativeNft": null,
       "supportStaking": null,
