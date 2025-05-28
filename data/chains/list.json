@@ -1213,7 +1213,7 @@
     "slug": "turing",
     "name": "Turing",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 29,
     "icon": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
     "providers": {
@@ -1789,7 +1789,7 @@
       "relaySlug": "polkadot",
       "paraId": 2034,
       "genesisHash": "0xafdc188f45c71dacbaa0b62e16a91f726c7b8699a9748cdf715459de6b7f366d",
-      "addressPrefix": 63,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://loan.hydradx.io/",
       "blockExplorer": "https://hydration.subscan.io/",
@@ -3492,7 +3492,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 79,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_kusama_70fdf54661.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
       "Integritee": "wss://kusama.api.integritee.network",
       "OnFinality": "wss://integritee-kusama.api.onfinality.io/public-ws"
@@ -3541,7 +3541,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 80,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_kusama_70fdf54661.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
       "Integritee": "wss://polkadot.api.integritee.network",
       "Dwellir": "wss://integritee-rpc.dwellir.com"
@@ -4027,7 +4027,7 @@
     "slug": "imbue_network",
     "name": "Imbue Kusama",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 91,
     "icon": "https://static-data.subwallet.app/chains/images/icon/imbue_network_d609852532.png",
     "providers": {
@@ -6311,6 +6311,7 @@
     "ordinal": 154,
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
+      "Vara": "wss://rpc.vara-network.io",
       "Vara Network": "wss://rpc.vara.network",
       "BlastApi": "wss://vara-mainnet.public.blastapi.io"
     },
@@ -6838,39 +6839,6 @@
           "lastPeriod": 18
         }
       ]
-    },
-    "extraInfo": null,
-    "bitcoinInfo": null,
-    "tonInfo": null,
-    "cardanoInfo": null
-  },
-  {
-    "slug": "xcavate",
-    "name": "Xcavate",
-    "isTestnet": true,
-    "chainStatus": "INACTIVE",
-    "ordinal": 9998,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/Xcavate_f708d5eb64.png",
-    "providers": {
-      "Tanssi": "wss://fraa-dancebox-3031-rpc.a.dancebox.tanssi.network"
-    },
-    "evmInfo": null,
-    "substrateInfo": {
-      "relaySlug": null,
-      "paraId": null,
-      "genesisHash": "0x8472759fe1cf8ce507282ddea8af43dd08e598c9da2faed66f3e18f51f93080f",
-      "addressPrefix": 42,
-      "chainType": "RELAYCHAIN",
-      "crowdloanUrl": null,
-      "blockExplorer": null,
-      "existentialDeposit": "1000000000",
-      "symbol": "XCAV",
-      "decimals": 12,
-      "hasNativeNft": false,
-      "supportStaking": false,
-      "supportSmartContract": null,
-      "crowdloanParaId": null,
-      "crowdloanFunds": []
     },
     "extraInfo": null,
     "bitcoinInfo": null,
@@ -7806,6 +7774,39 @@
     "cardanoInfo": null
   },
   {
+    "slug": "xcavate",
+    "name": "Xcavate",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Style_Style_2_df467dd6fc.png",
+    "providers": {
+      "Xcavate": "wss://rpc1-polkadot.xcavate.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3413,
+      "genesisHash": "0xd17bc7f93d054d8aba31f24d5bb0ac462247c594e31beed479b1c04d2d0ba48f",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "XCAV",
+      "decimals": 12,
+      "hasNativeNft": false,
+      "supportStaking": false,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
     "slug": "watr_mainnet",
     "name": "Watr Mainnet",
     "isTestnet": false,
@@ -8438,7 +8439,7 @@
       "crowdloanUrl": null,
       "blockExplorer": null,
       "existentialDeposit": "10000000000",
-      "symbol": "pDOT",
+      "symbol": "DOT",
       "decimals": 10,
       "hasNativeNft": null,
       "supportStaking": null,
@@ -9426,7 +9427,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Blockstream": "https://api-testnet.openbit.app"
+      "Mempool": "https://mempool.space/testnet/api"
     },
     "evmInfo": null,
     "substrateInfo": null,
