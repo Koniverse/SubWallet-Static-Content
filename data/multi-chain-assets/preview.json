@@ -179,7 +179,8 @@
       "story_protocol-ERC20-USDT-0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
       "storyOdyssey_testnet-ERC20-USDT-0x62A0e5cEd3064e64db5F02f0838c7E822a0A50B3",
       "polimec-LOCAL-USDT",
-      "statemint-LOCAL-USDT-Snowbridge"
+      "statemint-LOCAL-USDT-Snowbridge",
+      "soneium-ERC20-USDT-0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35"
     ]
   },
   {
@@ -609,7 +610,8 @@
       "statemint-LOCAL-WBTC",
       "bevm-ERC20-WBTC-0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
       "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d",
-      "statemint-LOCAL-WBTC-Snowbridge"
+      "statemint-LOCAL-WBTC-Snowbridge",
+      "soneium-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c"
     ]
   },
   {
@@ -994,7 +996,8 @@
     "originChainAsset": "statemint-LOCAL-WUD",
     "chainAssets": [
       "statemint-LOCAL-WUD",
-      "hydradx_main-LOCAL-WUD"
+      "hydradx_main-LOCAL-WUD",
+      "jamton-LOCAL-WUD"
     ]
   },
   {

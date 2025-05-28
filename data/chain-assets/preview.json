@@ -4509,8 +4509,8 @@
           ]
         }
       },
-      "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellValue": "1984",
+      "paraSpellAssetType": "id"
     },
     "hasValue": true,
     "ordinal": 210,
@@ -9127,8 +9127,8 @@
           ]
         }
       },
-      "paraSpellValue": "USDC",
-      "paraSpellAssetType": "symbol"
+      "paraSpellValue": "1337",
+      "paraSpellAssetType": "id"
     },
     "hasValue": true,
     "ordinal": 439,
@@ -10225,9 +10225,9 @@
     "assetRefs": []
   },
   {
-    "slug": "chainflip_dot-NATIVE-pDOT",
+    "slug": "chainflip_dot-NATIVE-DOT",
     "name": "Polkadot Chainflip Testnet",
-    "symbol": "pDOT",
+    "symbol": "DOT",
     "decimals": 10,
     "priceId": null,
     "minAmount": "10000000000",
@@ -19963,6 +19963,114 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
     "originChain": "chainflip_assethub",
     "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-MPC",
+    "name": "My Paqman Coin",
+    "symbol": "MPC",
+    "decimals": 12,
+    "priceId": "my-paqman-coin",
+    "minAmount": "1000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "50000103"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mpc_49a25239e8.png",
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemint-LOCAL-DON",
+    "name": "Paydon",
+    "symbol": "DON",
+    "decimals": 12,
+    "priceId": "paydon",
+    "minAmount": "1000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "50000111"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/don_84147c6784.png",
+    "originChain": "statemint",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-USDT-0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "soneium",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "soneium-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "priceId": "wrapped-bitcoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/btc_594172f0d6.png",
+    "originChain": "soneium",
+    "multiChainAsset": "WBTC-WrappedBTC",
+    "assetRefs": []
+  },
+  {
+    "slug": "jamton-LOCAL-WUD",
+    "name": "Gavun Wud",
+    "symbol": "WUD",
+    "decimals": 10,
+    "priceId": "gavun-wud",
+    "minAmount": "10000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "ForeignAsset": "1"
+      },
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 31337
+            }
+          ]
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_4aa551727c.png",
+    "originChain": "jamton",
+    "multiChainAsset": "WUD-GavunWud",
     "assetRefs": []
   },
   {

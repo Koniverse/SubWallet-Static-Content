@@ -484,7 +484,7 @@
   "liberlandTest-NATIVE-LDN": null,
   "liberland-NATIVE-LLD": "liberland-lld",
   "liberland-LOCAL-LLM": null,
-  "chainflip_dot-NATIVE-pDOT": null,
+  "chainflip_dot-NATIVE-DOT": null,
   "ethereum_goerli-ERC20-USDC-0x07865c6E87B9F70255377e024ace6630C1Eaa37F": null,
   "hydradx_main-LOCAL-ASTR": "astar",
   "hydradx_main-LOCAL-BNC": "bifrost-native-coin",
@@ -970,5 +970,10 @@
   "chainflip_assethub-NATIVE-DOT": null,
   "chainflip_assethub-LOCAL-USDT": null,
   "chainflip_assethub-LOCAL-USDC": null,
+  "statemint-LOCAL-MPC": "my-paqman-coin",
+  "statemint-LOCAL-DON": "paydon",
+  "soneium-ERC20-USDT-0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35": "tether",
+  "soneium-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c": "wrapped-bitcoin",
+  "jamton-LOCAL-WUD": "gavun-wud",
   "paseo_assethub-NATIVE-PAS": null
 }
