@@ -6,7 +6,13 @@
       "transfer.balance___acurast-NATIVE-cACU"
     ],
     "transfer.token": [],
-    "transfer.xcm": [],
+    "transfer.xcm": [
+      "transfer.xcm___statemint-LOCAL-PEPE___ethereum",
+      "transfer.xcm___statemint-LOCAL-SHIB___ethereum",
+      "transfer.xcm___statemint-LOCAL-TON___ethereum",
+      "transfer.xcm___statemint-LOCAL-wstETH___ethereum",
+      "transfer.xcm___statemint-LOCAL-tBTC___ethereum"
+    ],
     "send_nft": [],
     "swap": [],
     "staking.join_pool": [],
