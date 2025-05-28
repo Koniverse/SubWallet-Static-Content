@@ -34,7 +34,12 @@
       "transfer.xcm___ethereum-ERC20-tBTC-0x18084fbA666a33d37592fA2633fD49a74DD93a88___statemint",
       "transfer.xcm___ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0___statemint",
       "transfer.xcm___ethereum-ERC20-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE___statemint",
-      "transfer.xcm___ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599___statemint"
+      "transfer.xcm___ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599___statemint",
+      "transfer.xcm___statemint-LOCAL-PEPE___ethereum",
+      "transfer.xcm___statemint-LOCAL-SHIB___ethereum",
+      "transfer.xcm___statemint-LOCAL-TON___ethereum",
+      "transfer.xcm___statemint-LOCAL-wstETH___ethereum",
+      "transfer.xcm___statemint-LOCAL-tBTC___ethereum"
     ],
     "send_nft": [],
     "swap": [],
