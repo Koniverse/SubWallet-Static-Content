@@ -31,7 +31,12 @@
       "transfer.xcm___ethereum-ERC20-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE___statemint",
       "transfer.xcm___ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599___statemint",
       "transfer.xcm___statemint-LOCAL-MYTH___mythos",
-      "transfer.xcm___hydradx_main-LOCAL-MYTH___mythos"
+      "transfer.xcm___hydradx_main-LOCAL-MYTH___mythos",
+      "transfer.xcm___statemint-LOCAL-PEPE___ethereum",
+      "transfer.xcm___statemint-LOCAL-SHIB___ethereum",
+      "transfer.xcm___statemint-LOCAL-TON___ethereum",
+      "transfer.xcm___statemint-LOCAL-wstETH___ethereum",
+      "transfer.xcm___statemint-LOCAL-tBTC___ethereum"
     ],
     "send_nft": [],
     "swap": [
