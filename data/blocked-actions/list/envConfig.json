@@ -99,5 +99,29 @@
         "environment": "extension",
         "version": "1.3.39-0"
     }
+  },
+    "405d49f2-b20c-4f3d-880b-cbe736d1afa9": {
+      "appConfig": {
+        "environment": "extension",
+        "version": "1.3.38-0"
+    }
+  },
+    "1660d018-a2cd-423e-ad82-10a08ea1f7d8": {
+      "appConfig": {
+        "environment": "extension",
+        "version": "1.3.37-0"
+    }
+  },
+    "f3705d1e-1e66-4fcf-ac8e-c8506910b300": {
+      "appConfig": {
+        "environment": "extension",
+        "version": "1.3.36-0"
+    }
+  },
+    "2698b8c4-ee7e-4882-b76d-846546d7d7e3": {
+      "appConfig": {
+        "environment": "extension",
+        "version": "1.3.35-0"
+    }
   }
 }
