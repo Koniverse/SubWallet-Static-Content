@@ -93,5 +93,11 @@
         "environment": "extension",
         "version": "1.3.26-0"
     }
+  },
+    "1fabffa4-74d1-45d0-ab59-fd236758dc89": {
+      "appConfig": {
+        "environment": "extension",
+        "version": "1.3.39-0"
+    }
   }
 }
