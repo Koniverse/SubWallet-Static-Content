@@ -1273,5 +1273,25 @@
     "slug": "aleph_evm-NATIVE-AZERO",
     "symbol": "AZERO",
     "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "coinbase": {
+        "network": "bittensor",
+        "symbol": "TAO",
+        "isSuspended": false,
+        "supportSell": null
+      },
+      "meld": {
+        "network": "bittensor",
+        "symbol": "TAO",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "bittensor",
+    "slug": "bittensor-NATIVE-TAO",
+    "symbol": "TAO",
+    "support": "SUBSTRATE"
   }
 ]
