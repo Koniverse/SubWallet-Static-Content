@@ -1180,7 +1180,7 @@
     "slug": "turingStaging",
     "name": "Turing Staging",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 28,
     "icon": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
     "providers": {
@@ -2120,7 +2120,7 @@
     "slug": "odyssey",
     "name": "Ares Odyssey",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 49,
     "icon": "https://static-data.subwallet.app/chains/images/icon/odyssey_98d1b94f53.png",
     "providers": {
@@ -4941,7 +4941,7 @@
     "slug": "watr_network",
     "name": "Watr Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 114,
     "icon": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_a0cd47353a.png",
     "providers": {
@@ -5291,7 +5291,7 @@
     "slug": "bitgreen",
     "name": "Bitgreen",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 126,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitgreen_cc38478fa6.png",
     "providers": {
@@ -5360,7 +5360,7 @@
     "slug": "hashedNetwork",
     "name": "Hashed Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 128,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hashed_78ed238d01.png",
     "providers": {
@@ -5789,7 +5789,7 @@
     "slug": "dockPosMainnet",
     "name": "Dock",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 139,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dockmainnet_571734a814.png",
     "providers": {
@@ -6312,8 +6312,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/vara_be88d00224.png",
     "providers": {
       "Vara": "wss://rpc.vara-network.io",
-      "Vara Network": "wss://rpc.vara.network",
-      "BlastApi": "wss://vara-mainnet.public.blastapi.io"
+      "Vara Network": "wss://rpc.vara.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7810,7 +7809,7 @@
     "slug": "watr_mainnet",
     "name": "Watr Mainnet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
     "providers": {
@@ -12534,7 +12533,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
     "providers": {
       "Chainflip": "wss://assethub.perseverance.chainflip.io/ws"
     },
