@@ -9426,13 +9426,13 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Mempool": "https://mempool.space/testnet/api"
+      "Mempool": "https://mempool.space/testnet4/api"
     },
     "evmInfo": null,
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": {
-      "blockExplorer": "https://mempool.space/testnet",
+      "blockExplorer": "https://mempool.space/testnet4",
       "existentialDeposit": "0",
       "decimals": 8,
       "symbol": "BTC",
