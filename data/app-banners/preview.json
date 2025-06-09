@@ -1091,7 +1091,7 @@
       "name": "Extension - Home - Uniswap",
       "description": null,
       "start_time": "2025-05-25T17:00:00.000Z",
-      "stop_time": "2025-05-27T17:00:00.000Z",
+      "stop_time": "2025-06-09T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -1100,7 +1100,7 @@
     },
     "action": {
       "id": 172,
-      "url": "index.html#/transaction/swap",
+      "url": "index.html#/transaction/send-fund",
       "screen": null,
       "params": null,
       "is_cancel": null
