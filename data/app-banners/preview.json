@@ -1051,7 +1051,7 @@
     "priority": 1,
     "locations": null,
     "comparison_operator": null,
-    "app_version_range": "=1.3.41",
+    "app_version_range": null,
     "os_version_range": null,
     "media": "https://static-data.subwallet.app/app-banners/images/media/Across_Bridge_ef599a7626.png",
     "info": {
