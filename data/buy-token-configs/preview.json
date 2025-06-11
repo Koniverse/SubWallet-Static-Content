@@ -82,17 +82,16 @@
         "symbol": "ETH",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "ethereum",
+        "symbol": "ETH",
+        "isSuspended": false,
+        "supportSell": null
       }
     },
     "network": "ethereum",
     "slug": "ethereum-NATIVE-ETH",
-    "symbol": "ETH",
-    "support": "ETHEREUM"
-  },
-  {
-    "serviceInfo": {},
-    "network": "sepolia_ethereum",
-    "slug": "sepolia_ethereum-NATIVE-ETH",
     "symbol": "ETH",
     "support": "ETHEREUM"
   },
@@ -163,6 +162,12 @@
         "symbol": "CAPS",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "ternoa",
+        "symbol": "CAPS",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "ternoa",
@@ -1099,6 +1104,12 @@
         "symbol": "CELO",
         "isSuspended": false,
         "supportSell": true
+      },
+      "meld": {
+        "network": "celo",
+        "symbol": "CELO",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "celo",
@@ -1293,5 +1304,39 @@
     "slug": "bittensor-NATIVE-TAO",
     "symbol": "TAO",
     "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "coinbase": {
+        "network": "cardano",
+        "symbol": "ADA",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "meld": {
+        "network": "cardano",
+        "symbol": "ADA",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "cardano",
+    "slug": "cardano-NATIVE-ADA",
+    "symbol": "ADA",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
+        "network": "fantom",
+        "symbol": "FTM",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "fantom",
+    "slug": "fantom-NATIVE-FTM",
+    "symbol": "FTM",
+    "support": "ETHEREUM"
   }
 ]

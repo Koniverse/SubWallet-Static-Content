@@ -523,7 +523,7 @@
   "hydradx_main-LOCAL-WETH": "ethereum",
   "hydradx_main-LOCAL-2Pool": null,
   "hydradx_main-LOCAL-vDOT": "voucher-dot",
-  "hydradx_main-LOCAL-H2O": null,
+  "hydradx_main-LOCAL-H2O": "h2o-2",
   "hydradx_main-LOCAL-DAI-18": "dai",
   "hydradx_main-LOCAL-USDC-21": "usd-coin",
   "hydradx_main-LOCAL-USDT-23": "tether",
@@ -953,7 +953,7 @@
   "ethereum-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083": "heima",
   "binance-ERC20-HEI-0xF8F173E20e15f3b6CB686FB64724D370689De083": "heima",
   "moonbeam-ERC20-xcLAOS-0xfffFFffFdd704e8e824a5EEc47de88f5B9e13588": "laos-network",
-  "hydradx_main-LOCAL-GDOT": null,
+  "hydradx_main-LOCAL-GDOT": "gigadot",
   "statemint-LOCAL-TEER": "integritee",
   "ethereum-ERC20-TEER-0x769916A66fDAC0E3D57363129caac59386ea622B": "integritee",
   "hydradx_main-LOCAL-LINK": "chainlink",
@@ -975,5 +975,7 @@
   "soneium-ERC20-USDT-0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35": "tether",
   "soneium-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c": "wrapped-bitcoin",
   "jamton-LOCAL-WUD": "gavun-wud",
+  "dancelight-NATIVE-STAR": null,
+  "tscs-NATIVE-TSCS": null,
   "paseo_assethub-NATIVE-PAS": null
 }

@@ -233,7 +233,7 @@
     "slug": "pioneer",
     "name": "Pioneer Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 6,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_pioneer_03e26dad1d.png",
     "providers": {
@@ -7189,7 +7189,7 @@
     "slug": "invarch",
     "name": "InvArch Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/invarch_d95283c9f7.png",
     "providers": {
@@ -8254,7 +8254,7 @@
     "slug": "continuum_network",
     "name": "Continuum Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_5f92dd7fcc.png",
     "providers": {
@@ -12555,6 +12555,67 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "dancelight",
+    "name": "Dancelight",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
+    "providers": {
+      "Tanssi": "wss://dancelight.tanssi-api.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x983a1a72503d6cc3636776747ec627172b51272bf45e50a355348facb67a820a",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "33333333",
+      "symbol": "STAR",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "tscs",
+    "name": "TSCS Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "SCSchain": "https://testnetrpc.scschain.com"
+    },
+    "evmInfo": {
+      "evmChainId": 1969,
+      "blockExplorer": "https://testnetscan.scschain.com/",
+      "existentialDeposit": "0",
+      "symbol": "TSCS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
