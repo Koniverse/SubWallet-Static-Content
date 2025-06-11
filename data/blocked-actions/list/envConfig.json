@@ -70,6 +70,11 @@
         "environment": "mobile"
     }
   },
+  "3568d57f-3084-48bb-ac0f-ee82583c3240": {
+      "appConfig": {
+        "environment": "mobile"
+    }
+  },
     "6b88477e-710c-44b9-bd23-83a3274f93a9": {
       "appConfig": {
         "environment": "extension",
