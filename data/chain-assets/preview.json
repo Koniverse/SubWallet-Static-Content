@@ -20022,7 +20022,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tscs_network_f2cda639fe.png",
     "originChain": "tscs",
     "multiChainAsset": null,
     "assetRefs": []

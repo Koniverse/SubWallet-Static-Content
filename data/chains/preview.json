@@ -12599,7 +12599,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": null,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/tscs_network_f2cda639fe.png",
     "providers": {
       "SCSchain": "https://testnetrpc.scschain.com"
     },
