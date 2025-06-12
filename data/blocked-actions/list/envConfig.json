@@ -11,12 +11,6 @@
       "version": "1.3.17-0"
     }
   },
-  "2665d4e3-ca43-4277-8919-e38467b531f1": {
-    "appConfig": {
-      "environment": "extension",
-      "version": ">=1.2.29-0"
-    }
-  },
   "46f06e1f-e1f9-4a1e-b77b-05aa5e62b305": {
     "appConfig": {
       "environment": "webapp"
