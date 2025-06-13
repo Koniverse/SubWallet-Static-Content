@@ -43,5 +43,10 @@
       "environment": "extension",
       "version": "1.3.24-0"
     }
+  },
+  "807fb1ee-6697-4991-a0af-4ea186733907": {
+    "appConfig": {
+      "environment": "mobile"
+    }
   }
 }
