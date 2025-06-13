@@ -2332,7 +2332,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/efinity_89a5f65985.png",
     "providers": {
       "Efinity": "wss://rpc.efinity.io",
-      "Dwellir": "wss://efinity -rpc.dwellir.com"
+      "Dwellir": "wss://efinity-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
