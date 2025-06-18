@@ -1268,13 +1268,6 @@
     "support": "ETHEREUM"
   },
   {
-    "serviceInfo": {},
-    "network": "moonbeam",
-    "slug": "moonbeam-ERC20-USDC-0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
-    "symbol": "USDC",
-    "support": "ETHEREUM"
-  },
-  {
     "serviceInfo": {
       "coinbase": {
         "network": "arbitrum",
@@ -1371,13 +1364,6 @@
     "slug": "polimec-NATIVE-PLMC",
     "symbol": "PLMC",
     "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {},
-    "network": "aleph_evm",
-    "slug": "aleph_evm-NATIVE-AZERO",
-    "symbol": "AZERO",
-    "support": "ETHEREUM"
   },
   {
     "serviceInfo": {
