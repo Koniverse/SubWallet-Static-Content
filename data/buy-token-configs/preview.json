@@ -1391,7 +1391,7 @@
     "network": "cardano",
     "slug": "cardano-NATIVE-ADA",
     "symbol": "ADA",
-    "support": "SUBSTRATE"
+    "support": "CARDANO"
   },
   {
     "serviceInfo": {
