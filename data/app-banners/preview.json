@@ -1059,7 +1059,7 @@
       "name": "Extension - Home -Across Bridge",
       "description": null,
       "start_time": "2025-05-25T17:00:00.000Z",
-      "stop_time": "2025-06-11T17:00:00.000Z",
+      "stop_time": "2025-06-19T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -1091,7 +1091,7 @@
       "name": "Extension - Home - Uniswap",
       "description": null,
       "start_time": "2025-05-25T17:00:00.000Z",
-      "stop_time": "2025-06-11T17:00:00.000Z",
+      "stop_time": "2025-06-19T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -1123,7 +1123,7 @@
       "name": "Extension - Home - Kyber Swap",
       "description": null,
       "start_time": "2025-05-25T17:00:00.000Z",
-      "stop_time": "2025-06-11T17:00:00.000Z",
+      "stop_time": "2025-06-19T17:00:00.000Z",
       "platforms": [
         "extension"
       ],
