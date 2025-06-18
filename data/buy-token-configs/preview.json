@@ -168,12 +168,6 @@
         "symbol": "CAPS",
         "isSuspended": false,
         "supportSell": null
-      },
-      "meld": {
-        "network": "CAPS",
-        "symbol": "CAPS",
-        "isSuspended": false,
-        "supportSell": false
       }
     },
     "network": "ternoa",
@@ -1212,12 +1206,6 @@
         "symbol": "CELO",
         "isSuspended": false,
         "supportSell": true
-      },
-      "meld": {
-        "network": "CELO",
-        "symbol": "CELO",
-        "isSuspended": false,
-        "supportSell": false
       }
     },
     "network": "celo",
@@ -1404,20 +1392,6 @@
     "slug": "cardano-NATIVE-ADA",
     "symbol": "ADA",
     "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "meld": {
-        "network": "FTM",
-        "symbol": "FTM",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "fantom",
-    "slug": "fantom-NATIVE-FTM",
-    "symbol": "FTM",
-    "support": "ETHEREUM"
   },
   {
     "serviceInfo": {
