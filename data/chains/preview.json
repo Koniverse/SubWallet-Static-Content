@@ -3274,7 +3274,7 @@
     "slug": "sakura",
     "name": "Sakura",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 75,
     "icon": "https://static-data.subwallet.app/chains/images/icon/sakura_81c2a3fc75.png",
     "providers": {
@@ -4989,7 +4989,7 @@
     "slug": "fusotao",
     "name": "Fusotao",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 116,
     "icon": "https://static-data.subwallet.app/chains/images/icon/fusotao_0e41642ad0.png",
     "providers": {
@@ -5022,7 +5022,7 @@
     "slug": "discovol",
     "name": "Discovol",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 117,
     "icon": "https://static-data.subwallet.app/chains/images/icon/discovol_09aef428e0.png",
     "providers": {
@@ -5088,7 +5088,7 @@
     "slug": "atocha",
     "name": "Atocha",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 119,
     "icon": "https://static-data.subwallet.app/chains/images/icon/atocha_bef71b71eb.png",
     "providers": {
@@ -5121,7 +5121,7 @@
     "slug": "myriad",
     "name": "Myriad",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 120,
     "icon": "https://static-data.subwallet.app/chains/images/icon/myriad_d289b632e2.png",
     "providers": {
@@ -5154,7 +5154,7 @@
     "slug": "deBio",
     "name": "DeBio",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 121,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dbio_a7296e7986.png",
     "providers": {
@@ -5741,7 +5741,7 @@
     "slug": "crownSterling",
     "name": "Crown Sterling",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 138,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crownsterling_17121da1f7.png",
     "providers": {
@@ -5897,7 +5897,7 @@
     "slug": "neatcoin",
     "name": "Neatcoin",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 142,
     "icon": "https://static-data.subwallet.app/chains/images/icon/default_b9919fc772.png",
     "providers": {
@@ -5930,7 +5930,7 @@
     "slug": "nftmart",
     "name": "NFTMart",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 143,
     "icon": "https://static-data.subwallet.app/chains/images/icon/nftmart_0353c61648.png",
     "providers": {
@@ -6189,7 +6189,7 @@
     "slug": "kulupu",
     "name": "Kulupu",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 151,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kulupu_network_2f214b0894.png",
     "providers": {
@@ -6688,7 +6688,7 @@
     "slug": "crust_mainnet",
     "name": "Crust Mainnet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 165,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crust_6ae326cd51.png",
     "providers": {
@@ -8503,7 +8503,7 @@
     "slug": "phykenTest",
     "name": "Phyken Network Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/phyken_White_4a58266ca5.png",
     "providers": {
@@ -12275,7 +12275,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
     "providers": {
-      "Blockfrost": "FAKE"
+      "Blockfrost": "https://cardano-mainnet.blockfrost.io/api/v0"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -12297,7 +12297,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
     "providers": {
-      "Blockfrost": "FAKE"
+      "Blockfrost": "https://cardano-preprod.blockfrost.io/api/v0"
     },
     "evmInfo": null,
     "substrateInfo": null,
