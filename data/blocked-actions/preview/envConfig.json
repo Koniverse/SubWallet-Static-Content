@@ -48,5 +48,10 @@
     "appConfig": {
       "environment": "mobile"
     }
+  },
+  "3568d57f-3084-48bb-ac0f-ee82583c3240": {
+    "appConfig": {
+      "environment": "mobile"
+    }
   }
 }
