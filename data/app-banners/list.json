@@ -978,5 +978,101 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 114,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">=1.3.41",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Across_Bridge_ef599a7626.png",
+    "info": {
+      "id": 192,
+      "name": "Extension - Home -Across Bridge",
+      "description": null,
+      "start_time": "2025-06-18T17:00:00.000Z",
+      "stop_time": "2025-06-25T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 167,
+      "url": "index.html#/transaction/send-fund",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 117,
+    "position": "token",
+    "priority": 2,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">=1.3.41",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Uniswap_2edd0e8e76.png",
+    "info": {
+      "id": 198,
+      "name": "Extension - Home - Uniswap",
+      "description": null,
+      "start_time": "2025-06-18T17:00:00.000Z",
+      "stop_time": "2025-06-25T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 172,
+      "url": "index.html#/transaction/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 118,
+    "position": "token",
+    "priority": 3,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">=1.3.41",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Kyber_d26e571f1c.png",
+    "info": {
+      "id": 199,
+      "name": "Extension - Home - Kyber Swap",
+      "description": null,
+      "start_time": "2025-06-18T17:00:00.000Z",
+      "stop_time": "2025-06-25T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 173,
+      "url": "index.html#/transaction/swap",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
