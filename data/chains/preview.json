@@ -1464,7 +1464,7 @@
       "relaySlug": "kusama",
       "paraId": 2124,
       "genesisHash": "0xcceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
-      "addressPrefix": 57,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
@@ -2938,7 +2938,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "kusama",
-      "paraId": 2104,
+      "paraId": 2087,
       "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
       "addressPrefix": 49,
       "chainType": "PARACHAIN",

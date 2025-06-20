@@ -233,7 +233,7 @@
     "slug": "pioneer",
     "name": "Pioneer Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 6,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_pioneer_03e26dad1d.png",
     "providers": {
@@ -286,7 +286,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
       "Aleph Zero Foundation": "wss://ws.azero.dev",
-      "Dwellir": "wss://aleph-zero-rpc.dwellir.com",
       "Onfinality": "wss://aleph-zero.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -461,7 +460,6 @@
       "Acala Foundation 0": "wss://acala-rpc-0.aca-api.network",
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
-      "OnFinality": "wss://acala-polkadot.api.onfinality.io/public-ws",
       "Dwellir": "wss://acala-rpc.dwellir.com",
       "IBP1": "wss://acala.ibp.network",
       "IBP2": "wss://acala.dotters.network"
@@ -678,7 +676,6 @@
       "Astar": "wss://rpc.shiden.astar.network",
       "OnFinality": "wss://shiden.api.onfinality.io/public-ws",
       "Dwellir": "wss://shiden-rpc.dwellir.com",
-      "Blast": "wss://shiden.public.blastapi.io",
       "RadiumBlock": "wss://shiden.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
@@ -1060,7 +1057,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbase_493ce13342.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbase.moonbeam.network",
-      "Blast": "wss://moonbase-alpha.public.blastapi.io",
       "Dwellir": "wss://moonbase-rpc.dwellir.com",
       "RadiumBlock": "wss://moonbase.public.curie.radiumblock.co/ws",
       "UnitedBloc": "wss://moonbase.unitedbloc.com"
@@ -1111,7 +1107,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonriver_06b4e41abc.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
-      "Blast": "wss://moonriver.public.blastapi.io",
       "Dwellir 2": "wss://moonriver-rpc.n.dwellir.com",
       "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
       "UnitedBloc": "wss://moonriver.unitedbloc.com"
@@ -1266,8 +1261,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_kusama_cc2473707c.png",
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
-      "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws",
-      "RadiumBlock": "wss://bifrost.public.curie.radiumblock.co/ws"
+      "LiebiUS": "wss://us.bifrost-rpc.liebi.com/ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1470,7 +1464,7 @@
       "relaySlug": "kusama",
       "paraId": 2124,
       "genesisHash": "0xcceae7f3b9947cdb67369c026ef78efa5f34a08fe5808d373c04421ecf4f1aaf",
-      "addressPrefix": 57,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": null,
@@ -1871,7 +1865,6 @@
     "providers": {
       "OnFinality": "wss://centrifuge-parachain.api.onfinality.io/public-ws",
       "Fullnode": "wss://fullnode.centrifuge.io",
-      "Dwellir": "wss://centrifuge-rpc.dwellir.com",
       "LuckyFriday": "wss://rpc-centrifuge.luckyfriday.io"
     },
     "evmInfo": null,
@@ -1921,7 +1914,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/interlay_53b0045be1.png",
     "providers": {
       "Kintsugi Labs": "wss://api.interlay.io/parachain",
-      "Dwellir": "wss://interlay-rpc.dwellir.com",
       "LuckyFriday": "wss://rpc-interlay.luckyfriday.io/"
     },
     "evmInfo": null,
@@ -2158,8 +2150,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_dc0b44d234.png",
     "providers": {
       "RadiumBlock": "wss://polkadex.public.curie.radiumblock.co/ws",
-      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws",
-      "Dwellir": "wss://polkadex-mainnet-rpc.dwellir.com"
+      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2332,7 +2323,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/efinity_89a5f65985.png",
     "providers": {
       "Efinity": "wss://rpc.efinity.io",
-      "Dwellir": "wss://efinity -rpc.dwellir.com"
+      "Dwellir": "wss://efinity-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2578,7 +2569,6 @@
       "Acala Foundation 1": "wss://karura-rpc-1.aca-api.network",
       "Acala Foundation 2": "wss://karura-rpc-2.aca-api.network/ws",
       "Acala Foundation 3": "wss://karura-rpc-3.aca-api.network/ws",
-      "OnFinality": "wss://karura.api.onfinality.io/public-ws",
       "Dwellir": "wss://karura-rpc.dwellir.com"
     },
     "evmInfo": null,
@@ -2666,7 +2656,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kilt_35ce98e3b5.png",
     "providers": {
       "KILT Protocol": "wss://spiritnet.kilt.io/",
-      "Dwellir": "wss://kilt-rpc.dwellir.com",
       "IBP1": "wss://kilt.ibp.network",
       "IBP2": "wss://kilt.dotters.network"
     },
@@ -2862,8 +2851,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kintsugi_dfa1bdb733.png",
     "providers": {
       "Kintsugi Labs": "wss://api-kusama.interlay.io/parachain",
-      "OnFinality": "wss://kintsugi.api.onfinality.io/public-ws",
-      "Dwellir": "wss://kintsugi-rpc.dwellir.com"
+      "OnFinality": "wss://kintsugi.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2950,7 +2938,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "kusama",
-      "paraId": 2104,
+      "paraId": 2087,
       "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
       "addressPrefix": 49,
       "chainType": "PARACHAIN",
@@ -3068,7 +3056,6 @@
       "unique": "wss://us-ws.unique.network",
       "UniqueEu": "wss://eu-ws.unique.network",
       "UniqueAsia": "wss://asia-ws.unique.network",
-      "Dwellir": "wss://unique-rpc.dwellir.com",
       "Geo Load Balancer": "wss://ws.unique.network",
       "IBP1": "wss://unique.ibp.network",
       "IBP2": "wss://unique.dotters.network"
@@ -3287,7 +3274,7 @@
     "slug": "sakura",
     "name": "Sakura",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 75,
     "icon": "https://static-data.subwallet.app/chains/images/icon/sakura_81c2a3fc75.png",
     "providers": {
@@ -5002,7 +4989,7 @@
     "slug": "fusotao",
     "name": "Fusotao",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 116,
     "icon": "https://static-data.subwallet.app/chains/images/icon/fusotao_0e41642ad0.png",
     "providers": {
@@ -5035,7 +5022,7 @@
     "slug": "discovol",
     "name": "Discovol",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 117,
     "icon": "https://static-data.subwallet.app/chains/images/icon/discovol_09aef428e0.png",
     "providers": {
@@ -5101,7 +5088,7 @@
     "slug": "atocha",
     "name": "Atocha",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 119,
     "icon": "https://static-data.subwallet.app/chains/images/icon/atocha_bef71b71eb.png",
     "providers": {
@@ -5134,7 +5121,7 @@
     "slug": "myriad",
     "name": "Myriad",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 120,
     "icon": "https://static-data.subwallet.app/chains/images/icon/myriad_d289b632e2.png",
     "providers": {
@@ -5167,7 +5154,7 @@
     "slug": "deBio",
     "name": "DeBio",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 121,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dbio_a7296e7986.png",
     "providers": {
@@ -5210,7 +5197,6 @@
       "IBP1": "wss://sys.ibp.network/collectives-polkadot",
       "IBP2": "wss://collectives-polkadot.dotters.network",
       "LuckyFriday": "wss://rpc-collectives-polkadot.luckyfriday.io",
-      "OnFinality": "wss://collectives.api.onfinality.io/public-ws",
       "RadiumBlock": "wss://collectives.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io/collectives"
     },
@@ -5330,7 +5316,6 @@
     "providers": {
       "Frequency 0": "wss://0.rpc.frequency.xyz",
       "Frequency 1": "wss://1.rpc.frequency.xyz",
-      "Dwellir": "wss://frequency-rpc.dwellir.com",
       "OnFinality": "wss://frequency-polkadot.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -5756,7 +5741,7 @@
     "slug": "crownSterling",
     "name": "Crown Sterling",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 138,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crownsterling_17121da1f7.png",
     "providers": {
@@ -5912,7 +5897,7 @@
     "slug": "neatcoin",
     "name": "Neatcoin",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 142,
     "icon": "https://static-data.subwallet.app/chains/images/icon/default_b9919fc772.png",
     "providers": {
@@ -5945,7 +5930,7 @@
     "slug": "nftmart",
     "name": "NFTMart",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 143,
     "icon": "https://static-data.subwallet.app/chains/images/icon/nftmart_0353c61648.png",
     "providers": {
@@ -6204,7 +6189,7 @@
     "slug": "kulupu",
     "name": "Kulupu",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 151,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kulupu_network_2f214b0894.png",
     "providers": {
@@ -6434,8 +6419,7 @@
       "IBP-GeoDNS2": "wss://sys.dotters.network/bridgehub-kusama",
       "Dwellir": "wss://bridge-hub-kusama-rpc.dwellir.com",
       "Dwellir Tunisia": "wss://kusama-bridge-hub-rpc-tn.dwellir.com",
-      "LuckyFriday": "wss://rpc-bridge-hub-kusama.luckyfriday.io",
-      "RadiumBlock": "wss://bridgehub-kusama.public.curie.radiumblock.co/ws"
+      "LuckyFriday": "wss://rpc-bridge-hub-kusama.luckyfriday.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6534,8 +6518,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/krest_6217afc787.png",
     "providers": {
       "Peaq": "wss://wss-krest.peaq.network/",
-      "OnFinality": "wss://krest.api.onfinality.io/public-ws",
-      "Dwellir": "wss://krest-rpc.dwellir.com"
+      "OnFinality": "wss://krest.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6705,7 +6688,7 @@
     "slug": "crust_mainnet",
     "name": "Crust Mainnet",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 165,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crust_6ae326cd51.png",
     "providers": {
@@ -6713,8 +6696,7 @@
       "Crust Network": "wss://rpc.crust.network",
       "Crust Network APP": "wss://rpc.crustnetwork.app",
       "Crust Network CC": "wss://rpc.crustnetwork.cc",
-      "Crust Network XYZ": "wss://rpc.crustnetwork.xyz",
-      "Dwellir": "wss://crust-mainnet-rpc.dwellir.com"
+      "Crust Network XYZ": "wss://rpc.crustnetwork.xyz"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -7189,7 +7171,7 @@
     "slug": "invarch",
     "name": "InvArch Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/invarch_d95283c9f7.png",
     "providers": {
@@ -8254,7 +8236,7 @@
     "slug": "continuum_network",
     "name": "Continuum Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bit_country_continuum_5f92dd7fcc.png",
     "providers": {
@@ -8521,7 +8503,7 @@
     "slug": "phykenTest",
     "name": "Phyken Network Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/phyken_White_4a58266ca5.png",
     "providers": {
@@ -9426,13 +9408,13 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Mempool": "https://mempool.space/testnet/api"
+      "Mempool": "https://mempool.space/testnet4/api"
     },
     "evmInfo": null,
     "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": {
-      "blockExplorer": "https://mempool.space/testnet",
+      "blockExplorer": "https://mempool.space/testnet4",
       "existentialDeposit": "0",
       "decimals": 8,
       "symbol": "BTC",
@@ -10712,25 +10694,25 @@
   },
   {
     "slug": "zkverify_testnet",
-    "name": "zkVerify Testnet",
+    "name": "zkVerify Volta Testnet",
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/zkverify_b62ea652b5.png",
     "providers": {
-      "zkVerify": "wss://testnet-rpc.zkverify.io"
+      "zkVerify": "wss://volta-rpc.zkverify.io"
     },
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": null,
       "paraId": null,
-      "genesisHash": "0xc00425dcaa0a1bc5bf1163a2d69d7abb2cc6180de78b4e10297b31a4d9cc928a",
+      "genesisHash": "0xff7fe5a610f15fe7a0c52f94f86313fb7db7d3786e7f8acf2b66c11d5be7c242",
       "addressPrefix": 251,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://testnet-explorer.zkverify.io/",
-      "existentialDeposit": "10000000000000",
-      "symbol": "ACME",
+      "blockExplorer": "https://zkverify-testnet.subscan.io/",
+      "existentialDeposit": "10000000000000000",
+      "symbol": "tVFY",
       "decimals": 18,
       "hasNativeNft": null,
       "supportStaking": null,
@@ -12176,7 +12158,7 @@
       "addressPrefix": 355,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://explorer.gen6.app/",
       "existentialDeposit": "100000000000000000",
       "symbol": "GSX",
       "decimals": 18,
@@ -12260,7 +12242,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
     "providers": {
-      "Blockfrost": "FAKE"
+      "Blockfrost": "https://cardano-mainnet.blockfrost.io/api/v0"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -12282,7 +12264,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_63d94f6cbb.png",
     "providers": {
-      "Blockfrost": "FAKE"
+      "Blockfrost": "https://cardano-preprod.blockfrost.io/api/v0"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -12481,6 +12463,100 @@
       "blockExplorer": "https://explorer.zora.energy/",
       "existentialDeposit": "0",
       "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "chainflip_assethub",
+    "name": "Polkadot Asset Hub Chainflip Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
+    "providers": {
+      "Chainflip": "wss://assethub.perseverance.chainflip.io/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 1000,
+      "genesisHash": "0x4fb7a1b11ba4a38827cf211b3effc87971413e4a9fd79c6bcc2c633383496832",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000",
+      "symbol": "DOT",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "dancelight",
+    "name": "Dancelight",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
+    "providers": {
+      "Tanssi": "wss://dancelight.tanssi-api.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x983a1a72503d6cc3636776747ec627172b51272bf45e50a355348facb67a820a",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "33333333",
+      "symbol": "STAR",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "tscs",
+    "name": "TSCS Network",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/tscs_network_f2cda639fe.png",
+    "providers": {
+      "SCSchain": "https://testnetrpc.scschain.com"
+    },
+    "evmInfo": {
+      "evmChainId": 1969,
+      "blockExplorer": "https://testnetscan.scschain.com/",
+      "existentialDeposit": "0",
+      "symbol": "TSCS",
       "decimals": 18,
       "supportSmartContract": [
         "ERC20",
