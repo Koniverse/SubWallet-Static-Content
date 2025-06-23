@@ -19106,7 +19106,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
     "originChain": "truth_network",
-    "multiChainAsset": "USDC-USDCoin",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
