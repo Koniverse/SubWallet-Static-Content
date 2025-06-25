@@ -348,5 +348,8 @@
   "zora": "https://static-data.subwallet.app/chains/images/icon/zora_8331a2374c.png",
   "chainflip_assethub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
   "dancelight": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
-  "tscs": "https://static-data.subwallet.app/chains/images/icon/tscs_network_f2cda639fe.png"
+  "tscs": "https://static-data.subwallet.app/chains/images/icon/tscs_network_f2cda639fe.png",
+  "tanssi": "https://static-data.subwallet.app/chains/images/icon/Property_1_Color_1_a8e668774f.png",
+  "hyperEvm": "https://static-data.subwallet.app/chains/images/icon/hyperevm_434fdc46dc.png",
+  "mosaicTest": "https://static-data.subwallet.app/chains/images/icon/mosaic_chain_devnet_ed9f56a4ec.png"
 }
