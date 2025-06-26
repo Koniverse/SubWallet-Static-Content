@@ -545,7 +545,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/arbitrum_cb1f0d45ad.png",
     "providers": {
       "Omniatech": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
-      "BlastApi": "https://arbitrum-one.public.blastapi.io"
+      "BlastApi": "https://arbitrum-one.public.blastapi.io",
+      "Meowrpc": "https://arbitrum.meowrpc.com"
     },
     "evmInfo": {
       "evmChainId": 42161,
@@ -4665,7 +4666,7 @@
       "relaySlug": "polkadot",
       "paraId": 2094,
       "genesisHash": "0x5d3c298622d5634ed019bf61ea4b71655030015bde9beb0d6a24743714462c86",
-      "addressPrefix": 56,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://pendulum.subscan.io/",
