@@ -127,5 +127,15 @@
     "appConfig": {
       "environment": "mobile"
     }
+  },
+  "6f459f5d-aa3e-45cc-84a3-190d3333adef": {
+    "appConfig": {
+      "environment": "extension"
+    }
+  },
+  "6f459f5d-aa3e-45cc-84a3-190d3333adef": {
+    "appConfig": {
+      "environment": "mobile"
+    }
   }
 }
