@@ -1,23 +1,9 @@
 {
   "blockedFeaturesList": [
-    "transfer.balance___moonbeam",
-    "transfer.token___moonbeam",
-    "transfer.balance___moonbase",
-    "transfer.token___moonbase",
-    "transfer.balance___moonriver",
-    "transfer.token___moonriver",
-    "transfer.balance___darwinia2",
-    "transfer.token___darwinia2",
-    "transfer.balance___crabParachain",
-    "transfer.token___crabParachain",
-    "transfer.balance___pangolin",
-    "transfer.token___pangolin",
     "transfer.balance___mythos",
     "transfer.token___mythos",
     "transfer.balance___atletaOlympia_testnet",
     "transfer.token___atletaOlympia_testnet",
-    "transfer.balance___laos_network",
-    "transfer.token___laos_network",
     "transfer.balance___muse_testnet",
     "transfer.token___muse_testnet"
   ],
