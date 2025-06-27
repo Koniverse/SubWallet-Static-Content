@@ -137,5 +137,10 @@
     "appConfig": {
       "environment": "mobile"
     }
+  },
+  "57e3b962-a127-4561-8727-0f714fc24c30": {
+    "appConfig": {
+      "environment": "webapp"
+    }
   }
 }
