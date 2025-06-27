@@ -2,7 +2,7 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.token___mythos-NATIVE-MYTH"
+      "transfer.balance___mythos-NATIVE-MYTH"
     ],
     "transfer.token": [],
     "transfer.xcm": [],
