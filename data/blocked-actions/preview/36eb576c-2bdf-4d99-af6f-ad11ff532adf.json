@@ -1,5 +1,8 @@
 {
-  "blockedFeaturesList": [],
+  "blockedFeaturesList": [
+    "transfer.balance___mythos",
+    "transfer.token___mythos"
+  ],
   "blockedActionsMap": {
     "transfer.balance": [],
     "transfer.token": [],
