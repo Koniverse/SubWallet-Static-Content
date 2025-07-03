@@ -1,7 +1,9 @@
 {
   "blockedFeaturesList": [
     "transfer.balance___mythos",
-    "transfer.token___mythos"
+    "transfer.token___mythos",
+    "transfer.balance___muse_testnet",
+    "transfer.token___muse_testnet"
   ],
   "blockedActionsMap": {
     "transfer.balance": [],
