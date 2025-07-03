@@ -39,7 +39,8 @@
       "siliconZkEvm-NATIVE-ETH",
       "aleph-PSP22-WETH-5EoFQd36196Duo6fPTz2MWHXRzwTJcyETHyCyaB3rb61Xo2u",
       "statemint-LOCAL-ETH-Snowbridge",
-      "zora-NATIVE-ETH"
+      "zora-NATIVE-ETH",
+      "katana-NATIVE-ETH"
     ]
   },
   {
@@ -560,7 +561,8 @@
       "soneium-ERC20-USDC.e-0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
       "story_protocol-ERC20-USDC.e-0xF1815bd50389c46847f0Bda824eC8da914045D14",
       "polimec-LOCAL-USDC",
-      "statemint-LOCAL-USDC-Snowbridge"
+      "statemint-LOCAL-USDC-Snowbridge",
+      "unichain-ERC20-USDC-0x078D782b760474a361dDA0AF3839290b0EF57AD6"
     ]
   },
   {

@@ -991,5 +991,16 @@
   "tanssi-NATIVE-TANSSI": null,
   "hyperEvm-NATIVE-HYPE": "hyperliquid",
   "mosaicTest-NATIVE-TMOS": null,
+  "hydradx_main-LOCAL-GETH": null,
+  "verisenseTest-NATIVE-RWT": null,
+  "katana-NATIVE-ETH": "ethereum",
+  "mandalaTest-NATIVE-KPGT": null,
+  "passetHub-NATIVE": null,
+  "bifrostPaseo-NATIVE-BNC": null,
+  "hydrationPaseo-NATIVE-HDX": null,
+  "unichain-ERC20-USDC-0x078D782b760474a361dDA0AF3839290b0EF57AD6": "usd-coin",
+  "unichain-ERC20-UNI-0x8f187aA05619a017077f5308904739877ce9eA21": "uniswap",
+  "unichain-ERC20-USD₮0-0x9151434b16b9763660705744891fA906F660EcC5": "usdt0",
+  "unichain-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c": "unichain-bridged-wbtc-unichain",
   "paseo_assethub-NATIVE-PAS": null
 }
