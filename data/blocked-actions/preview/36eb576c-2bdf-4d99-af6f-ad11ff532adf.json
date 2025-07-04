@@ -1,10 +1,9 @@
 {
-  "blockedFeaturesList": [
-    "transfer.balance___mythos",
-    "transfer.token___mythos"
-  ],
+  "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [],
+    "transfer.balance": [
+      "transfer.balance___mythos-NATIVE-MYTH"
+    ],
     "transfer.token": [],
     "transfer.xcm": [],
     "send_nft": [],
