@@ -1468,5 +1468,31 @@
     "slug": "manta_network-NATIVE-MANTA",
     "symbol": "MANTA",
     "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "mainnet",
+        "symbol": "BTC",
+        "isSuspended": false,
+        "supportSell": true
+      },
+      "banxa": {
+        "network": "BTC",
+        "symbol": "BTC",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "coinbase": {
+        "network": "bitcoin",
+        "symbol": "BTC",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "bitcoin",
+    "slug": "bitcoin-NATIVE-BTC",
+    "symbol": "BTC",
+    "support": "BITCOIN"
   }
 ]
