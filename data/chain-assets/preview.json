@@ -326,6 +326,7 @@
     "minAmount": "100000000",
     "assetType": "NATIVE",
     "metadata": {
+      "autoEnable": true,
       "multilocation": {
         "parents": 1,
         "interior": "Here"
@@ -437,7 +438,9 @@
     "priceId": "ethereum",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 12,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
@@ -490,7 +493,9 @@
     "priceId": "ethereum",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 14,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
@@ -543,7 +548,9 @@
     "priceId": "tomochain",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 16,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/viction_80495dd96b.png",
@@ -1243,7 +1250,7 @@
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
     "originChain": "westend",
-    "multiChainAsset": null,
+    "multiChainAsset": "WND-Westend",
     "assetRefs": [
       {
         "type": "XCM",
@@ -2121,7 +2128,6 @@
     "assetType": "NATIVE",
     "metadata": {
       "assetId": "0",
-      "autoEnable": true,
       "paraSpellValue": "HDX",
       "paraSpellAssetType": "symbol"
     },
@@ -2522,9 +2528,7 @@
     "priceId": "polkadex",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": {
-      "autoEnable": true
-    },
+    "metadata": null,
     "hasValue": true,
     "ordinal": 101,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadex_fc1b411421.png",
@@ -7830,6 +7834,7 @@
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
+      "autoEnable": true,
       "contractAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
     },
     "hasValue": true,
@@ -7848,6 +7853,7 @@
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
+      "autoEnable": true,
       "contractAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
     },
     "hasValue": true,
@@ -7920,6 +7926,7 @@
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
+      "autoEnable": true,
       "contractAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
     },
     "hasValue": true,
@@ -7938,6 +7945,7 @@
     "minAmount": null,
     "assetType": "ERC20",
     "metadata": {
+      "autoEnable": true,
       "contractAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607"
     },
     "hasValue": true,
@@ -8593,7 +8601,9 @@
     "priceId": "ethereum",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": null,
+    "metadata": {
+      "autoEnable": true
+    },
     "hasValue": true,
     "ordinal": 428,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_02384e1ab0.png",
@@ -8989,6 +8999,7 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "22",
+      "autoEnable": true,
       "multilocation": {
         "parents": 1,
         "interior": {
@@ -9491,9 +9502,7 @@
     "priceId": "polkadex",
     "minAmount": "1000000000000",
     "assetType": "NATIVE",
-    "metadata": {
-      "autoEnable": true
-    },
+    "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polkadex_04756a30d9.png",
@@ -10033,7 +10042,6 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "9",
-      "autoEnable": true,
       "paraSpellValue": "ASTR",
       "paraSpellAssetType": "symbol",
       "alternativeSwapAsset": "astar-NATIVE-ASTR"
@@ -10079,8 +10087,7 @@
     "minAmount": "34854864344868000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "16",
-      "autoEnable": true
+      "assetId": "16"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10257,7 +10264,6 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "30",
-      "autoEnable": true,
       "multilocation": {
         "parents": 0,
         "interior": {
@@ -10539,7 +10545,6 @@
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "1000019",
-      "autoEnable": true,
       "multilocation": {
         "parents": 1,
         "interior": {
@@ -10627,8 +10632,7 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "18",
-      "autoEnable": true
+      "assetId": "18"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10720,8 +10724,7 @@
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "100",
-      "autoEnable": true
+      "assetId": "100"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10739,8 +10742,7 @@
     "minAmount": "5390835579515",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "20",
-      "autoEnable": true
+      "assetId": "20"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10758,8 +10760,7 @@
     "minAmount": "1000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "101",
-      "autoEnable": true
+      "assetId": "101"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -10777,8 +10778,7 @@
     "minAmount": "18761726",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "15",
-      "autoEnable": true
+      "assetId": "15"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11203,7 +11203,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_3565d58599.png",
     "originChain": "paseoTest",
-    "multiChainAsset": null,
+    "multiChainAsset": "PAS-Paseo",
     "assetRefs": []
   },
   {
@@ -12116,7 +12116,6 @@
     "minAmount": "0",
     "assetType": "PSP22",
     "metadata": {
-      "autoEnable": true,
       "contractAddress": "5CJ3DZ4RM4j2cPpQ49ywYiAgDYaTqk7hPud6Y1J1WY8qwDfb",
       "isDisableTransfer": true
     },
@@ -12136,7 +12135,6 @@
     "minAmount": "0",
     "assetType": "PSP22",
     "metadata": {
-      "autoEnable": true,
       "contractAddress": "5DPzHtsvZHtUaGzzKqrxa2JLgpHtEaSPn9mfyNAjX12Vunts",
       "isDisableTransfer": true
     },
@@ -13855,9 +13853,7 @@
     "priceId": "toshipad",
     "minAmount": "0",
     "assetType": "BRC20",
-    "metadata": {
-      "autoEnable": true
-    },
+    "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tshx_aea7ec07d7.png",
@@ -13873,9 +13869,7 @@
     "priceId": "cncl",
     "minAmount": "0",
     "assetType": "BRC20",
-    "metadata": {
-      "autoEnable": true
-    },
+    "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cncl_04a33b709e.png",
@@ -15240,6 +15234,7 @@
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
+      "autoEnable": true,
       "contractAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
     },
     "hasValue": true,
@@ -16559,7 +16554,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/westend_88c603710c.png",
     "originChain": "westend_assethub",
-    "multiChainAsset": null,
+    "multiChainAsset": "WND-Westend",
     "assetRefs": [
       {
         "type": "XCM",
@@ -16658,9 +16653,7 @@
     "priceId": "story-2",
     "minAmount": "0",
     "assetType": "NATIVE",
-    "metadata": {
-      "autoEnable": true
-    },
+    "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ip_2d8ee54f69.png",
@@ -16985,7 +16978,8 @@
     "minAmount": "0",
     "assetType": "NATIVE",
     "metadata": {
-      "cardanoId": "lovelace"
+      "cardanoId": "lovelace",
+      "autoEnable": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -19206,7 +19200,8 @@
     "minAmount": "0",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "69"
+      "assetId": "69",
+      "isGigaToken": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -19889,7 +19884,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_89_414189a068.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subnet_89_6584cfe704.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19908,7 +19903,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_86_dd120d6678.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subnet_86_c89880dd10.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20008,7 +20003,8 @@
     "minAmount": "8202803876747",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "420"
+      "assetId": "420",
+      "isGigaToken": true
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -20066,7 +20062,7 @@
     "assetRefs": []
   },
   {
-    "slug": "passetHub-NATIVE",
+    "slug": "passetHub-NATIVE-PAS",
     "name": "passet-hub",
     "symbol": "PAS",
     "decimals": 10,
@@ -20078,7 +20074,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_037ef61d16.png",
     "originChain": "passetHub",
-    "multiChainAsset": null,
+    "multiChainAsset": "PAS-Paseo",
     "assetRefs": []
   },
   {
@@ -20198,7 +20194,7 @@
     "ordinal": 10000,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_037ef61d16.png",
     "originChain": "paseo_assethub",
-    "multiChainAsset": null,
+    "multiChainAsset": "PAS-Paseo",
     "assetRefs": []
   }
 ]

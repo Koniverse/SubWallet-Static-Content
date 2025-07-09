@@ -1642,5 +1642,32 @@
       "chainflip_dot-NATIVE-DOT",
       "chainflip_assethub-NATIVE-DOT"
     ]
+  },
+  {
+    "slug": "PAS-Paseo",
+    "name": "Paseo Testnet",
+    "symbol": "PAS",
+    "priceId": null,
+    "hasValue": false,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/Property_1_light_3565d58599.png",
+    "originChainAsset": "paseoTest-NATIVE-PAS",
+    "chainAssets": [
+      "paseoTest-NATIVE-PAS",
+      "passetHub-NATIVE-PAS",
+      "paseo_assethub-NATIVE-PAS"
+    ]
+  },
+  {
+    "slug": "WND-Westend",
+    "name": "Westend",
+    "symbol": "WND",
+    "priceId": null,
+    "hasValue": false,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/westend_cd23291966.png",
+    "originChainAsset": "westend-NATIVE-WND",
+    "chainAssets": [
+      "westend-NATIVE-WND",
+      "westend_assethub-NATIVE-WND"
+    ]
   }
 ]
