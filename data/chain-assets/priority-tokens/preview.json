@@ -18,7 +18,6 @@
     "westend-NATIVE-WND": 16
   },
   "token" : {
-    "ethereum-ERC20-USDDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": 20,
     "bitcoin-NATIVE-BTC": 1,
     "polkadot-NATIVE-DOT": 2,
     "ethereum-NATIVE-ETH": 3,
