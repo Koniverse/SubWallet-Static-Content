@@ -20182,6 +20182,22 @@
     "assetRefs": []
   },
   {
+    "slug": "passetHub_evm-NATIVE-PAS",
+    "name": "Passet Hub EVM",
+    "symbol": "PAS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Property_1_light_037ef61d16.png",
+    "originChain": "passetHub_evm",
+    "multiChainAsset": "PAS-Paseo",
+    "assetRefs": []
+  },
+  {
     "slug": "paseo_assethub-NATIVE-PAS",
     "name": "Paseo Testnet",
     "symbol": "PAS",

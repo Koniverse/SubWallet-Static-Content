@@ -1654,7 +1654,8 @@
     "chainAssets": [
       "paseoTest-NATIVE-PAS",
       "passetHub-NATIVE-PAS",
-      "paseo_assethub-NATIVE-PAS"
+      "paseo_assethub-NATIVE-PAS",
+      "passetHub_evm-NATIVE-PAS"
     ]
   },
   {

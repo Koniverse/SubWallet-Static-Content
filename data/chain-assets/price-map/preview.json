@@ -1002,5 +1002,6 @@
   "unichain-ERC20-UNI-0x8f187aA05619a017077f5308904739877ce9eA21": "uniswap",
   "unichain-ERC20-USD₮0-0x9151434b16b9763660705744891fA906F660EcC5": "usdt0",
   "unichain-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c": "unichain-bridged-wbtc-unichain",
+  "passetHub_evm-NATIVE-PAS": null,
   "paseo_assethub-NATIVE-PAS": null
 }

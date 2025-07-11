@@ -357,5 +357,6 @@
   "mandalaTest": "https://static-data.subwallet.app/chains/images/icon/mandala_chain_fda1231f17.png",
   "passetHub": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_e207f59b4b.png",
   "bifrostPaseo": "https://static-data.subwallet.app/chains/images/icon/bifrost_polkadot_64f716066e.png",
-  "hydrationPaseo": "https://static-data.subwallet.app/chains/images/icon/hdx_hydration_paseo_testnet_3452300205.png"
+  "hydrationPaseo": "https://static-data.subwallet.app/chains/images/icon/hdx_hydration_paseo_testnet_3452300205.png",
+  "passetHub_evm": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_e207f59b4b.png"
 }
