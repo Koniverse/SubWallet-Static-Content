@@ -182,7 +182,7 @@
     },
     "evmInfo": {
       "evmChainId": 1284,
-      "blockExplorer": "https://moonbeam.subscan.io/",
+      "blockExplorer": "https://moonscan.io/",
       "existentialDeposit": "0",
       "symbol": "GLMR",
       "decimals": 18,
@@ -199,7 +199,7 @@
       "addressPrefix": 1284,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://moonbeam.foundation/moonbeam-crowdloan/",
-      "blockExplorer": "https://moonbeam.subscan.io/",
+      "blockExplorer": "https://moonscan.io/",
       "existentialDeposit": "0",
       "symbol": "GLMR",
       "decimals": 18,
@@ -608,7 +608,6 @@
     "ordinal": 15,
     "icon": "https://static-data.subwallet.app/chains/images/icon/viction_80495dd96b.png",
     "providers": {
-      "TomoChain": "https://rpc.tomochain.com",
       "DRPC": "https://viction.drpc.org",
       "Viction": "https://rpc.viction.xyz"
     },
