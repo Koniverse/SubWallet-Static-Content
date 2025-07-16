@@ -988,7 +988,7 @@
   "bittensor-LOCAL-ᚳ": "dtao-86",
   "bittensor-LOCAL-ᚅ": "dtao-95",
   "bittensor-LOCAL-Ы": "dtao-87",
-  "tanssi-NATIVE-TANSSI": null,
+  "tanssi-NATIVE-TANSSI": "tanssi",
   "hyperEvm-NATIVE-HYPE": "hyperliquid",
   "mosaicTest-NATIVE-TMOS": null,
   "hydradx_main-LOCAL-GETH": null,
@@ -1003,5 +1003,8 @@
   "unichain-ERC20-USD₮0-0x9151434b16b9763660705744891fA906F660EcC5": "usdt0",
   "unichain-ERC20-WBTC-0x0555E30da8f98308EdB960aa94C0Db47230d2B9c": "unichain-bridged-wbtc-unichain",
   "passetHub_evm-NATIVE-PAS": null,
+  "binance-ERC20-CESS-0x0c78d4605c2972e5f989DE9019De1Fb00c5D3462": "cumulus-encrypted-storage-system",
+  "ethereum-ERC20-CFG-0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94": "centrifuge-2",
+  "ethereum-ERC20-TANSSI-0x553F4cB7256D8fC038E91d36Cb63fa7C13b624AB": "tanssi",
   "paseo_assethub-NATIVE-PAS": null
 }

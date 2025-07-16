@@ -1670,5 +1670,18 @@
       "westend-NATIVE-WND",
       "westend_assethub-NATIVE-WND"
     ]
+  },
+  {
+    "slug": "TANSSI-TANSSI",
+    "name": "TANSSI",
+    "symbol": "TANSSI",
+    "priceId": "tanssi",
+    "hasValue": true,
+    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/Property_1_Color_1_a8e668774f.png",
+    "originChainAsset": null,
+    "chainAssets": [
+      "tanssi-NATIVE-TANSSI",
+      "ethereum-ERC20-TANSSI-0x553F4cB7256D8fC038E91d36Cb63fa7C13b624AB"
+    ]
   }
 ]
