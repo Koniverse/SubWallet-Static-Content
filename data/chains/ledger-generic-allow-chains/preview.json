@@ -41,5 +41,17 @@
   "pendulum",
   "amplitude",
   "karura",
-  "polimec"
+  "polimec",
+  "moonbeam",
+  "moonriver",
+  "moonbase",
+  "mythos",
+  "peaq",
+  "bittensor_devnet",
+  "muse_testnet",
+  "paseo_assethub",
+  "westend_assethub",
+  "kusama_coretime",
+  "tanssi",
+  "passetHub",
 ]
