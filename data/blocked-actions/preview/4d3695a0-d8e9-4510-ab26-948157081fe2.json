@@ -1,9 +1,7 @@
 {
   "blockedFeaturesList": [],
   "blockedActionsMap": {
-    "transfer.balance": [
-      "transfer.balance___autonomys-NATIVE-AI3"
-    ],
+    "transfer.balance": [],
     "transfer.token": [
       "transfer.token___hydradx_main-LOCAL-GDOT"
     ],
