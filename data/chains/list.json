@@ -182,7 +182,7 @@
     },
     "evmInfo": {
       "evmChainId": 1284,
-      "blockExplorer": "https://moonbeam.subscan.io/",
+      "blockExplorer": "https://moonscan.io/",
       "existentialDeposit": "0",
       "symbol": "GLMR",
       "decimals": 18,
@@ -199,7 +199,7 @@
       "addressPrefix": 1284,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://moonbeam.foundation/moonbeam-crowdloan/",
-      "blockExplorer": "https://moonbeam.subscan.io/",
+      "blockExplorer": "https://moonscan.io/",
       "existentialDeposit": "0",
       "symbol": "GLMR",
       "decimals": 18,
@@ -417,7 +417,6 @@
       "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
       "Parity": "wss://polkadot-asset-hub-rpc.polkadot.io",
       "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub",
-      "OnFinality": "wss://statemint.api.onfinality.io/public-ws",
       "Blockops": "wss://polkadot-assethub-rpc.blockops.network/ws",
       "Dwellir": "wss://asset-hub-polkadot-rpc.dwellir.com",
       "IBP1": "wss://sys.ibp.network/asset-hub-polkadot",
@@ -609,7 +608,8 @@
     "ordinal": 15,
     "icon": "https://static-data.subwallet.app/chains/images/icon/viction_80495dd96b.png",
     "providers": {
-      "TomoChain": "https://rpc.tomochain.com"
+      "DRPC": "https://viction.drpc.org",
+      "Viction": "https://rpc.viction.xyz"
     },
     "evmInfo": {
       "evmChainId": 88,
@@ -934,7 +934,7 @@
     "slug": "rococo",
     "name": "Rococo",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 23,
     "icon": "https://static-data.subwallet.app/chains/images/icon/rococo_2354ee585c.png",
     "providers": {
@@ -2151,7 +2151,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_dc0b44d234.png",
     "providers": {
       "RadiumBlock": "wss://polkadex.public.curie.radiumblock.co/ws",
-      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws"
+      "OnFinality": "wss://polkadex.api.onfinality.io/public-ws",
+      "Polkadex": "wss://so.polkadex.ee"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2161,7 +2162,7 @@
       "addressPrefix": 88,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://polkadex.subscan.io/",
+      "blockExplorer": "https://pdexmon.com/",
       "existentialDeposit": "1000000000000",
       "symbol": "PDEX",
       "decimals": 12,
@@ -2788,7 +2789,7 @@
     "slug": "heiko",
     "name": "Heiko",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 65,
     "icon": "https://static-data.subwallet.app/chains/images/icon/heiko_b06aba4586.png",
     "providers": {
@@ -4299,7 +4300,7 @@
     "slug": "subspace_gemini_3g",
     "name": "Subspace Gemini 3g",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 98,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
     "providers": {
@@ -4488,7 +4489,7 @@
     "slug": "kabocha",
     "name": "Kabocha",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 102,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kabocha_94a09c6441.png",
     "providers": {
@@ -5232,7 +5233,6 @@
     "ordinal": 125,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ajuna_network_98e7999ad4.png",
     "providers": {
-      "Para": "wss://rpc-para.ajuna.network",
       "Ibp": "wss://ajuna.ibp.network",
       "IBP2": "wss://ajuna.dotters.network"
     },
@@ -6596,7 +6596,7 @@
     "slug": "jur_network",
     "name": "Jur Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 162,
     "icon": "https://static-data.subwallet.app/chains/images/icon/jur_network_6aff4974ed.png",
     "providers": {
@@ -8118,7 +8118,7 @@
     "slug": "polkadex_dot",
     "name": "Polkadex Polkadot",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadex_04756a30d9.png",
     "providers": {
@@ -8201,7 +8201,7 @@
     "slug": "subspace_gemini_3h",
     "name": "Subspace Gemini 3h",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subspace_ba6bca778d.png",
     "providers": {
@@ -8273,7 +8273,7 @@
     "slug": "rococo_assethub",
     "name": "Rococo Asset Hub",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_50b263697b.png",
     "providers": {
@@ -8624,7 +8624,7 @@
     "slug": "hydradx_rococo",
     "name": "Hydration Rococo",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hydradx_285eea3042.png",
     "providers": {
@@ -10990,7 +10990,7 @@
     "slug": "storyOdyssey_testnet",
     "name": "Story Odyssey Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/story_protocol_4cc0450d94.png",
     "providers": {
@@ -11842,6 +11842,43 @@
     "cardanoInfo": null
   },
   {
+    "slug": "paseo_assethub",
+    "name": "Paseo Asset Hub",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_e207f59b4b.png",
+    "providers": {
+      "Dwellir": "wss://asset-hub-paseo-rpc.dwellir.com",
+      "IBP": "wss://sys.ibp.network/asset-hub-paseo",
+      "Dotters": "wss://asset-hub-paseo.dotters.network",
+      "Stake World": "wss://pas-rpc.stakeworld.io/assethub",
+      "Turbo": "wss://sys.turboflakes.io/asset-hub-paseo"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 1000,
+      "genesisHash": "0xd6eec26135305a8ad257a20d003357284c8aa03d0bdb2b357ab0a22371e11ef2",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "100000000",
+      "symbol": "PAS",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
     "slug": "gravity_alpha",
     "name": "Gravity Alpha Mainnet",
     "isTestnet": false,
@@ -12566,6 +12603,301 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "tanssi",
+    "name": "Tanssi Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_Color_1_a8e668774f.png",
+    "providers": {
+      "tanssi": "wss://tanssi.tanssi-mainnet.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0xdd6d086f75ec041b66e20c4186d327b23c8af244c534a2418de6574e8c041a60",
+      "addressPrefix": 42,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://tanssi.subscan.io",
+      "existentialDeposit": "33333333",
+      "symbol": "TANSSI",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "tanssi",
+      "chainBalanceSlug": null
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "hyperEvm",
+    "name": "HyperEVM Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hyperevm_434fdc46dc.png",
+    "providers": {
+      "Hyperliquid": "https://rpc.hyperliquid.xyz/evm",
+      "Hypurrscan": "https://rpc.hypurrscan.io",
+      "Hyperliquid Stakely": "https://hyperliquid-json-rpc.stakely.io"
+    },
+    "evmInfo": {
+      "evmChainId": 999,
+      "blockExplorer": "https://purrsec.com/",
+      "existentialDeposit": "0",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "mosaicTest",
+    "name": "Mosaic Chain Devnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/mosaic_chain_devnet_ed9f56a4ec.png",
+    "providers": {
+      "Mosaic 1": "wss://devnet-gw1.mosaicchain.io/MosaicNode1/chain",
+      "Mosaic 2": "wss://devnet-gw2.mosaicchain.io/MosaicNode2/chain"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 3377,
+      "genesisHash": "0x42e93d676fb5ca2cad472804196d052cf7baa5cf9720f0cf905380ccc2a65de4",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://devnet-explorer.mosaicchain.io/",
+      "existentialDeposit": "10000000000000000",
+      "symbol": "TMOS",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "verisenseTest",
+    "name": "Verisense Beta Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/verisense_dff2c47589.png",
+    "providers": {
+      "Verisense": "wss://rpc.beta.verisense.network"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x52ff61e2802a7016759659a6c85833b093c717772dfb1c429a0a2d15bba754bf",
+      "addressPrefix": 137,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "600",
+      "symbol": "RWT",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "katana",
+    "name": "Katana",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/katana_f1a1f9f445.png",
+    "providers": {
+      "Katana": "https://rpc.katana.network/"
+    },
+    "evmInfo": {
+      "evmChainId": 747474,
+      "blockExplorer": "https://explorer.katanarpc.com/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC721",
+        "ERC20"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "mandalaTest",
+    "name": "Mandala Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/mandala_chain_fda1231f17.png",
+    "providers": {
+      "Autobot": "wss://rpc1.paseo.mandalachain.io",
+      "Bumblebee": "wss://rpc2.paseo.mandalachain.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 4818,
+      "genesisHash": "0x5f77ad733c957246dc5c149ca87319027155cd78554d1fa5f44d5140dddf2892",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "KPGT",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "passetHub",
+    "name": "passet-hub",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_e207f59b4b.png",
+    "providers": {
+      "IBP": "wss://passet-hub-paseo.ibp.network",
+      "Passet": "wss://testnet-passet-hub.polkadot.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 1111,
+      "genesisHash": "0xfd974cf9eaf028f5e44b9fdd1949ab039c6cf9cc54449b0b60d71b042e79aeb6",
+      "addressPrefix": 42,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000",
+      "symbol": "PAS",
+      "decimals": 10,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "bifrostPaseo",
+    "name": "Bifrost Paseo",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/bifrost_polkadot_64f716066e.png",
+    "providers": {
+      "Paseo": "wss://bifrost-rpc.paseo.liebi.com/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 2030,
+      "genesisHash": "0xec39b15e5a1945ff19b8e8c0f76990b5758ce19faa4578e8ed57eda33e844452",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "10000000000",
+      "symbol": "BNC",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "hydrationPaseo",
+    "name": "Hydration Paseo Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hdx_hydration_paseo_testnet_3452300205.png",
+    "providers": {
+      "Hydration Paseo": "wss://paseo-rpc.play.hydration.cloud"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 2034,
+      "genesisHash": "0x05fab032a899566268235e3c89c847fb4644558a0d856282d47d17ff06cb2020",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "HDX",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
