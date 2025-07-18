@@ -2,7 +2,6 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [
-      "transfer.balance___autonomys-NATIVE-AI3",
       "transfer.balance___acurast-NATIVE-cACU"
     ],
     "transfer.token": [],
