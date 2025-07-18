@@ -1006,5 +1006,6 @@
   "binance-ERC20-CESS-0x0c78d4605c2972e5f989DE9019De1Fb00c5D3462": "cumulus-encrypted-storage-system",
   "ethereum-ERC20-CFG-0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94": "centrifuge-2",
   "ethereum-ERC20-TANSSI-0x553F4cB7256D8fC038E91d36Cb63fa7C13b624AB": "tanssi",
+  "hydradx_main-LOCAL-NEURO": "neurowebai",
   "paseo_assethub-NATIVE-PAS": null
 }

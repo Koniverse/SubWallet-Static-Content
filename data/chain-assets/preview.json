@@ -20252,6 +20252,24 @@
     "assetRefs": []
   },
   {
+    "slug": "hydradx_main-LOCAL-NEURO",
+    "name": "NeuroWeb",
+    "symbol": "NEURO",
+    "decimals": 12,
+    "priceId": "neurowebai",
+    "minAmount": "588235294118",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "36"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neuroweb_511a23cae5.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
     "slug": "paseo_assethub-NATIVE-PAS",
     "name": "Paseo Testnet",
     "symbol": "PAS",
