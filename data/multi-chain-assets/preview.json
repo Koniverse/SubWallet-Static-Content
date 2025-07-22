@@ -102,7 +102,11 @@
       "statemine-LOCAL-DOT",
       "polkadot_people-NATIVE-DOT",
       "polimec-LOCAL-DOT",
-      "polkadot_coretime-NATIVE-DOT"
+      "polkadot_coretime-NATIVE-DOT",
+      "ethereum-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+      "binance-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+      "arbitrum_one-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+      "base_mainnet-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8"
     ]
   },
   {
@@ -1547,7 +1551,8 @@
     "chainAssets": [
       "peaq-NATIVE-PEAQ",
       "ethereum-ERC20-PEAQ-0x1EeF208926667594E5136e89D0e9DD6907959197",
-      "peaq_evm-NATIVE-PEAQ"
+      "peaq_evm-NATIVE-PEAQ",
+      "binance-ERC20-PEAQ-0x8b9Ee39195eA99d6ddD68030F44131116bc218F6"
     ]
   },
   {

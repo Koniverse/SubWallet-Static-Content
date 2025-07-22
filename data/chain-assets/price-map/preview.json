@@ -991,7 +991,7 @@
   "tanssi-NATIVE-TANSSI": "tanssi",
   "hyperEvm-NATIVE-HYPE": "hyperliquid",
   "mosaicTest-NATIVE-TMOS": null,
-  "hydradx_main-LOCAL-GETH": null,
+  "hydradx_main-LOCAL-GETH": "gigaeth",
   "verisenseTest-NATIVE-RWT": null,
   "katana-NATIVE-ETH": "ethereum",
   "mandalaTest-NATIVE-KPGT": null,
@@ -1007,5 +1007,12 @@
   "ethereum-ERC20-CFG-0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94": "centrifuge-2",
   "ethereum-ERC20-TANSSI-0x553F4cB7256D8fC038E91d36Cb63fa7C13b624AB": "tanssi",
   "hydradx_main-LOCAL-NEURO": "neurowebai",
+  "binance-ERC20-PEAQ-0x8b9Ee39195eA99d6ddD68030F44131116bc218F6": "peaq-2",
+  "ethereum-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8": "polkadot",
+  "binance-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8": "polkadot",
+  "arbitrum_one-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8": "polkadot",
+  "base_mainnet-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8": "polkadot",
+  "origintrail-ERC20-TRAC-0xffffffff00000000000000000000000000000001": "origintrail",
+  "hydradx_main-LOCAL-TRAC": "origintrail",
   "paseo_assethub-NATIVE-PAS": null
 }

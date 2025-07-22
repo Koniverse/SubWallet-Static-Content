@@ -19999,7 +19999,7 @@
     "name": "GIGAETH",
     "symbol": "GETH",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "gigaeth",
     "minAmount": "8202803876747",
     "assetType": "LOCAL",
     "metadata": {
@@ -20265,6 +20265,133 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neuroweb_511a23cae5.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "binance-ERC20-PEAQ-0x8b9Ee39195eA99d6ddD68030F44131116bc218F6",
+    "name": "PEAQ",
+    "symbol": "PEAQ",
+    "decimals": 18,
+    "priceId": "peaq-2",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x8b9Ee39195eA99d6ddD68030F44131116bc218F6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Color_light_a60969392d.png",
+    "originChain": "binance",
+    "multiChainAsset": "PEAQ-PEAQ",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 18,
+    "priceId": "polkadot",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dot_1c43fb461f.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "binance-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 18,
+    "priceId": "polkadot",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dot_1c43fb461f.png",
+    "originChain": "binance",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "arbitrum_one-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 18,
+    "priceId": "polkadot",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dot_1c43fb461f.png",
+    "originChain": "arbitrum_one",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 18,
+    "priceId": "polkadot",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dot_1c43fb461f.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "origintrail-ERC20-TRAC-0xffffffff00000000000000000000000000000001",
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "priceId": "origintrail",
+    "minAmount": "1",
+    "assetType": "ERC20",
+    "metadata": {
+      "assetId": "1",
+      "contractAddress": "0xffffffff00000000000000000000000000000001"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
+    "originChain": "origintrail",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-TRAC",
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "priceId": "origintrail",
+    "minAmount": "27777777777777800",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "35"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": []
