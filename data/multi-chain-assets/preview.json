@@ -870,7 +870,11 @@
       "bifrost_dot-LOCAL-vDOT",
       "hydradx_main-LOCAL-vDOT",
       "moonbeam-LOCAL-xcvDOT",
-      "pendulum-LOCAL-vDOT"
+      "pendulum-LOCAL-vDOT",
+      "ethereum-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "binance-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "arbitrum_one-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "base_mainnet-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5"
     ]
   },
   {

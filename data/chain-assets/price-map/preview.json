@@ -1014,5 +1014,9 @@
   "base_mainnet-ERC20-DOT-0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8": "polkadot",
   "origintrail-ERC20-TRAC-0xffffffff00000000000000000000000000000001": "origintrail",
   "hydradx_main-LOCAL-TRAC": "origintrail",
+  "ethereum-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5": "voucher-dot",
+  "binance-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5": "voucher-dot",
+  "arbitrum_one-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5": "voucher-dot",
+  "base_mainnet-ERC20-vDOT-0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5": "voucher-dot",
   "paseo_assethub-NATIVE-PAS": null
 }

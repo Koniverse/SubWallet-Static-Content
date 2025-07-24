@@ -2940,7 +2940,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "kusama",
-      "paraId": 2087,
+      "paraId": 2104,
       "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
       "addressPrefix": 49,
       "chainType": "PARACHAIN",
@@ -4253,7 +4253,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 98,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/origintrail_cda66dc997.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/neuroweb_511a23cae5.png",
     "providers": {
       "TraceLabs": "wss://parachain-rpc.origin-trail.network",
       "Dwellir": "wss://neuroweb-rpc.dwellir.com"
