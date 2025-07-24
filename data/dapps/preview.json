@@ -294,26 +294,6 @@
     ]
   },
   {
-    "id": 198,
-    "title": "Cointelegraph Decentralization Guardians",
-    "description": "Use real-time validator data to make informed delegation choices and strengthen the network’s decentralization.",
-    "url": "https://cointelegraph.com/decentralization-guardians/polkadot/",
-    "subtitle": "Cointelegraph delegation platform",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 135,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/cointelegraph_decentralization_guardians_5d7251c19d.png",
-    "preview_image": null,
-    "chains": [
-      "polkadot"
-    ],
-    "categories": [
-      "staking"
-    ]
-  },
-  {
     "id": 113,
     "title": "Omni Liquid Staking",
     "description": "Omni Liquid Staking is the first omni-chain liquid staking protocol developed based on Bifrost SLPx, cross-chain interoperability and consensus security provided by Polkadot XCM, realizing the vision of minting, using, and aggregating the liquidity across chains.",
