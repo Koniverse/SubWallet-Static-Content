@@ -18,7 +18,7 @@
       "swap___ethereum-NATIVE-ETH___arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831___SIMPLE_SWAP",
       "swap___arbitrum_one-ERC20-USDC-0xaf88d065e77c8cC2239327C5EDb3A432268e5831___ethereum-NATIVE-ETH___SIMPLE_SWAP",
       "swap___ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599___ethereum-NATIVE-ETH___SIMPLE_SWAP",
-      "swap___ethereum-NATIVE-ETH___ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599___SIMPLE_SWAP",
+      "swap___ethereum-NATIVE-ETH___ethereum-ERC20-WBTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599___SIMPLE_SWAP"
     ],
     "staking.join_pool": [],
     "staking.leave_pool": [],
