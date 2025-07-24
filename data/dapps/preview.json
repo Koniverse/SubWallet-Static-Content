@@ -2996,6 +2996,26 @@
     ]
   },
   {
+    "id": 199,
+    "title": "Cointelegraph Decentralization Guardians",
+    "description": "Support decentralization and earn staking rewards by nominating your DOT to Cointelegraph's validator to secure the network and contribute to a more open and resilient blockchain ecosystem.",
+    "url": "https://cointelegraph.com/decentralization-guardians/polkadot/",
+    "subtitle": "Decentralization Guardians by Cointelegraph",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1146,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/cointelegraph_decentralization_guardians_5d7251c19d.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 197,
     "title": "KyberSwap",
     "description": "A multi-chain aggregator and DeFi hub that empowers users with the insights and tools to achieve financial autonomy",
