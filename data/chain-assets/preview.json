@@ -3430,7 +3430,7 @@
     "ordinal": 153,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neuroweb_511a23cae5.png",
     "originChain": "origintrail",
-    "multiChainAsset": null,
+    "multiChainAsset": "NEURO-NeuroWeb",
     "assetRefs": []
   },
   {
@@ -20266,7 +20266,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neuroweb_511a23cae5.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "NEURO-NeuroWeb",
     "assetRefs": []
   },
   {
