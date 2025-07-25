@@ -168,6 +168,12 @@
         "symbol": "CAPS",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "CAPS",
+        "symbol": "CAPS",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "ternoa",
@@ -768,6 +774,12 @@
         "symbol": "WBTC",
         "isSuspended": false,
         "supportSell": false
+      },
+      "meld": {
+        "network": "ETH",
+        "symbol": "WBTC",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "ethereum",
@@ -846,6 +858,12 @@
       "banxa": {
         "network": "MATIC",
         "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "meld": {
+        "network": "POLYGON",
+        "symbol": "USDC_POLYGON",
         "isSuspended": false,
         "supportSell": false
       }
@@ -1218,6 +1236,12 @@
       "transak": {
         "network": "unichain",
         "symbol": "ETH",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "meld": {
+        "network": "UNICHAIN",
+        "symbol": "ETH_UNICHAIN",
         "isSuspended": false,
         "supportSell": false
       }

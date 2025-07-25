@@ -1049,7 +1049,7 @@
   "settings.Screen.generalSetting.Selector.currency.Item.hkd": "Hong Kong Dollar",
   "settings.Screen.generalSetting.Selector.currency.Item.jpy": "Japanese Yen",
   "settings.Screen.generalSetting.Selector.currency.Item.rub": "Russian Ruble",
-  "settings.Screen.generalSetting.Selector.currency.Item.usd": "United States Dollar1",
+  "settings.Screen.generalSetting.Selector.currency.Item.usd": "United States Dollar",
   "settings.Screen.generalSetting.Selector.currency.Item.vnd": "Vietnamese Dong",
   "settings.Screen.generalSetting.Selector.currency.searchPlaceHolder": "Search currency",
   "settings.Screen.generalSetting.Selector.currency.title": "Select a currency",
@@ -1657,5 +1657,5 @@
   "ZK mode is syncing": "",
   "Zk mode is syncing: {{percent}}%": "",
   "ZK mode requires data synchronization": "",
-  "texterify_timestamp": "2025-05-21T11:10:26Z"
+  "texterify_timestamp": "2025-07-25T10:07:02Z"
 }

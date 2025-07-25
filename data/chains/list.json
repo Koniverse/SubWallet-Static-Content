@@ -2940,7 +2940,7 @@
     "evmInfo": null,
     "substrateInfo": {
       "relaySlug": "kusama",
-      "paraId": 2087,
+      "paraId": 2104,
       "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
       "addressPrefix": 49,
       "chainType": "PARACHAIN",
@@ -4253,7 +4253,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 98,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/origintrail_cda66dc997.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/neuroweb_511a23cae5.png",
     "providers": {
       "TraceLabs": "wss://parachain-rpc.origin-trail.network",
       "Dwellir": "wss://neuroweb-rpc.dwellir.com"
@@ -6689,7 +6689,7 @@
     "slug": "crust_mainnet",
     "name": "Crust Mainnet",
     "isTestnet": false,
-    "chainStatus": "INACTIVE",
+    "chainStatus": "ACTIVE",
     "ordinal": 165,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crust_6ae326cd51.png",
     "providers": {
@@ -12898,6 +12898,34 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "passetHub_evm",
+    "name": "Passet Hub EVM",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_e207f59b4b.png",
+    "providers": {
+      "Passet": "https://testnet-passet-hub-eth-rpc.polkadot.io"
+    },
+    "evmInfo": {
+      "evmChainId": 420420422,
+      "blockExplorer": "https://blockscout-passet-hub.parity-testnet.parity.io/",
+      "existentialDeposit": "0",
+      "symbol": "PAS",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
