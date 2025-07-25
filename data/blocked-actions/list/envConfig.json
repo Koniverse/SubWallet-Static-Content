@@ -167,7 +167,14 @@
   },
   "36eb576c-2bdf-4d99-af6f-ad11ff532adf": {
     "appConfig": {
-      "environment": "mobile"
+      "environment": "mobile",
+      "version": "1.3.23-0"
+    }
+  },
+  "a2a07955-ff1e-40c7-8d88-4173f0934f6c": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.26-0"
     }
   },
   "57e3b962-a127-4561-8727-0f714fc24c30": {
