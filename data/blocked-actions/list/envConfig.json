@@ -173,5 +173,17 @@
     "appConfig": {
       "environment": "webapp"
     }
-  }
+  },
+  "10073646-2a63-482f-bc06-bb5179bb8e30": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.23-0"
+    }
+  },
+  "8da5ddbc-08f5-42be-ad6f-20855068bd1e": {
+    "appConfig": {
+      "environment": "mobile",
+      "version": "1.3.26-0"
+    }
+  },
 }
