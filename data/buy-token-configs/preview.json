@@ -168,6 +168,12 @@
         "symbol": "CAPS",
         "isSuspended": false,
         "supportSell": null
+      },
+      "meld": {
+        "network": "CAPS",
+        "symbol": "CAPS",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "ternoa",
@@ -768,6 +774,12 @@
         "symbol": "WBTC",
         "isSuspended": false,
         "supportSell": false
+      },
+      "meld": {
+        "network": "ETH",
+        "symbol": "WBTC",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "ethereum",
@@ -846,6 +858,12 @@
       "banxa": {
         "network": "MATIC",
         "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "meld": {
+        "network": "POLYGON",
+        "symbol": "USDC_POLYGON",
         "isSuspended": false,
         "supportSell": false
       }
@@ -1220,6 +1238,12 @@
         "symbol": "ETH",
         "isSuspended": false,
         "supportSell": false
+      },
+      "meld": {
+        "network": "UNICHAIN",
+        "symbol": "ETH_UNICHAIN",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "unichain",
@@ -1494,5 +1518,25 @@
     "slug": "bitcoin-NATIVE-BTC",
     "symbol": "BTC",
     "support": "BITCOIN"
+  },
+  {
+    "serviceInfo": {
+      "transak": {
+        "network": "unichain",
+        "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "meld": {
+        "network": "UNICHAIN",
+        "symbol": "USDC_UNICHAIN",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "unichain",
+    "slug": "unichain-ERC20-USDC-0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    "symbol": "USDC",
+    "support": "ETHEREUM"
   }
 ]
