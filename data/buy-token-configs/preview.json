@@ -1538,5 +1538,19 @@
     "slug": "unichain-ERC20-USDC-0x078D782b760474a361dDA0AF3839290b0EF57AD6",
     "symbol": "USDC",
     "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "PEAQ-EVM",
+        "symbol": "PEAQ",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "peaq_evm",
+    "slug": "peaq_evm-NATIVE-PEAQ",
+    "symbol": "PEAQ",
+    "support": "ETHEREUM"
   }
 ]
