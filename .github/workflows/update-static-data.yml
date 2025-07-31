@@ -17,7 +17,7 @@ on:
           - production
       folder:
         description: 'Folder name'
-        required: false
+        required: true
         type: string
 
 concurrency: ${{ github.workflow }}

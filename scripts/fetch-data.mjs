@@ -408,6 +408,12 @@ const main = async () => {
     const environment = process.argv[2];
     const isProduction = environment === 'production';
     const folder = process.argv[3];
+
+    if (!folder) {
+        console.error('Please provide a folder name as the arguments');
+        return;
+    }
+
     const configs = folder ? cacheConfigs.filter((c) => c.folder === folder) : cacheConfigs;
     for (const config of configs) {
         console.log('Caching data with config', config)
