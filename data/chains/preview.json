@@ -12548,7 +12548,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
     "providers": {
-      "Tanssi": "wss://dancelight.tanssi-api.network"
+      "Testnet": "wss://services.tanssi-testnet.network/dancelight"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -12609,7 +12609,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_Color_1_a8e668774f.png",
     "providers": {
-      "tanssi": "wss://tanssi.tanssi-mainnet.network"
+      "Services ": "was://services.tanssi-mainnet.network/tanssi"
     },
     "evmInfo": null,
     "substrateInfo": {
