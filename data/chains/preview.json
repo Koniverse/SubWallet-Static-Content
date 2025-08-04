@@ -12609,7 +12609,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_Color_1_a8e668774f.png",
     "providers": {
-      "Services ": "was://services.tanssi-mainnet.network/tanssi"
+      "Services ": "wss://services.tanssi-mainnet.network/tanssi"
     },
     "evmInfo": null,
     "substrateInfo": {
