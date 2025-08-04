@@ -15,7 +15,6 @@
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
-      "RockX": "wss://rockx-dot.w3node.com/polka-public-dot/ws",
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
       "Onfinality": "wss://polkadot.api.onfinality.io/public-ws",
       "Helixstreet": "wss://rpc-polkadot.helixstreet.io",
@@ -63,7 +62,6 @@
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
       "Light Client": "light://substrate-connect/kusama",
       "Allnodes": "wss://kusama-rpc.publicnode.com",
-      "RockX": "wss://rockx-ksm.w3node.com/polka-public-ksm/ws",
       "Helixstreet": "wss://rpc-kusama.helixstreet.io",
       "IBP2": "wss://kusama.dotters.network",
       "OnFinality": "wss://kusama.api.onfinality.io/public-ws"
@@ -459,7 +457,6 @@
       "Acala Foundation 0": "wss://acala-rpc-0.aca-api.network",
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
       "Acala Foundation 3": "wss://acala-rpc-3.aca-api.network/ws",
-      "Dwellir": "wss://acala-rpc.dwellir.com",
       "IBP1": "wss://acala.ibp.network",
       "IBP2": "wss://acala.dotters.network"
     },
@@ -1825,10 +1822,7 @@
     "ordinal": 43,
     "icon": "https://static-data.subwallet.app/chains/images/icon/edgeware_6a0057274c.png",
     "providers": {
-      "JelliedOwl Bangalore": "wss://edgeware-rpc3.jelliedowl.net",
-      "JelliedOwl London": "wss://edgeware-rpc1.jelliedowl.net",
-      "JelliedOwl New York": "wss://edgeware-rpc0.jelliedowl.net",
-      "JelliedOwl Singapore": "wss://edgeware-rpc2.jelliedowl.net"
+      "JelliedOwl Bangalore": "wss://edgeware-rpc3.jelliedowl.net"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6264,7 +6258,7 @@
     "ordinal": 153,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_5342678346.png",
     "providers": {
-      "Aventus": "wss://public-rpc.testnet.aventus.network"
+      "Aventus": "wss://public-rpc.testnet.aventus.io"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9191,8 +9185,7 @@
       "Bware": "wss://avail-mainnet.public.blastapi.io/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
       "GlobalStake": "wss://rpc-avail.globalstake.io/",
-      "BountyBlok": "wss://avail.rpc.bountyblok.io/",
-      "RadiumBlock": "wss://avail.public.curie.radiumblock.co/ws"
+      "BountyBlok": "wss://avail.rpc.bountyblok.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -12555,7 +12548,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/dancebox_54a251b7f9.png",
     "providers": {
-      "Tanssi": "wss://dancelight.tanssi-api.network"
+      "Testnet": "wss://services.tanssi-testnet.network/dancelight"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -12616,7 +12609,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_Color_1_a8e668774f.png",
     "providers": {
-      "tanssi": "wss://tanssi.tanssi-mainnet.network"
+      "Services ": "wss://services.tanssi-mainnet.network/tanssi"
     },
     "evmInfo": null,
     "substrateInfo": {
