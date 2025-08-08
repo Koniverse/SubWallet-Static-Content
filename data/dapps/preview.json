@@ -2996,6 +2996,27 @@
     ]
   },
   {
+    "id": 200,
+    "title": "TaoFi",
+    "description": "TaoFi is a suite of foundational DeFi products on Bittensor, the home of decentralized AI. These products will serve agents and human users alike, with a focus on unlocking new, crypto-enabled AI use cases, while increasing liquidity across Bittensor. ",
+    "url": "https://www.taofi.com/",
+    "subtitle": "DeFi products on Bittensor",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1180,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/taofi_afb5fca984.png",
+    "preview_image": null,
+    "chains": [
+      "bittensor"
+    ],
+    "categories": [
+      "bridge",
+      "defi"
+    ]
+  },
+  {
     "id": 197,
     "title": "KyberSwap",
     "description": "A multi-chain aggregator and DeFi hub that empowers users with the insights and tools to achieve financial autonomy",
