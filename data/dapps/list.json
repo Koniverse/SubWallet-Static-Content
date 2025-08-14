@@ -2647,6 +2647,27 @@
     ]
   },
   {
+    "id": 201,
+    "title": "Polkadot Bounties",
+    "description": "Manage bounties with PAPI’s bounties app",
+    "url": "https://bounties.usepapi.app/",
+    "subtitle": "Manage bounties with PAPI’s bounties app",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1190,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_bounties_b71ac482b0.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "categories": [
+      "governance"
+    ]
+  },
+  {
     "id": 195,
     "title": "DotYappers",
     "description": "Join the Polkadot ecosystem and\nmake valuable contributions on X",
