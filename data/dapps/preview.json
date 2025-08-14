@@ -3030,7 +3030,8 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/polkadot_bounties_b71ac482b0.png",
     "preview_image": null,
     "chains": [
-      "polkadot"
+      "polkadot",
+      "kusama"
     ],
     "categories": [
       "governance"
