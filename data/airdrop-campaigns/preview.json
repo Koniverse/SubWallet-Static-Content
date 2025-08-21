@@ -1,5 +1,40 @@
 [
   {
+    "id": 97,
+    "name": "Earn from 1M GLMR with Moonbeam’s GLMillionaire campaign",
+    "status": "live",
+    "ordinal": 38,
+    "description": "1 million GLMR. One week. Endless bragging rights.\nGLMillionaire is the on-chain tournament where skill meets opportunity. Built to bring Web3 gaming into the spotlight, this weekly competition turns every match into a chance to win serious rewards.\nWhether you're here to dominate the leaderboards or just take your shot at glory, this is where the next generation of Web3 champions rise.\n\nHow It Works\n• Entry Fee: 10 GLMR per game\n• Daily Cap: Max 5 games/day count toward your score\n• Eligibility: Open to anyone (except users in restricted regions, see rules tab)\n• Tournament Cycle: Each tournament runs for 1 week\n• Prize Pool: Week 1 starts with 1,000,000 GLMR. Future pools come from entry fees.\n\nAll entry fees are reinvested into upcoming tournaments. A final “championship round” will close the series, redistributing any remaining funds as rewards.\n\nHow to Win\nWe track two leaderboards:\n🥇 Highest Score – wins 45% of the prize pool\n🥇 Total Score – wins another 45%\n🥉 Next Top 10 Players (by total score) – split the remaining 10%\n• If there’s a tie for highest score or total score, a streamed playoff match will decide the winner.\n• No double-dipping: If a player wins both Highest Score and Total Score, they only receive the Highest Score prize. They are removed from the Total Score leaderboard and all lower positions move up accordingly (prizes shift up).\n• Winners of the top prize tiers become ineligible for those same spots in future tournaments (to keep things fresh and fair).\nPayouts\n• All prizes are paid in GLMR\n• Winners receive 10% within 30 days of being confirmed, then monthly payouts for the remaining 90%\n• KYC is required to claim prizes\n• Failure to complete KYC within 30 days = disqualification\n\nBuilt for Fair Play\nWe don’t just reward talent, we protect the game:\n• On-chain score verification\n• Multi-account detection\n• Manual and behavioral review\n• Anti-cheat tech baked into the Moondrop platform\n• Publicly streamed tie-breakers\n\nOne account per player. One winner per household. Break the rules? You're out, for good.",
+    "start_time": "2025-08-21T13:00:00.000Z",
+    "end_time": "2025-08-28T12:59:00.000Z",
+    "url": "https://hub.n3mus.com/?referral_code=subwallet",
+    "twitter_url": "https://x.com/MoonbeamNetwork",
+    "reward": "1M GLMR",
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "manual_selection"
+    ],
+    "campaign_url": "https://moonbeam.network/",
+    "project_id": [
+      "subwallet_webapp",
+      "subwallet_mobile",
+      "subwallet_extension"
+    ],
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/glmillionaire_6d0c198359.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/main_banner_full_size_c4234a1461.webp",
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      {
+        "color": "magenta",
+        "name": "Gaming",
+        "slug": "gaming"
+      }
+    ]
+  },
+  {
     "id": 96,
     "name": "Join the Soneium Sprint Campaign 25 and get a share of 300 USDT prize pool",
     "status": "live",
@@ -140,11 +175,11 @@
   {
     "id": 91,
     "name": "Share the pool of 10M Tanssi tokens with Tanssi's Let's Forkin' Dance Season 2 campaign",
-    "status": "live",
+    "status": "archived",
     "ordinal": 44,
     "description": "Tanssi's Flagship Incentivized Testnet Campaign is Back!\n\nSeason 2 takes you on an exciting journey through Tanssiland—a vibrant gamified world. Guided by Forkie and Coco, you’ll tackle challenges across three unique islands, protecting the Beat that powers it all. Compete for a share of the 10,000,000 Tanssi tokens incentive pool, distributed after the mainnet launch.\n\nHere’s how to get started:\n1️⃣ Log in here: https://lfd.tanssi.network \n2️⃣ Start at LFDegen District and let the groove guide you.\n\nTanssiland is calling—and the Tanssi Mini App is your backstage pass.\n✺ Take on creative, interactive quests.\n✺ Climb the leaderboard—every point matters.\n✺ Join Forkie, Coco, and the community to protect The Beat.\n\nThe allocation is divided across the campaign’s key audiences:\n- Tanssians (General Users): 70% of the pool (7M tokens) is set aside for top-performing general users who engage with the campaign and climb the leaderboard.\n- Network Operators: 30% of the pool (3M tokens) will be distributed to high-performing operators based on a detailed technical evaluation of their contributions.\n\nThe Beat is live, the rhythm is strong, and the clock is ticking. 🕰 Don’t get left behind—join Forkie and Coco in Tanssiland today. Let’s. Forkin’. Dance.",
     "start_time": "2025-01-22T17:00:00.000Z",
-    "end_time": null,
+    "end_time": "2025-05-07T17:00:00.000Z",
     "url": "https://lfd.tanssi.network/",
     "twitter_url": "https://twitter.com/TanssiNetwork",
     "reward": "10M Tanssi",
@@ -376,7 +411,7 @@
   {
     "id": 85,
     "name": "Jump into peaq's Get Real preseason campaign on Galxe and earn XP rewards",
-    "status": "live",
+    "status": "archived",
     "ordinal": 52,
     "description": "📆 Get Real preseason is LIVE!\n\n🚀 Web3 is getting real — on peaq\nSomething huge is happening in crypto, and it's all about rewarding real people creating real value in the real world. Get ready for peaq's groundbreaking Get Real campaign, where you'll discover how Web3 and DePINs are reshaping the world. Complete quests, get to know revolutionary projects, and be part of something unprecedented in crypto.\n\n🏆 Preseason perks\nWe promised otherworldly rewards — and we meant it! Start earning XP now and get a massive 50% XP boost when Season 1 kicks off in December. Early peaqonauts don't just get ahead — they get a supercharge.\n\n🌟 Join the Revolution\nThe future of Web3 isn't just on-chain — it's in the real world, and it starts right here, right now. Don't miss your chance to be part of this infrastructure revolution. Jump into the Get Real preseason on Galxe today and get ready for the out-of-this-world rewards.",
     "start_time": "2024-11-05T17:00:00.000Z",
