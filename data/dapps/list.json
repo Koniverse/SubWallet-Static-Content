@@ -2668,6 +2668,47 @@
     ]
   },
   {
+    "id": 202,
+    "title": "Moondrop",
+    "description": "Drop tokens, match them, and compete in the ultimate blockchain puzzle game. Connect your wallet to start playing!",
+    "url": "https://hub.n3mus.com/?referral_code=subwallet",
+    "subtitle": "The ultimate blockchain gaming experience on Moonbeam",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1200,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/glmillionaire_6d0c198359.png",
+    "preview_image": null,
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Unique Staking Hub",
+    "description": "Unique Staking Hub enables users to stake their ecosystem tokens to support the development of the Unique Network blockchain.",
+    "url": "https://unique.network/staking/",
+    "subtitle": "Stake your UNQ and QTZ tokens to earn APY",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1210,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/unique_network_b207ab1ac7.png",
+    "preview_image": null,
+    "chains": [
+      "unique_network",
+      "quartz"
+    ],
+    "categories": [
+      "staking"
+    ]
+  },
+  {
     "id": 195,
     "title": "DotYappers",
     "description": "Join the Polkadot ecosystem and\nmake valuable contributions on X",
