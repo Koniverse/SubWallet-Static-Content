@@ -157,6 +157,26 @@
     ]
   },
   {
+    "id": 202,
+    "title": "Moondrop",
+    "description": "Drop tokens, match them, and compete in the ultimate blockchain puzzle game. Connect your wallet to start playing!",
+    "url": "https://hub.n3mus.com/?referral_code=subwallet",
+    "subtitle": "The ultimate blockchain gaming experience on Moonbeam",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": true,
+    "ordinal": 70,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/glmillionaire_6d0c198359.png",
+    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/image_1686a865b2.png",
+    "chains": [
+      "moonbeam"
+    ],
+    "categories": [
+      "gaming"
+    ]
+  },
+  {
     "id": 104,
     "title": "Subsquare",
     "description": "SubSquare enables community members to propose, discuss and vote on governance proposals.",
@@ -3035,26 +3055,6 @@
     ],
     "categories": [
       "governance"
-    ]
-  },
-  {
-    "id": 202,
-    "title": "Moondrop",
-    "description": "Drop tokens, match them, and compete in the ultimate blockchain puzzle game. Connect your wallet to start playing!",
-    "url": "https://hub.n3mus.com/?referral_code=subwallet",
-    "subtitle": "The ultimate blockchain gaming experience on Moonbeam",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 1200,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/glmillionaire_6d0c198359.png",
-    "preview_image": null,
-    "chains": [
-      "moonbeam"
-    ],
-    "categories": [
-      "gaming"
     ]
   },
   {
