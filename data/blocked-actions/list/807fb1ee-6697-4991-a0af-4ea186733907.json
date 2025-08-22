@@ -4,6 +4,7 @@
     "transfer.balance": [],
     "transfer.token": [],
     "transfer.xcm": [
+      "transfer.xcm___polkadot-NATIVE-DOT___pendulum",
       "transfer.xcm___polkadot-NATIVE-DOT___interlay",
       "transfer.xcm___polkadot-NATIVE-DOT___parallel",
       "transfer.xcm___interlay-NATIVE-INTR___moonbeam",
