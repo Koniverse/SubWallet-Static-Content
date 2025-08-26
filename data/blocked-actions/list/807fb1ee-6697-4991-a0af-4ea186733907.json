@@ -14,7 +14,6 @@
       "transfer.xcm___moonbeam-LOCAL-xcINTR___interlay",
       "transfer.xcm___statemint-NATIVE-DOT___pendulum",
       "transfer.xcm___acala-NATIVE-ACA___parallel",
-      "transfer.xcm___acala-NATIVE-ACA___moonbeam",
       "transfer.xcm___moonbeam-LOCAL-xcIBTC___interlay",
       "transfer.xcm___pendulum-LOCAL-DOT___polkadot",
       "transfer.xcm___pendulum-LOCAL-DOT___statemint",
