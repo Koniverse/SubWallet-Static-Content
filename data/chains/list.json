@@ -2299,7 +2299,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "opal",
+      "chainBalanceSlug": null
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -3029,7 +3032,7 @@
     },
     "extraInfo": {
       "subscanSlug": null,
-      "chainBalanceSlug": "quartz"
+      "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
     "tonInfo": null,
@@ -3363,8 +3366,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "shadow",
-      "chainBalanceSlug": "shadow"
+      "subscanSlug": null,
+      "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
     "tonInfo": null,
@@ -3611,8 +3614,8 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "crab",
-      "chainBalanceSlug": "darwinia-crab"
+      "subscanSlug": null,
+      "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
     "tonInfo": null,
@@ -4277,7 +4280,7 @@
       ]
     },
     "extraInfo": {
-      "subscanSlug": "origintrail",
+      "subscanSlug": "neuroweb",
       "chainBalanceSlug": "origintrail"
     },
     "bitcoinInfo": null,
@@ -5208,7 +5211,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "collectives-polkadot",
+      "chainBalanceSlug": "collectives"
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -6237,8 +6243,8 @@
       "crowdloanFunds": []
     },
     "extraInfo": {
-      "subscanSlug": "joystream",
-      "chainBalanceSlug": "joystream"
+      "subscanSlug": null,
+      "chainBalanceSlug": null
     },
     "bitcoinInfo": null,
     "tonInfo": null,
@@ -7151,7 +7157,10 @@
         }
       ]
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "energywebx",
+      "chainBalanceSlug": "energywebx"
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -8069,7 +8078,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "energywebx-testnet",
+      "chainBalanceSlug": null
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -9396,7 +9408,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Mempool": "https://mempool.space/testnet4/api"
+      "Koni": "https://btc-api-testnet.koni.studio"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -9444,7 +9456,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "people-kusama",
+      "chainBalanceSlug": "people-kusama"
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -11205,7 +11220,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "autonomys",
+      "chainBalanceSlug": "autonomys"
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -11393,7 +11411,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "people-polkadot",
+      "chainBalanceSlug": "people-polkadot"
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -11860,7 +11881,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "assethub-paseo",
+      "chainBalanceSlug": null
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -12560,7 +12584,10 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
-    "extraInfo": null,
+    "extraInfo": {
+      "subscanSlug": "dancelight",
+      "chainBalanceSlug": null
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
@@ -12623,7 +12650,7 @@
     },
     "extraInfo": {
       "subscanSlug": "tanssi",
-      "chainBalanceSlug": null
+      "chainBalanceSlug": "tanssi"
     },
     "bitcoinInfo": null,
     "tonInfo": null,
