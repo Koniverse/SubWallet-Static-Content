@@ -414,7 +414,6 @@
       "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
       "Parity": "wss://polkadot-asset-hub-rpc.polkadot.io",
       "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub",
-      "Blockops": "wss://polkadot-assethub-rpc.blockops.network/ws",
       "Dwellir": "wss://asset-hub-polkadot-rpc.dwellir.com",
       "IBP1": "wss://sys.ibp.network/asset-hub-polkadot",
       "IBP2": "wss://asset-hub-polkadot.dotters.network"
@@ -2272,7 +2271,7 @@
     "slug": "opal",
     "name": "Opal",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 54,
     "icon": "https://static-data.subwallet.app/chains/images/icon/opal_df48cbfb79.png",
     "providers": {
@@ -2665,7 +2664,7 @@
       "symbol": "KILT",
       "decimals": 15,
       "hasNativeNft": false,
-      "supportStaking": true,
+      "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "crowdloanFunds": []
@@ -2888,7 +2887,7 @@
     "slug": "kintsugi_test",
     "name": "Kintsugi Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 67,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kintsugi_dfa1bdb733.png",
     "providers": {
@@ -4852,7 +4851,7 @@
     "slug": "kilt_peregrine",
     "name": "KILT Peregrine",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 112,
     "icon": "https://static-data.subwallet.app/chains/images/icon/kilt_35ce98e3b5.png",
     "providers": {
@@ -7620,7 +7619,7 @@
     "slug": "polimec",
     "name": "Polimec",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polimec_ddd1a7c51d.png",
     "providers": {
@@ -8915,7 +8914,7 @@
       "addressPrefix": 42,
       "chainType": "RELAYCHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": null,
+      "blockExplorer": "https://explorer.comstats.org/#/",
       "existentialDeposit": "500",
       "symbol": "COMAI",
       "decimals": 9,
@@ -8978,7 +8977,6 @@
       "Ankr": "wss://turing-testnet.avail-rpc.com/",
       "Bware": "wss://avail-turing.public.blastapi.io/",
       "AllNodes": "wss://avail-turing-rpc.publicnode.com/",
-      "RadiumBlock": "wss://turing.public.curie.radiumblock.co/ws",
       "BountyBlok": "wss://avail-turing.bountyblok.io/"
     },
     "evmInfo": null,
@@ -10155,7 +10153,7 @@
     "slug": "aleph_testnet_evm",
     "name": "Aleph Zero Testnet - EVM",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_3a3d7fa6bb.png",
     "providers": {
@@ -10184,7 +10182,7 @@
     "slug": "aleph_evm",
     "name": "Aleph Zero - EVM",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_d0df036ff1.png",
     "providers": {
