@@ -13,7 +13,15 @@
         "interior": "Here"
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 1,
@@ -91,7 +99,15 @@
         "interior": "Here"
       },
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 2,
@@ -226,7 +242,22 @@
         "interior": "Here"
       },
       "paraSpellValue": "GLMR",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2004
+              },
+              {
+                "PalletInstance": 10
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 5,
@@ -247,9 +278,7 @@
       "multilocation": {
         "parents": 0,
         "interior": "Here"
-      },
-      "paraSpellValue": "NEER",
-      "paraSpellAssetType": "symbol"
+      }
     },
     "hasValue": true,
     "ordinal": 6,
@@ -295,7 +324,19 @@
         "interior": "Here"
       },
       "paraSpellValue": "ASTR",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2006
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 8,
@@ -333,6 +374,14 @@
       },
       "paraSpellValue": "DOT",
       "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      },
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
@@ -398,7 +447,25 @@
         "interior": "Here"
       },
       "paraSpellValue": "ACA",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2000
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 10,
@@ -572,7 +639,15 @@
       },
       "isSufficient": true,
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 17,
@@ -637,7 +712,22 @@
         "ForeignAsset": 0
       },
       "paraSpellValue": "GLMR",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2004
+              },
+              {
+                "PalletInstance": 10
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 18,
@@ -667,7 +757,25 @@
       },
       "isSufficient": true,
       "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 19,
@@ -741,7 +849,19 @@
       },
       "isSufficient": true,
       "paraSpellValue": "ASTR",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2006
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 21,
@@ -839,7 +959,15 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "DOT",
       "contractAddress": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 26,
@@ -904,7 +1032,25 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "INTR",
       "contractAddress": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2032
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0002000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 27,
@@ -926,7 +1072,25 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "IBTC",
       "contractAddress": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2032
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 28,
@@ -948,7 +1112,25 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "ACA",
       "contractAddress": "0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2000
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 29,
@@ -1053,7 +1235,15 @@
         "interior": "Here"
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 33,
@@ -1126,7 +1316,25 @@
         }
       },
       "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 34,
@@ -1480,7 +1688,25 @@
         "Token2": "2"
       },
       "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 52,
@@ -1581,9 +1807,9 @@
     "assetRefs": []
   },
   {
-    "slug": "bifrost_testnet-NATIVE-BNC",
+    "slug": "bifrost_testnet-NATIVE-BFC",
     "name": "Bifrost Testnet",
-    "symbol": "BNC",
+    "symbol": "BFC",
     "decimals": 12,
     "priceId": null,
     "minAmount": "10000000000",
@@ -2129,7 +2355,22 @@
     "metadata": {
       "assetId": "0",
       "paraSpellValue": "HDX",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2034
+              },
+              {
+                "GeneralIndex": 0
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 87,
@@ -2166,7 +2407,25 @@
         }
       },
       "paraSpellValue": "10",
-      "paraSpellAssetType": "id"
+      "paraSpellAssetType": "id",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 88,
@@ -2235,7 +2494,25 @@
         "Native": null
       },
       "paraSpellValue": "CFG",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2031
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 90,
@@ -2264,7 +2541,25 @@
         "Token": "INTR"
       },
       "paraSpellValue": "INTR",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2032
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0002000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 91,
@@ -2306,7 +2601,25 @@
         "ForeignAsset": 2
       },
       "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 93,
@@ -2328,7 +2641,25 @@
         "Token": "IBTC"
       },
       "paraSpellValue": "IBTC",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2032
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 94,
@@ -2467,8 +2798,11 @@
       "onChainInfo": {
         "XCM": "0"
       },
-      "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellValue": "0",
+      "paraSpellAssetType": "id",
+      "paraSpellIdentifyV4": {
+        "id": "0"
+      }
     },
     "hasValue": true,
     "ordinal": 100,
@@ -2678,7 +3012,15 @@
         "interior": "Here"
       },
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 110,
@@ -3026,7 +3368,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 129,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/crust_shadow_c61080d2de.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/crust_shadow_1ade8e9564.png",
     "originChain": "shadow",
     "multiChainAsset": null,
     "assetRefs": []
@@ -3058,7 +3400,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 131,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/robonomics_7c4dc82a06.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xrt_395b95122c.png",
     "originChain": "robonomics",
     "multiChainAsset": null,
     "assetRefs": []
@@ -3241,7 +3583,15 @@
     "assetType": "NATIVE",
     "metadata": {
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 142,
@@ -3578,7 +3928,15 @@
         "interior": "Here"
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 162,
@@ -3623,7 +3981,25 @@
         }
       },
       "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 163,
@@ -3947,7 +4323,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 184,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frequency_9b4f9af125.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Prop_New_4c61c8f8e0.png",
     "originChain": "frequency",
     "multiChainAsset": null,
     "assetRefs": []
@@ -4362,7 +4738,25 @@
         }
       },
       "paraSpellValue": "1984",
-      "paraSpellAssetType": "id"
+      "paraSpellAssetType": "id",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 210,
@@ -4415,7 +4809,15 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "KSM",
       "contractAddress": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 211,
@@ -4477,7 +4879,15 @@
         "interior": "Here"
       },
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 212,
@@ -4530,7 +4940,15 @@
         "Token": "KSM"
       },
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 213,
@@ -4589,7 +5007,25 @@
         "ForeignAsset": "9"
       },
       "paraSpellValue": "NEER",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2096
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                  "length": 9
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 214,
@@ -4651,7 +5087,15 @@
         "Token": "KSM"
       },
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 217,
@@ -4764,7 +5208,25 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "USDT",
       "contractAddress": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 222,
@@ -5103,39 +5565,6 @@
     "assetRefs": []
   },
   {
-    "slug": "statemine-LOCAL-USDt",
-    "name": "Tether USD",
-    "symbol": "USDt",
-    "decimals": 6,
-    "priceId": "tether",
-    "minAmount": "100",
-    "assetType": "LOCAL",
-    "metadata": {
-      "assetId": "1984",
-      "paraSpellValue": "1984",
-      "paraSpellAssetType": "id"
-    },
-    "hasValue": true,
-    "ordinal": 239,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
-    "originChain": "statemine",
-    "multiChainAsset": "USDT-Tether",
-    "assetRefs": [
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "amplitude-LOCAL-USDT"
-      },
-      {
-        "type": "XCM",
-        "metadata": null,
-        "disable": false,
-        "destAsset": "karura-LOCAL-USDT"
-      }
-    ]
-  },
-  {
     "slug": "statemine-LOCAL-RMRK",
     "name": "RMRK.app",
     "symbol": "RMRK",
@@ -5472,7 +5901,7 @@
     },
     "hasValue": true,
     "ordinal": 258,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonwell_artemis_5af1133857.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/moonwell_artemis_ea6d3524d2.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6587,7 +7016,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 321,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avt_3e3850e2f0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avt_1bb71d0080.png",
     "originChain": "aventus",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6603,7 +7032,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 322,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avt_3e3850e2f0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avt_1bb71d0080.png",
     "originChain": "aventus_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6978,7 +7407,7 @@
     "ordinal": 342,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ldo_9fb08fcdcf.png",
     "originChain": "ethereum",
-    "multiChainAsset": null,
+    "multiChainAsset": "LDO-LidoDAO",
     "assetRefs": []
   },
   {
@@ -7808,30 +8237,30 @@
     "assetRefs": []
   },
   {
-    "slug": "polygon-ERC20-USDT-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-    "name": "Tether USD",
-    "symbol": "USDT",
+    "slug": "polygon-ERC20-USD₮0-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "name": "USD₮0",
+    "symbol": "USD₮0",
     "decimals": 6,
-    "priceId": "tether",
-    "minAmount": null,
+    "priceId": "usdt0",
+    "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
       "contractAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
     },
     "hasValue": true,
     "ordinal": 389,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/USD_0_5b8d42c38c.png",
     "originChain": "polygon",
-    "multiChainAsset": "USDT-Tether",
+    "multiChainAsset": "USD₮0-USD₮0",
     "assetRefs": []
   },
   {
-    "slug": "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-    "name": "Tether USD",
-    "symbol": "USDT",
+    "slug": "arbitrum_one-ERC20-USD₮0-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "name": "USD₮0",
+    "symbol": "USD₮0",
     "decimals": 6,
-    "priceId": "tether",
-    "minAmount": null,
+    "priceId": "usdt0",
+    "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
       "autoEnable": true,
@@ -7839,9 +8268,9 @@
     },
     "hasValue": true,
     "ordinal": 390,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/USD_0_5b8d42c38c.png",
     "originChain": "arbitrum_one",
-    "multiChainAsset": "USDT-Tether",
+    "multiChainAsset": "USD₮0-USD₮0",
     "assetRefs": []
   },
   {
@@ -8053,7 +8482,15 @@
     "assetType": "NATIVE",
     "metadata": {
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 401,
@@ -8695,7 +9132,15 @@
         "Token2": "0"
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 432,
@@ -8796,7 +9241,15 @@
         "Token": "DOT"
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 435,
@@ -8819,6 +9272,14 @@
       "canPayTxFee": true,
       "paraSpellValue": "DOT",
       "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      },
       "alternativeSwapAsset": "polkadot-NATIVE-DOT"
     },
     "hasValue": true,
@@ -8927,7 +9388,25 @@
         }
       },
       "paraSpellValue": "1337",
-      "paraSpellAssetType": "id"
+      "paraSpellAssetType": "id",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1337
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 439,
@@ -8986,7 +9465,7 @@
     "ordinal": 441,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_f643972064.png",
     "originChain": "bittensor",
-    "multiChainAsset": null,
+    "multiChainAsset": "TAO-Bittensor",
     "assetRefs": []
   },
   {
@@ -9017,7 +9496,25 @@
         }
       },
       "paraSpellValue": "22",
-      "paraSpellAssetType": "id"
+      "paraSpellAssetType": "id",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1337
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 442,
@@ -9326,9 +9823,9 @@
     "assetRefs": []
   },
   {
-    "slug": "energy_web_x_rococo-NATIVE-VT",
+    "slug": "energy_web_x_rococo-NATIVE-EWT",
     "name": "VT",
-    "symbol": "VT",
+    "symbol": "EWT",
     "decimals": 18,
     "priceId": null,
     "minAmount": "0",
@@ -9370,7 +9867,25 @@
         "ForeignAsset": 4
       },
       "paraSpellValue": "INTR",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2032
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0002000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9388,9 +9903,7 @@
     "minAmount": "1",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "108",
-      "paraSpellValue": "ACA",
-      "paraSpellAssetType": "symbol"
+      "assetId": "108"
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9410,7 +9923,25 @@
     "metadata": {
       "assetId": "13",
       "paraSpellValue": "CFG",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X2": [
+              {
+                "Parachain": 2031
+              },
+              {
+                "GeneralKey": {
+                  "data": "0x0001000000000000000000000000000000000000000000000000000000000000",
+                  "length": 2
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9543,7 +10074,19 @@
         "MantaCurrency": "1"
       },
       "paraSpellValue": "MANTA",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2104
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9597,7 +10140,15 @@
         "MantaCurrency": "8"
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9656,7 +10207,19 @@
       "assetType": "ForeignAsset",
       "paraSpellValue": "MANTA",
       "contractAddress": "0xfFFffFFf7D3875460d4509eb8d0362c611B4E841",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2104
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9772,7 +10335,19 @@
         "Token2": "8"
       },
       "paraSpellValue": "MANTA",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2104
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -9999,9 +10574,9 @@
     "assetRefs": []
   },
   {
-    "slug": "chainflip_dot-NATIVE-DOT",
+    "slug": "chainflip_dot-NATIVE-Unit",
     "name": "Polkadot Chainflip Testnet",
-    "symbol": "DOT",
+    "symbol": "Unit",
     "decimals": 10,
     "priceId": null,
     "minAmount": "10000000000",
@@ -10044,6 +10619,18 @@
       "assetId": "9",
       "paraSpellValue": "ASTR",
       "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 2006
+              }
+            ]
+          }
+        }
+      },
       "alternativeSwapAsset": "astar-NATIVE-ASTR"
     },
     "hasValue": true,
@@ -10944,7 +11531,19 @@
       },
       "paraSpellValue": "MYTH",
       "disableEvmTransfer": true,
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 3369
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11678,7 +12277,25 @@
         }
       },
       "paraSpellValue": "USDC",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1337
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -11757,7 +12374,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brl_6473c8d810.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brl_f01ea6025a.png",
     "originChain": "pendulum",
     "multiChainAsset": "BRL.s-StellarBRL",
     "assetRefs": []
@@ -11897,7 +12514,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brl_6473c8d810.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/brl_f01ea6025a.png",
     "originChain": "amplitude",
     "multiChainAsset": "BRL.s-StellarBRL",
     "assetRefs": []
@@ -11985,9 +12602,12 @@
       "onChainInfo": {
         "XCM": "1"
       },
-      "paraSpellValue": "USDT",
+      "paraSpellValue": "1",
       "isDisableTransfer": true,
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "id",
+      "paraSpellIdentifyV4": {
+        "id": "1"
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -12155,7 +12775,15 @@
     "assetType": "NATIVE",
     "metadata": {
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -12608,7 +13236,15 @@
         }
       },
       "paraSpellValue": "KSM",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -12645,7 +13281,25 @@
         }
       },
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 14
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -12878,7 +13532,29 @@
         }
       },
       "paraSpellValue": "WETH",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 2,
+          "interior": {
+            "X2": [
+              {
+                "GlobalConsensus": {
+                  "Ethereum": {
+                    "chainId": 1
+                  }
+                }
+              },
+              {
+                "AccountKey20": {
+                  "key": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                  "network": null
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -12915,7 +13591,19 @@
         }
       },
       "paraSpellValue": "MYTH",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 3369
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -12993,7 +13681,25 @@
         }
       },
       "paraSpellValue": "WBTC",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 21
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13040,7 +13746,25 @@
         }
       },
       "paraSpellValue": "SHIB",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 38
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13087,7 +13811,29 @@
         }
       },
       "paraSpellValue": "PEPE",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 2,
+          "interior": {
+            "X2": [
+              {
+                "GlobalConsensus": {
+                  "Ethereum": {
+                    "chainId": 1
+                  }
+                }
+              },
+              {
+                "AccountKey20": {
+                  "key": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+                  "network": null
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13152,7 +13898,29 @@
         }
       },
       "paraSpellValue": "TON",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 2,
+          "interior": {
+            "X2": [
+              {
+                "GlobalConsensus": {
+                  "Ethereum": {
+                    "chainId": 1
+                  }
+                }
+              },
+              {
+                "AccountKey20": {
+                  "key": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+                  "network": null
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13217,7 +13985,29 @@
         }
       },
       "paraSpellValue": "wstETH",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 2,
+          "interior": {
+            "X2": [
+              {
+                "GlobalConsensus": {
+                  "Ethereum": {
+                    "chainId": 1
+                  }
+                }
+              },
+              {
+                "AccountKey20": {
+                  "key": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+                  "network": null
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13264,7 +14054,29 @@
         }
       },
       "paraSpellValue": "tBTC",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 2,
+          "interior": {
+            "X2": [
+              {
+                "GlobalConsensus": {
+                  "Ethereum": {
+                    "chainId": 1
+                  }
+                }
+              },
+              {
+                "AccountKey20": {
+                  "key": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+                  "network": null
+                }
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13296,7 +14108,14 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tbtc_489b01746a.png",
     "originChain": "ethereum",
     "multiChainAsset": "tBTC-tBTCv2",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-tBTC"
+      }
+    ]
   },
   {
     "slug": "moonbeam-ERC20-USDC.axl-0xCa01a1D0993565291051daFF390892518ACfAD3A",
@@ -13441,24 +14260,6 @@
     "assetRefs": []
   },
   {
-    "slug": "hydradx_main-LOCAL-KILT",
-    "name": "KILT Protocol",
-    "symbol": "KILT",
-    "decimals": 15,
-    "priceId": "kilt-protocol",
-    "minAmount": "21358393848783",
-    "assetType": "LOCAL",
-    "metadata": {
-      "assetId": "28"
-    },
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_00b4f01b3e.png",
-    "originChain": "hydradx_main",
-    "multiChainAsset": "KILT-KILTProtocol",
-    "assetRefs": []
-  },
-  {
     "slug": "hydradx_main-LOCAL-ZTG",
     "name": "Zeitgeist",
     "symbol": "ZTG",
@@ -13579,7 +14380,25 @@
         "ForeignAsset": "7"
       },
       "paraSpellValue": "USDT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -13591,7 +14410,7 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "statemine-LOCAL-USDt"
+        "destAsset": null
       },
       {
         "type": "XCM",
@@ -13898,7 +14717,19 @@
         }
       },
       "paraSpellValue": "MYTH",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X1": [
+              {
+                "Parachain": 3369
+              }
+            ]
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -15790,9 +16621,9 @@
     "assetRefs": []
   },
   {
-    "slug": "autonomys_taurus-NATIVE-AI3",
+    "slug": "autonomys_taurus-NATIVE-tAI3",
     "name": "Autonomys Taurus",
-    "symbol": "AI3",
+    "symbol": "tAI3",
     "decimals": 18,
     "priceId": null,
     "minAmount": "500",
@@ -15834,7 +16665,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/autonomys_8a1889d3e1.png",
     "originChain": "autonomys",
-    "multiChainAsset": null,
+    "multiChainAsset": "AI3-Autonomys",
     "assetRefs": []
   },
   {
@@ -15892,14 +16723,16 @@
     "assetRefs": []
   },
   {
-    "slug": "fraxtal-NATIVE-frxETH",
+    "slug": "fraxtal-ERC20-frxETH-0xFC00000000000000000000000000000000000006",
     "name": "Frax Ether",
     "symbol": "frxETH",
     "decimals": 18,
     "priceId": "frax-ether",
     "minAmount": "0",
-    "assetType": "NATIVE",
-    "metadata": null,
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xFC00000000000000000000000000000000000006"
+    },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frxeth_2580fe89ec.png",
@@ -15999,7 +16832,15 @@
     "assetType": "NATIVE",
     "metadata": {
       "paraSpellValue": "DOT",
-      "paraSpellAssetType": "symbol"
+      "paraSpellAssetType": "symbol",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
@@ -17402,7 +18243,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/apex_ccdad34f05.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_1_new_601b45c7ed.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17421,7 +18262,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/templar_bd5f206733.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_3_new_2357229f1f.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17440,7 +18281,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omron_6c5c994e92.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_2_new_d502bfff63.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17459,7 +18300,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/open_kaito_3fc4243831.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_5_new_221de84a2c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17478,7 +18319,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/targon_2fc9f9ec0f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_4_new_1f3cdcc808.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17497,7 +18338,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/de_val_78cda9aa67.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_15_new_00a58d9ba9.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17516,7 +18357,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nextplace_ai_70744cfbae.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_48_new_921ce7192c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17535,7 +18376,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subvortex_379f312efa.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_7_new_9acd4c07cd.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17554,7 +18395,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/horde_ea91010e0b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_12_new_d9234090f9.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17573,7 +18414,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sturdy_849ddc5cb1.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_10_new_87f09bffa8.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17592,7 +18433,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/data_universe_61bd2d9bd8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_13_new_c093600622.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17611,7 +18452,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omega_06e09589cb.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_24_new_ea743eecba.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17630,7 +18471,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/desearch_47d38e12d1.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_22_new_831f7b50d6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17649,7 +18490,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitads_027230dc5d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_16_new_7d54db9a84.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17668,7 +18509,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/it_s_ai_c6d8964f4e.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_32_new_c0e5b48671.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17687,7 +18528,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pretraining_a0ab5c95d5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_9_new_bdc5a46544.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17706,7 +18547,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/readyai_89823a99f9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_33_new_c839e7c99f.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17725,7 +18566,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dippy_roleplay_df646f8328.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_11_new_f717c3e282.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17744,7 +18585,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/logicnet_3e10917c7a.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_35_new_bc20028aa5.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17763,7 +18604,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/graphite_189ce95154.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_43_new_2da3a115d9.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17782,7 +18623,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/edge_maxxing_71d6f3c079.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_39_new_3edf9d0d29.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17801,7 +18642,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/proprietary_trading_network_b4c3d2fd9d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_8_new_c78ebe2b24.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17820,7 +18661,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/three_gen_d980d5c418.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_17_new_dcf7efb471.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17839,7 +18680,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bettensor_356ebc9c7c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_30_new_0d16293f70.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17858,7 +18699,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/compute_subnet_e2ccb6f526.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_51_new_07371191d3.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17877,7 +18718,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/efficient_frontier_9a73ddbd78.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_53_new_6788e9ab73.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17896,7 +18737,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chunking_6744e470b6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_40_new_daf4325c73.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17915,7 +18756,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gradients_0af61f9fec.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_56_new_410c507975.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17934,7 +18775,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/socialtensor_8b08d08370.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_23_new_8bc56a1960.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17953,7 +18794,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/swe_rizzo_56117dfd54.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_45_new_1edf9f1e40.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17972,7 +18813,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vectorstore_7aed0a362d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_14_new_44b9675d96.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -17991,7 +18832,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dippy_speech_b54d2a55cb.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_58_new_1321e2d232.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18010,7 +18851,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/lol_0e0445df34.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_28_new_8c0d38c0fb.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18029,7 +18870,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitagent_rizzo_1098209c20.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_20_new_4955cae852.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18048,7 +18889,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_26_fa92776c26.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_26_new_8bf666df84.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18067,7 +18908,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/webgenieai_1692fb7e5f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_54_new_530f0595f8.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18086,7 +18927,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gaia_4af3c4eb29.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_57_new_ac5e52dcfa.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18105,7 +18946,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/distributed_training_subnet_eae978e537.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_38_new_8103ede17c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18124,7 +18965,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/real_time_data_by_masa_39f6014978.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_42_new_f3003b7a87.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18143,7 +18984,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hivetrain_automl_1dfcd0e046.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_49_new_99a3d2be04.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18162,7 +19003,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/sportstensor_99e92f13bf.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_41_new_a610534abc.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18181,7 +19022,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/synth_6a870df663.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_50_new_f0b2dbd530.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18200,7 +19041,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/protein_folding_1073327ad5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_25_new_56dc4e665b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18219,7 +19060,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nineteen_1b53eb7fb3.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_19_new_7cff65ddc0.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18238,7 +19079,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dojo_e56276791d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_52_new_f6091dbbc7.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18257,7 +19098,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/web_agents_autoppia_bdb8fe91be.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_36_new_70fa7d6706.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18276,7 +19117,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ni_compute_bd9b67c6d9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_27_new_f321aa0b11.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18295,7 +19136,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nas_chain_de0a51ff12.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_31_new_b9c355bfb3.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18314,7 +19155,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Infinite_Games_a2452398da.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_6_new_5028aa79cf.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18333,7 +19174,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitmind_0d979120e8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_34_new_a21457e4fa.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18352,7 +19193,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/coldint_82d2ba0320.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_29_new_05364c8dfa.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18371,7 +19212,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/score_49b0cb89e9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_44_new_99a6ac602b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18390,7 +19231,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/precog_d246c4a5d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_55_new_4c292c4003.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18409,7 +19250,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/omega_any_to_any_450a5b0a86.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_21_new_c8fd9f4711.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18428,7 +19269,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/condense_ai_31a6ee9e80.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_47_new_4b7646c983.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18447,7 +19288,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/finetuning_25404616a0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_37_new_1d04f2f9d6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18466,7 +19307,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/neural3d_36a864898f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_46_new_b4f7c9b7cd.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18485,7 +19326,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cortex_t_39284e8d05.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_18_new_ce50811113.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18504,7 +19345,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_75_391ea8f4c6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_75_new_ebf9052a51.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18523,7 +19364,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_79_9d802139da.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_79_new_623bf4ebab.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18542,7 +19383,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_80_2180264940.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_80_new_b9f86796d7.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18561,7 +19402,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_69_45ef11ff9c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_69_new_15e3ac40fb.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18580,7 +19421,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/agent_arena_by_masa_1f46264df5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_59_new_740d3d36c3.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18599,7 +19440,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/chutes_2779a0df9d.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_64_new_8860a8b6b1.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18618,7 +19459,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/agentao_803a0e9ba4.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_62_new_2fcbafb48c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18637,7 +19478,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_78_afcc6fbf13.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_78_new_232a9aea13.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18656,7 +19497,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bitsec_c487504c5c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_60_new_377169d2cd.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18675,7 +19516,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_77_67ec54c9c4.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_77_new_8618101ea6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18694,7 +19535,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/fakenews_d81a78c631.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_66_new_2ef59d5c00.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18713,7 +19554,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_63_b0f947f91b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_63_new_98cdd0da06.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18732,7 +19573,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_b73aad2a3c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_new_c9d5cb5968.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18751,7 +19592,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/red_team_c891277dd4.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_61_new_257b86ef39.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18770,7 +19611,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_70_634ce71eac.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_70_new_11375811a4.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18789,7 +19630,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/tao_private_network_t_b7fe3d96e4.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_65_new_66467e0d50.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18808,7 +19649,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_73_1c8203084f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_73_new_7653e6b816.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18827,7 +19668,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_76_17d3f4c2d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_76_new_3d538cf749.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18846,7 +19687,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/unknown_67_7063f7f05f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_67_new_83e71d01ea.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18865,7 +19706,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_72_2e1e1a6267.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_72_new_b60e7e5ca6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18884,7 +19725,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_74_97095309d7.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_74_new_58903bcdd6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18903,7 +19744,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/nova_3c2d788fe8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_68_new_7bb700a2e8.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18922,7 +19763,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_81_3e2184018b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_81_new_2b63521edb.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19865,7 +20706,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_93_af58ee367b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_93_new_a0256d79b3.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20160,7 +21001,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/USD_0_367a7d505b.png",
     "originChain": "unichain",
-    "multiChainAsset": null,
+    "multiChainAsset": "USD₮0-USD₮0",
     "assetRefs": []
   },
   {
@@ -20360,21 +21201,21 @@
     "assetRefs": []
   },
   {
-    "slug": "origintrail-ERC20-TRAC-0xffffffff00000000000000000000000000000001",
+    "slug": "origintrail-LOCAL-TRAC",
     "name": "OriginTrail",
     "symbol": "TRAC",
     "decimals": 18,
     "priceId": "origintrail",
     "minAmount": "1",
-    "assetType": "ERC20",
+    "assetType": "LOCAL",
     "metadata": {
-      "contractAddress": "0xffffffff00000000000000000000000000000001"
+      "assetId": "1"
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
     "originChain": "origintrail",
-    "multiChainAsset": null,
+    "multiChainAsset": "TRAC-OriginTrail",
     "assetRefs": []
   },
   {
@@ -20392,7 +21233,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "TRAC-OriginTrail",
     "assetRefs": []
   },
   {
@@ -20465,6 +21306,835 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vdot_de4a4bf0f5.png",
     "originChain": "base_mainnet",
     "multiChainAsset": "vDOT-VoucherDot",
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_main-LOCAL-LDO",
+    "name": "Lido DAO",
+    "symbol": "LDO",
+    "decimals": 18,
+    "priceId": "lido-dao",
+    "minAmount": "5102040816326530",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1000796"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ldo_a63a74a53f.png",
+    "originChain": "hydradx_main",
+    "multiChainAsset": "LDO-LidoDAO",
+    "assetRefs": []
+  },
+  {
+    "slug": "clover_mainnet-NATIVE-CLV",
+    "name": "Clover Finance",
+    "symbol": "CLV",
+    "decimals": 18,
+    "priceId": "clover-finance",
+    "minAmount": "500",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/clover_055a68f0e4.png",
+    "originChain": "clover_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ᚢ",
+    "name": "Uruz",
+    "symbol": "ᚢ",
+    "decimals": 9,
+    "priceId": "dtao-",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 82,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_82_new_d233758e45.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ᚦ",
+    "name": "Thurisaz",
+    "symbol": "ᚦ",
+    "decimals": 9,
+    "priceId": "dtao-83",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 83,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_83_new_2f8c18c92a.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-᚛",
+    "name": "Flock off",
+    "symbol": "᚛",
+    "decimals": 9,
+    "priceId": "dtao-96",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 96,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_96_new_a69d6fe4e0.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ა",
+    "name": "Flamewire",
+    "symbol": "ა",
+    "decimals": 9,
+    "priceId": "dtao-97",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 97,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_97_new_98c985caf5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ბ",
+    "name": "Creator",
+    "symbol": "ბ",
+    "decimals": 9,
+    "priceId": "dtao-98",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 98,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_98_new_7a763e21bc.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-გ",
+    "name": "Neza",
+    "symbol": "გ",
+    "decimals": 9,
+    "priceId": "dtao-99",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 99,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_99_new_821a1ec71b.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-დ",
+    "name": "Signal",
+    "symbol": "დ",
+    "decimals": 9,
+    "priceId": "dtao-100",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 100,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_100_new_54eecc7f3f.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ე",
+    "name": "Eni",
+    "symbol": "ე",
+    "decimals": 9,
+    "priceId": "dtao-101",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 101,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_101_new_e1d53102c0.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ვ",
+    "name": "Bettertherapy",
+    "symbol": "ვ",
+    "decimals": 9,
+    "priceId": "dtao-102",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 102,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_102_new_bbc211d636.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ա",
+    "name": "Happyai",
+    "symbol": "Ա",
+    "decimals": 9,
+    "priceId": "dtao-103",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 103,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_103_new_761722f919.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Բ",
+    "name": "Ben",
+    "symbol": "Բ",
+    "decimals": 9,
+    "priceId": "dtao-104",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 104,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_104_new_9265b7e168.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Գ",
+    "name": "Soundsright",
+    "symbol": "Գ",
+    "decimals": 9,
+    "priceId": "dtao-105",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 105,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_105_new_d1f2c8dcc3.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Դ",
+    "name": "Voidai",
+    "symbol": "Դ",
+    "decimals": 9,
+    "priceId": "dtao-106",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 106,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_106_new_dc910d3e42.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ե",
+    "name": "Tiger alpha",
+    "symbol": "Ե",
+    "decimals": 9,
+    "priceId": "dtao-107",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 107,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_107_new_1c533beec1.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Զ",
+    "name": "Internet of intelligence",
+    "symbol": "Զ",
+    "decimals": 9,
+    "priceId": "dtao-108",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 108,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_108_new_e8e373c52a.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-՞",
+    "name": "Taoillium",
+    "symbol": "՞",
+    "decimals": 9,
+    "priceId": "dtao-109",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 109,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_109_new_6b4fe3aaa6.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ѐ",
+    "name": "Grave",
+    "symbol": "Ѐ",
+    "decimals": 9,
+    "priceId": "dtao-110",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 110,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_110_new_2b3fd84cd6.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ё",
+    "name": "Oneoneone",
+    "symbol": "Ё",
+    "decimals": 9,
+    "priceId": "dtao-111",
+    "minAmount": "0",
+    "assetType": null,
+    "metadata": {
+      "netuid": 111,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_111_new_a08f25df97.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ђ",
+    "name": "Topsecret",
+    "symbol": "Ђ",
+    "decimals": 9,
+    "priceId": "dtao-112",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 112,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_112_new_31a6cebb14.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ѓ",
+    "name": "Taonado",
+    "symbol": "Ѓ",
+    "decimals": 9,
+    "priceId": "dtao-113",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 113,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_113_new_98d282023e.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Є",
+    "name": "Єclipse project",
+    "symbol": "Є",
+    "decimals": 9,
+    "priceId": "dtao-114",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 114,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_114_new_c4ad0e5040.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ѕ",
+    "name": "Soulx",
+    "symbol": "Ѕ",
+    "decimals": 9,
+    "priceId": "dtao-115",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 115,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_115_new_a2eea70822.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ъ",
+    "name": "Solmev",
+    "symbol": "ъ",
+    "decimals": 9,
+    "priceId": "dtao-116",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 116,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_116_new_d135ee69ec.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ⲁ",
+    "name": "Rna",
+    "symbol": "Ⲁ",
+    "decimals": 9,
+    "priceId": "dtao-117",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 117,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_117_new_f2a54768fa.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ⲁ-118",
+    "name": "Alfas",
+    "symbol": "ⲁ",
+    "decimals": 9,
+    "priceId": "dtao-118",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 118,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_118_new_bf76764ca7.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ⲃ",
+    "name": "Vida",
+    "symbol": "Ⲃ",
+    "decimals": 9,
+    "priceId": "dtao-119",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 119,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_119_new_275cee4a06.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ⲃ-120",
+    "name": "Affine",
+    "symbol": "ⲃ",
+    "decimals": 9,
+    "priceId": "dtao-120",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 120,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_120_new_4473c3da62.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-Ⲅ",
+    "name": "Sundae_bar",
+    "symbol": "Ⲅ",
+    "decimals": 9,
+    "priceId": "dtao-121",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 121,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_121_new_4608cd00b5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-ⲅ-122",
+    "name": "Bitrecs",
+    "symbol": "ⲅ",
+    "decimals": 9,
+    "priceId": "dtao-122",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 122,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_122_new_777d2acb40.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-𑀀",
+    "name": "Mantis",
+    "symbol": "𑀀",
+    "decimals": 9,
+    "priceId": "dtao-123",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 123,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_123_new_391429f7a8.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-𑀁",
+    "name": "Swarm",
+    "symbol": "'",
+    "decimals": 9,
+    "priceId": "dtao-124",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 124,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_124_new_5049b5fdc5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-𑀂",
+    "name": "Brahmi_i",
+    "symbol": "𑀂",
+    "decimals": 9,
+    "priceId": "dtao-125",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 125,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_125_new_b51ebbe4e8.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-𑀃",
+    "name": "Tiger beta",
+    "symbol": "𑀃",
+    "decimals": 9,
+    "priceId": "dtao-126",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 126,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_126_new_9ec8e9c42c.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-𑀅",
+    "name": "Cel ai",
+    "symbol": "𑀅",
+    "decimals": 9,
+    "priceId": "dtao-127",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 127,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_127_new_812f516c2c.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor-LOCAL-න",
+    "name": "Byteleap",
+    "symbol": "න",
+    "decimals": 9,
+    "priceId": "dtao-128",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 128,
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_128_new_731b8c9ad5.png",
+    "originChain": "bittensor",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "quantum_fusion-NATIVE-QF",
+    "name": "Quantum Fusion",
+    "symbol": "QF",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/quantum_fusion_14e7a4ac8b.png",
+    "originChain": "quantum_fusion",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-NATIVE-TAO",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "decimals": 18,
+    "priceId": "bittensor",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": "TAO-Bittensor",
+    "assetRefs": []
+  },
+  {
+    "slug": "auto_evm-NATIVE-AI3",
+    "name": "Autonomys",
+    "symbol": "AI3",
+    "decimals": 18,
+    "priceId": "autonomys-network",
+    "minAmount": "1000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/autonomys_8a1889d3e1.png",
+    "originChain": "auto_evm",
+    "multiChainAsset": "AI3-Autonomys",
+    "assetRefs": []
+  },
+  {
+    "slug": "fraxtal-NATIVE-FRAX",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "priceId": "frax-share",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/frax_finance_b242dfcbb1.png",
+    "originChain": "fraxtal",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-MYTH-0x9B9fd410d5F01a6A60acF4678a5A99D8027FA5A7",
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18,
+    "priceId": "mythos",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x9B9fd410d5F01a6A60acF4678a5A99D8027FA5A7"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mythos_chain_430c6d1b1e.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "MYTH-Mythos",
+    "assetRefs": []
+  },
+  {
+    "slug": "regionx_kusama-NATIVE-KSM",
+    "name": "Kusama",
+    "symbol": "KSM",
+    "decimals": 12,
+    "priceId": "kusama",
+    "minAmount": "10000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kusama_b37165518e.png",
+    "originChain": "regionx_kusama",
+    "multiChainAsset": "KSM-Kusama",
+    "assetRefs": []
+  },
+  {
+    "slug": "stable_testnet-NATIVE-USDT",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "stable_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "abstract-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
+    "originChain": "abstract",
+    "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
   },
   {
