@@ -9406,7 +9406,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Koni": "https://btc-api-testnet.koni.studio"
+      "Koni": "https://blockstream.info/testnet/api"
     },
     "evmInfo": null,
     "substrateInfo": null,
@@ -13165,6 +13165,39 @@
       "abiExplorer": null
     },
     "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "hydradx_hollarnet",
+    "name": "Hydration Hollarnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/hydration_5513bef59e.png",
+    "providers": {
+      "Lark": "wss://1.lark.hydration.cloud"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 2034,
+      "genesisHash": "0x745c87ea13f2de6792e41bf885c3720bdf2727c6e04cfc0cb38b06b51de68d69",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": null,
+      "existentialDeposit": "1000000000000",
+      "symbol": "HDX",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
