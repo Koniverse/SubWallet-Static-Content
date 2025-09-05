@@ -9406,7 +9406,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/bitcoin_testnet_b9799e9a57.png",
     "providers": {
-      "Koni": "https://btc-api-testnet.koni.studio"
+      "Koni": "https://blockstream.info/testnet/api"
     },
     "evmInfo": null,
     "substrateInfo": null,
