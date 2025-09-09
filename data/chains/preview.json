@@ -8029,7 +8029,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_a4602440e1.png",
     "providers": {
-      "Energy Web Chain": "https://rpc.energyweb.org"
+      "Energy Web Chain": "https://rpc.energyweb.org",
+      "Archive": "https://archive-rpc.energyweb.org"
     },
     "evmInfo": {
       "evmChainId": 246,
