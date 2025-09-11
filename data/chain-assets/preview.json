@@ -3039,6 +3039,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "statemint-LOCAL-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "encointer-NATIVE-KSM"
       }
     ]
   },
@@ -3418,7 +3424,7 @@
     "ordinal": 132,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/integritee_polkadot_5f5ef68159.png",
     "originChain": "integritee",
-    "multiChainAsset": null,
+    "multiChainAsset": "TEER-IntegriteeShell",
     "assetRefs": []
   },
   {
@@ -3604,6 +3610,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "kusama-NATIVE-KSM"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-NATIVE-KSM"
       }
     ]
   },
@@ -14154,24 +14166,6 @@
     "assetRefs": []
   },
   {
-    "slug": "moonbeam-ERC20-USDC.wh-0x931715fee2d06333043d11f658c8ce934ac61d0c",
-    "name": "USDC (Wormhole)",
-    "symbol": "USDC.wh",
-    "decimals": 6,
-    "priceId": "usd-coin",
-    "minAmount": null,
-    "assetType": "ERC20",
-    "metadata": {
-      "contractAddress": "0x931715fee2d06333043d11f658c8ce934ac61d0c"
-    },
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_e38d9014d6.png",
-    "originChain": "moonbeam",
-    "multiChainAsset": "USDC-USDCoin",
-    "assetRefs": []
-  },
-  {
     "slug": "moonbeam-ERC20-WBTC.wh-0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d",
     "name": "Wrapped BTC",
     "symbol": "WBTC.wh",
@@ -20584,7 +20578,7 @@
     "name": "KILT Protocol",
     "symbol": "KILT",
     "decimals": 18,
-    "priceId": null,
+    "priceId": "kilt-protocol-2",
     "minAmount": "0",
     "assetType": "ERC20",
     "metadata": {
@@ -22135,6 +22129,111 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ethereum_e819764047.png",
     "originChain": "abstract",
     "multiChainAsset": "ETH-Ethereum",
+    "assetRefs": []
+  },
+  {
+    "slug": "unichain-ERC20-SOL-0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+    "name": "Wormhole Bridged WSOL",
+    "symbol": "SOL",
+    "decimals": 9,
+    "priceId": "wormhole-bridged-sol",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/solana_f122efe438.png",
+    "originChain": "unichain",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_hollarnet-NATIVE-HDX",
+    "name": "Hydration",
+    "symbol": "HDX",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hydration_5513bef59e.png",
+    "originChain": "hydradx_hollarnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "hydradx_hollarnet-LOCAL-HOLLAR",
+    "name": "Hydrated Dollar",
+    "symbol": "HOLLAR",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "222",
+      "isGigaToken": true
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/hollar_0079d01abe.png",
+    "originChain": "hydradx_hollarnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "xode-NATIVE-XON",
+    "name": "Xode Blockchain",
+    "symbol": "XON",
+    "decimals": 12,
+    "priceId": null,
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/xode_polkadot_f16b0acb5e.png",
+    "originChain": "xode",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "xode-LOCAL-DOT",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 10,
+    "priceId": "polkadot",
+    "minAmount": "10000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "100000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dot_1c43fb461f.png",
+    "originChain": "xode",
+    "multiChainAsset": "DOT-Polkadot",
+    "assetRefs": []
+  },
+  {
+    "slug": "xode-LOCAL-USDT",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1984"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "xode",
+    "multiChainAsset": "USDT-Tether",
     "assetRefs": []
   },
   {
