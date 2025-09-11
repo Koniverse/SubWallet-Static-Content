@@ -23,9 +23,10 @@
     "arbitrum_one-NATIVE-ETH": 7,
     "base_mainnet-NATIVE-ETH": 8,
     "cardano-NATIVE-ADA": 9,
+    "ton-NATIVE-TON": 10,
     "ethereum-ERC20-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7": 11,
     "optimism-ERC20-USDT-0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": 12,
-    "arbitrum_one-ERC20-USDT-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": 13,
+    "arbitrum_one-ERC20-USD₮0-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": 13,
     "statemint-LOCAL-USDt": 14,
     "hydradx_main-LOCAL-USDT": 15,
     "ethereum-ERC20-USDC-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": 16,
@@ -35,6 +36,8 @@
     "statemint-LOCAL-USDC": 20,
     "hydradx_main-LOCAL-USDC": 21,
     "avail_mainnet-NATIVE-AVAIL": 22,
-    "binance-NATIVE-BNB": 24
+    "bittensor-NATIVE-TAO": 23,
+    "binance-NATIVE-BNB": 24,
+    "tomochain-NATIVE-VIC": 25
   }
 }
