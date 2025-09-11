@@ -35,7 +35,6 @@
     "statemint-LOCAL-USDC": 20,
     "hydradx_main-LOCAL-USDC": 21,
     "avail_mainnet-NATIVE-AVAIL": 22,
-    "bittensor-NATIVE-TAO": 23,
     "binance-NATIVE-BNB": 24
   }
 }
