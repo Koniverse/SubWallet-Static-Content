@@ -8376,7 +8376,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
     "providers": {
       "Liberland": "wss://mainnet.liberland.org",
-      "Dwellir": "wss://liberland-rpc.dwellir.com"
+      "Dwellir": "wss://liberland-rpc.n.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -13192,6 +13192,40 @@
       "blockExplorer": null,
       "existentialDeposit": "1000000000000",
       "symbol": "HDX",
+      "decimals": 12,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "xode",
+    "name": "Xode",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/xode_polkadot_f16b0acb5e.png",
+    "providers": {
+      "XodeCommunity": "wss://polkadot-rpcnode.xode.net",
+      "Zeeve": "wss://xode-polkadot-rpc-01.zeeve.net/y0yxg038wn1fncc/rpc"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": "polkadot",
+      "paraId": 3417,
+      "genesisHash": "0xb2985e778bb748c70e450dcc084cc7da79fe742cc23d3b040abd7028187de69c",
+      "addressPrefix": 280,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://node.xode.net/",
+      "existentialDeposit": "1000000000",
+      "symbol": "XON",
       "decimals": 12,
       "hasNativeNft": null,
       "supportStaking": null,

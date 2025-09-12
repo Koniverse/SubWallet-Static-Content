@@ -366,5 +366,6 @@
   "regionx_kusama": "https://static-data.subwallet.app/chains/images/icon/regionx_6de0c72d2d.png",
   "stable_testnet": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
   "abstract": "https://static-data.subwallet.app/chains/images/icon/Property_1_1_6ddeed6dbd.png",
-  "hydradx_hollarnet": "https://static-data.subwallet.app/chains/images/icon/hydration_5513bef59e.png"
+  "hydradx_hollarnet": "https://static-data.subwallet.app/chains/images/icon/hydration_5513bef59e.png",
+  "xode": "https://static-data.subwallet.app/chains/images/icon/xode_polkadot_f16b0acb5e.png"
 }
