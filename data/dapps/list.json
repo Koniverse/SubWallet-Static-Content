@@ -2688,6 +2688,27 @@
     ]
   },
   {
+    "id": 204,
+    "title": "Chaotic (beta)",
+    "description": "Create, Collect, Sell NFTs",
+    "url": "https://beta.chaotic.art/",
+    "subtitle": "Polkadot NFT Marketplace",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1200,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/image_08895d2d32.png",
+    "preview_image": null,
+    "chains": [
+      "statemine",
+      "statemint"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
     "id": 203,
     "title": "Unique Staking Hub",
     "description": "Unique Staking Hub enables users to stake their ecosystem tokens to support the development of the Unique Network blockchain.",
