@@ -1196,7 +1196,7 @@
     },
     "action": {
       "id": 175,
-      "url": "subwallet://drawer/transaction-action/send-fund",
+      "url": "subwallet://drawer/transaction-action/send-fund?slug=undefined",
       "screen": null,
       "params": null,
       "is_cancel": null
