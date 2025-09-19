@@ -9831,7 +9831,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ewt_00bbdc50a0.png",
     "originChain": "energy_web_chain",
-    "multiChainAsset": null,
+    "multiChainAsset": "EWT-EnergyWebToken",
     "assetRefs": []
   },
   {
@@ -9863,7 +9863,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/energy_web_a4602440e1.png",
     "originChain": "energy_web_x",
-    "multiChainAsset": null,
+    "multiChainAsset": "EWT-EnergyWebToken",
     "assetRefs": []
   },
   {
@@ -12170,7 +12170,7 @@
     "name": "BRIDGE",
     "symbol": "BRIDGE",
     "decimals": 12,
-    "priceId": null,
+    "priceId": "hyperbridge-2",
     "minAmount": "1000000000",
     "assetType": "NATIVE",
     "metadata": null,
@@ -18182,7 +18182,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/energy_web_chain_fb2360f26c.png",
     "originChain": "hydradx_main",
-    "multiChainAsset": null,
+    "multiChainAsset": "EWT-EnergyWebToken",
     "assetRefs": []
   },
   {
@@ -22234,6 +22234,90 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
     "originChain": "xode",
     "multiChainAsset": "USDT-Tether",
+    "assetRefs": []
+  },
+  {
+    "slug": "chronos_consensus-NATIVE-tAI3",
+    "name": "tAI3",
+    "symbol": "tAI3",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/autonomys_0933580a2d.png",
+    "originChain": "chronos_consensus",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "chronos_auto-NATIVE-tAI3",
+    "name": "tAI3",
+    "symbol": "tAI3",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/autonomys_0933580a2d.png",
+    "originChain": "chronos_auto",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-EWT-0xB66a5D30D04f076E78ffB0d045C55846Fdcde928",
+    "name": "Energy Web Token",
+    "symbol": "EWT",
+    "decimals": 18,
+    "priceId": "energy-web-token",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xB66a5D30D04f076E78ffB0d045C55846Fdcde928"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/ewt_00bbdc50a0.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "EWT-EnergyWebToken",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-SAAVE-0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+    "name": " Staked Aave",
+    "symbol": "stkAAVE",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x4da27a545c0c5B758a6BA100e3a049001de870f5"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "redstone-NATIVE-ETH",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "priceId": "ethereum",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "redstone",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
