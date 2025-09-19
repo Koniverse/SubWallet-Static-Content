@@ -8376,7 +8376,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/llm_d9110cebbf.png",
     "providers": {
       "Liberland": "wss://mainnet.liberland.org",
-      "Dwellir": "wss://liberland-rpc.dwellir.com"
+      "Dwellir": "wss://liberland-rpc.n.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -11131,7 +11131,7 @@
     "slug": "autonomys_taurus",
     "name": "Autonomys Taurus Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_3711a63c98.png",
     "providers": {

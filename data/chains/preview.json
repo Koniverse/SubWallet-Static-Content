@@ -11131,7 +11131,7 @@
     "slug": "autonomys_taurus",
     "name": "Autonomys Taurus Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_3711a63c98.png",
     "providers": {
@@ -13233,6 +13233,114 @@
       "crowdloanParaId": null,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "chronos_consensus",
+    "name": "Chronos Consensus",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_0933580a2d.png",
+    "providers": {
+      "Chronos": "wss://rpc.chronos.autonomys.xyz/ws"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x91912b429ce7bf2975440a0920b46a892fddeeaed6ccc11c93f2d57ad1bd69ab",
+      "addressPrefix": 6094,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://autonomys-chronos.subscan.io/",
+      "existentialDeposit": "10000000000000",
+      "symbol": "tAI3",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "autonomys-chronos",
+      "chainBalanceSlug": null
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "chronos_auto",
+    "name": "Chronos Auto EVM",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/autonomys_0933580a2d.png",
+    "providers": {
+      "Chronos": "wss://auto-evm.chronos.autonomys.xyz/ws"
+    },
+    "evmInfo": {
+      "evmChainId": 8700,
+      "blockExplorer": "https://explorer.auto-evm.chronos.autonomys.xyz/",
+      "existentialDeposit": "1000000000000",
+      "symbol": "tAI3",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x264d868b1999c6fc3c8d53f6d6b0c0969cc7f0f31e846793b9585fa3019a0132",
+      "addressPrefix": 6094,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://explorer.auto-evm.chronos.autonomys.xyz/",
+      "existentialDeposit": "1000000000000",
+      "symbol": "tAI3",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "redstone",
+    "name": "Redstone",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": null,
+    "providers": {
+      "Blockfrost": "https://rpc.redstonechain.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 690,
+      "blockExplorer": "https://explorer.redstone.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "ETH",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
