@@ -1172,5 +1172,37 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 120,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Across_Bridge_ef599a7626.png",
+    "info": {
+      "id": 201,
+      "name": "Mobile test - Home -Across Bridge",
+      "description": null,
+      "start_time": "2025-06-18T17:00:00.000Z",
+      "stop_time": "2025-10-25T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 175,
+      "url": "subwallet://drawer/transaction-action/send-fund",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
