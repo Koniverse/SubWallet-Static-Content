@@ -6,12 +6,12 @@
     "cardano-NATIVE-ADA": 4,
     "TON-TONCoin": 5,
     "USDT-Tether": 6,
-    "USDC-USDCoin": 7,
-    "AVAIL-Avail": 8,
-    "bittensor-NATIVE-TAO": 9,
-    "BNB-Binance": 10,
-    "tomochain-NATIVE-VIC": 11
-    
+    "arbitrum_one-ERC20-USD₮0-0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": 7,
+    "USDC-USDCoin": 8,
+    "AVAIL-Avail": 9,
+    "bittensor-NATIVE-TAO": 10,
+    "BNB-Binance": 11,
+    "tomochain-NATIVE-VIC": 12
   },
   "token" : {
     "bitcoin-NATIVE-BTC": 1,
