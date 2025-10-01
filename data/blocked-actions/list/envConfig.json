@@ -194,5 +194,20 @@
       "environment": "mobile",
       "version": "1.3.32-0"
     }
+  },
+  "cf1730f3-8276-473c-b7ec-4cf1d287e6d9": {
+    "appConfig": {
+      "environment": "extension"
+    }
+  },
+  "25e6bc87-3680-4c62-937d-1d8491fdbbc7": {
+    "appConfig": {
+      "environment": "mobile"
+    }
+  },
+  "1112f94d-77fe-46e2-b4a6-051656bae809": {
+    "appConfig": {
+      "environment": "webapp"
+    }
   }
 }
