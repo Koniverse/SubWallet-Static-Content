@@ -1269,7 +1269,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "> <br/>\n> \n> - #### The Kusama Asset Hub migration begins at **11:00 AM UTC on October 7, 2025**, and will take about **6 hours** to complete.<br/>\n> - #### Once completed, **your KSM balances and most features (staking, governance, proxies, etc.) will be migrated from Kusama to Kusama Asset Hub**.<br/>\n> - #### The process is automatic, and **your funds will remain safe**.\n> <br/>\n--- \n#### Click “Learn more” to view full migration details.",
+    "content": "> <br/>\n> \n> - #### The Kusama Asset Hub migration begins at **11:00 AM UTC on October 7, 2025**, and will take about **6 hours** to complete.<br/>\n> - #### Once completed, **your KSM balances and most features (staking, governance, proxies, etc.) will be migrated from Kusama to Kusama Asset Hub**.<br/>\n> - #### The process is automatic, and **your funds will remain safe**.\n\n--- \n#### Click “Learn more” to view full migration details.",
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
