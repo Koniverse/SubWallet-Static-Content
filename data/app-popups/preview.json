@@ -1263,5 +1263,56 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 82,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "- The Kusama Asset Hub migration begins at **11:00 AM on Tuesday, October 7, 2025**, and will take about **6 hours** to complete.\n- Once completed, **your KSM balances and most features (staking, governance, proxies, etc.) will be migrated from Kusama to Kusama Asset Hub**.\n- The process is automatic, and **your funds will remain safe**.\n\nClick “Learn more” for full details about this migration.",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 203,
+      "name": "Migration alert!",
+      "description": null,
+      "start_time": "2025-10-07T10:00:00.000Z",
+      "stop_time": "2025-10-03T18:00:00.000Z",
+      "platforms": [
+        "extension",
+        "mobile",
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 139,
+        "label": "Learn more",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 177,
+          "url": "https://support.polkadot.network/support/solutions/articles/65000190561#:~:text=be%20migrated%20automatically.-,What%20would%20happen%20during%20the%20migration%3F,-%E2%84%B9%EF%B8%8F%20GOOD%20TO%20KNOW",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      },
+      {
+        "id": 138,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      }
+    ],
+    "conditions": {}
   }
 ]
