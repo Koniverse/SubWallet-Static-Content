@@ -4,7 +4,17 @@
   "blockedActionsMap": {
     "transfer.balance": [],
     "transfer.token": [],
-    "transfer.xcm": [],
+    "transfer.xcm": [
+      "transfer.xcm___statemint-NATIVE-DOT___polkadot",
+      "transfer.xcm___acala-LOCAL-DOT___polkadot",
+      "transfer.xcm___moonbeam-LOCAL-xcDOT___polkadot",
+      "transfer.xcm___astar-LOCAL-DOT___polkadot",
+      "transfer.xcm___bifrost_dot-LOCAL-DOT___polkadot",
+      "transfer.xcm___hydradx_main-LOCAL-DOT___polkadot",
+      "transfer.xcm___manta_network-LOCAL-DOT___polkadot",
+      "transfer.xcm___statemine-NATIVE-KSM___kusama",
+      "transfer.xcm___bifrost-LOCAL-KSM___kusama"
+    ],
     "send_nft": [],
     "swap": [
       "swap___polkadot-NATIVE-DOT___ethereum-NATIVE-ETH___CHAIN_FLIP_MAINNET",
