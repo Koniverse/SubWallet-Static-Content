@@ -17,7 +17,9 @@
   "token" : {
     "bitcoin-NATIVE-BTC": 1,
     "polkadot-NATIVE-DOT": 2,
+    "statemint-NATIVE-DOT": 3,
     "hydradx_main-LOCAL-DOT": 4,
+    "statemine-NATIVE-KSM": 5,
     "ethereum-NATIVE-ETH": 6,
     "optimism-NATIVE-ETH": 7,
     "arbitrum_one-NATIVE-ETH": 8,
