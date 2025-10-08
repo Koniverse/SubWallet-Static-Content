@@ -1489,7 +1489,7 @@
     "ordinal": 500,
     "desktop_mode": null,
     "icon": "https://static-data.subwallet.app/dapps/images/icon/artzero_63774d40c3.png",
-    "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/artzero_a54179a36e.avif",
+    "preview_image": null,
     "chains": [
       "aleph",
       "astar"
@@ -3128,6 +3128,90 @@
     ],
     "categories": [
       "defi"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Dotmemo",
+    "description": "Capture your unforgettable moments as digital badges on the Polkadot network.",
+    "url": "https://dotmemo.xyz/",
+    "subtitle": "Create and Claim NFTs on Polkadot",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1300,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dotmemo_e4ceec29c6.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "statemint"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Get Real",
+    "description": "Seize your chance for rewards from PEAQ’s reward pool by connecting, contributing, and climbing the leaderboard.",
+    "url": "https://www.get-real.peaq.xyz/",
+    "subtitle": "Join peaq’s Get Real campaign",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1310,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/Color_light_a60969392d.png",
+    "preview_image": null,
+    "chains": [
+      "peaq_evm"
+    ],
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Houdini Swap",
+    "description": "Houdini Swap blends advanced aggregation technology with every major crypto liquidity pool, combine it with the option of compliant privacy, and embed it into elegant user-centric design.",
+    "url": "https://houdiniswap.com/",
+    "subtitle": "Swap and Bridge more than 4000 tokens",
+    "is_substrate": null,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 1320,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/houdini_swap_b51d8d05db.png",
+    "preview_image": null,
+    "chains": [
+      "ethereum",
+      "cardano",
+      "bitcoin"
+    ],
+    "categories": [
+      "defi",
+      "staking"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Aradia",
+    "description": "The ultimate launchpad for Astar Network. Mint NFTs and tokens, discover collections, and earn rewards in the Astar ecosystem.",
+    "url": "https://aradia.app/",
+    "subtitle": "NFT Launchpad on Astar Network",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1330,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/aradia_584dfeb6d8.png",
+    "preview_image": null,
+    "chains": [
+      "astar"
+    ],
+    "categories": [
+      "nft"
     ]
   },
   {
