@@ -226,7 +226,7 @@
     "campaign_url": "https://www.tanssi.network/",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/LFD_2_LOGO_FINALE_LFD_LOGO_light_bg_ff9cc1c425.avif",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Lcw6_IUXEA_Atbgm_e959660251.jpg",
     "chains": [
       "dancebox"
     ],
@@ -539,42 +539,13 @@
     ]
   },
   {
-    "id": 71,
-    "name": "Earn XP with Soneium Minato Testnet Quest on Layer3",
-    "status": "archived",
-    "ordinal": 55,
-    "description": "The Soneium Minato Testnet\n\nDive into Sony’s innovative Soneium blockchain, a powerful Ethereum Layer-2 network designed to revolutionize Web3 with scalability and integration.",
-    "start_time": "2024-08-28T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://app.layer3.xyz/quests/the-soneium-minato-testnet?slug=the-soneium-minato-testnet",
-    "twitter_url": "https://x.com/soneium",
-    "reward": "100 XP",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://soneium.org/en/",
-    "project_id": [
-      "subwallet_webapp",
-      "subwallet_extension",
-      "subwallet_mobile"
-    ],
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/soneium_2fb4f8f192.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Soneium_Minato_Testnet_Quest_on_Layer3_57b393f23d.jpg",
-    "chains": [
-      "soneiumMinato"
-    ],
-    "categories": []
-  },
-  {
     "id": 81,
     "name": "Earn an exclusive NFT with zkVerify Metaschool course ",
-    "status": "archived",
+    "status": "live",
     "ordinal": 56,
     "description": "zkVerify is the most efficient modular layer optimized to verify ZK proofs 🚀\n\nEnroll in our zkVerify Metaschool course to:\n- Claim an NFT that will unlock exciting rewards in phase 2 of zkVerify incentivized testnet\n- Master zero-knowledge proofs (ZKPs)\n- Tackle the challenges of ZK rollups\n- Explore zkVerify's innovative architecture\n- Gain hands-on experience with zkVerify testnet & proof submission\n\nDon't miss out on what's coming next! ",
     "start_time": "2024-08-06T17:00:00.000Z",
-    "end_time": null,
+    "end_time": "2025-08-07T17:00:00.000Z",
     "url": "https://metaschool.so/courses/introduction-to-zkVerify",
     "twitter_url": "https://x.com/ZKVProtocol",
     "reward": "Exclusive NFT",
@@ -584,7 +555,11 @@
       "fcfs"
     ],
     "campaign_url": "https://zkverify.io/",
-    "project_id": null,
+    "project_id": [
+      "subwallet_extension",
+      "subwallet_mobile",
+      "subwallet_webapp"
+    ],
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zkverify_b62ea652b5.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zk_Verify_Metaschool_course_1b405bb582.jpg",
     "chains": [
@@ -954,38 +929,7 @@
     "campaign_url": "https://t.me/Playnation_bot",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/vara_f9bf9c78f7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Vara_x_Playnation_Campaign_833e796599.jfif",
-    "chains": [
-      "vara_network"
-    ],
-    "categories": [
-      {
-        "color": "magenta",
-        "name": "Gaming",
-        "slug": "gaming"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "name": "[TEST 1 ]Grab your share of $9,500 pool prize in VARA ",
-    "status": "live",
-    "ordinal": 68,
-    "description": "Participants can receive airdrops through a raffle system. Raffle entries can be purchased using NPS at an exchange rate of 10,000 NPS for 1 raffle entry.\n\nAfter a snapshot, the system will calculate and allocate the number of raffle entries purchased with NPS for each participant.\n\nThe detailed mechanism is as follows:\n\n1. Based on Vara Football Leaderboard: The top 400 players on the leaderboard will have the right to purchase raffle entries with NPS. Higher rankings will allow for more raffle entries.\n2. Based on Vara Onchain Check-In Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS.\n3. Based on Invite Leaderboard: The top 50 participants will have the right to purchase raffle entries with NPS. The more friends invited, the more raffle entries can be purchased.\n4. Social Event Activities: Participate in social activities to earn additional raffle entries with NPS.\n\nNote: Each raffle entry guarantees a 100% chance of winning VARA tokens with a minimum value of $5. The number of raffle entries a player can obtain is unlimited.",
-    "start_time": "2024-08-15T10:00:00.000Z",
-    "end_time": "2024-08-20T16:59:00.000Z",
-    "url": "https://t.me/Playnation_bot/app?startapp=5Hl6vgFZw",
-    "twitter_url": "https://x.com/playnationapp",
-    "reward": "$9,500 in VARA",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "lucky_draw"
-    ],
-    "campaign_url": "https://t.me/Playnation_bot",
-    "project_id": null,
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/vara_f9bf9c78f7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Vara_x_Playnation_Campaign_833e796599.jfif",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/photo_2025_10_08_18_42_39_e530f492d9.jpg",
     "chains": [
       "vara_network"
     ],
@@ -1141,7 +1085,7 @@
     "campaign_url": "https://pendulumchain.org/",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/pendulum_a813a4cfd4.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Pendulum_Break_Testnet_Airlyft_campaign_26e971b74f.jfif",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GR_8_Lcw0b_YA_Abl_HN_031a9bcb0d.jpg",
     "chains": [
       "pendulum"
     ],
