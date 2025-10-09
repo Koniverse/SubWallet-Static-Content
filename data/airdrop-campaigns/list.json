@@ -226,7 +226,7 @@
     "campaign_url": "https://www.tanssi.network/",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/LFD_2_LOGO_FINALE_LFD_LOGO_light_bg_ff9cc1c425.avif",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/G_Lcw6_IUXEA_Atbgm_e959660251.jpg",
     "chains": [
       "dancebox"
     ],
@@ -504,66 +504,6 @@
         "color": "purple",
         "name": "RWA",
         "slug": "rwa"
-      }
-    ]
-  },
-  {
-    "id": 71,
-    "name": "Earn XP with Soneium Minato Testnet Quest on Layer3",
-    "status": "archived",
-    "ordinal": 55,
-    "description": "The Soneium Minato Testnet\n\nDive into Sony’s innovative Soneium blockchain, a powerful Ethereum Layer-2 network designed to revolutionize Web3 with scalability and integration.",
-    "start_time": "2024-08-28T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://app.layer3.xyz/quests/the-soneium-minato-testnet?slug=the-soneium-minato-testnet",
-    "twitter_url": "https://x.com/soneium",
-    "reward": "100 XP",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://soneium.org/en/",
-    "project_id": [
-      "subwallet_webapp",
-      "subwallet_extension",
-      "subwallet_mobile"
-    ],
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/soneium_2fb4f8f192.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Soneium_Minato_Testnet_Quest_on_Layer3_57b393f23d.jpg",
-    "chains": [
-      "soneiumMinato"
-    ],
-    "categories": []
-  },
-  {
-    "id": 81,
-    "name": "Earn an exclusive NFT with zkVerify Metaschool course ",
-    "status": "archived",
-    "ordinal": 56,
-    "description": "zkVerify is the most efficient modular layer optimized to verify ZK proofs 🚀\n\nEnroll in our zkVerify Metaschool course to:\n- Claim an NFT that will unlock exciting rewards in phase 2 of zkVerify incentivized testnet\n- Master zero-knowledge proofs (ZKPs)\n- Tackle the challenges of ZK rollups\n- Explore zkVerify's innovative architecture\n- Gain hands-on experience with zkVerify testnet & proof submission\n\nDon't miss out on what's coming next! ",
-    "start_time": "2024-08-06T17:00:00.000Z",
-    "end_time": null,
-    "url": "https://metaschool.so/courses/introduction-to-zkVerify",
-    "twitter_url": "https://x.com/ZKVProtocol",
-    "reward": "Exclusive NFT",
-    "total_winner": "N/A",
-    "total_supply": null,
-    "tags": [
-      "fcfs"
-    ],
-    "campaign_url": "https://zkverify.io/",
-    "project_id": null,
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zkverify_b62ea652b5.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zk_Verify_Metaschool_course_1b405bb582.jpg",
-    "chains": [
-      "zkverify_testnet"
-    ],
-    "categories": [
-      {
-        "color": "red",
-        "name": "Tooling",
-        "slug": "tooling"
       }
     ]
   },
@@ -892,7 +832,7 @@
     "campaign_url": "https://t.me/Playnation_bot",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/vara_f9bf9c78f7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Vara_x_Playnation_Campaign_833e796599.jfif",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/photo_2025_10_08_18_42_39_e530f492d9.jpg",
     "chains": [
       "vara_network"
     ],
@@ -1048,7 +988,7 @@
     "campaign_url": "https://pendulumchain.org/",
     "project_id": null,
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/pendulum_a813a4cfd4.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Pendulum_Break_Testnet_Airlyft_campaign_26e971b74f.jfif",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GR_8_Lcw0b_YA_Abl_HN_031a9bcb0d.jpg",
     "chains": [
       "pendulum"
     ],
