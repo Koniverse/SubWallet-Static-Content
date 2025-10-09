@@ -3172,29 +3172,6 @@
     ]
   },
   {
-    "id": 207,
-    "title": "Houdini Swap",
-    "description": "Houdini Swap blends advanced aggregation technology with every major crypto liquidity pool, combine it with the option of compliant privacy, and embed it into elegant user-centric design.",
-    "url": "https://houdiniswap.com/",
-    "subtitle": "Swap and Bridge more than 4000 tokens",
-    "is_substrate": null,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": 1320,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/houdini_swap_b51d8d05db.png",
-    "preview_image": null,
-    "chains": [
-      "ethereum",
-      "cardano",
-      "bitcoin"
-    ],
-    "categories": [
-      "defi",
-      "staking"
-    ]
-  },
-  {
     "id": 208,
     "title": "Aradia",
     "description": "The ultimate launchpad for Astar Network. Mint NFTs and tokens, discover collections, and earn rewards in the Astar ecosystem.",
