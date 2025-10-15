@@ -14,5 +14,9 @@
   "vara_network": {
     "maxCount": 2,
     "preSelectValidators": "kGjCvG5HmCuUJf1XqXEo7giTkLeSJWaNSB7dfcs5KHvWsHKV6,kGhucW9jt76TdBHQRPqNGokRJHFahTWeBzoQbzwSa14YN8SM7"
+  },
+  "zkverify": {
+    "maxCount": 2,
+    "preSelectValidators": "ZKUBqvGeM1VPExvkH5rmMm6QUTcDhQDEd7cREejDUwVGCjWeh,ZKXfikQX8ammJPLAhdvVur5Sc1i6P7svyMLwq3gxbiVCjgbK5"
   }
 }
