@@ -1239,15 +1239,7 @@
         "value": "statemine-NATIVE-KSM"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "statemine-NATIVE-KSM"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": null
   },
   {
@@ -1284,15 +1276,7 @@
         "value": "statemine-NATIVE-KSM"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "statemine-NATIVE-KSM"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": null
   },
   {
@@ -1329,15 +1313,7 @@
         "value": "statemine-NATIVE-KSM"
       }
     ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "statemine-NATIVE-KSM"
-        }
-      ]
-    },
+    "conditions": {},
     "instruction": null
   }
 ]
