@@ -1174,20 +1174,20 @@
     "instruction": null
   },
   {
-    "id": 120,
+    "id": 121,
     "position": "token",
-    "priority": 1,
+    "priority": 3,
     "locations": null,
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Across_Bridge_ef599a7626.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Kyber_d26e571f1c.png",
     "info": {
-      "id": 201,
-      "name": "Mobile test - Home -Across Bridge",
+      "id": 202,
+      "name": "Extension - Home - Kyber Swap",
       "description": null,
       "start_time": "2025-06-18T17:00:00.000Z",
-      "stop_time": "2025-10-25T17:00:00.000Z",
+      "stop_time": "2025-10-30T17:00:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -1195,14 +1195,149 @@
       "is_changelog_popup": null
     },
     "action": {
-      "id": 175,
-      "url": "subwallet://drawer/transaction-action/send-fund?slug=undefined",
+      "id": 176,
+      "url": "subwallet://drawer/transaction-action/send-funds",
       "screen": null,
       "params": null,
       "is_cancel": null
     },
     "position_params": [],
     "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 122,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_extension_7ee3e36779.png",
+    "info": {
+      "id": 205,
+      "name": "Extension - Asset Hub Migration",
+      "description": null,
+      "start_time": "2025-10-06T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 179,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemine-NATIVE-KSM"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "statemine-NATIVE-KSM"
+        }
+      ]
+    },
+    "instruction": null
+  },
+  {
+    "id": 123,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_Mobile_483a359cd0.png",
+    "info": {
+      "id": 206,
+      "name": "Mobile - Asset Hub Migration",
+      "description": null,
+      "start_time": "2025-10-06T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 180,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemine-NATIVE-KSM"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "statemine-NATIVE-KSM"
+        }
+      ]
+    },
+    "instruction": null
+  },
+  {
+    "id": 124,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_webapp_dd453c8402.png",
+    "info": {
+      "id": 207,
+      "name": "WebApp - Asset Hub Migration",
+      "description": null,
+      "start_time": "2025-10-06T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 181,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemine-NATIVE-KSM"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 0,
+          "chain_asset": "statemine-NATIVE-KSM"
+        }
+      ]
+    },
     "instruction": null
   }
 ]
