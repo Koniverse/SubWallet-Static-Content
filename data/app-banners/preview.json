@@ -1213,7 +1213,7 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_extension_7ee3e36779.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_extension_1_7bdca0e351.png",
     "info": {
       "id": 205,
       "name": "Extension - Asset Hub Migration",
@@ -1250,7 +1250,7 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_Mobile_483a359cd0.png",
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_Mobile_ca20ec8a7b.png",
     "info": {
       "id": 206,
       "name": "Mobile - Asset Hub Migration",
@@ -1307,12 +1307,7 @@
       "params": null,
       "is_cancel": null
     },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "statemine-NATIVE-KSM"
-      }
-    ],
+    "position_params": [],
     "conditions": {},
     "instruction": null
   }
