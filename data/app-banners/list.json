@@ -1074,5 +1074,111 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 122,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_extension_1_7bdca0e351.png",
+    "info": {
+      "id": 205,
+      "name": "Extension - Asset Hub Migration",
+      "description": null,
+      "start_time": "2025-10-06T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 179,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemine-NATIVE-KSM"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 123,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_extension_2_165c155f92.png",
+    "info": {
+      "id": 206,
+      "name": "Mobile - Asset Hub Migration",
+      "description": null,
+      "start_time": "2025-10-06T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 180,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemine-NATIVE-KSM"
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 124,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": ">=1.3.41",
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_webapp_dd453c8402.png",
+    "info": {
+      "id": 207,
+      "name": "WebApp - Asset Hub Migration",
+      "description": "WebApp",
+      "start_time": "2025-10-06T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 181,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
