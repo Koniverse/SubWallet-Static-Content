@@ -6,7 +6,8 @@
     "transfer.token": [],
     "transfer.xcm": [
       "transfer.xcm___statemine-NATIVE-KSM___kusama",
-      "transfer.xcm___bifrost-LOCAL-KSM___kusama"
+      "transfer.xcm___bifrost-LOCAL-KSM___kusama",
+      "transfer.xcm___statemine-NATIVE-KSM___statemint"
     ],
     "send_nft": [],
     "swap": [
