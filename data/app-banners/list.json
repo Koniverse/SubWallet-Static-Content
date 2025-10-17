@@ -1076,6 +1076,38 @@
     "instruction": null
   },
   {
+    "id": 121,
+    "position": "token",
+    "priority": 3,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Kyber_d26e571f1c.png",
+    "info": {
+      "id": 202,
+      "name": "Extension - Home - Kyber Swap",
+      "description": null,
+      "start_time": "2025-06-18T17:00:00.000Z",
+      "stop_time": "2025-09-30T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 176,
+      "url": "subwallet://drawer/transaction-action/send-funds",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
     "id": 122,
     "position": "token",
     "priority": 1,
