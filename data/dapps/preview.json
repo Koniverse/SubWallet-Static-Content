@@ -381,7 +381,6 @@
     ],
     "categories": [
       "defi",
-      "crowdloans",
       "staking"
     ]
   },
@@ -873,8 +872,7 @@
       "zeitgeist"
     ],
     "categories": [
-      "utilities",
-      "socialfi"
+      "utilities"
     ]
   },
   {
@@ -2705,7 +2703,6 @@
     ],
     "categories": [
       "defi",
-      "governance",
       "staking"
     ]
   },
@@ -2881,8 +2878,7 @@
       "mantle"
     ],
     "categories": [
-      "defi",
-      "governance"
+      "defi"
     ]
   },
   {
