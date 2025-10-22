@@ -2091,27 +2091,6 @@
     ]
   },
   {
-    "id": 171,
-    "title": "Archisinal Testnet",
-    "description": "A marketplace for architects and engineers to tokenize and monetize their digital designs",
-    "url": "https://marketplace-app-client.vercel.app/",
-    "subtitle": "Buy, sell and discover exclusive digital items",
-    "is_substrate": null,
-    "is_evm": null,
-    "is_featured": false,
-    "ordinal": 870,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/archisinal_be406c1577.png",
-    "preview_image": null,
-    "chains": [
-      "shibuya"
-    ],
-    "categories": [
-      "rwa",
-      "nft"
-    ]
-  },
-  {
     "id": 108,
     "title": "Birdeye",
     "description": "Birdeye's core objective is to assist traders in their investment deliberations through the provisioning of data-centric market analysis tools sourced from Birdeye and its affiliated partners.",
