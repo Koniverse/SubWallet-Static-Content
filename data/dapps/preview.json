@@ -2062,10 +2062,10 @@
   },
   {
     "id": 112,
-    "title": "Dancebox",
-    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox TestNet and see firsthand how Tanssi manages infrastructure challenges, freeing you and your team to focus on dApp innovation.",
-    "url": "https://apps.tanssi.network/dancebox",
-    "subtitle": "Dancebox - The Testnet of Tanssi Network",
+    "title": "Tanssi dApp",
+    "description": "Tanssi's Appchain Infrastructure Protocol simplifies appchain deployment. Explore the Dancebox Testnet and Tanssi mainnet.",
+    "url": "https://apps.tanssi.network",
+    "subtitle": "Launch your decentralized appchain",
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
@@ -2074,11 +2074,13 @@
     "icon": "https://static-data.subwallet.app/dapps/images/icon/tanssi_2e13dc9c66.png",
     "preview_image": null,
     "chains": [
-      "dancebox"
+      "dancebox",
+      "tanssi"
     ],
     "categories": [
       "tooling",
-      "staking"
+      "staking",
+      "bridge"
     ]
   },
   {
@@ -2614,7 +2616,7 @@
     "id": 148,
     "title": "Liberland App",
     "description": "Liberland is a sovereign nation state located on the Danube with governance, business and legal system running on-chain.",
-    "url": "blockchain.liberland.org",
+    "url": "https://blockchain.liberland.org/",
     "subtitle": "The freest country on Earth",
     "is_substrate": null,
     "is_evm": null,
@@ -3185,6 +3187,26 @@
     ],
     "categories": [
       "nft"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Gen6 (Beta)",
+    "description": "G6 Networks offers secure, scalable solutions, empowering businesses and individuals to thrive in a decentralized world.",
+    "url": "https://gen6.app/",
+    "subtitle": "Blockchain for Real-World Integration",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1340,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/image_af43ae412a.png",
+    "preview_image": null,
+    "chains": [
+      "gen6_public"
+    ],
+    "categories": [
+      "rwa"
     ]
   },
   {
