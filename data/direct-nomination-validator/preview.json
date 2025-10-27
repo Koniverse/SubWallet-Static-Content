@@ -7,6 +7,10 @@
     "maxCount": 3,
     "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,157oKjCPSHzn4Qb6ECEgpnwAqyaYCwbPqsei61UP3B5fM8Mx,15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
   },
+  "statemint": {
+    "maxCount": 3,
+    "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,157oKjCPSHzn4Qb6ECEgpnwAqyaYCwbPqsei61UP3B5fM8Mx,15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
+  },
   "statemine": {
     "maxCount": 2,
     "preSelectValidators": "EwwczfxHvFq8zyYFkQv29r9us7M8Gbmw4cUtrvF5ozx6Mf2,ERYwYjy1LGY1GWovnxxmXo68SZLLYwjMXNEvhhDhp48zyED"
