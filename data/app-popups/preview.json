@@ -1467,7 +1467,7 @@
     "priority": 2,
     "position": "token",
     "repeat": "once",
-    "content": "![In-App Banner – Asset Hub Migration (extension) (2).png](https://content.subwallet.app/uploads/In_App_Banner_Asset_Hub_Migration_extension_2_165c155f92.png)\nStarting from November 4, 2025, your DOT balances, governance, and staking migrate from Polkadot to Polkadot Asset Hub. Following the migration, you will get these benefits:\n\n> **100x lower existential deposit**: from 1 DOT to 0.01 DOT. <br/> \n> Fees and deposits are **10x cheaper, payable in any token**. <br/>\n> **Expanded asset support**: stablecoins (USDT, USDC) and other ecosystem tokens. <br/>\n> Direct access to trustless Ethereum bridges. <br/>\n\n--------\n&ensp;\n#### Click “Learn more” to view full migration details.",
+    "content": "![In-App Banner – Asset Hub Migration (extension) (2).png](https://content.subwallet.app/uploads/In_App_Banner_Asset_Hub_Migration_extension_2_165c155f92.png)\n\nStarting from November 4, 2025, your DOT balances, governance, and staking migrate from Polkadot to Polkadot Asset Hub. Following the migration, you will get these benefits:\n\n> - **100x lower existential deposit**: from 1 DOT to 0.01 DOT. <br/> &ensp;\n> - Fees and deposits are **10x cheaper, payable in any token**. <br/> &ensp;\n> - **Expanded asset support**: stablecoins (USDT, USDC) and other ecosystem tokens. <br/> &ensp;\n> - Direct access to trustless Ethereum bridges. <br/> &ensp;\n\n--------\n&ensp;\n#### Click “Learn more” to view full migration details.",
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
@@ -1499,7 +1499,7 @@
       {
         "id": 147,
         "label": "Learn more",
-        "color": null,
+        "color": "primary",
         "instruction": null,
         "action": {
           "id": 184,
