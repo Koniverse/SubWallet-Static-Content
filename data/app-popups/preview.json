@@ -1362,5 +1362,154 @@
       }
     ],
     "conditions": {}
+  },
+  {
+    "id": 84,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "> - #### The Polkadot Asset Hub migration will begin at around **13:30 UTC on November 4, 2025**, and will take about **8 hours** to complete. <br/> &ensp;\n> - #### Once completed, **your DOT balances and most features (staking, governance, proxies, etc.) will be migrated from Polkadot to Polkadot Asset Hub**.<br/> &ensp;\n> - #### The process is automatic, and **your funds will remain safe**. <br/>\n\n--- \n&ensp;\n#### Click “Learn more” to view full migration details.",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 208,
+      "name": "DOT migration alert!",
+      "description": null,
+      "start_time": "2025-10-28T05:00:00.000Z",
+      "stop_time": "2025-10-27T20:30:00.000Z",
+      "platforms": [
+        "mobile",
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 142,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 143,
+        "label": "Learn more",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 182,
+          "url": "https://support.polkadot.network/support/solutions/articles/65000190561#:~:text=be%20migrated%20automatically.-,What%20would%20happen%20during%20the%20migration%3F,-%E2%84%B9%EF%B8%8F%20GOOD%20TO%20KNOW",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 85,
+    "priority": 1,
+    "position": "token",
+    "repeat": "once",
+    "content": "> - #### The Polkadot Asset Hub migration will begin at around **13:30 UTC on November 4, 2025**, and will take about **8 hours** to complete. <br/> &ensp;\n> - #### Once completed, **your DOT balances and most features (staking, governance, proxies, etc.) will be migrated from Polkadot to Polkadot Asset Hub**.<br/> &ensp;\n> - #### The process is automatic, and **your funds will remain safe**. <br/>\n\n--- \n&ensp;\n#### Click “Learn more” to view full migration details.",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 209,
+      "name": "DOT migration alert!",
+      "description": null,
+      "start_time": "2025-10-28T05:00:00.000Z",
+      "stop_time": "2025-10-27T20:30:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 144,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 145,
+        "label": "Learn more",
+        "color": "primary",
+        "instruction": null,
+        "action": {
+          "id": 183,
+          "url": "https://support.polkadot.network/support/solutions/articles/65000190561#:~:text=be%20migrated%20automatically.-,What%20would%20happen%20during%20the%20migration%3F,-%E2%84%B9%EF%B8%8F%20GOOD%20TO%20KNOW",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
+  },
+  {
+    "id": 86,
+    "priority": 2,
+    "position": "token",
+    "repeat": "once",
+    "content": "![In-App Banner – Asset Hub Migration (extension) (2).png](https://content.subwallet.app/uploads/In_App_Banner_Asset_Hub_Migration_extension_2_165c155f92.png)\nStarting from November 4, 2025, your DOT balances, governance, and staking migrate from Polkadot to Polkadot Asset Hub. Following the migration, you will get these benefits:\n\n> **100x lower existential deposit**: from 1 DOT to 0.01 DOT. <br/> \n> Fees and deposits are **10x cheaper, payable in any token**. <br/>\n> **Expanded asset support**: stablecoins (USDT, USDC) and other ecosystem tokens. <br/>\n> Direct access to trustless Ethereum bridges. <br/>\n\n--------\n&ensp;\n#### Click “Learn more” to view full migration details.",
+    "repeat_every_x_days": null,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": null,
+    "position_params": [],
+    "info": {
+      "id": 210,
+      "name": "Polkadot Asset Hub upgrades",
+      "description": null,
+      "start_time": "2025-10-27T17:00:00.000Z",
+      "stop_time": "2025-11-03T17:00:00.000Z",
+      "platforms": [
+        "web",
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "buttons": [
+      {
+        "id": 146,
+        "label": "Dismiss",
+        "color": "secondary",
+        "instruction": null,
+        "action": null
+      },
+      {
+        "id": 147,
+        "label": "Learn more",
+        "color": null,
+        "instruction": null,
+        "action": {
+          "id": 184,
+          "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+          "screen": null,
+          "params": null,
+          "is_cancel": null
+        }
+      }
+    ],
+    "conditions": {}
   }
 ]
