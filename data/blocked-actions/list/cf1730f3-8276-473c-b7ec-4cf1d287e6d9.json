@@ -8,7 +8,7 @@
       "transfer.xcm___bifrost-LOCAL-KSM___kusama",
       "transfer.xcm___statemine-NATIVE-KSM___statemint",
       "transfer.xcm___manta_network-NATIVE-MANTA___moonbeam",
-      "transfer.xcm___manta_network-NATIVE-MANTA___bifrost"
+      "transfer.xcm___manta_network-NATIVE-MANTA___bifrost_dot"
     ],
     "send_nft": [],
     "swap": [
