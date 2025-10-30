@@ -1548,7 +1548,7 @@
     "is_featured": false,
     "ordinal": 910,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/wud_4aa551727c.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/flappy_wud_9de06577de.png",
     "preview_image": null,
     "chains": [
       "statemint",
@@ -2082,22 +2082,65 @@
   },
   {
     "id": 209,
-    "title": "Gen6 (Beta)",
-    "description": "G6 Networks offers secure, scalable solutions, empowering businesses and individuals to thrive in a decentralized world.",
-    "url": "https://gen6.app/",
-    "subtitle": "Blockchain for Real-World Integration",
+    "title": "Gen6 dApp",
+    "description": "A digital ecosystem built for truth. Not trends. Host and attend at verifiable events, build human-first communities, and store truth on-chain, all in one connected space.",
+    "url": "https://gen6.life/",
+    "subtitle": "Building what blockchain was meant for",
     "is_substrate": null,
     "is_evm": null,
     "is_featured": false,
     "ordinal": 1340,
     "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/image_af43ae412a.png",
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/g6_network_255a776289.png",
     "preview_image": null,
     "chains": [
       "gen6_public"
     ],
     "categories": [
-      "rwa"
+      "utilities",
+      "data",
+      "community"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "WUD Universe",
+    "description": "Build and upgrade your on-chain cabin. Equip dynamic NFTs, open Mystery Boxes, and collect limited drops. ",
+    "url": "https://wuduniverse.xyz/cabin",
+    "subtitle": "Build your on-chain cabin with dynamic NFTs",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1430,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wud_universe_2c1affbd7d.png",
+    "preview_image": null,
+    "chains": [
+      "unique_network"
+    ],
+    "categories": [
+      "nft"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "DotJobs",
+    "description": "Dotjobs is an open-source job and talent platform built for the Polkadot and Kusama ecosystem. Our mission is simple: to connect projects, teams, and initiatives across the ecosystem with the right talent, while amplifying careers, opportunities, and the future of work in Web3.",
+    "url": "https://dotjobs.online/",
+    "subtitle": "Job and talent platform for Polkadot and Kusama ecosystem",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1440,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/dot_jobs_0b0a4191ad.png",
+    "preview_image": null,
+    "chains": [
+      "polkadot",
+      "kusama"
+    ],
+    "categories": [
+      "utilities"
     ]
   },
   {
