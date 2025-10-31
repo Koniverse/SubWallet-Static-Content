@@ -9,7 +9,14 @@
       "transfer.xcm___bifrost-LOCAL-KSM___kusama",
       "transfer.xcm___statemine-NATIVE-KSM___statemint",
       "transfer.xcm___manta_network-NATIVE-MANTA___moonbeam",
-      "transfer.xcm___manta_network-NATIVE-MANTA___bifrost_dot"
+      "transfer.xcm___manta_network-NATIVE-MANTA___bifrost_dot",
+      "transfer.xcm___statemint-NATIVE-DOT___polkadot",
+      "transfer.xcm___acala-LOCAL-DOT___polkadot",
+      "transfer.xcm___moonbeam-LOCAL-xcDOT___polkadot",
+      "transfer.xcm___astar-LOCAL-DOT___polkadot",
+      "transfer.xcm___bifrost_dot-LOCAL-DOT___polkadot",
+      "transfer.xcm___hydradx_main-LOCAL-DOT___polkadot",
+      "transfer.xcm___manta_network-LOCAL-DOT___polkadot"
     ],
     "send_nft": [],
     "swap": [
