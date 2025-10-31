@@ -39,7 +39,9 @@
     "staking.cancel_unstake": [],
     "earn.join_pool": [],
     "earn.mint_vdot": [],
-    "earn.mint_ldot": [],
+    "earn.mint_ldot": [
+      "earn.mint_ldot___DOT___liquid_staking___acala"
+    ],
     "earn.mint_sdot": [],
     "earn.mint_qdot": [],
     "earn.mint_stdot": [],
