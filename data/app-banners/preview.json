@@ -267,7 +267,7 @@
       "name": "VARA Campaign - Mobile 2",
       "description": null,
       "start_time": "2024-11-02T17:00:00.000Z",
-      "stop_time": "2025-11-03T11:30:00.000Z",
+      "stop_time": "2024-11-03T11:30:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -1350,6 +1350,50 @@
       "id": 101,
       "confirm_label": "Learn more",
       "cancel_label": "Dismiss",
+      "instruction_id": 41,
+      "group": null,
+      "slug": "Vara_Campaign_Mobile - 3"
+    }
+  },
+  {
+    "id": 126,
+    "position": "token_detail",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
+    "info": {
+      "id": 212,
+      "name": "VARA Campaign - Mobile 2",
+      "description": null,
+      "start_time": "2025-11-02T17:00:00.000Z",
+      "stop_time": "2025-11-03T11:30:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 186,
+      "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "vara_network-NATIVE-VARA"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 102,
+      "confirm_label": "Play",
+      "cancel_label": "Cancel",
       "instruction_id": 41,
       "group": null,
       "slug": "Vara_Campaign_Mobile - 3"
