@@ -320,7 +320,7 @@
       "cancel_label": "Cancel",
       "instruction_id": 41,
       "group": null,
-      "slug": "Vara_Campaign_Mobile - 2"
+      "slug": "Vara_Campaign_Mobile - 3"
     }
   },
   {
@@ -1310,5 +1310,49 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 125,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Asset_Hub_Migration_extension_2_165c155f92.png",
+    "info": {
+      "id": 211,
+      "name": "Mobile - Asset Hub Migration",
+      "description": null,
+      "start_time": "2025-11-02T17:00:00.000Z",
+      "stop_time": "2025-11-03T11:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 185,
+      "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "statemine-NATIVE-KSM"
+      }
+    ],
+    "conditions": {},
+    "instruction": {
+      "id": 101,
+      "confirm_label": "Learn more",
+      "cancel_label": "Dismiss",
+      "instruction_id": 41,
+      "group": null,
+      "slug": "Vara_Campaign_Mobile - 3"
+    }
   }
 ]
