@@ -1368,7 +1368,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "> - #### The Polkadot Asset Hub migration will begin at around **07:00 UTC on November 4, 2025**, and will take about **6 hours** to complete. <br/> &ensp;\n> - #### Once completed, **your DOT balances and most features (staking, governance, etc.) will be migrated from Polkadot to Polkadot Asset Hub**.<br/> &ensp;\n> - #### The process is automatic, and **your funds will remain safe**. <br/>\n\n--- \n&ensp;\nClick “Learn more” to view full migration details.",
+    "content": "> - #### The Polkadot Asset Hub migration will begin at around **07:00 UTC on November 4, 2025**, and will take about **6 hours** to complete. <br/> &ensp;\n> - #### Once completed, **your DOT balances and most features (staking, governance, etc.) will be migrated from Polkadot to Polkadot Asset Hub**.<br/> &ensp;\n> - #### The process is automatic, and **your funds will remain safe**. <br/>\n\n--- \n&ensp;\n#### Click “Learn more” to view full migration details.",
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
