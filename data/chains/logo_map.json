@@ -370,5 +370,7 @@
   "xode": "https://static-data.subwallet.app/chains/images/icon/xode_polkadot_f16b0acb5e.png",
   "chronos_consensus": "https://static-data.subwallet.app/chains/images/icon/autonomys_0933580a2d.png",
   "chronos_auto": "https://static-data.subwallet.app/chains/images/icon/autonomys_0933580a2d.png",
-  "redstone": null
+  "redstone": null,
+  "zkverify": "https://static-data.subwallet.app/chains/images/icon/Color_1_2343836c63.png",
+  "vflow": "https://static-data.subwallet.app/chains/images/icon/vflow_a2130c16d9.png"
 }

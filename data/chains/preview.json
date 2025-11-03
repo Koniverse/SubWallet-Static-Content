@@ -172,7 +172,6 @@
       "Blast": "wss://moonbeam.public.blastapi.io",
       "OnFinality": "wss://moonbeam.api.onfinality.io/public-ws",
       "Allnodes": "wss://moonbeam-rpc.publicnode.com",
-      "Dwellir": "wss://moonbeam-rpc.n.dwellir.com",
       "IBP1": "wss://moonbeam.ibp.network",
       "IBP2": "wss://moonbeam.dotters.network"
     },
@@ -1046,7 +1045,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbase_493ce13342.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbase.moonbeam.network",
-      "Dwellir": "wss://moonbase-rpc.dwellir.com",
       "RadiumBlock": "wss://moonbase.public.curie.radiumblock.co/ws",
       "UnitedBloc": "wss://moonbase.unitedbloc.com"
     },
@@ -1096,7 +1094,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonriver_06b4e41abc.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonriver.moonbeam.network",
-      "Dwellir 2": "wss://moonriver-rpc.n.dwellir.com",
       "OnFinality": "wss://moonriver.api.onfinality.io/public-ws",
       "UnitedBloc": "wss://moonriver.unitedbloc.com"
     },
@@ -2467,7 +2464,7 @@
       "relaySlug": "polkadot",
       "paraId": 2008,
       "genesisHash": "0x4319cc49ee79495b57a1fec4d2bd43f59052dcc690276de566c2691d6df4f7b8",
-      "addressPrefix": 88,
+      "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": "https://polkadot.js.org/apps/#/parachains/crowdloan",
       "blockExplorer": "https://crust-parachain.subscan.io/",
@@ -4249,7 +4246,7 @@
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
       "blockExplorer": "https://neuroweb.subscan.io/",
-      "existentialDeposit": "1000000000000",
+      "existentialDeposit": "100000000000",
       "symbol": "NEURO",
       "decimals": 12,
       "hasNativeNft": false,
@@ -13334,6 +13331,89 @@
     },
     "substrateInfo": null,
     "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "zkverify",
+    "name": "zkVerify",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/Color_1_2343836c63.png",
+    "providers": {
+      "zkVerify": "wss://zkverify-rpc.zkverify.io"
+    },
+    "evmInfo": null,
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": null,
+      "genesisHash": "0x060e3dd3fa2904d031206bb913c954687a2bcc350e5a83d33d9e273ad21460f1",
+      "addressPrefix": 8741,
+      "chainType": "RELAYCHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://zkverify.subscan.io/",
+      "existentialDeposit": "10000000000000000",
+      "symbol": "VFY",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "zkverify",
+      "chainBalanceSlug": "zkverify"
+    },
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "vflow",
+    "name": "VFlow",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/vflow_a2130c16d9.png",
+    "providers": {
+      "zkVerify": "wss://vflow-rpc.zkverify.io"
+    },
+    "evmInfo": {
+      "evmChainId": 1408,
+      "blockExplorer": "https://vflow.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "VFY",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": {
+      "relaySlug": null,
+      "paraId": 1,
+      "genesisHash": "0xf512a4b3308b4d5d6a2609e814d2bb5e5070c89dd21af63f6e01a72a286913e4",
+      "addressPrefix": 0,
+      "chainType": "PARACHAIN",
+      "crowdloanUrl": null,
+      "blockExplorer": "https://vflow.subscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "VFY",
+      "decimals": 18,
+      "hasNativeNft": null,
+      "supportStaking": null,
+      "supportSmartContract": null,
+      "crowdloanParaId": null,
+      "crowdloanFunds": []
+    },
+    "extraInfo": {
+      "subscanSlug": "vflow",
+      "chainBalanceSlug": "vflow"
+    },
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
