@@ -1394,9 +1394,9 @@
       "id": 102,
       "confirm_label": "Play",
       "cancel_label": "Cancel",
-      "instruction_id": 41,
+      "instruction_id": 39,
       "group": null,
-      "slug": "Vara_Campaign_Mobile - 3"
+      "slug": "Vara_Campaign"
     }
   }
 ]
