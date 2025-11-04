@@ -6,7 +6,6 @@
     "transfer.xcm": [
       "transfer.xcm___statemine-NATIVE-KSM___kusama",
       "transfer.xcm___bifrost-LOCAL-KSM___kusama",
-      "transfer.xcm___ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2___statemint",
       "transfer.xcm___statemint-LOCAL-WETH___ethereum"
     ],
     "send_nft": [],
