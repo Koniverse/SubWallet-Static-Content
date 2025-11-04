@@ -1430,7 +1430,7 @@
       "id": 209,
       "name": "DOT migration alert!",
       "description": null,
-      "start_time": "2025-11-04T04:00:00.000Z",
+      "start_time": "2025-11-04T05:00:00.000Z",
       "stop_time": "2025-11-04T14:00:00.000Z",
       "platforms": [
         "extension"
