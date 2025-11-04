@@ -1368,7 +1368,7 @@
     "priority": 1,
     "position": "token",
     "repeat": "once",
-    "content": "![In-App Banner – Polkadot Asset Hub Migration (extension).png](https://content.subwallet.app/uploads/In_App_Banner_Polkadot_Asset_Hub_Migration_extension_a30be50a76.png)\n> - #### The Polkadot Asset Hub migration will begin at around **07:00 UTC on November 4, 2025**, and will take about **6 hours** to complete. <br/> &ensp;\n> - #### Once completed, **your DOT balances and most features (staking, governance, etc.) will be migrated from Polkadot to Polkadot Asset Hub**.<br/> &ensp;\n> - #### The process is automatic, and **your funds will remain safe**. <br/>\n\n--- \n&ensp;\n#### Click “Learn more” to view full migration details.",
+    "content": "![In-App Banner – Polkadot Asset Hub Migration (mobile).png](https://content.subwallet.app/uploads/In_App_Banner_Polkadot_Asset_Hub_Migration_mobile_93f5153897.png)\n> - #### The Polkadot Asset Hub migration will begin at around **07:00 UTC on November 4, 2025**, and will take about **6 hours** to complete. <br/> &ensp;\n> - #### Once completed, **your DOT balances and most features (staking, governance, etc.) will be migrated from Polkadot to Polkadot Asset Hub**.<br/> &ensp;\n> - #### The process is automatic, and **your funds will remain safe**. <br/>\n\n--- \n&ensp;\n#### Click “Learn more” to view full migration details.",
     "repeat_every_x_days": null,
     "locations": null,
     "comparison_operator": null,
