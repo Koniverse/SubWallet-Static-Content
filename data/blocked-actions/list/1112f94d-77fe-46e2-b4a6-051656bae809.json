@@ -16,7 +16,9 @@
       "transfer.xcm___astar-LOCAL-DOT___polkadot",
       "transfer.xcm___bifrost_dot-LOCAL-DOT___polkadot",
       "transfer.xcm___hydradx_main-LOCAL-DOT___polkadot",
-      "transfer.xcm___manta_network-LOCAL-DOT___polkadot"
+      "transfer.xcm___manta_network-LOCAL-DOT___polkadot",
+      "transfer.xcm___ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2___statemint",
+      "transfer.xcm___statemint-LOCAL-WETH___ethereum"
     ],
     "send_nft": [],
     "swap": [
