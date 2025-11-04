@@ -540,7 +540,7 @@
           "cancel_label": "Cancel",
           "instruction_id": 41,
           "group": null,
-          "slug": "Vara_Campaign_Mobile - 2"
+          "slug": "Vara_Campaign_Mobile - 3"
         },
         "action": {
           "id": 114,
@@ -1374,7 +1374,7 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": null,
+    "media": "https://static-data.subwallet.app/app-popups/images/media/In_App_Banner_Polkadot_Asset_Hub_Migration_extension_a30be50a76.png",
     "position_params": [],
     "info": {
       "id": 208,
