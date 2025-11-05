@@ -1,5 +1,6 @@
 {
   "westend": "westend_assethub",
   "paseoTest": "paseo_assethub",
-  "kusama": "statemine"
+  "kusama": "statemine",
+  "polkadot": "statemint"
 }
