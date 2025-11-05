@@ -5,7 +5,7 @@
   },
   "statemint": {
     "maxCount": 3,
-    "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,157oKjCPSHzn4Qb6ECEgpnwAqyaYCwbPqsei61UP3B5fM8Mx,15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
+    "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,157oKjCPSHzn4Qb6ECEgpnwAqyaYCwbPqsei61UP3B5fM8Mx"
   },
   "statemine": {
     "maxCount": 2,
