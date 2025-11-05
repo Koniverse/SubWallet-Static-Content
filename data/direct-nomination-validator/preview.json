@@ -3,10 +3,6 @@
     "maxCount": 2,
     "preSelectValidators": "5FjdibsxmNFas5HWcT2i1AXbpfgiNfWqezzo88H2tskxWdt2,5Fojgh3MTLRnphRgKdbthSa8qwG7VtmXW6JrqBQHtdcHW7Th"
   },
-  "polkadot": {
-    "maxCount": 3,
-    "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,157oKjCPSHzn4Qb6ECEgpnwAqyaYCwbPqsei61UP3B5fM8Mx,15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
-  },
   "statemint": {
     "maxCount": 3,
     "preSelectValidators": "13Nd71b9XLWNptAcSgesGMKJctpm1uLjZBWDfVdeA6oyXdg6,157oKjCPSHzn4Qb6ECEgpnwAqyaYCwbPqsei61UP3B5fM8Mx,15kUVkFJ5uhceNQgasqyuBqMceJENAepZxz4mMxJryS8K4BW"
