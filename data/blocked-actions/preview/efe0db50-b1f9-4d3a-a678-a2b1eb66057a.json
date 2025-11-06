@@ -5,9 +5,7 @@
       "transfer.balance___autonomys-NATIVE-AI3"
     ],
     "transfer.token": [],
-    "transfer.xcm": [
-      "transfer.xcm___polkadot-NATIVE-DOT___parallel"
-    ],
+    "transfer.xcm": [],
     "send_nft": [],
     "swap": [],
     "staking.join_pool": [],
