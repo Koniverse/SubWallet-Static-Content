@@ -4,10 +4,7 @@
   "blockedActionsMap": {
     "transfer.balance": [],
     "transfer.token": [],
-    "transfer.xcm": [
-      "transfer.xcm___statemine-NATIVE-KSM___kusama",
-      "transfer.xcm___bifrost-LOCAL-KSM___kusama"
-    ],
+    "transfer.xcm": [],
     "send_nft": [],
     "swap": [
       "swap___polkadot-NATIVE-DOT___ethereum-NATIVE-ETH___CHAIN_FLIP_MAINNET",
