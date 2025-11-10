@@ -59,5 +59,10 @@
   "phala",
   "polkadot_coretime",
   "quartz",
-  "unique_network"
+  "unique_network",
+  "passetHub",
+  "zeitgeist",
+  "regionx_kusama",
+  "zkverify",
+  "vflow"
 ]
