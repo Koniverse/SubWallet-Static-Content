@@ -372,5 +372,6 @@
   "chronos_auto": "https://static-data.subwallet.app/chains/images/icon/autonomys_0933580a2d.png",
   "redstone": null,
   "zkverify": "https://static-data.subwallet.app/chains/images/icon/Color_1_2343836c63.png",
-  "vflow": "https://static-data.subwallet.app/chains/images/icon/vflow_a2130c16d9.png"
+  "vflow": "https://static-data.subwallet.app/chains/images/icon/vflow_a2130c16d9.png",
+  "acurast_mainnet": "https://static-data.subwallet.app/chains/images/icon/Logo_2_3b67bbf296.png"
 }
