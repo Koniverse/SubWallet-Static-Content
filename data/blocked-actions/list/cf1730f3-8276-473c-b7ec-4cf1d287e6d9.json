@@ -6,20 +6,10 @@
       "transfer.token___story_protocol-ERC20-ARIAIP-0xC9cbbD8f211300Dd0e7a3933b7AeEdAC6F61Dd52"
     ],
     "transfer.xcm": [
-      "transfer.xcm___statemine-NATIVE-KSM___kusama",
-      "transfer.xcm___bifrost-LOCAL-KSM___kusama",
-      "transfer.xcm___statemine-NATIVE-KSM___statemint",
       "transfer.xcm___manta_network-NATIVE-MANTA___moonbeam",
       "transfer.xcm___manta_network-NATIVE-MANTA___bifrost_dot",
-      "transfer.xcm___statemint-NATIVE-DOT___polkadot",
-      "transfer.xcm___acala-LOCAL-DOT___polkadot",
-      "transfer.xcm___moonbeam-LOCAL-xcDOT___polkadot",
       "transfer.xcm___astar-LOCAL-DOT___polkadot",
-      "transfer.xcm___bifrost_dot-LOCAL-DOT___polkadot",
-      "transfer.xcm___hydradx_main-LOCAL-DOT___polkadot",
       "transfer.xcm___manta_network-LOCAL-DOT___polkadot",
-      "transfer.xcm___ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2___statemint",
-      "transfer.xcm___statemint-LOCAL-WETH___ethereum"
     ],
     "send_nft": [],
     "swap": [
