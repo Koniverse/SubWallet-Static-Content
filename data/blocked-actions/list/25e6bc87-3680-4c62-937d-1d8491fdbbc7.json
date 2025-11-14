@@ -2,9 +2,7 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [],
-    "transfer.token": [
-      "transfer.token___story_protocol-ERC20-ARIAIP-0xC9cbbD8f211300Dd0e7a3933b7AeEdAC6F61Dd52"
-    ],
+    "transfer.token": [],
     "transfer.xcm": [
       "transfer.xcm___statemine-NATIVE-KSM___kusama",
       "transfer.xcm___bifrost-LOCAL-KSM___kusama",
