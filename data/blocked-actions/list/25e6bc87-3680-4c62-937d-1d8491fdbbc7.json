@@ -7,7 +7,7 @@
       "transfer.xcm___manta_network-NATIVE-MANTA___moonbeam",
       "transfer.xcm___manta_network-NATIVE-MANTA___bifrost_dot",
       "transfer.xcm___astar-LOCAL-DOT___polkadot",
-      "transfer.xcm___manta_network-LOCAL-DOT___polkadot",
+      "transfer.xcm___manta_network-LOCAL-DOT___polkadot"
     ],
     "send_nft": [],
     "swap": [
