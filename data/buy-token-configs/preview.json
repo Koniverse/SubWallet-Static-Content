@@ -78,6 +78,12 @@
         "symbol": "AVAX",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "AVAX-C",
+        "symbol": "AVAX",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "avalanche_c",
@@ -926,6 +932,12 @@
         "symbol": "MNT",
         "isSuspended": false,
         "supportSell": false
+      },
+      "banxa": {
+        "network": "MNT",
+        "symbol": "MNT",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "mantle",
@@ -1034,20 +1046,7 @@
     "support": "SUBSTRATE"
   },
   {
-    "serviceInfo": {
-      "meld": {
-        "network": "KILT",
-        "symbol": "KILT",
-        "isSuspended": false,
-        "supportSell": null
-      },
-      "banxa": {
-        "network": "KILT",
-        "symbol": "KILT",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
+    "serviceInfo": {},
     "network": "kilt",
     "slug": "kilt-NATIVE-KILT",
     "symbol": "KILT",
@@ -1314,14 +1313,7 @@
     "support": "SUBSTRATE"
   },
   {
-    "serviceInfo": {
-      "banxa": {
-        "network": "PLMC",
-        "symbol": "PLMC",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
+    "serviceInfo": {},
     "network": "polimec",
     "slug": "polimec-NATIVE-PLMC",
     "symbol": "PLMC",
@@ -1356,6 +1348,12 @@
         "supportSell": false
       },
       "meld": {
+        "network": "ADA",
+        "symbol": "ADA",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "banxa": {
         "network": "ADA",
         "symbol": "ADA",
         "isSuspended": false,
@@ -1418,6 +1416,12 @@
         "supportSell": true
       },
       "meld": {
+        "network": "TON",
+        "symbol": "TON",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "banxa": {
         "network": "TON",
         "symbol": "TON",
         "isSuspended": false,
@@ -1501,6 +1505,132 @@
     "network": "peaq_evm",
     "slug": "peaq_evm-NATIVE-PEAQ",
     "symbol": "PEAQ",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "TON",
+        "symbol": "USDT",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "ton",
+    "slug": "ton-TEP74-USD₮-EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "symbol": "USD₮",
+    "support": "TON"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "HDX",
+        "symbol": "USDT",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "hydradx_main",
+    "slug": "hydradx_main-LOCAL-USDT",
+    "symbol": "USDT",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "BNCPOLKA",
+        "symbol": "USDT",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "bifrost_dot",
+    "slug": "bifrost_dot-LOCAL-USDT",
+    "symbol": "USDT",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "HDX",
+        "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "hydradx_main",
+    "slug": "hydradx_main-LOCAL-USDC",
+    "symbol": "USDC",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "HDX",
+        "symbol": "DOT",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "hydradx_main",
+    "slug": "hydradx_main-LOCAL-DOT",
+    "symbol": "DOT",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "BNCPOLKA",
+        "symbol": "DOT",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "bifrost_dot",
+    "slug": "bifrost_dot-LOCAL-DOT",
+    "symbol": "DOT",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "S",
+        "symbol": "S",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "sonic",
+    "slug": "sonic-NATIVE-S",
+    "symbol": "S",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "MYTH",
+        "symbol": "MYTH",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "mythos",
+    "slug": "mythos-NATIVE-MYTH",
+    "symbol": "MYTH",
+    "support": "ETHEREUM"
+  },
+  {
+    "serviceInfo": {
+      "banxa": {
+        "network": "PEAQ-EVM",
+        "symbol": "USDC",
+        "isSuspended": false,
+        "supportSell": false
+      }
+    },
+    "network": "peaq_evm",
+    "slug": "peaq_evm-ERC20-USDC-0xbbA60da06c2c5424f03f7434542280FCAd453d10",
+    "symbol": "USDC",
     "support": "ETHEREUM"
   }
 ]
