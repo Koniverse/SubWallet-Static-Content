@@ -2,11 +2,11 @@
   {
     "id": 98,
     "name": "Earn from 210M PEAQ pool with peaq’s Get Real Season 2",
-    "status": "live",
+    "status": "archived",
     "ordinal": 37,
     "description": "Get Real Season 2 is here\nGet rewarded for creating real-world value by using apps on peaq\nTotal campaign reward pool: 210,000,000 $PEAQ\nBegin → https://get-real.peaq.xyz",
     "start_time": "2025-09-16T06:00:00.000Z",
-    "end_time": null,
+    "end_time": "2025-10-16T06:00:00.000Z",
     "url": "https://portal.peaq.xyz/?ref=ulG4rYVZG",
     "twitter_url": "https://x.com/peaq",
     "reward": "210M PEAQ",
@@ -286,13 +286,7 @@
     "chains": [
       "hydradx_main"
     ],
-    "categories": [
-      {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      }
-    ]
+    "categories": []
   },
   {
     "id": 88,
@@ -957,11 +951,6 @@
     ],
     "categories": [
       {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      },
-      {
         "color": "magenta",
         "name": "Gaming",
         "slug": "gaming"
@@ -1024,13 +1013,7 @@
     "chains": [
       "moonbeam"
     ],
-    "categories": [
-      {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      }
-    ]
+    "categories": []
   },
   {
     "id": 27,
@@ -1113,13 +1096,7 @@
     "chains": [
       "statemint"
     ],
-    "categories": [
-      {
-        "color": "lime",
-        "name": "Meme",
-        "slug": "meme"
-      }
-    ]
+    "categories": []
   },
   {
     "id": 39,
