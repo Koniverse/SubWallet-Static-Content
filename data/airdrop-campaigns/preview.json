@@ -20,8 +20,8 @@
     "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
     "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/image_827c07f0c8.png",
     "chains": [
-      "tanssi",
-      "dancelight"
+      "dancelight",
+      "tanssi"
     ],
     "categories": [
       {
