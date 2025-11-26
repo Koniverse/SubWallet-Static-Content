@@ -3212,6 +3212,28 @@
     ]
   },
   {
+    "id": 212,
+    "title": "Energy Web Bridge",
+    "description": "Seamlessly transfer EWT between Energy Web Chain, Energy Web X, and Ethereum networks using our secure, trustless bridge protocol.",
+    "url": "https://bridging.energywebx.com/bridge",
+    "subtitle": "Energy Web’s secure, trustless bridge protocol",
+    "is_substrate": null,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 1350,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/energy_web_x_testnet_89fd545f06.png",
+    "preview_image": null,
+    "chains": [
+      "energy_web_x",
+      "energy_web_chain",
+      "ethereum"
+    ],
+    "categories": [
+      "bridge"
+    ]
+  },
+  {
     "id": 210,
     "title": "WUD Universe",
     "description": "Build and upgrade your on-chain cabin. Equip dynamic NFTs, open Mystery Boxes, and collect limited drops. ",
