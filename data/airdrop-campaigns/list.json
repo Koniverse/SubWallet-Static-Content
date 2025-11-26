@@ -1,5 +1,37 @@
 [
   {
+    "id": 99,
+    "name": "Join Tanssi Let’s Forkin’ Dance Season 3 campaign",
+    "status": "live",
+    "ordinal": 36,
+    "description": "Season 3 marks a new phase for Tanssi: the network is live, mainnet is running, and every interaction now carries on-chain weight. What began as a campaign to test and expand the Tanssi ecosystem has now become a system of measurable traction, connecting community, builders, and creators in a live, verifiable growth loop.\n\nThe campaign officially starts on Wednesday, December 3, with early access opening on Tuesday, November 25, for participants holding an Early Bird or OG Pass role on Discord.\n\nEverything in Let’s Forkin’ Dance Season 3 runs through the LFD dashboard, a live on-chain map that connects all parts of the campaign. Participants can see their quests, progress, points, and collectibles in one place, with each area representing a core layer of the Tanssi ecosystem.",
+    "start_time": "2025-11-24T17:00:00.000Z",
+    "end_time": null,
+    "url": "https://lfd.tanssi.network/",
+    "twitter_url": "https://twitter.com/TanssiNetwork",
+    "reward": null,
+    "total_winner": null,
+    "total_supply": null,
+    "tags": [
+      "manual_selection"
+    ],
+    "campaign_url": "https://www.tanssi.network/",
+    "project_id": null,
+    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/image_827c07f0c8.png",
+    "chains": [
+      "dancelight",
+      "tanssi"
+    ],
+    "categories": [
+      {
+        "color": "cyan",
+        "name": "DeFi",
+        "slug": "defi"
+      }
+    ]
+  },
+  {
     "id": 98,
     "name": "Earn from 210M PEAQ pool with peaq’s Get Real Season 2",
     "status": "archived",
