@@ -13154,5 +13154,64 @@
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
+  },
+  {
+    "slug": "stable_testnet",
+    "name": "Stable Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "/uploads/stable_a10e9693a3.png",
+    "providers": {
+      "JsonRPC": "https://stable-jsonrpc.testnet.chain0.dev/",
+      "Stable": "https://stable-jsonrpc-ar.testnet.chain0.dev/"
+    },
+    "evmInfo": {
+      "evmChainId": 2201,
+      "blockExplorer": "https://stable-explorer.testnet.chain0.dev/",
+      "existentialDeposit": "0",
+      "symbol": "USDT",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "stable",
+    "name": "Stable Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "/uploads/stable_a10e9693a3.png",
+    "providers": {
+      "Stable": "https://rpc.stable.xyz/",
+      "Omega": "https://omega-13.gateway.tenderly.co/7i0nzTPHGfvTsYnBMIsYiB",
+      "Alchemy": "https://stable-mainnet.g.alchemy.com/v2/2d45oQFoYQ7J_y9lDXwog"
+    },
+    "evmInfo": {
+      "evmChainId": 988,
+      "blockExplorer": "https://partners-explorer.stable.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "gUSDT",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
   }
 ]
