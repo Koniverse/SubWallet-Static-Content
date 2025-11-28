@@ -228,14 +228,14 @@
   "paseoTest": "https://static-data.subwallet.app/chains/images/icon/Property_1_light_3565d58599.png",
   "commune": "https://static-data.subwallet.app/chains/images/icon/commune_ai_d1b24f0f3f.png",
   "dbcchain": "https://static-data.subwallet.app/chains/images/icon/deepbrain_chain_2296ab9a21.png",
-  "availTuringTest": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+  "availTuringTest": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
   "bitlayer": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
   "bitlayerTest": "https://static-data.subwallet.app/chains/images/icon/bitlayer_2cf64919f5.png",
   "bevm": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
   "bevmTest": "https://static-data.subwallet.app/chains/images/icon/bevm_610aea8f62.png",
   "b2": "https://static-data.subwallet.app/chains/images/icon/bsquare_network_6792f90342.png",
   "bobMainnet": "https://static-data.subwallet.app/chains/images/icon/build_on_bitcoin_de3e635d9f.png",
-  "avail_mainnet": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+  "avail_mainnet": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
   "merlinEvm": "https://static-data.subwallet.app/chains/images/icon/merlin_chain_a885212729.png",
   "botanixEvmTest": "https://static-data.subwallet.app/chains/images/icon/botanix_0f189648f7.png",
   "curio": "https://static-data.subwallet.app/chains/images/icon/curio_8150848526.png",
@@ -373,5 +373,7 @@
   "redstone": null,
   "zkverify": "https://static-data.subwallet.app/chains/images/icon/Color_1_2343836c63.png",
   "vflow": "https://static-data.subwallet.app/chains/images/icon/vflow_a2130c16d9.png",
-  "acurast_mainnet": "https://static-data.subwallet.app/chains/images/icon/Logo_2_3b67bbf296.png"
+  "acurast_mainnet": "https://static-data.subwallet.app/chains/images/icon/Logo_2_3b67bbf296.png",
+  "monad": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
+  "stable": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png"
 }

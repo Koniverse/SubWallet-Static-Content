@@ -9151,7 +9151,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
     "providers": {
       "Avail Turing ": "wss://turing-rpc.avail.so/ws",
       "Ankr": "wss://turing-testnet.avail-rpc.com/",
@@ -9364,7 +9364,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
     "providers": {
       "Ankr": "wss://mainnet.avail-rpc.com/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
@@ -13681,6 +13681,66 @@
       "supportProxy": true,
       "crowdloanFunds": []
     },
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "monad",
+    "name": "Monad Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
+    "providers": {
+      "MonadRPC": "https://rpc.monad.xyz/",
+      "MonadRPC1": "https://rpc1.monad.xyz/",
+      "MonadRPC3": "https://rpc3.monad.xyz/",
+      "Monadinfra": "https://rpc-mainnet.monadinfra.com/"
+    },
+    "evmInfo": {
+      "evmChainId": 143,
+      "blockExplorer": "https://monadvision.com/",
+      "existentialDeposit": "0",
+      "symbol": "MON",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
+  },
+  {
+    "slug": "stable",
+    "name": "Stable Mainnet",
+    "isTestnet": false,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
+    "providers": {
+      "Stable": "https://rpc.stable.xyz/",
+      "Omega": "https://omega-13.gateway.tenderly.co/7i0nzTPHGfvTsYnBMIsYiB"
+    },
+    "evmInfo": {
+      "evmChainId": 988,
+      "blockExplorer": "https://partners-explorer.stable.xyz/",
+      "existentialDeposit": "0",
+      "symbol": "gUSDT",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
     "extraInfo": null,
     "bitcoinInfo": null,
     "tonInfo": null,
