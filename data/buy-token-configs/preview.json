@@ -1008,6 +1008,20 @@
   {
     "serviceInfo": {
       "meld": {
+        "network": "HDX",
+        "symbol": "HDX",
+        "isSuspended": false,
+        "supportSell": null
+      }
+    },
+    "network": "hydradx_main",
+    "slug": "hydradx_main-NATIVE-HDX",
+    "symbol": "HDX",
+    "support": "SUBSTRATE"
+  },
+  {
+    "serviceInfo": {
+      "meld": {
         "network": "BSX",
         "symbol": "BSX",
         "isSuspended": false,
