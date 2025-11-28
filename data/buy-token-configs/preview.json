@@ -1040,13 +1040,6 @@
     "support": "SUBSTRATE"
   },
   {
-    "serviceInfo": {},
-    "network": "kilt",
-    "slug": "kilt-NATIVE-KILT",
-    "symbol": "KILT",
-    "support": "SUBSTRATE"
-  },
-  {
     "serviceInfo": {
       "meld": {
         "network": "BNCPOLKA",
@@ -1304,13 +1297,6 @@
     "network": "polymesh",
     "slug": "polymesh-NATIVE-POLYX",
     "symbol": "POLYX",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {},
-    "network": "polimec",
-    "slug": "polimec-NATIVE-PLMC",
-    "symbol": "PLMC",
     "support": "SUBSTRATE"
   },
   {

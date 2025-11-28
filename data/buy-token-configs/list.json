@@ -64,6 +64,12 @@
         "symbol": "AVAX",
         "isSuspended": false,
         "supportSell": null
+      },
+      "banxa": {
+        "network": "AVAX-C",
+        "symbol": "AVAX",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "avalanche_c",
@@ -912,6 +918,12 @@
         "symbol": "MNT",
         "isSuspended": false,
         "supportSell": false
+      },
+      "banxa": {
+        "network": "MNT",
+        "symbol": "MNT",
+        "isSuspended": false,
+        "supportSell": false
       }
     },
     "network": "mantle",
@@ -986,12 +998,6 @@
         "symbol": "HDX",
         "isSuspended": false,
         "supportSell": null
-      },
-      "banxa": {
-        "network": "HDX",
-        "symbol": "HDX",
-        "isSuspended": false,
-        "supportSell": false
       }
     },
     "network": "hydradx_main",
@@ -1017,26 +1023,6 @@
     "network": "basilisk",
     "slug": "basilisk-NATIVE-BSX",
     "symbol": "BSX",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "meld": {
-        "network": "KILT",
-        "symbol": "KILT",
-        "isSuspended": false,
-        "supportSell": null
-      },
-      "banxa": {
-        "network": "KILT",
-        "symbol": "KILT",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "kilt",
-    "slug": "kilt-NATIVE-KILT",
-    "symbol": "KILT",
     "support": "SUBSTRATE"
   },
   {
@@ -1301,20 +1287,6 @@
   },
   {
     "serviceInfo": {
-      "banxa": {
-        "network": "PLMC",
-        "symbol": "PLMC",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "polimec",
-    "slug": "polimec-NATIVE-PLMC",
-    "symbol": "PLMC",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
       "coinbase": {
         "network": "bittensor",
         "symbol": "TAO",
@@ -1342,6 +1314,12 @@
         "supportSell": false
       },
       "meld": {
+        "network": "ADA",
+        "symbol": "ADA",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "banxa": {
         "network": "ADA",
         "symbol": "ADA",
         "isSuspended": false,
@@ -1404,6 +1382,12 @@
         "supportSell": true
       },
       "meld": {
+        "network": "TON",
+        "symbol": "TON",
+        "isSuspended": false,
+        "supportSell": false
+      },
+      "banxa": {
         "network": "TON",
         "symbol": "TON",
         "isSuspended": false,
