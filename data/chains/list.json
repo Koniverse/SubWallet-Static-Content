@@ -9151,7 +9151,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
     "providers": {
       "Avail Turing ": "wss://turing-rpc.avail.so/ws",
       "Ankr": "wss://turing-testnet.avail-rpc.com/",
@@ -9364,7 +9364,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
     "providers": {
       "Ankr": "wss://mainnet.avail-rpc.com/",
       "BrightlyStake": "wss://avail-us.brightlystake.com/",
