@@ -1008,26 +1008,6 @@
   {
     "serviceInfo": {
       "meld": {
-        "network": "HDX",
-        "symbol": "HDX",
-        "isSuspended": false,
-        "supportSell": null
-      },
-      "banxa": {
-        "network": "HDX",
-        "symbol": "HDX",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "hydradx_main",
-    "slug": "hydradx_main-NATIVE-HDX",
-    "symbol": "HDX",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "meld": {
         "network": "BSX",
         "symbol": "BSX",
         "isSuspended": false,
@@ -1524,20 +1504,6 @@
   {
     "serviceInfo": {
       "banxa": {
-        "network": "HDX",
-        "symbol": "USDT",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "hydradx_main",
-    "slug": "hydradx_main-LOCAL-USDT",
-    "symbol": "USDT",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
         "network": "BNCPOLKA",
         "symbol": "USDT",
         "isSuspended": false,
@@ -1547,34 +1513,6 @@
     "network": "bifrost_dot",
     "slug": "bifrost_dot-LOCAL-USDT",
     "symbol": "USDT",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "HDX",
-        "symbol": "USDC",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "hydradx_main",
-    "slug": "hydradx_main-LOCAL-USDC",
-    "symbol": "USDC",
-    "support": "SUBSTRATE"
-  },
-  {
-    "serviceInfo": {
-      "banxa": {
-        "network": "HDX",
-        "symbol": "DOT",
-        "isSuspended": false,
-        "supportSell": false
-      }
-    },
-    "network": "hydradx_main",
-    "slug": "hydradx_main-LOCAL-DOT",
-    "symbol": "DOT",
     "support": "SUBSTRATE"
   },
   {
