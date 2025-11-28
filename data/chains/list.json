@@ -13161,7 +13161,7 @@
     "isTestnet": true,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "/uploads/stable_a10e9693a3.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
     "providers": {
       "JsonRPC": "https://stable-jsonrpc.testnet.chain0.dev/",
       "Stable": "https://stable-jsonrpc-ar.testnet.chain0.dev/"
@@ -13190,7 +13190,7 @@
     "isTestnet": false,
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
-    "icon": "/uploads/stable_a10e9693a3.png",
+    "icon": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
     "providers": {
       "Stable": "https://rpc.stable.xyz/",
       "Omega": "https://omega-13.gateway.tenderly.co/7i0nzTPHGfvTsYnBMIsYiB",
