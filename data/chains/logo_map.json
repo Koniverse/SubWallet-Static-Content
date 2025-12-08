@@ -375,5 +375,6 @@
   "vflow": "https://static-data.subwallet.app/chains/images/icon/vflow_a2130c16d9.png",
   "acurast_mainnet": "https://static-data.subwallet.app/chains/images/icon/Logo_2_3b67bbf296.png",
   "monad": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
-  "stable": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png"
+  "stable": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
+  "mosaic": "https://static-data.subwallet.app/chains/images/icon/mosaic_e8feed24d7.png"
 }
