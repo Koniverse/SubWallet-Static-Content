@@ -13700,8 +13700,8 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
     "providers": {
       "Stable": "https://rpc.stable.xyz/",
-      "Omega": "https://omega-13.gateway.tenderly.co/7i0nzTPHGfvTsYnBMIsYiB",
-      "Alchemy": "https://stable-mainnet.g.alchemy.com/v2/2d45oQFoYQ7J_y9lDXwog"
+      "Alchemy": "https://stable-mainnet.g.alchemy.com/v2/2d45oQFoYQ7J_y9lDXwog",
+      "Tenderly": "https://stable.gateway.tenderly.co/"
     },
     "evmInfo": {
       "evmChainId": 988,
