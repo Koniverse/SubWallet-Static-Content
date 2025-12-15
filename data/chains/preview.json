@@ -671,7 +671,8 @@
     "ordinal": 17,
     "icon": "https://static-data.subwallet.app/chains/images/icon/shiden_080092bcde.png",
     "providers": {
-      "Astar": "wss://rpc.shiden.astar.network"
+      "Astar": "wss://rpc.shiden.astar.network",
+      "OnFinality": "wss://shiden.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -13705,7 +13706,7 @@
     },
     "evmInfo": {
       "evmChainId": 988,
-      "blockExplorer": "https://partners-explorer.stable.xyz/",
+      "blockExplorer": "https://stablescan.xyz/",
       "existentialDeposit": "0",
       "symbol": "gUSDT",
       "decimals": 18,
@@ -13750,7 +13751,7 @@
       "addressPrefix": 0,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "https://mainnet-gw2.mosaicchain.io/",
+      "blockExplorer": "https://mainnet-explorer.mosaicchain.io/",
       "existentialDeposit": "10000000000000000",
       "symbol": "MOS",
       "decimals": 18,

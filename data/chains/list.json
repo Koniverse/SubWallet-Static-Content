@@ -283,7 +283,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
       "Aleph Zero Foundation": "wss://ws.azero.dev",
-      "Onfinality": "wss://aleph-zero.api.onfinality.io/public-ws"
+      "Azero Fans": "wss://mainnet.azero.fans"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -380,8 +380,7 @@
     "providers": {
       "Astar": "https://evm.astar.network",
       "OnFinality": "https://astar.api.onfinality.io/public",
-      "Dwellir": "https://astar-rpc.dwellir.com",
-      "Blast": "https://astar.public.blastapi.io"
+      "Dwellir": "https://astar-rpc.dwellir.com"
     },
     "evmInfo": {
       "evmChainId": 592,
@@ -508,7 +507,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polygon_ee3accca3c.png",
     "providers": {
       "Polygon Scan": "https://polygon-rpc.com/",
-      "BlastApi": "https://polygon-mainnet.public.blastapi.io",
       "BorPublicNode": "https://polygon-bor.publicnode.com"
     },
     "evmInfo": {
@@ -540,7 +538,6 @@
     "ordinal": 13,
     "icon": "https://static-data.subwallet.app/chains/images/icon/arbitrum_cb1f0d45ad.png",
     "providers": {
-      "Omniatech": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
       "BlastApi": "https://arbitrum-one.public.blastapi.io",
       "Meowrpc": "https://arbitrum.meowrpc.com"
     },
@@ -573,8 +570,10 @@
     "ordinal": 14,
     "icon": "https://static-data.subwallet.app/chains/images/icon/optimism_a6ed6c25a9.png",
     "providers": {
-      "Kyber Engineering": "https://optimism.kyberengineering.io",
-      "BlastApi": "https://optimism-mainnet.public.blastapi.io"
+      "DRPC": "https://optimism.drpc.org/",
+      "Publicnode": "https://optimism-rpc.publicnode.com/",
+      "Mainnet": "https://endpoints.omniatech.io/v1/op/mainnet/public",
+      "1RPC": "https://1rpc.io/op"
     },
     "evmInfo": {
       "evmChainId": 10,
@@ -635,7 +634,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
       "Aleph Zero Foundation": "wss://ws.test.azero.dev",
-      "Dwellir": "wss://aleph-zero-testnet-rpc.dwellir.com"
+      "Azero Fans": "wss://testnet.azero.fans"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -656,7 +655,7 @@
         "PSP22"
       ],
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -747,10 +746,7 @@
     "ordinal": 18,
     "icon": "https://static-data.subwallet.app/chains/images/icon/shiden_080092bcde.png",
     "providers": {
-      "Astar": "https://evm.shiden.astar.network",
-      "OnFinality": "https://shiden.api.onfinality.io/public",
-      "Dwellir": "https://shiden-rpc.dwellir.com",
-      "Blast": "https://shiden.public.blastapi.io"
+      "Astar": "https://evm.shiden.astar.network"
     },
     "evmInfo": {
       "evmChainId": 336,
@@ -778,8 +774,7 @@
     "ordinal": 19,
     "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
     "providers": {
-      "Shibuya": "wss://rpc.shibuya.astar.network",
-      "Dwellir": "wss://shibuya-rpc.dwellir.com"
+      "Shibuya": "wss://rpc.shibuya.astar.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -819,8 +814,7 @@
     "ordinal": 20,
     "icon": "https://static-data.subwallet.app/chains/images/icon/astar_network_8038e86b95.png",
     "providers": {
-      "Shibuya": "https://evm.shibuya.astar.network ",
-      "BlastAPI": "https://shibuya.public.blastapi.io"
+      "Shibuya": "https://evm.shibuya.astar.network "
     },
     "evmInfo": {
       "evmChainId": 81,
@@ -848,7 +842,6 @@
     "ordinal": 21,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aventus_a77644b2c9.png",
     "providers": {
-      "Aventus": "wss://public-rpc.mainnet.aventus.network",
       "Mainnet": "wss://public-rpc.mainnet.aventus.io"
     },
     "evmInfo": null,
@@ -859,7 +852,7 @@
       "addressPrefix": 42,
       "chainType": "PARACHAIN",
       "crowdloanUrl": null,
-      "blockExplorer": "http://explorer.mainnet.aventus.network/",
+      "blockExplorer": "http://explorer.mainnet.aventus.io/",
       "existentialDeposit": "0",
       "symbol": "AVT",
       "decimals": 18,
@@ -1058,8 +1051,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/moonbase_493ce13342.png",
     "providers": {
       "Moonbeam Foundation": "wss://wss.api.moonbase.moonbeam.network",
-      "RadiumBlock": "wss://moonbase.public.curie.radiumblock.co/ws",
-      "UnitedBloc": "wss://moonbase.unitedbloc.com"
+      "RadiumBlock": "wss://moonbase.public.curie.radiumblock.co/ws"
     },
     "evmInfo": {
       "evmChainId": 1287,
@@ -1462,8 +1454,7 @@
     "ordinal": 34,
     "icon": "https://static-data.subwallet.app/chains/images/icon/amplitude_7704334d11.png",
     "providers": {
-      "Amplitude": "wss://rpc-amplitude.pendulumchain.tech",
-      "Dwellir": "wss://amplitude-rpc.dwellir.com"
+      "Amplitude": "wss://rpc-amplitude.pendulumchain.tech"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -1527,7 +1518,7 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -1644,7 +1635,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": 3350,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -1973,8 +1964,7 @@
     "ordinal": 46,
     "icon": "https://static-data.subwallet.app/chains/images/icon/nodle_fba7fd5ae5.png",
     "providers": {
-      "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws",
-      "Dwellir": "wss://nodle-rpc.dwellir.com"
+      "OnFinality": "wss://nodle-parachain.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -2440,7 +2430,7 @@
     "slug": "phala",
     "name": "Phala",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 57,
     "icon": "https://static-data.subwallet.app/chains/images/icon/phala_network_47928dadfd.png",
     "providers": {
@@ -3233,8 +3223,7 @@
     "ordinal": 73,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subsocial_3e001a3b15.png",
     "providers": {
-      "Dappforce": "wss://para.subsocial.network",
-      "Dwellir": "wss://subsocial-rpc.dwellir.com"
+      "Dappforce": "wss://para.subsocial.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3463,8 +3452,7 @@
     "ordinal": 78,
     "icon": "https://static-data.subwallet.app/chains/images/icon/robonomics_9239b29aea.png",
     "providers": {
-      "Airalab": "wss://kusama.rpc.robonomics.network/",
-      "Samsara": "wss://robonomics.0xsamsara.com"
+      "Airalab": "wss://kusama.rpc.robonomics.network/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3524,8 +3512,7 @@
     "ordinal": 79,
     "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
-      "Integritee": "wss://kusama.api.integritee.network",
-      "OnFinality": "wss://integritee-kusama.api.onfinality.io/public-ws"
+      "Integritee": "wss://kusama.api.integritee.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3574,8 +3561,7 @@
     "ordinal": 80,
     "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
-      "Integritee": "wss://polkadot.api.integritee.network",
-      "Dwellir": "wss://integritee-rpc.dwellir.com"
+      "Integritee": "wss://polkadot.api.integritee.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -3621,8 +3607,7 @@
     "ordinal": 81,
     "icon": "https://static-data.subwallet.app/chains/images/icon/crab_network_289d65c62b.png",
     "providers": {
-      "Crab": "wss://crab-rpc.darwinia.network/",
-      "Dwellir": "wss://darwiniacrab-rpc.dwellir.com"
+      "Crab": "wss://crab-rpc.darwinia.network/"
     },
     "evmInfo": {
       "evmChainId": 44,
@@ -3979,7 +3964,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/heima_9721f3204f.png",
     "providers": {
       "Litentry": "wss://rpc.heima-parachain.heima.network",
-      "Dwellir": "wss://litentry-rpc.dwellir.com"
+      "Dwellir": "wss://heima-rpc.n.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4314,8 +4299,7 @@
     "ordinal": 98,
     "icon": "https://static-data.subwallet.app/chains/images/icon/neuroweb_511a23cae5.png",
     "providers": {
-      "TraceLabs": "wss://parachain-rpc.origin-trail.network",
-      "Dwellir": "wss://neuroweb-rpc.dwellir.com"
+      "TraceLabs": "wss://parachain-rpc.origin-trail.network"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -4880,7 +4864,6 @@
     "ordinal": 110,
     "icon": "https://static-data.subwallet.app/chains/images/icon/boba_network_78cd37f0d6.png",
     "providers": {
-      "Read RPC": "https://lightning-replica.boba.network",
       "Write RPC": "https://mainnet.boba.network"
     },
     "evmInfo": {
@@ -5039,7 +5022,7 @@
     "slug": "watr_network_evm",
     "name": "Watr Testnet - EVM",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 115,
     "icon": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_a0cd47353a.png",
     "providers": {
@@ -6270,7 +6253,7 @@
     "ordinal": 149,
     "icon": "https://static-data.subwallet.app/chains/images/icon/3dpass_4c12535d4e.png",
     "providers": {
-      "3dpscan": "wss://rpc.3dpscan.io"
+      "3dpass": "wss://rpc.3dpass.org"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -6572,8 +6555,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/ftm_8ccdce4e96.png",
     "providers": {
       "Ankr": "https://rpc.ankr.com/fantom_testnet",
-      "FantomNetwork": "https://rpc.testnet.fantom.network/",
-      "BlastApi": "https://fantom-testnet.public.blastapi.io/"
+      "FantomNetwork": "https://rpc.testnet.fantom.network/"
     },
     "evmInfo": {
       "evmChainId": 4002,
@@ -6601,10 +6583,7 @@
     "ordinal": 159,
     "icon": "https://static-data.subwallet.app/chains/images/icon/ftm_8ccdce4e96.png",
     "providers": {
-      "Ankr": "https://rpc.ankr.com/fantom",
       "RPC_API": "https://rpcapi.fantom.network",
-      "BlastApi": "https://fantom-mainnet.public.blastapi.io",
-      "FTM_TOOLS": "https://rpc.ftm.tools",
       "PoktNetwork": "https://fantom-pokt.nodies.app/"
     },
     "evmInfo": {
@@ -6633,7 +6612,6 @@
     "ordinal": 160,
     "icon": "https://static-data.subwallet.app/chains/images/icon/Property_1_2_741a7e367a.png",
     "providers": {
-      "Peaq": "wss://wss-krest.peaq.network/",
       "OnFinality": "wss://krest.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
@@ -7975,7 +7953,7 @@
     "slug": "watr_mainnet_evm",
     "name": "Watr Mainnet - EVM",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/watr_protocol_c78ecafcd3.png",
     "providers": {
@@ -8041,8 +8019,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/enjin_matrixchain_0d7b0a46c8.png",
     "providers": {
-      "MatrixChain": "wss://rpc.matrix.blockchain.enjin.io/",
-      "Dwellir": "wss://enjin-matrix-rpc-1.dwellir.com/"
+      "MatrixChain": "wss://rpc.matrix.blockchain.enjin.io/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9078,7 +9055,7 @@
     "slug": "commune",
     "name": "Commune AI",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/commune_ai_d1b24f0f3f.png",
     "providers": {
@@ -9155,7 +9132,6 @@
     "providers": {
       "Avail Turing ": "wss://turing-rpc.avail.so/ws",
       "Ankr": "wss://turing-testnet.avail-rpc.com/",
-      "Bware": "wss://avail-turing.public.blastapi.io/",
       "AllNodes": "wss://avail-turing-rpc.publicnode.com/",
       "BountyBlok": "wss://avail-turing.bountyblok.io/"
     },
@@ -11125,7 +11101,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/chain_tangle_d704ce3fe6.png",
     "providers": {
       "Tangle": "wss://rpc.tangle.tools",
-      "Dwellir": "wss://tangle-mainnet-rpc.dwellir.com"
+      "Dwellir": "wss://tangle-mainnet-rpc.n.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -11623,8 +11599,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/laos_network_3b5afe97d9.png",
     "providers": {
-      "LaosFoundation": "wss://rpc.laos.laosfoundation.io",
-      "Dwellir": "wss://laos-rpc.dwellir.com"
+      "LaosFoundation": "wss://rpc.laos.laosfoundation.io"
     },
     "evmInfo": {
       "evmChainId": 6283,
@@ -12026,7 +12001,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/rootstock_34e44ecbba.png",
     "providers": {
-      "Blast": "https://rootstock-mainnet.public.blastapi.io",
       "PublicNode": "https://public-node.rsk.co",
       "DRPC": "https://rootstock.drpc.org"
     },
@@ -13193,12 +13167,12 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
     "providers": {
       "Stable": "https://rpc.stable.xyz/",
-      "Omega": "https://omega-13.gateway.tenderly.co/7i0nzTPHGfvTsYnBMIsYiB",
-      "Alchemy": "https://stable-mainnet.g.alchemy.com/v2/2d45oQFoYQ7J_y9lDXwog"
+      "Alchemy": "https://stable-mainnet.g.alchemy.com/v2/2d45oQFoYQ7J_y9lDXwog",
+      "Tenderly": "https://stable.gateway.tenderly.co/"
     },
     "evmInfo": {
       "evmChainId": 988,
-      "blockExplorer": "https://partners-explorer.stable.xyz/",
+      "blockExplorer": "https://stablescan.xyz/",
       "existentialDeposit": "0",
       "symbol": "gUSDT",
       "decimals": 18,
