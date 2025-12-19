@@ -202,7 +202,7 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": 3342,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -1080,7 +1080,7 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -1130,7 +1130,7 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": [
         {
           "relayChain": "kusama",
@@ -1386,7 +1386,7 @@
       "supportStaking": true,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -3046,7 +3046,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": [
         {
           "relayChain": "kusama",
@@ -3241,7 +3241,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -5588,7 +5588,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -6811,7 +6811,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -7237,7 +7237,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/energy_web_x_testnet_89fd545f06.png",
     "providers": {
-      "Energy Web": "wss://public-rpc.mainnet.energywebx.com/"
+      "Energy Web": "wss://public-rpc.mainnet.energywebx.com/",
+      "WNP": " wss://wnp-rpc.mainnet.energywebx.com/"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -8935,7 +8936,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -9801,7 +9802,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -9930,7 +9931,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -11895,7 +11896,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -12927,7 +12928,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -13156,7 +13157,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -13298,7 +13299,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
@@ -13458,7 +13459,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -13506,7 +13507,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "crowdloanFunds": []
     },
     "extraInfo": null,
