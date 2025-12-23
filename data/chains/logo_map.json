@@ -30,7 +30,7 @@
   "turing": "https://static-data.subwallet.app/chains/images/icon/turing_network_c8ce22709f.png",
   "bifrost": "https://static-data.subwallet.app/chains/images/icon/bifrost_kusama_cc2473707c.png",
   "bifrost_dot": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
-  "bifrost_testnet": "https://static-data.subwallet.app/chains/images/icon/bifrost_44b3c3fd65.png",
+  "bifrost_testnet": "https://static-data.subwallet.app/chains/images/icon/bifrost_network_875d8fd8b4.png",
   "calamari": "https://static-data.subwallet.app/chains/images/icon/calamarinetwork_ad869dd66b.png",
   "amplitude": "https://static-data.subwallet.app/chains/images/icon/amplitude_7704334d11.png",
   "amplitude_test": "https://static-data.subwallet.app/chains/images/icon/amplitude_7704334d11.png",
@@ -376,5 +376,6 @@
   "acurast_mainnet": "https://static-data.subwallet.app/chains/images/icon/Logo_2_3b67bbf296.png",
   "monad": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
   "stable": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
-  "mosaic": "https://static-data.subwallet.app/chains/images/icon/mosaic_e8feed24d7.png"
+  "mosaic": "https://static-data.subwallet.app/chains/images/icon/mosaic_e8feed24d7.png",
+  "bifrost_network": "https://static-data.subwallet.app/chains/images/icon/bifrost_network_875d8fd8b4.png"
 }
