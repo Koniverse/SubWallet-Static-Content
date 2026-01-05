@@ -377,5 +377,6 @@
   "monad": "https://static-data.subwallet.app/chains/images/icon/monad_fbb386b6c4.png",
   "stable": "https://static-data.subwallet.app/chains/images/icon/stable_a10e9693a3.png",
   "mosaic": "https://static-data.subwallet.app/chains/images/icon/mosaic_e8feed24d7.png",
-  "bifrost_network": "https://static-data.subwallet.app/chains/images/icon/bifrost_network_875d8fd8b4.png"
+  "bifrost_network": "https://static-data.subwallet.app/chains/images/icon/bifrost_network_875d8fd8b4.png",
+  "cardano_preview": "https://static-data.subwallet.app/chains/images/icon/cardano_preview_f5a6053898.png"
 }

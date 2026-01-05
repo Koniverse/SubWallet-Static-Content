@@ -2001,7 +2001,7 @@
     "slug": "nodle",
     "name": "Nodle",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 46,
     "icon": "https://static-data.subwallet.app/chains/images/icon/nodle_fba7fd5ae5.png",
     "providers": {
@@ -2815,7 +2815,7 @@
     "slug": "altair",
     "name": "Altair",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 64,
     "icon": "https://static-data.subwallet.app/chains/images/icon/altair_6e0a2d6139.png",
     "providers": {
@@ -6662,7 +6662,6 @@
       "Parity": "wss://kusama-bridge-hub-rpc.polkadot.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io/bridgehub",
       "IBP-GeoDNS1": "wss://sys.ibp.network/bridgehub-kusama",
-      "IBP-GeoDNS2": "wss://sys.dotters.network/bridgehub-kusama",
       "Dwellir Tunisia": "wss://kusama-bridge-hub-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-bridge-hub-kusama.luckyfriday.io"
     },
@@ -14064,5 +14063,27 @@
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
+  },
+  {
+    "slug": "cardano_preview",
+    "name": "Cardano Preview",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/cardano_preview_f5a6053898.png",
+    "providers": {
+      "Blockfrost": "https://cardano-preview.blockfrost.io/api/v0"
+    },
+    "evmInfo": null,
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": {
+      "blockExplorer": "https://preview.cardanoscan.io",
+      "existentialDeposit": "0",
+      "decimals": 6,
+      "symbol": "tADA"
+    }
   }
 ]
