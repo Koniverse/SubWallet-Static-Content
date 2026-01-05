@@ -693,8 +693,8 @@
       }
     },
     "network": "polygon",
-    "slug": "polygon-ERC20-USD₮0-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-    "symbol": "USD₮0",
+    "slug": "polygon-ERC20-USDT0-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "symbol": "USDT0",
     "support": "ETHEREUM"
   },
   {
