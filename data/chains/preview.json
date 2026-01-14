@@ -439,7 +439,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -920,7 +920,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -1293,7 +1293,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": [
         {
           "relayChain": "kusama",
@@ -1356,7 +1356,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": [
         {
           "relayChain": "polkadot",
@@ -1530,7 +1530,7 @@
     "slug": "amplitude_test",
     "name": "Amplitude Testnet",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 35,
     "icon": "https://static-data.subwallet.app/chains/images/icon/amplitude_7704334d11.png",
     "providers": {
@@ -1648,7 +1648,7 @@
     "slug": "parallel",
     "name": "Parallel",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 39,
     "icon": "https://static-data.subwallet.app/chains/images/icon/parallel_208725684a.png",
     "providers": {
@@ -2085,7 +2085,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "supportMultisig": null,
       "crowdloanFunds": []
     },
@@ -2617,7 +2617,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -3286,7 +3286,7 @@
     "slug": "subsocial_x",
     "name": "Subsocial",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 73,
     "icon": "https://static-data.subwallet.app/chains/images/icon/subsocial_3e001a3b15.png",
     "providers": {
@@ -3581,7 +3581,7 @@
     "slug": "integritee",
     "name": "Integritee Network",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 79,
     "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
@@ -3631,7 +3631,7 @@
     "slug": "integriteePolkadot",
     "name": "Integritee Shell",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 80,
     "icon": "https://static-data.subwallet.app/chains/images/icon/integritee_polkadot_5f5ef68159.png",
     "providers": {
@@ -3711,7 +3711,7 @@
       "supportStaking": false,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "supportMultisig": null,
       "crowdloanFunds": [
         {
@@ -3820,7 +3820,7 @@
     "slug": "acala_testnet",
     "name": "Acala Mandala",
     "isTestnet": true,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 84,
     "icon": "https://static-data.subwallet.app/chains/images/icon/acala_10b077e14b.png",
     "providers": {
@@ -6058,7 +6058,7 @@
     "slug": "logion",
     "name": "Logion",
     "isTestnet": false,
-    "chainStatus": "ACTIVE",
+    "chainStatus": "INACTIVE",
     "ordinal": 141,
     "icon": "https://static-data.subwallet.app/chains/images/icon/logion_950fffea89.png",
     "providers": {
@@ -9239,7 +9239,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -9711,7 +9711,6 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/cess_c8b3ae185d.png",
     "providers": {
-      "CESS Testnet": "wss://testnet-rpc.cess.cloud/ws/",
       "CESS network": "wss://testnet-rpc.cess.network/ws/"
     },
     "evmInfo": null,
@@ -11846,7 +11845,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "supportMultisig": null,
       "crowdloanFunds": []
     },
@@ -12273,7 +12272,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -12340,7 +12339,7 @@
       "supportSmartContract": null,
       "crowdloanParaId": null,
       "supportProxy": true,
-      "supportMultisig": null,
+      "supportMultisig": true,
       "crowdloanFunds": []
     },
     "extraInfo": {
@@ -13863,7 +13862,7 @@
       "supportStaking": null,
       "supportSmartContract": null,
       "crowdloanParaId": null,
-      "supportProxy": true,
+      "supportProxy": false,
       "supportMultisig": null,
       "crowdloanFunds": []
     },
@@ -14085,5 +14084,33 @@
       "decimals": 6,
       "symbol": "tADA"
     }
+  },
+  {
+    "slug": "datahaven_testnet",
+    "name": "DataHaven Testnet",
+    "isTestnet": true,
+    "chainStatus": "ACTIVE",
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chains/images/icon/dataheaven_bdbeb43115.png",
+    "providers": {
+      "Datahaven": "https://services.datahaven-testnet.network/testnet"
+    },
+    "evmInfo": {
+      "evmChainId": 55931,
+      "blockExplorer": "https://testnet.dhscan.io/",
+      "existentialDeposit": "0",
+      "symbol": "MOCK",
+      "decimals": 18,
+      "supportSmartContract": [
+        "ERC20",
+        "ERC721"
+      ],
+      "abiExplorer": null
+    },
+    "substrateInfo": null,
+    "extraInfo": null,
+    "bitcoinInfo": null,
+    "tonInfo": null,
+    "cardanoInfo": null
   }
 ]
