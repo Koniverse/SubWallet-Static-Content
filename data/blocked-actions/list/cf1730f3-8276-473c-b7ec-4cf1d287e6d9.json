@@ -129,9 +129,7 @@
       "transfer.token___bittensor-LOCAL-𑀅",
       "transfer.token___bittensor-LOCAL-න",
       "transfer.token___bittensor-LOCAL-モ",
-      "transfer.token___bittensor-LOCAL-ᚱ",
-      "transfer.token___energy_web_x-LOCAL-stEWT",
-      "transfer.token___energy_web_x-LOCAL-USDC"
+      "transfer.token___bittensor-LOCAL-ᚱ"
     ],
     "transfer.xcm": [
       "transfer.xcm___manta_network-NATIVE-MANTA___moonbeam",
