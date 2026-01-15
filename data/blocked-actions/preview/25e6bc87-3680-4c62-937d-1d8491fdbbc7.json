@@ -2,9 +2,7 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [],
-    "transfer.token": [
-      "transfer.token___energy_web_x-LOCAL-stEWT"
-    ],
+    "transfer.token": [],
     "transfer.xcm": [],
     "send_nft": [],
     "swap": [
