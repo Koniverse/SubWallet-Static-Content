@@ -3,10 +3,7 @@
   "blockedFeaturesList": [],
   "blockedActionsMap": {
     "transfer.balance": [],
-    "transfer.token": [
-      "transfer.token___energy_web_x-LOCAL-stEWT",
-      "transfer.token___energy_web_x-LOCAL-USDC"
-    ],
+    "transfer.token": [],
     "transfer.xcm": [
       "transfer.xcm___manta_network-NATIVE-MANTA___moonbeam",
       "transfer.xcm___manta_network-NATIVE-MANTA___bifrost_dot",
