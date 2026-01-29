@@ -10,7 +10,6 @@
       "RadiumBlock": "wss://polkadot.public.curie.radiumblock.co/ws",
       "Stakeworld": "wss://dot-rpc.stakeworld.io",
       "LuckyFriday": "wss://rpc-polkadot.luckyfriday.io",
-      "Dwellir Tunisia": "wss://polkadot-rpc-tn.dwellir.com",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/polkadot",
       "Light Client": "light://substrate-connect/polkadot",
       "BlockOps": "wss://polkadot-public-rpc.blockops.network/ws",
@@ -56,7 +55,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_3a65d79366.png",
     "providers": {
       "RadiumBlock": "wss://kusama.public.curie.radiumblock.co/ws",
-      "Dwellir Tunisia": "wss://kusama-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-kusama.luckyfriday.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io",
       "IBP-GeoDNS1": "wss://rpc.ibp.network/kusama",
@@ -413,7 +411,6 @@
     "ordinal": 10,
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_asset_hub_218e73fad2.png",
     "providers": {
-      "Dwellir Tunisia": "wss://statemint-rpc-tn.dwellir.com",
       "Dwellir": "wss://asset-hub-polkadot-rpc.n.dwellir.com",
       "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
       "Parity": "wss://polkadot-asset-hub-rpc.polkadot.io",
@@ -639,7 +636,6 @@
     "ordinal": 16,
     "icon": "https://static-data.subwallet.app/chains/images/icon/aleph_zero_5b98dbe0ae.png",
     "providers": {
-      "Aleph Zero Foundation": "wss://ws.test.azero.dev",
       "Azero Fans": "wss://testnet.azero.fans"
     },
     "evmInfo": null,
@@ -900,7 +896,6 @@
     "providers": {
       "Parity": "wss://westend-rpc.polkadot.io",
       "Light Client": "light://substrate-connect/westend",
-      "Dwellir Tunisia": "wss://westend-rpc-tn.dwellir.com",
       "RadiumBlock": "wss://westend.public.curie.radiumblock.co/ws"
     },
     "evmInfo": null,
@@ -2591,7 +2586,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/kusama_asset_hub_9ae4528303.png",
     "providers": {
       "RadiumBlock": "wss://statemine.public.curie.radiumblock.co/ws",
-      "Dwellir Tunisia": "wss://statemine-rpc-tn.dwellir.com",
       "Lucky Friday": "wss://rpc-asset-hub-kusama.luckyfriday.io",
       "Stake World": "wss://ksm-rpc.stakeworld.io/assethub",
       "Parity": "wss://kusama-asset-hub-rpc.polkadot.io",
@@ -5374,7 +5368,6 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/polkadot_collectives_0d4f158ac1.png",
     "providers": {
       "viaParity": "wss://polkadot-collectives-rpc.polkadot.io",
-      "Dwellir Tunisia": "wss://polkadot-collectives-rpc-tn.dwellir.com",
       "IBP1": "wss://sys.ibp.network/collectives-polkadot",
       "IBP2": "wss://collectives-polkadot.dotters.network",
       "LuckyFriday": "wss://rpc-collectives-polkadot.luckyfriday.io",
@@ -6616,7 +6609,6 @@
     "providers": {
       "Parity": "wss://polkadot-bridge-hub-rpc.polkadot.io",
       "Stakeworld": "wss://dot-rpc.stakeworld.io/bridgehub",
-      "Dwellir Tunisia": "wss://polkadot-bridge-hub-rpc-tn.dwellir.com",
       "IBP1": "wss://sys.ibp.network/bridgehub-polkadot",
       "IBP2": "wss://bridge-hub-polkadot.dotters.network",
       "LuckyFriday": "wss://rpc-bridge-hub-polkadot.luckyfriday.io",
@@ -6662,7 +6654,6 @@
       "Parity": "wss://kusama-bridge-hub-rpc.polkadot.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io/bridgehub",
       "IBP-GeoDNS1": "wss://sys.ibp.network/bridgehub-kusama",
-      "Dwellir Tunisia": "wss://kusama-bridge-hub-rpc-tn.dwellir.com",
       "LuckyFriday": "wss://rpc-bridge-hub-kusama.luckyfriday.io"
     },
     "evmInfo": null,
