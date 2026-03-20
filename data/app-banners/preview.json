@@ -1398,5 +1398,69 @@
       "group": null,
       "slug": "Vara_Campaign"
     }
+  },
+  {
+    "id": 127,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Thiet_ke_in_app_banner_thong_bao_user_can_nhap_Subscan_API_key_de_theo_doi_hoat_dong_vi_5a5865b0a5.png",
+    "info": {
+      "id": 213,
+      "name": "Extension - Add Subscan API key",
+      "description": null,
+      "start_time": "2026-03-18T17:00:00.000Z",
+      "stop_time": "2026-04-29T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 187,
+      "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/config-subscan-api-key",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 128,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Thiet_ke_in_app_banner_thong_bao_user_can_nhap_Subscan_API_key_de_theo_doi_hoat_dong_vi_1_f332f72fa9.png",
+    "info": {
+      "id": 214,
+      "name": "WebApp - Add Subscan API key",
+      "description": null,
+      "start_time": "2026-03-18T17:00:00.000Z",
+      "stop_time": "2026-04-29T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 188,
+      "url": "https://docs.subwallet.app/main/web-dashboard-user-guide/account-management/config-subscan-api-key",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
