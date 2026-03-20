@@ -252,76 +252,6 @@
     }
   },
   {
-    "id": 67,
-    "position": "token_detail",
-    "priority": 1,
-    "locations": null,
-    "comparison_operator": null,
-    "app_version_range": null,
-    "os_version_range": null,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/1432x272_1_b87940846b.png",
-    "info": {
-      "id": 125,
-      "name": "VARA Campaign - Mobile 2",
-      "description": null,
-      "start_time": "2024-07-29T17:00:00.000Z",
-      "stop_time": "2024-08-04T22:00:00.000Z",
-      "platforms": [
-        "mobile"
-      ],
-      "os": null,
-      "is_changelog_popup": null
-    },
-    "action": {
-      "id": 113,
-      "url": "https://t.me/Playnation_bot/app?startapp=Z4QZc2zjw",
-      "screen": null,
-      "params": null,
-      "is_cancel": null
-    },
-    "position_params": [
-      {
-        "property": "tokenSlug",
-        "value": "vara_network-NATIVE-VARA"
-      }
-    ],
-    "conditions": {
-      "condition-balance": [
-        {
-          "comparison": "gt",
-          "value": 0,
-          "chain_asset": "vara_network-NATIVE-VARA"
-        }
-      ],
-      "condition-nft": [
-        {
-          "collection_id": null,
-          "chain": "vara_network"
-        }
-      ],
-      "condition-earning": [
-        {
-          "pool_slug": "VARA___nomination_pool___vara_network",
-          "comparison": "gt",
-          "value": 0
-        },
-        {
-          "pool_slug": "VARA___native_staking___vara_network",
-          "comparison": "gt",
-          "value": 0
-        }
-      ]
-    },
-    "instruction": {
-      "id": 84,
-      "confirm_label": "Play",
-      "cancel_label": "Cancel",
-      "instruction_id": 41,
-      "group": null,
-      "slug": "Vara_Campaign_Mobile - 2"
-    }
-  },
-  {
     "id": 98,
     "position": "token_detail",
     "priority": 1,
@@ -1205,6 +1135,70 @@
     "action": {
       "id": 181,
       "url": "https://support.polkadot.network/support/solutions/articles/65000190561",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 127,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Thiet_ke_in_app_banner_thong_bao_user_can_nhap_Subscan_API_key_de_theo_doi_hoat_dong_vi_5a5865b0a5.png",
+    "info": {
+      "id": 213,
+      "name": "Extension - Add Subscan API key",
+      "description": null,
+      "start_time": "2026-03-18T17:00:00.000Z",
+      "stop_time": "2026-04-29T17:00:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 187,
+      "url": "https://docs.subwallet.app/main/extension-user-guide/account-management/config-subscan-api-key",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 128,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/Thiet_ke_in_app_banner_thong_bao_user_can_nhap_Subscan_API_key_de_theo_doi_hoat_dong_vi_1_f332f72fa9.png",
+    "info": {
+      "id": 214,
+      "name": "WebApp - Add Subscan API key",
+      "description": null,
+      "start_time": "2026-03-18T17:00:00.000Z",
+      "stop_time": "2026-04-29T17:00:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": {
+      "id": 188,
+      "url": "https://docs.subwallet.app/main/web-dashboard-user-guide/account-management/config-subscan-api-key",
       "screen": null,
       "params": null,
       "is_cancel": null
