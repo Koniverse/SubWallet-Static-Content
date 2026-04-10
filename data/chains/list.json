@@ -9322,10 +9322,8 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
     "providers": {
-      "Avail Turing ": "wss://turing-rpc.avail.so/ws",
       "Ankr": "wss://turing-testnet.avail-rpc.com/",
-      "AllNodes": "wss://avail-turing-rpc.publicnode.com/",
-      "BountyBlok": "wss://avail-turing.bountyblok.io/"
+      "Onfinality": "wss://avail-turing.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
@@ -9536,7 +9534,7 @@
     "icon": "https://static-data.subwallet.app/chains/images/icon/avail_0eeb77cea7.png",
     "providers": {
       "Ankr": "wss://mainnet.avail-rpc.com/",
-      "BountyBlok": "wss://avail.rpc.bountyblok.io/"
+      "Onfinality": "wss://avail.api.onfinality.io/public-ws"
     },
     "evmInfo": null,
     "substrateInfo": {
