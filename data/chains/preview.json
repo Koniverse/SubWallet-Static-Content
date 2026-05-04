@@ -9098,7 +9098,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/mythos_chain_430c6d1b1e.png",
     "providers": {
-      "Parity": "wss://polkadot-mythos-rpc.polkadot.io"
+      "Parity": "wss://mythos-rpc.dmarket.com/"
     },
     "evmInfo": {
       "evmChainId": -1,
