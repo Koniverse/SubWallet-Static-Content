@@ -9663,9 +9663,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chains/images/icon/hyperbridge_27e342468c.png",
     "providers": {
-      "BlockOps": "wss://hyperbridge-nexus-rpc.blockops.network",
-      "IBP1": "wss://nexus.ibp.network",
-      "IBP2": "wss://nexus.dotters.network"
+      "Polytope": "wss://nexus.rpc.polytope.technology"
     },
     "evmInfo": null,
     "substrateInfo": {
