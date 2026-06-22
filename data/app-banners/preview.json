@@ -1477,7 +1477,7 @@
       "name": "Extension - Polygon zkEVM Sunset Begins July 1",
       "description": "Polygon zkEVM will begin its sunset process soon. Please review your assets and available migration options.",
       "start_time": "2026-06-22T03:00:00.000Z",
-      "stop_time": null,
+      "stop_time": "2026-06-30T16:45:00.000Z",
       "platforms": [
         "extension"
       ],
@@ -1508,7 +1508,7 @@
       "name": "Mobile - Polygon zkEVM Sunset Begins July 1",
       "description": "Polygon zkEVM will begin its sunset process soon. Please review your assets and available migration options.",
       "start_time": "2026-06-22T04:00:00.000Z",
-      "stop_time": null,
+      "stop_time": "2026-06-30T16:45:00.000Z",
       "platforms": [
         "mobile"
       ],
@@ -1534,7 +1534,7 @@
       "name": "WebApp - Polygon zkEVM Sunset Begins July 1",
       "description": "Polygon zkEVM will begin its sunset process soon. Please review your assets and available migration options.",
       "start_time": "2026-06-22T04:00:00.000Z",
-      "stop_time": null,
+      "stop_time": "2026-06-30T16:45:00.000Z",
       "platforms": [
         "web"
       ],
