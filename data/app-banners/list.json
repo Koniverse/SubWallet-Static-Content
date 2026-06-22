@@ -1087,8 +1087,8 @@
       "id": 206,
       "name": "Mobile - Asset Hub Migration",
       "description": null,
-      "start_time": "2025-10-06T17:00:00.000Z",
-      "stop_time": "2025-11-03T17:00:00.000Z",
+      "start_time": "2025-06-22T04:00:00.000Z",
+      "stop_time": null,
       "platforms": [
         "mobile"
       ],
