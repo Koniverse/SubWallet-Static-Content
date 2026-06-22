@@ -1502,7 +1502,7 @@
     "comparison_operator": null,
     "app_version_range": null,
     "os_version_range": null,
-    "media": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Polygon_zk_EVM_Sunset_Notice_a28e0258ea.png",
     "info": {
       "id": 216,
       "name": "Mobile - Polygon zkEVM Sunset Begins July 1",
