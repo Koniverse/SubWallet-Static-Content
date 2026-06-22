@@ -1364,7 +1364,13 @@
       "os": null,
       "is_changelog_popup": false
     },
-    "action": null,
+    "action": {
+      "id": 193,
+      "url": "https://polygon.technology/polygon-zkevm",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
     "position_params": [
       {
         "property": null,
