@@ -1206,5 +1206,88 @@
     "position_params": [],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 129,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Polygon_zk_EVM_Sunset_Notice_a28e0258ea.png",
+    "info": {
+      "id": 215,
+      "name": "Extension - Polygon zkEVM Sunset Begins July 1",
+      "description": "Polygon zkEVM will begin its sunset process soon. Please review your assets and available migration options.",
+      "start_time": "2026-06-22T03:00:00.000Z",
+      "stop_time": "2026-06-30T16:45:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null,
+      "is_changelog_popup": false
+    },
+    "action": null,
+    "position_params": [
+      {
+        "property": null,
+        "value": null
+      }
+    ],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 130,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Polygon_zk_EVM_Sunset_Notice_a28e0258ea.png",
+    "info": {
+      "id": 216,
+      "name": "Mobile - Polygon zkEVM Sunset Begins July 1",
+      "description": "Polygon zkEVM will begin its sunset process soon. Please review your assets and available migration options.",
+      "start_time": "2026-06-22T04:00:00.000Z",
+      "stop_time": "2026-06-30T16:45:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
+  },
+  {
+    "id": 131,
+    "position": "token",
+    "priority": 1,
+    "locations": null,
+    "comparison_operator": null,
+    "app_version_range": null,
+    "os_version_range": null,
+    "media": "https://static-data.subwallet.app/app-banners/images/media/In_App_Banner_Polygon_zk_EVM_Sunset_Notice_1_0536d2061d.png",
+    "info": {
+      "id": 217,
+      "name": "WebApp - Polygon zkEVM Sunset Begins July 1",
+      "description": "Polygon zkEVM will begin its sunset process soon. Please review your assets and available migration options.",
+      "start_time": "2026-06-22T04:00:00.000Z",
+      "stop_time": "2026-06-30T16:45:00.000Z",
+      "platforms": [
+        "web"
+      ],
+      "os": null,
+      "is_changelog_popup": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
