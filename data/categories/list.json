@@ -35,6 +35,13 @@
     "ordinal": 5
   },
   {
+    "slug": "socialfi",
+    "name": "SocialFi",
+    "color": "lime",
+    "description": null,
+    "ordinal": 6
+  },
+  {
     "slug": "community",
     "name": "Community",
     "color": "volcano",
@@ -47,6 +54,13 @@
     "color": "red",
     "description": null,
     "ordinal": 8
+  },
+  {
+    "slug": "crowdloans",
+    "name": "Crowdloans",
+    "color": "blue",
+    "description": null,
+    "ordinal": 9
   },
   {
     "slug": "data",
