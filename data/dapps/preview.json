@@ -84,29 +84,6 @@
     ]
   },
   {
-    "id": 214,
-    "title": "Launchly",
-    "description": "Launchly combines decentralized token launches, milestone-based revenue sharing, and powerful social infrastructure including live streams, in app chat, and creator tools into one unified platform. Whether you're a meme creator, DeFi innovator, or on-chain entertainer, Launchly is built to help you bring your tokenized ideas to life.",
-    "url": "https://launchly.app/",
-    "subtitle": "Multichain ICM launchpad and engagement platform",
-    "is_substrate": true,
-    "is_evm": true,
-    "is_featured": false,
-    "ordinal": 44,
-    "desktop_mode": null,
-    "icon": "https://static-data.subwallet.app/dapps/images/icon/launchly_8f5c682bac.png",
-    "preview_image": null,
-    "chains": [
-      "binance",
-      "base_mainnet",
-      "statemint"
-    ],
-    "categories": [
-      "meme",
-      "socialfi"
-    ]
-  },
-  {
     "id": 54,
     "title": "dotinsights",
     "description": "A trusted research hub and data platform of Polkadot & Kusama Ecosystem made by SubWallet",
@@ -3463,6 +3440,29 @@
     ],
     "categories": [
       "bridge"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Launchly",
+    "description": "Launchly combines decentralized token launches, milestone-based revenue sharing, and powerful social infrastructure including live streams, in app chat, and creator tools into one unified platform. Whether you're a meme creator, DeFi innovator, or on-chain entertainer, Launchly is built to help you bring your tokenized ideas to life.",
+    "url": "https://launchly.app/",
+    "subtitle": "Multichain ICM launchpad and engagement platform",
+    "is_substrate": true,
+    "is_evm": true,
+    "is_featured": false,
+    "ordinal": 9999,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/launchly_8f5c682bac.png",
+    "preview_image": null,
+    "chains": [
+      "binance",
+      "base_mainnet",
+      "statemint"
+    ],
+    "categories": [
+      "meme",
+      "socialfi"
     ]
   }
 ]
