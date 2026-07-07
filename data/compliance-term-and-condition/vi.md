@@ -1,133 +1,133 @@
-### 1. Quyết định của riêng bạn
+### 1. Your Own Decision
 
-Bạn truy cập và sử dụng các dịch vụ staking, ủy quyền, earning hoặc dịch vụ liên quan một cách tự nguyện, nhân danh chính bạn và theo quyết định của riêng bạn.
+You are accessing and using the staking, delegation, earning, or related services voluntarily, on your own behalf, and at your own discretion.
 
-Bạn hoàn toàn chịu trách nhiệm quyết định việc stake, ủy quyền, unstake, ủy quyền lại, nhận thưởng hoặc tương tác với bất kỳ validator, giao thức, blockchain hoặc nhà cung cấp dịch vụ bên thứ ba nào.
+You are solely responsible for deciding whether to stake, delegate, unstake, redelegate, claim rewards, or otherwise interact with any validator, protocol, blockchain, or third-party service provider.
 
-Bạn thừa nhận rằng mọi quyết định staking, lựa chọn validator, ủy quyền và giao dịch liên quan được khởi tạo hoàn toàn dựa trên chỉ dẫn của riêng bạn.
+You acknowledge that all staking decisions, validator selections, delegations, and related transactions are initiated solely based on your own instructions.
 
-SubWallet không đưa ra quyết định staking thay cho bạn và không khuyến nghị, tư vấn, bảo đảm, xác nhận hoặc chỉ định bạn sử dụng bất kỳ validator, giao thức, blockchain hoặc nhà cung cấp dịch vụ bên thứ ba cụ thể nào.
+SubWallet does not make staking decisions for you and does not recommend, advise, guarantee, endorse, or direct you to use any particular validator, protocol, blockchain, or third-party service provider.
 
-### 2. Quyền sở hữu, thẩm quyền và điều kiện sử dụng
+### 2. Ownership, Authority and Eligibility
 
-Bạn tuyên bố và xác nhận rằng:
+You represent and confirm that:
 
-- Bạn sở hữu hợp pháp hoặc kiểm soát hợp pháp các tài sản số được dùng để staking hoặc earning;
-- Bạn có đầy đủ năng lực pháp lý và thẩm quyền để sử dụng các tài sản đó và đưa ra các xác nhận này;
-- Việc bạn sử dụng các tài sản và dịch vụ đó không vi phạm bất kỳ luật, quy định, thỏa thuận hoặc quyền của bên thứ ba nào áp dụng cho bạn.
+- You lawfully own or control the digital assets used for staking or earning;
+- You have full legal capacity and authority to use such assets and to make these confirmations;
+- Your use of such assets and services does not violate any applicable law, regulation, agreement, or third-party right applicable to you.
 
-### 3. Trừng phạt, AML và hành vi bị cấm
+### 3. Sanctions, AML and Prohibited Use
 
-Bạn tuyên bố và xác nhận rằng:
+You represent and confirm that:
 
-- Bạn không phải là người bị trừng phạt, hạn chế, cấm hoặc phong tỏa theo luật áp dụng;
-- Bạn không ở, được tổ chức, cư trú hoặc hoạt động tại bất kỳ khu vực pháp lý nào nơi việc sử dụng các dịch vụ liên quan bị cấm;
-- Bạn không hành động thay mặt cho bất kỳ người nào bị trừng phạt, hạn chế, cấm hoặc phong tỏa;
-- Bạn sẽ không sử dụng SubWallet hoặc bất kỳ dịch vụ staking, earning, validator hoặc dịch vụ liên quan nào cho mục đích rửa tiền, tài trợ khủng bố, né tránh lệnh trừng phạt, gian lận hoặc bất kỳ hoạt động bất hợp pháp nào khác;
-- Theo hiểu biết tốt nhất của bạn, các tài sản số bạn sử dụng không có nguồn gốc từ hoạt động bất hợp pháp.
+- You are not a sanctioned, restricted, prohibited, or blocked person under applicable laws;
+- You are not located, organized, resident, or operating in any jurisdiction where use of the relevant services is prohibited;
+- You are not acting on behalf of any sanctioned, restricted, prohibited, or blocked person;
+- You will not use SubWallet or any staking, earning, validator, or related services for money laundering, terrorist financing, sanctions evasion, fraud, or any other unlawful activity;
+- To the best of your knowledge, the digital assets you use are not derived from unlawful activities.
 
-Nếu bất kỳ tuyên bố nào ở trên trở nên không chính xác, bạn đồng ý ngừng sử dụng ngay các dịch vụ liên quan cho đến khi vấn đề được giải quyết.
+If any of the above representations become inaccurate, you agree to immediately stop using the relevant services until the issue has been resolved.
 
-### 4. Trách nhiệm pháp lý và thuế
+### 4. Legal and Tax Responsibility
 
-Bạn hoàn toàn chịu trách nhiệm về:
+You are solely responsible for:
 
-- Việc xác định liệu staking, ủy quyền, earning, phần thưởng hoặc các giao dịch liên quan có hợp pháp tại khu vực pháp lý của bạn hay không;
-- Việc tuân thủ tất cả luật và quy định áp dụng cho bạn;
-- Việc tính toán, báo cáo và thanh toán mọi khoản thuế phát sinh từ tài sản số, hoạt động staking, phần thưởng hoặc các giao dịch liên quan của bạn.
+- Determining whether staking, delegation, earning, rewards, or related transactions are lawful in your jurisdiction;
+- Complying with all laws and regulations applicable to you;
+- Calculating, reporting, and paying any taxes arising from your digital assets, staking activities, rewards, or related transactions.
 
-SubWallet không cung cấp tư vấn pháp lý, thuế, kế toán, quy định hoặc tuân thủ.
+SubWallet does not provide legal, tax, accounting, regulatory, or compliance advice.
 
-### 5. Rủi ro staking và blockchain
+### 5. Staking and Blockchain Risks
 
-Bạn hiểu và chấp nhận rằng staking và các hoạt động blockchain có rủi ro kỹ thuật, vận hành, tài chính và giao thức đáng kể, bao gồm nhưng không giới hạn ở:
+You understand and accept that staking and blockchain activities involve significant technical, operational, financial, and protocol risks, including but not limited to:
 
-- Slashing hoặc mất phần thưởng;
-- Validator ngừng hoạt động hoặc lỗi;
-- Lỗi giao thức, nâng cấp, fork, thay đổi quản trị hoặc lỗi mạng;
-- Lỗ hổng smart contract;
-- Biến động phần thưởng hoặc không có phần thưởng;
-- Phân phối phần thưởng bị trễ, thất bại hoặc không chính xác;
-- Mất quyền truy cập do ví, thiết bị, private key, seed phrase hoặc lỗi giao dịch của bạn;
-- Rủi ro phát sinh từ validator, giao thức, bridge, nhà cung cấp hạ tầng hoặc nhà cung cấp dịch vụ bên thứ ba.
+- Slashing or loss of rewards;
+- Validator downtime or failure;
+- Protocol bugs, upgrades, forks, governance changes, or network failures;
+- Smart contract vulnerabilities;
+- Reward fluctuation or no rewards;
+- Delayed, failed, or incorrect reward distribution;
+- Loss of access resulting from your wallet, device, private key, seed phrase, or transaction errors;
+- Risks arising from third-party validators, protocols, bridges, infrastructure providers, or service providers.
 
-Phần thưởng không được bảo đảm, và kết quả trong quá khứ không bảo đảm kết quả trong tương lai.
+Rewards are not guaranteed, and past performance does not guarantee future results.
 
-### 6. Bản chất không lưu ký của SubWallet
+### 6. Non-Custodial Nature of SubWallet
 
-Bạn thừa nhận rằng SubWallet là nhà cung cấp ví không lưu ký.
+You acknowledge that SubWallet is a non-custodial wallet provider.
 
-SubWallet không nắm giữ, lưu ký, quản lý, kiểm soát hoặc chuyển tài sản số thay mặt bạn.
+SubWallet does not hold, custody, manage, control, or transfer your digital assets on your behalf.
 
-Bạn vẫn hoàn toàn chịu trách nhiệm về ví, private key, seed phrase, mật khẩu, giao dịch, quyết định staking và bảo mật tài sản số của mình.
+You remain solely responsible for your wallet, private keys, seed phrase, passwords, transactions, staking decisions, and digital asset security.
 
-SubWallet không thể khôi phục private key, seed phrase hoặc tài sản số của bạn.
+SubWallet cannot recover your private keys, seed phrase, or digital assets.
 
-### 7. Validator và dịch vụ bên thứ ba
+### 7. Third-Party Validators and Services
 
-Validator, nhà cung cấp staking, giao thức blockchain và dịch vụ earning được vận hành bởi các bên thứ ba độc lập.
+Validators, staking providers, blockchain protocols, and earning services are operated by independent third parties.
 
-SubWallet không chịu trách nhiệm về:
+SubWallet is not responsible for:
 
-- Hoạt động của validator;
-- Hiệu suất của validator;
-- Việc tạo hoặc phân phối phần thưởng;
-- Hoạt động của giao thức;
+- Validator operations;
+- Validator performance;
+- Reward generation or distribution;
+- Protocol operation;
 - Slashing;
-- Thời gian ngừng hoạt động;
-- Sự cố bảo mật ảnh hưởng đến bên thứ ba;
-- Bất kỳ hành động hoặc thiếu sót nào của validator, giao thức, blockchain hoặc nhà cung cấp dịch vụ bên thứ ba.
+- Downtime;
+- Security incidents affecting third parties;
+- Any act or omission of any validator, protocol, blockchain, or third-party service provider.
 
-Trừ khi được nêu rõ khác đi, SubWallet không xác nhận, chứng nhận, khuyến nghị hoặc bảo đảm bất kỳ validator, giao thức hoặc nhà cung cấp dịch vụ bên thứ ba nào.
+Unless expressly stated otherwise, SubWallet does not endorse, certify, recommend, or guarantee any validator, protocol, or third-party service provider.
 
-Khi áp dụng, bạn phải xem lại và đồng ý với các điều khoản của nhà cung cấp dịch vụ bên thứ ba liên quan trước khi sử dụng dịch vụ của họ.
+Where applicable, you must review and agree to the terms of the relevant third-party service provider before using its services.
 
-### 8. Không phải lời khuyên đầu tư
+### 8. No Investment Advice
 
-Không nội dung nào hiển thị trong SubWallet cấu thành lời khuyên tài chính, đầu tư, pháp lý, thuế, kế toán, giao dịch hoặc lời khuyên chuyên môn khác.
+Nothing displayed within SubWallet constitutes financial, investment, legal, tax, accounting, trading, or other professional advice.
 
-Không nội dung nào được cung cấp thông qua SubWallet được hiểu là khuyến nghị, chào mời, xác nhận hoặc lời mời mua, bán, stake, ủy quyền hoặc thực hiện giao dịch khác với bất kỳ tài sản số nào.
+Nothing made available through SubWallet shall be interpreted as a recommendation, solicitation, endorsement, or invitation to purchase, sell, stake, delegate, or otherwise transact in any digital asset.
 
-SubWallet không đóng vai trò là môi giới, đại lý, cố vấn đầu tư, nhà quản lý tài sản, bên nhận ủy thác, đại diện, người được ủy thác, bên lưu ký hoặc đại diện pháp lý của bạn.
+SubWallet does not act as your broker, dealer, investment adviser, asset manager, fiduciary, agent, trustee, custodian, or legal representative.
 
-Bạn vẫn hoàn toàn chịu trách nhiệm đánh giá tính phù hợp và rủi ro của bất kỳ hoạt động staking hoặc earning nào.
+You remain solely responsible for evaluating the suitability and risks of any staking or earning activity.
 
-### 9. Tuyên bố của người dùng
+### 9. User Representations
 
-Mọi xác nhận, thừa nhận, tuyên bố, bảo đảm và thông tin do bạn cung cấp được thực hiện hoàn toàn bởi bạn với tư cách là Người dùng ví.
+All confirmations, acknowledgements, representations, warranties, and information provided by you are made solely by you as the Wallet User.
 
-SubWallet có quyền dựa vào các tuyên bố của bạn khi cung cấp các dịch vụ liên quan cho bạn mà không cần xác minh, điều tra, chứng nhận, bảo đảm hoặc bảo đảm độc lập về tính chính xác, đầy đủ hoặc hiệu lực tiếp tục của chúng, trừ khi luật áp dụng cho SubWallet yêu cầu.
+SubWallet is entitled to rely upon your representations when making the relevant services available to you without independently verifying, investigating, certifying, guaranteeing, or ensuring their accuracy, completeness, or continuing validity, except where required by laws applicable to SubWallet.
 
-Bạn đồng ý giữ cho các tuyên bố của mình chính xác và cập nhật, đồng thời thừa nhận rằng chúng tiếp tục áp dụng trong suốt thời gian bạn truy cập hoặc sử dụng các dịch vụ liên quan.
+You agree to keep your representations accurate and up to date and acknowledge that they continue to apply for as long as you access or use the relevant services.
 
-### 10. Xác nhận cuối cùng
+### 10. Final Confirmation
 
-Bằng cách chọn "Tôi đồng ý và tiếp tục", bạn xác nhận rằng:
+By selecting "I Agree & Continue", you confirm that:
 
-- Bạn đã đọc kỹ và hiểu các Điều khoản tuân thủ đầy đủ này;
-- Mọi tuyên bố của bạn là đúng, chính xác và đầy đủ theo hiểu biết tốt nhất của bạn;
-- Bạn tự nguyện chấp nhận mọi rủi ro liên quan đến staking, ủy quyền, earning, giao thức blockchain và các dịch vụ bên thứ ba liên quan;
-- Bạn đồng ý rằng SubWallet có thể ghi nhận việc chấp thuận của bạn, bao gồm địa chỉ ví, dấu thời gian, phiên bản ứng dụng, phiên bản Điều khoản tuân thủ, nhà cung cấp hoặc giao thức được sử dụng và các bản ghi kỹ thuật liên quan khác cho mục đích tuân thủ, bảo mật và kiểm toán;
-- Nếu bạn không đồng ý với các Điều khoản tuân thủ đầy đủ này, bạn không được truy cập hoặc sử dụng các dịch vụ liên quan.
+- You have carefully read and understood these Full Compliance Terms;
+- All representations made by you are true, accurate, and complete to the best of your knowledge;
+- You voluntarily accept all risks associated with staking, delegation, earning, blockchain protocols, and related third-party services;
+- You agree that SubWallet may record your acceptance, including your wallet address, timestamp, application version, Compliance Terms version, provider or protocol used, and other relevant technical records for compliance, security, and audit purposes;
+- If you do not agree to these Full Compliance Terms, you must not access or use the relevant services.
 
-### 11. Tạm ngừng và hạn chế dịch vụ
+### 11. Suspension and Restriction of Services
 
-SubWallet có thể, theo toàn quyền quyết định của mình và khi hợp lý cần thiết, tạm ngừng, hạn chế, trì hoãn hoặc từ chối quyền truy cập vào bất kỳ dịch vụ staking, ủy quyền, validator, earning hoặc dịch vụ bên thứ ba liên quan nào, tạm thời hoặc vĩnh viễn, không cần thông báo trước, khi SubWallet có cơ sở hợp lý để tin rằng hành động đó là cần thiết để:
+SubWallet may, at its sole discretion and where reasonably necessary, suspend, restrict, delay, or refuse access to any staking, delegation, validator, earning, or related third-party services, temporarily or permanently, without prior notice, where SubWallet reasonably believes such action is necessary to:
 
-- Tuân thủ luật, quy định, lệnh trừng phạt, lệnh tòa án hoặc yêu cầu từ cơ quan nhà nước hoặc cơ quan quản lý áp dụng;
-- Tuân thủ yêu cầu, chính sách hoặc yêu cầu hợp lý của bất kỳ validator, giao thức, mạng blockchain, nhà cung cấp hạ tầng hoặc nhà cung cấp dịch vụ bên thứ ba nào;
-- Bảo vệ an ninh, tính toàn vẹn, tính sẵn sàng hoặc hoạt động đúng của SubWallet, người dùng của SubWallet hoặc bất kỳ dịch vụ bên thứ ba nào;
-- Điều tra hoặc ngăn chặn nghi ngờ gian lận, rửa tiền, tài trợ khủng bố, né tránh lệnh trừng phạt, sự cố bảo mật, lạm dụng hoặc hoạt động bất hợp pháp khác;
-- Ngăn ngừa rủi ro pháp lý, quy định, vận hành hoặc bảo mật trọng yếu đối với SubWallet hoặc người dùng của SubWallet; hoặc xử lý bất kỳ tình huống nào mà SubWallet xác định hợp lý rằng việc tiếp tục truy cập các dịch vụ liên quan có thể khiến SubWallet, người dùng của SubWallet hoặc bên thứ ba đối mặt với rủi ro pháp lý, quy định, vận hành hoặc bảo mật không thể chấp nhận.
+- Comply with applicable laws, regulations, sanctions, court orders, or requests from governmental or regulatory authorities;
+- Comply with the requirements, policies, or reasonable requests of any validator, protocol, blockchain network, infrastructure provider, or third-party service provider;
+- Protect the security, integrity, availability, or proper operation of SubWallet, its users, or any third-party services;
+- Investigate or prevent suspected fraud, money laundering, terrorist financing, sanctions evasion, security incidents, abuse, or other unlawful activities;
+- Prevent material legal, regulatory, operational, or security risks to SubWallet or its users; or address any circumstance where SubWallet reasonably determines that continued access to the relevant services may expose SubWallet, its users, or third parties to unacceptable legal, regulatory, operational, or security risks.
 
-Trong phạm vi luật áp dụng cho phép, SubWallet sẽ không chịu trách nhiệm đối với bất kỳ tổn thất, chậm trễ, phần thưởng bị bỏ lỡ hoặc thiệt hại nào khác phát sinh từ việc tạm ngừng, hạn chế, trì hoãn hoặc từ chối truy cập được thực hiện theo Mục này.
+To the extent permitted by applicable law, SubWallet shall not be liable for any loss, delay, missed rewards, or other damages arising from any suspension, restriction, delay, or refusal of access implemented in accordance with this Section.
 
-### 12. Cập nhật các Điều khoản tuân thủ đầy đủ này
+### 12. Updates to these Full Compliance Terms
 
-SubWallet có thể cập nhật, sửa đổi, bổ sung hoặc thay thế các Điều khoản tuân thủ đầy đủ này theo thời gian để phản ánh thay đổi về luật, quy định, yêu cầu tuân thủ, thông lệ ngành, chức năng nền tảng, yêu cầu bảo mật hoặc yêu cầu của nhà cung cấp dịch vụ bên thứ ba.
+SubWallet may update, modify, supplement, or replace these Full Compliance Terms from time to time to reflect changes in applicable laws, regulations, compliance requirements, industry practices, platform functionality, security requirements, or third-party service provider requirements.
 
-Khi luật áp dụng yêu cầu hoặc khi SubWallet xác định hợp lý rằng việc chấp thuận cập nhật là phù hợp, SubWallet có thể yêu cầu bạn xem lại và chấp thuận Điều khoản tuân thủ đầy đủ đã cập nhật trước khi bạn tiếp tục truy cập hoặc sử dụng các dịch vụ staking, ủy quyền, earning, validator hoặc dịch vụ bên thứ ba liên quan.
+Where required by applicable law or where SubWallet reasonably determines that updated acceptance is appropriate, SubWallet may require you to review and accept the updated Full Compliance Terms before you continue to access or use the relevant staking, delegation, earning, validator, or related third-party services.
 
-Nếu bạn không đồng ý với Điều khoản tuân thủ đầy đủ đã cập nhật, bạn phải ngừng sử dụng các dịch vụ liên quan.
+If you do not agree to the updated Full Compliance Terms, you must discontinue using the relevant services.
 
-Việc tiếp tục truy cập hoặc sử dụng các dịch vụ liên quan sau khi chấp thuận phiên bản cập nhật cấu thành sự đồng ý của bạn với Điều khoản tuân thủ đầy đủ hiện hành tại thời điểm đó.
+Continued access to or use of the relevant services after acceptance of an updated version constitutes your agreement to the then-current Full Compliance Terms.
