@@ -1,9 +1,3 @@
-## Full Compliance Terms
-
-Before accessing or using any staking, delegation, validator, earning, reward-generating, or other third-party protocol services made available through SubWallet, you must review and confirm the following.
-
-By selecting "I Agree & Continue", you represent, warrant, acknowledge, and agree that:
-
 ### 1. Your Own Decision
 
 You are accessing and using the staking, delegation, earning, or related services voluntarily, on your own behalf, and at your own discretion.

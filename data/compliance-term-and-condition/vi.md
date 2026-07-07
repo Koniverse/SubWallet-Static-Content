@@ -1,9 +1,3 @@
-## Điều khoản tuân thủ đầy đủ
-
-Trước khi truy cập hoặc sử dụng bất kỳ dịch vụ staking, ủy quyền, validator, earning, tạo phần thưởng hoặc dịch vụ giao thức bên thứ ba nào khác được cung cấp thông qua SubWallet, bạn phải xem lại và xác nhận các nội dung sau.
-
-Bằng cách chọn "Tôi đồng ý và tiếp tục", bạn tuyên bố, bảo đảm, thừa nhận và đồng ý rằng:
-
 ### 1. Quyết định của riêng bạn
 
 Bạn truy cập và sử dụng các dịch vụ staking, ủy quyền, earning hoặc dịch vụ liên quan một cách tự nguyện, nhân danh chính bạn và theo quyết định của riêng bạn.
