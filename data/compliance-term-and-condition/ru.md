@@ -1,133 +1,133 @@
-### 1. Ваше собственное решение
+### 1. Your Own Decision
 
-Вы получаете доступ к сервисам стейкинга, делегирования, earning или связанным сервисам добровольно, от своего имени и по собственному усмотрению.
+You are accessing and using the staking, delegation, earning, or related services voluntarily, on your own behalf, and at your own discretion.
 
-Вы единолично отвечаете за решение о том, выполнять ли стейкинг, делегирование, анстейкинг, повторное делегирование, получение вознаграждений или иным образом взаимодействовать с валидатором, протоколом, блокчейном или сторонним поставщиком услуг.
+You are solely responsible for deciding whether to stake, delegate, unstake, redelegate, claim rewards, or otherwise interact with any validator, protocol, blockchain, or third-party service provider.
 
-Вы признаете, что все решения о стейкинге, выбор валидаторов, делегирования и связанные транзакции инициируются исключительно на основании ваших собственных инструкций.
+You acknowledge that all staking decisions, validator selections, delegations, and related transactions are initiated solely based on your own instructions.
 
-SubWallet не принимает решения о стейкинге за вас и не рекомендует, не консультирует, не гарантирует, не одобряет и не направляет вас к использованию конкретного валидатора, протокола, блокчейна или стороннего поставщика услуг.
+SubWallet does not make staking decisions for you and does not recommend, advise, guarantee, endorse, or direct you to use any particular validator, protocol, blockchain, or third-party service provider.
 
-### 2. Право собственности, полномочия и соответствие требованиям
+### 2. Ownership, Authority and Eligibility
 
-Вы заявляете и подтверждаете, что:
+You represent and confirm that:
 
-- Вы законно владеете цифровыми активами, используемыми для стейкинга или earning, либо контролируете их;
-- У вас есть полная правоспособность и полномочия использовать такие активы и делать эти подтверждения;
-- Использование вами таких активов и сервисов не нарушает применимые к вам законы, правила, соглашения или права третьих лиц.
+- You lawfully own or control the digital assets used for staking or earning;
+- You have full legal capacity and authority to use such assets and to make these confirmations;
+- Your use of such assets and services does not violate any applicable law, regulation, agreement, or third-party right applicable to you.
 
-### 3. Санкции, AML и запрещенное использование
+### 3. Sanctions, AML and Prohibited Use
 
-Вы заявляете и подтверждаете, что:
+You represent and confirm that:
 
-- Вы не являетесь лицом, находящимся под санкциями, ограничениями, запретом или блокировкой согласно применимому праву;
-- Вы не находитесь, не зарегистрированы, не проживаете и не ведете деятельность в юрисдикции, где использование соответствующих сервисов запрещено;
-- Вы не действуете от имени лица, находящегося под санкциями, ограничениями, запретом или блокировкой;
-- Вы не будете использовать SubWallet или любые сервисы стейкинга, earning, валидаторов или связанные сервисы для отмывания денег, финансирования терроризма, обхода санкций, мошенничества или любой иной незаконной деятельности;
-- Насколько вам известно, используемые вами цифровые активы не получены в результате незаконной деятельности.
+- You are not a sanctioned, restricted, prohibited, or blocked person under applicable laws;
+- You are not located, organized, resident, or operating in any jurisdiction where use of the relevant services is prohibited;
+- You are not acting on behalf of any sanctioned, restricted, prohibited, or blocked person;
+- You will not use SubWallet or any staking, earning, validator, or related services for money laundering, terrorist financing, sanctions evasion, fraud, or any other unlawful activity;
+- To the best of your knowledge, the digital assets you use are not derived from unlawful activities.
 
-Если любое из вышеуказанных заявлений становится неточным, вы соглашаетесь немедленно прекратить использование соответствующих сервисов до разрешения проблемы.
+If any of the above representations become inaccurate, you agree to immediately stop using the relevant services until the issue has been resolved.
 
-### 4. Юридическая и налоговая ответственность
+### 4. Legal and Tax Responsibility
 
-Вы единолично отвечаете за:
+You are solely responsible for:
 
-- Определение того, являются ли стейкинг, делегирование, earning, вознаграждения или связанные транзакции законными в вашей юрисдикции;
-- Соблюдение всех применимых к вам законов и правил;
-- Расчет, декларирование и уплату любых налогов, возникающих из ваших цифровых активов, стейкинг-активности, вознаграждений или связанных транзакций.
+- Determining whether staking, delegation, earning, rewards, or related transactions are lawful in your jurisdiction;
+- Complying with all laws and regulations applicable to you;
+- Calculating, reporting, and paying any taxes arising from your digital assets, staking activities, rewards, or related transactions.
 
-SubWallet не предоставляет юридические, налоговые, бухгалтерские, регуляторные или комплаенс-консультации.
+SubWallet does not provide legal, tax, accounting, regulatory, or compliance advice.
 
-### 5. Риски стейкинга и блокчейна
+### 5. Staking and Blockchain Risks
 
-Вы понимаете и принимаете, что стейкинг и блокчейн-активности связаны со значительными техническими, операционными, финансовыми и протокольными рисками, включая, помимо прочего:
+You understand and accept that staking and blockchain activities involve significant technical, operational, financial, and protocol risks, including but not limited to:
 
-- Slashing или потерю вознаграждений;
-- Простой или сбой валидатора;
-- Ошибки протокола, обновления, форки, изменения управления или сбои сети;
-- Уязвимости смарт-контрактов;
-- Колебания вознаграждений или отсутствие вознаграждений;
-- Задержку, сбой или некорректное распределение вознаграждений;
-- Потерю доступа из-за вашего кошелька, устройства, приватного ключа, seed-фразы или ошибок транзакций;
-- Риски, возникающие от сторонних валидаторов, протоколов, мостов, инфраструктурных поставщиков или поставщиков услуг.
+- Slashing or loss of rewards;
+- Validator downtime or failure;
+- Protocol bugs, upgrades, forks, governance changes, or network failures;
+- Smart contract vulnerabilities;
+- Reward fluctuation or no rewards;
+- Delayed, failed, or incorrect reward distribution;
+- Loss of access resulting from your wallet, device, private key, seed phrase, or transaction errors;
+- Risks arising from third-party validators, protocols, bridges, infrastructure providers, or service providers.
 
-Вознаграждения не гарантированы, а прошлые результаты не гарантируют будущих результатов.
+Rewards are not guaranteed, and past performance does not guarantee future results.
 
-### 6. Некастодиальная природа SubWallet
+### 6. Non-Custodial Nature of SubWallet
 
-Вы признаете, что SubWallet является некастодиальным поставщиком кошелька.
+You acknowledge that SubWallet is a non-custodial wallet provider.
 
-SubWallet не хранит, не кастодианит, не управляет, не контролирует и не переводит ваши цифровые активы от вашего имени.
+SubWallet does not hold, custody, manage, control, or transfer your digital assets on your behalf.
 
-Вы остаетесь единолично ответственным за свой кошелек, приватные ключи, seed-фразу, пароли, транзакции, решения о стейкинге и безопасность цифровых активов.
+You remain solely responsible for your wallet, private keys, seed phrase, passwords, transactions, staking decisions, and digital asset security.
 
-SubWallet не может восстановить ваши приватные ключи, seed-фразу или цифровые активы.
+SubWallet cannot recover your private keys, seed phrase, or digital assets.
 
-### 7. Сторонние валидаторы и сервисы
+### 7. Third-Party Validators and Services
 
-Валидаторы, поставщики стейкинга, блокчейн-протоколы и earning-сервисы управляются независимыми третьими лицами.
+Validators, staking providers, blockchain protocols, and earning services are operated by independent third parties.
 
-SubWallet не отвечает за:
+SubWallet is not responsible for:
 
-- Работу валидаторов;
-- Производительность валидаторов;
-- Генерацию или распределение вознаграждений;
-- Работу протокола;
+- Validator operations;
+- Validator performance;
+- Reward generation or distribution;
+- Protocol operation;
 - Slashing;
-- Простой;
-- Инциденты безопасности, затрагивающие третьих лиц;
-- Любые действия или бездействие валидатора, протокола, блокчейна или стороннего поставщика услуг.
+- Downtime;
+- Security incidents affecting third parties;
+- Any act or omission of any validator, protocol, blockchain, or third-party service provider.
 
-Если прямо не указано иное, SubWallet не одобряет, не сертифицирует, не рекомендует и не гарантирует какого-либо валидатора, протокол или стороннего поставщика услуг.
+Unless expressly stated otherwise, SubWallet does not endorse, certify, recommend, or guarantee any validator, protocol, or third-party service provider.
 
-Если применимо, вы должны ознакомиться и согласиться с условиями соответствующего стороннего поставщика услуг до использования его сервисов.
+Where applicable, you must review and agree to the terms of the relevant third-party service provider before using its services.
 
-### 8. Не является инвестиционной консультацией
+### 8. No Investment Advice
 
-Ничто, отображаемое в SubWallet, не является финансовой, инвестиционной, юридической, налоговой, бухгалтерской, торговой или иной профессиональной консультацией.
+Nothing displayed within SubWallet constitutes financial, investment, legal, tax, accounting, trading, or other professional advice.
 
-Ничто, доступное через SubWallet, не должно толковаться как рекомендация, предложение, одобрение или приглашение купить, продать, застейкать, делегировать или иным образом совершить транзакцию с цифровым активом.
+Nothing made available through SubWallet shall be interpreted as a recommendation, solicitation, endorsement, or invitation to purchase, sell, stake, delegate, or otherwise transact in any digital asset.
 
-SubWallet не действует как ваш брокер, дилер, инвестиционный консультант, управляющий активами, фидуциар, агент, доверительный управляющий, кастодиан или законный представитель.
+SubWallet does not act as your broker, dealer, investment adviser, asset manager, fiduciary, agent, trustee, custodian, or legal representative.
 
-Вы единолично отвечаете за оценку пригодности и рисков любой активности стейкинга или earning.
+You remain solely responsible for evaluating the suitability and risks of any staking or earning activity.
 
-### 9. Заявления пользователя
+### 9. User Representations
 
-Все подтверждения, признания, заявления, гарантии и информация, предоставленные вами, делаются исключительно вами как пользователем кошелька.
+All confirmations, acknowledgements, representations, warranties, and information provided by you are made solely by you as the Wallet User.
 
-SubWallet вправе полагаться на ваши заявления при предоставлении вам соответствующих сервисов без независимой проверки, расследования, сертификации, гарантии или обеспечения их точности, полноты или продолжающейся действительности, за исключением случаев, когда это требуется законами, применимыми к SubWallet.
+SubWallet is entitled to rely upon your representations when making the relevant services available to you without independently verifying, investigating, certifying, guaranteeing, or ensuring their accuracy, completeness, or continuing validity, except where required by laws applicable to SubWallet.
 
-Вы соглашаетесь поддерживать свои заявления точными и актуальными и признаете, что они продолжают применяться, пока вы получаете доступ к соответствующим сервисам или используете их.
+You agree to keep your representations accurate and up to date and acknowledge that they continue to apply for as long as you access or use the relevant services.
 
-### 10. Финальное подтверждение
+### 10. Final Confirmation
 
-Выбирая "Я согласен и продолжить", вы подтверждаете, что:
+By selecting "I Agree & Continue", you confirm that:
 
-- Вы внимательно прочитали и поняли эти Полные условия комплаенса;
-- Все сделанные вами заявления являются правдивыми, точными и полными, насколько вам известно;
-- Вы добровольно принимаете все риски, связанные со стейкингом, делегированием, earning, блокчейн-протоколами и связанными сторонними сервисами;
-- Вы соглашаетесь, что SubWallet может записывать ваше согласие, включая адрес кошелька, временную метку, версию приложения, версию Условий комплаенса, использованного поставщика или протокол и другие соответствующие технические записи для целей комплаенса, безопасности и аудита;
-- Если вы не согласны с этими Полными условиями комплаенса, вы не должны получать доступ к соответствующим сервисам или использовать их.
+- You have carefully read and understood these Full Compliance Terms;
+- All representations made by you are true, accurate, and complete to the best of your knowledge;
+- You voluntarily accept all risks associated with staking, delegation, earning, blockchain protocols, and related third-party services;
+- You agree that SubWallet may record your acceptance, including your wallet address, timestamp, application version, Compliance Terms version, provider or protocol used, and other relevant technical records for compliance, security, and audit purposes;
+- If you do not agree to these Full Compliance Terms, you must not access or use the relevant services.
 
-### 11. Приостановка и ограничение сервисов
+### 11. Suspension and Restriction of Services
 
-SubWallet может по своему единоличному усмотрению и когда это разумно необходимо, временно или постоянно, без предварительного уведомления приостановить, ограничить, задержать или отказать в доступе к любым сервисам стейкинга, делегирования, валидаторов, earning или связанным сторонним сервисам, если SubWallet разумно считает, что такое действие необходимо для:
+SubWallet may, at its sole discretion and where reasonably necessary, suspend, restrict, delay, or refuse access to any staking, delegation, validator, earning, or related third-party services, temporarily or permanently, without prior notice, where SubWallet reasonably believes such action is necessary to:
 
-- Соблюдения применимых законов, правил, санкций, судебных приказов или запросов государственных либо регулирующих органов;
-- Соблюдения требований, политик или разумных запросов любого валидатора, протокола, блокчейн-сети, инфраструктурного поставщика или стороннего поставщика услуг;
-- Защиты безопасности, целостности, доступности или надлежащей работы SubWallet, его пользователей или любых сторонних сервисов;
-- Расследования или предотвращения подозреваемого мошенничества, отмывания денег, финансирования терроризма, обхода санкций, инцидентов безопасности, злоупотреблений или иной незаконной деятельности;
-- Предотвращения существенных юридических, регуляторных, операционных или безопасностных рисков для SubWallet или его пользователей; или реагирования на любые обстоятельства, при которых SubWallet разумно определяет, что продолжение доступа к соответствующим сервисам может подвергнуть SubWallet, его пользователей или третьих лиц неприемлемым юридическим, регуляторным, операционным или безопасностным рискам.
+- Comply with applicable laws, regulations, sanctions, court orders, or requests from governmental or regulatory authorities;
+- Comply with the requirements, policies, or reasonable requests of any validator, protocol, blockchain network, infrastructure provider, or third-party service provider;
+- Protect the security, integrity, availability, or proper operation of SubWallet, its users, or any third-party services;
+- Investigate or prevent suspected fraud, money laundering, terrorist financing, sanctions evasion, security incidents, abuse, or other unlawful activities;
+- Prevent material legal, regulatory, operational, or security risks to SubWallet or its users; or address any circumstance where SubWallet reasonably determines that continued access to the relevant services may expose SubWallet, its users, or third parties to unacceptable legal, regulatory, operational, or security risks.
 
-В пределах, разрешенных применимым правом, SubWallet не несет ответственности за любые потери, задержки, упущенные вознаграждения или иной ущерб, возникший из приостановки, ограничения, задержки или отказа в доступе, реализованных в соответствии с настоящим разделом.
+To the extent permitted by applicable law, SubWallet shall not be liable for any loss, delay, missed rewards, or other damages arising from any suspension, restriction, delay, or refusal of access implemented in accordance with this Section.
 
-### 12. Обновления этих Полных условий комплаенса
+### 12. Updates to these Full Compliance Terms
 
-SubWallet может время от времени обновлять, изменять, дополнять или заменять эти Полные условия комплаенса, чтобы отражать изменения применимых законов, правил, комплаенс-требований, отраслевой практики, функциональности платформы, требований безопасности или требований сторонних поставщиков услуг.
+SubWallet may update, modify, supplement, or replace these Full Compliance Terms from time to time to reflect changes in applicable laws, regulations, compliance requirements, industry practices, platform functionality, security requirements, or third-party service provider requirements.
 
-Если это требуется применимым правом или если SubWallet разумно определяет, что обновленное согласие является уместным, SubWallet может потребовать, чтобы вы ознакомились и приняли обновленные Полные условия комплаенса до продолжения доступа к соответствующим сервисам стейкинга, делегирования, earning, валидаторов или связанным сторонним сервисам.
+Where required by applicable law or where SubWallet reasonably determines that updated acceptance is appropriate, SubWallet may require you to review and accept the updated Full Compliance Terms before you continue to access or use the relevant staking, delegation, earning, validator, or related third-party services.
 
-Если вы не согласны с обновленными Полными условиями комплаенса, вы должны прекратить использование соответствующих сервисов.
+If you do not agree to the updated Full Compliance Terms, you must discontinue using the relevant services.
 
-Продолжение доступа к соответствующим сервисам или их использования после принятия обновленной версии означает ваше согласие с действующими на тот момент Полными условиями комплаенса.
+Continued access to or use of the relevant services after acceptance of an updated version constitutes your agreement to the then-current Full Compliance Terms.
