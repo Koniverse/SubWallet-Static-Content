@@ -1,133 +1,133 @@
-### 1. 自己判断
+### 1. Your Own Decision
 
-あなたはステーキング、委任、収益獲得、または関連サービスを、自分自身のために、自発的かつ自己の判断で利用します。
+You are accessing and using the staking, delegation, earning, or related services voluntarily, on your own behalf, and at your own discretion.
 
-ステーク、委任、アンステーク、再委任、報酬請求、またはバリデーター、プロトコル、ブロックチェーン、第三者サービスプロバイダーとのその他のやり取りを行うかどうかは、あなたが単独で責任を負います。
+You are solely responsible for deciding whether to stake, delegate, unstake, redelegate, claim rewards, or otherwise interact with any validator, protocol, blockchain, or third-party service provider.
 
-すべてのステーキング判断、バリデーター選択、委任、および関連取引は、あなた自身の指示のみに基づいて開始されることを認識します。
+You acknowledge that all staking decisions, validator selections, delegations, and related transactions are initiated solely based on your own instructions.
 
-SubWalletはあなたに代わってステーキング判断を行わず、特定のバリデーター、プロトコル、ブロックチェーン、または第三者サービスプロバイダーの利用を推奨、助言、保証、支持、または指示しません。
+SubWallet does not make staking decisions for you and does not recommend, advise, guarantee, endorse, or direct you to use any particular validator, protocol, blockchain, or third-party service provider.
 
-### 2. 所有権、権限および適格性
+### 2. Ownership, Authority and Eligibility
 
-あなたは以下を表明し確認します。
+You represent and confirm that:
 
-- ステーキングまたは収益獲得に使用するデジタル資産を合法的に所有または管理していること。
-- それらの資産を使用し、これらの確認を行う完全な法的能力および権限を有していること。
-- それらの資産およびサービスの利用が、あなたに適用される法律、規制、契約、または第三者の権利に違反しないこと。
+- You lawfully own or control the digital assets used for staking or earning;
+- You have full legal capacity and authority to use such assets and to make these confirmations;
+- Your use of such assets and services does not violate any applicable law, regulation, agreement, or third-party right applicable to you.
 
-### 3. 制裁、AMLおよび禁止利用
+### 3. Sanctions, AML and Prohibited Use
 
-あなたは以下を表明し確認します。
+You represent and confirm that:
 
-- 適用法上の制裁、制限、禁止、またはブロック対象者ではないこと。
-- 関連サービスの利用が禁止されている法域に所在、設立、居住、または運営していないこと。
-- 制裁、制限、禁止、またはブロック対象者の代理として行動していないこと。
-- SubWalletまたはステーキング、収益獲得、バリデーター、関連サービスを、マネーロンダリング、テロ資金供与、制裁回避、詐欺、その他の違法行為に使用しないこと。
-- あなたの知る限り、使用するデジタル資産が違法行為に由来しないこと。
+- You are not a sanctioned, restricted, prohibited, or blocked person under applicable laws;
+- You are not located, organized, resident, or operating in any jurisdiction where use of the relevant services is prohibited;
+- You are not acting on behalf of any sanctioned, restricted, prohibited, or blocked person;
+- You will not use SubWallet or any staking, earning, validator, or related services for money laundering, terrorist financing, sanctions evasion, fraud, or any other unlawful activity;
+- To the best of your knowledge, the digital assets you use are not derived from unlawful activities.
 
-上記の表明のいずれかが不正確になった場合、問題が解決されるまで関連サービスの利用を直ちに停止することに同意します。
+If any of the above representations become inaccurate, you agree to immediately stop using the relevant services until the issue has been resolved.
 
-### 4. 法律および税務上の責任
+### 4. Legal and Tax Responsibility
 
-あなたは以下について単独で責任を負います。
+You are solely responsible for:
 
-- あなたの法域でステーキング、委任、収益獲得、報酬、または関連取引が合法であるかを判断すること。
-- あなたに適用されるすべての法律および規制を遵守すること。
-- デジタル資産、ステーキング活動、報酬、または関連取引から生じる税金を計算、申告、支払うこと。
+- Determining whether staking, delegation, earning, rewards, or related transactions are lawful in your jurisdiction;
+- Complying with all laws and regulations applicable to you;
+- Calculating, reporting, and paying any taxes arising from your digital assets, staking activities, rewards, or related transactions.
 
-SubWalletは法律、税務、会計、規制、またはコンプライアンスに関する助言を提供しません。
+SubWallet does not provide legal, tax, accounting, regulatory, or compliance advice.
 
-### 5. ステーキングおよびブロックチェーンのリスク
+### 5. Staking and Blockchain Risks
 
-あなたは、ステーキングおよびブロックチェーン活動に重大な技術、運用、金融、プロトコル上のリスクが含まれることを理解し受け入れます。これには以下が含まれますが、これらに限定されません。
+You understand and accept that staking and blockchain activities involve significant technical, operational, financial, and protocol risks, including but not limited to:
 
-- スラッシングまたは報酬の損失。
-- バリデーターの停止または障害。
-- プロトコルのバグ、アップグレード、フォーク、ガバナンス変更、またはネットワーク障害。
-- スマートコントラクトの脆弱性。
-- 報酬の変動または無報酬。
-- 報酬分配の遅延、失敗、または誤り。
-- ウォレット、デバイス、秘密鍵、シードフレーズ、または取引エラーによるアクセス喪失。
-- 第三者のバリデーター、プロトコル、ブリッジ、インフラプロバイダー、またはサービスプロバイダーに起因するリスク。
+- Slashing or loss of rewards;
+- Validator downtime or failure;
+- Protocol bugs, upgrades, forks, governance changes, or network failures;
+- Smart contract vulnerabilities;
+- Reward fluctuation or no rewards;
+- Delayed, failed, or incorrect reward distribution;
+- Loss of access resulting from your wallet, device, private key, seed phrase, or transaction errors;
+- Risks arising from third-party validators, protocols, bridges, infrastructure providers, or service providers.
 
-報酬は保証されず、過去の実績は将来の結果を保証しません。
+Rewards are not guaranteed, and past performance does not guarantee future results.
 
-### 6. SubWalletの非カストディアル性
+### 6. Non-Custodial Nature of SubWallet
 
-あなたはSubWalletが非カストディアルウォレットプロバイダーであることを認識します。
+You acknowledge that SubWallet is a non-custodial wallet provider.
 
-SubWalletはあなたに代わってデジタル資産を保有、保管、管理、支配、または移転しません。
+SubWallet does not hold, custody, manage, control, or transfer your digital assets on your behalf.
 
-あなたはウォレット、秘密鍵、シードフレーズ、パスワード、取引、ステーキング判断、およびデジタル資産のセキュリティについて単独で責任を負います。
+You remain solely responsible for your wallet, private keys, seed phrase, passwords, transactions, staking decisions, and digital asset security.
 
-SubWalletはあなたの秘密鍵、シードフレーズ、またはデジタル資産を復元できません。
+SubWallet cannot recover your private keys, seed phrase, or digital assets.
 
-### 7. 第三者バリデーターおよびサービス
+### 7. Third-Party Validators and Services
 
-バリデーター、ステーキングプロバイダー、ブロックチェーンプロトコル、および収益獲得サービスは独立した第三者によって運営されます。
+Validators, staking providers, blockchain protocols, and earning services are operated by independent third parties.
 
-SubWalletは以下について責任を負いません。
+SubWallet is not responsible for:
 
-- バリデーターの運営。
-- バリデーターのパフォーマンス。
-- 報酬の生成または分配。
-- プロトコルの運営。
-- スラッシング。
-- ダウンタイム。
-- 第三者に影響するセキュリティインシデント。
-- バリデーター、プロトコル、ブロックチェーン、または第三者サービスプロバイダーの作為または不作為。
+- Validator operations;
+- Validator performance;
+- Reward generation or distribution;
+- Protocol operation;
+- Slashing;
+- Downtime;
+- Security incidents affecting third parties;
+- Any act or omission of any validator, protocol, blockchain, or third-party service provider.
 
-明示的に別段の定めがない限り、SubWalletはいかなるバリデーター、プロトコル、または第三者サービスプロバイダーも支持、認証、推奨、または保証しません。
+Unless expressly stated otherwise, SubWallet does not endorse, certify, recommend, or guarantee any validator, protocol, or third-party service provider.
 
-該当する場合、あなたはそのサービスを利用する前に、関連する第三者サービスプロバイダーの規約を確認し同意する必要があります。
+Where applicable, you must review and agree to the terms of the relevant third-party service provider before using its services.
 
-### 8. 投資助言ではありません
+### 8. No Investment Advice
 
-SubWallet内に表示されるいかなる内容も、金融、投資、法律、税務、会計、取引、またはその他の専門的助言を構成しません。
+Nothing displayed within SubWallet constitutes financial, investment, legal, tax, accounting, trading, or other professional advice.
 
-SubWalletを通じて提供されるいかなる内容も、デジタル資産の購入、売却、ステーク、委任、またはその他の取引を推奨、勧誘、支持、または招待するものと解釈されません。
+Nothing made available through SubWallet shall be interpreted as a recommendation, solicitation, endorsement, or invitation to purchase, sell, stake, delegate, or otherwise transact in any digital asset.
 
-SubWalletはあなたのブローカー、ディーラー、投資助言者、資産管理者、受託者、代理人、信託受託者、カストディアン、または法定代理人として行動しません。
+SubWallet does not act as your broker, dealer, investment adviser, asset manager, fiduciary, agent, trustee, custodian, or legal representative.
 
-あなたはステーキングまたは収益獲得活動の適合性およびリスクを評価する単独の責任を負います。
+You remain solely responsible for evaluating the suitability and risks of any staking or earning activity.
 
-### 9. ユーザーの表明
+### 9. User Representations
 
-あなたが提供するすべての確認、認識、表明、保証、および情報は、ウォレットユーザーであるあなた自身によってのみ行われます。
+All confirmations, acknowledgements, representations, warranties, and information provided by you are made solely by you as the Wallet User.
 
-SubWalletは、SubWalletに適用される法律で要求される場合を除き、その正確性、完全性、または継続的有効性を独自に検証、調査、認証、保証、または確保することなく、関連サービスを提供する際にあなたの表明に依拠する権利を有します。
+SubWallet is entitled to rely upon your representations when making the relevant services available to you without independently verifying, investigating, certifying, guaranteeing, or ensuring their accuracy, completeness, or continuing validity, except where required by laws applicable to SubWallet.
 
-あなたは表明を正確かつ最新に保つことに同意し、関連サービスへアクセスまたは利用している限り、それらが継続して適用されることを認識します。
+You agree to keep your representations accurate and up to date and acknowledge that they continue to apply for as long as you access or use the relevant services.
 
-### 10. 最終確認
+### 10. Final Confirmation
 
-「同意して続行」を選択することにより、あなたは以下を確認します。
+By selecting "I Agree & Continue", you confirm that:
 
-- これらの完全なコンプライアンス規約を注意深く読み、理解したこと。
-- あなたが行ったすべての表明が、あなたの知る限り真実、正確かつ完全であること。
-- ステーキング、委任、収益獲得、ブロックチェーンプロトコル、および関連する第三者サービスに伴うすべてのリスクを自発的に受け入れること。
-- SubWalletが、コンプライアンス、セキュリティ、監査目的で、ウォレットアドレス、タイムスタンプ、アプリケーションバージョン、コンプライアンス規約バージョン、利用したプロバイダーまたはプロトコル、その他関連する技術記録を含むあなたの同意を記録できることに同意すること。
-- これらの完全なコンプライアンス規約に同意しない場合、関連サービスへアクセスまたは利用してはならないこと。
+- You have carefully read and understood these Full Compliance Terms;
+- All representations made by you are true, accurate, and complete to the best of your knowledge;
+- You voluntarily accept all risks associated with staking, delegation, earning, blockchain protocols, and related third-party services;
+- You agree that SubWallet may record your acceptance, including your wallet address, timestamp, application version, Compliance Terms version, provider or protocol used, and other relevant technical records for compliance, security, and audit purposes;
+- If you do not agree to these Full Compliance Terms, you must not access or use the relevant services.
 
-### 11. サービスの停止および制限
+### 11. Suspension and Restriction of Services
 
-SubWalletは、合理的に必要な場合、その単独の裁量により、事前通知なく、一時的または恒久的に、ステーキング、委任、バリデーター、収益獲得、または関連する第三者サービスへのアクセスを停止、制限、遅延、または拒否することがあります。SubWalletがそのような措置が必要であると合理的に判断する場合には、以下が含まれます。
+SubWallet may, at its sole discretion and where reasonably necessary, suspend, restrict, delay, or refuse access to any staking, delegation, validator, earning, or related third-party services, temporarily or permanently, without prior notice, where SubWallet reasonably believes such action is necessary to:
 
-- 適用法、規制、制裁、裁判所命令、または政府機関もしくは規制当局からの要請を遵守するため。
-- バリデーター、プロトコル、ブロックチェーンネットワーク、インフラプロバイダー、または第三者サービスプロバイダーの要件、ポリシー、または合理的な要請を遵守するため。
-- SubWallet、そのユーザー、または第三者サービスのセキュリティ、完全性、可用性、または適正な運営を保護するため。
-- 詐欺、マネーロンダリング、テロ資金供与、制裁回避、セキュリティインシデント、不正利用、またはその他の違法行為の疑いを調査または防止するため。
-- SubWalletまたはそのユーザーに対する重大な法律、規制、運用、またはセキュリティ上のリスクを防止するため、または関連サービスへの継続アクセスがSubWallet、そのユーザー、または第三者を許容できない法律、規制、運用、またはセキュリティ上のリスクにさらす可能性があるとSubWalletが合理的に判断する状況に対処するため。
+- Comply with applicable laws, regulations, sanctions, court orders, or requests from governmental or regulatory authorities;
+- Comply with the requirements, policies, or reasonable requests of any validator, protocol, blockchain network, infrastructure provider, or third-party service provider;
+- Protect the security, integrity, availability, or proper operation of SubWallet, its users, or any third-party services;
+- Investigate or prevent suspected fraud, money laundering, terrorist financing, sanctions evasion, security incidents, abuse, or other unlawful activities;
+- Prevent material legal, regulatory, operational, or security risks to SubWallet or its users; or address any circumstance where SubWallet reasonably determines that continued access to the relevant services may expose SubWallet, its users, or third parties to unacceptable legal, regulatory, operational, or security risks.
 
-適用法で認められる範囲で、SubWalletは本項に従って実施された停止、制限、遅延、またはアクセス拒否に起因する損失、遅延、未取得報酬、その他の損害について責任を負いません。
+To the extent permitted by applicable law, SubWallet shall not be liable for any loss, delay, missed rewards, or other damages arising from any suspension, restriction, delay, or refusal of access implemented in accordance with this Section.
 
-### 12. 本完全なコンプライアンス規約の更新
+### 12. Updates to these Full Compliance Terms
 
-SubWalletは、適用法、規制、コンプライアンス要件、業界慣行、プラットフォーム機能、セキュリティ要件、または第三者サービスプロバイダー要件の変更を反映するために、本完全なコンプライアンス規約を随時更新、変更、補足、または置き換えることがあります。
+SubWallet may update, modify, supplement, or replace these Full Compliance Terms from time to time to reflect changes in applicable laws, regulations, compliance requirements, industry practices, platform functionality, security requirements, or third-party service provider requirements.
 
-適用法で要求される場合、またはSubWalletが更新後の同意が適切であると合理的に判断する場合、SubWalletはあなたが関連するステーキング、委任、収益獲得、バリデーター、または第三者サービスへのアクセスまたは利用を継続する前に、更新後の完全なコンプライアンス規約を確認し同意することを求める場合があります。
+Where required by applicable law or where SubWallet reasonably determines that updated acceptance is appropriate, SubWallet may require you to review and accept the updated Full Compliance Terms before you continue to access or use the relevant staking, delegation, earning, validator, or related third-party services.
 
-更新後の完全なコンプライアンス規約に同意しない場合、関連サービスの利用を中止する必要があります。
+If you do not agree to the updated Full Compliance Terms, you must discontinue using the relevant services.
 
-更新版への同意後に関連サービスへのアクセスまたは利用を継続することは、その時点で有効な完全なコンプライアンス規約への同意を意味します。
+Continued access to or use of the relevant services after acceptance of an updated version constitutes your agreement to the then-current Full Compliance Terms.
