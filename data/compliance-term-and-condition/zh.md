@@ -1,133 +1,133 @@
-### 1. 你的自主决定
+### 1. Your Own Decision
 
-你是自愿、以自己的名义并自行决定访问和使用质押、委托、收益或相关服务。
+You are accessing and using the staking, delegation, earning, or related services voluntarily, on your own behalf, and at your own discretion.
 
-你全权负责决定是否进行质押、委托、解除质押、重新委托、领取奖励，或以其他方式与任何验证者、协议、区块链或第三方服务提供商互动。
+You are solely responsible for deciding whether to stake, delegate, unstake, redelegate, claim rewards, or otherwise interact with any validator, protocol, blockchain, or third-party service provider.
 
-你知悉，所有质押决定、验证者选择、委托和相关交易均完全基于你自己的指示发起。
+You acknowledge that all staking decisions, validator selections, delegations, and related transactions are initiated solely based on your own instructions.
 
-SubWallet 不会替你作出质押决定，也不会建议、推荐、保证、认可或指示你使用任何特定验证者、协议、区块链或第三方服务提供商。
+SubWallet does not make staking decisions for you and does not recommend, advise, guarantee, endorse, or direct you to use any particular validator, protocol, blockchain, or third-party service provider.
 
-### 2. 所有权、权限和资格
+### 2. Ownership, Authority and Eligibility
 
-你声明并确认：
+You represent and confirm that:
 
-- 你合法拥有或控制用于质押或收益的数字资产；
-- 你具有使用该等资产并作出这些确认的完整法律能力和权限；
-- 你使用该等资产和服务不违反任何适用于你的法律、法规、协议或第三方权利。
+- You lawfully own or control the digital assets used for staking or earning;
+- You have full legal capacity and authority to use such assets and to make these confirmations;
+- Your use of such assets and services does not violate any applicable law, regulation, agreement, or third-party right applicable to you.
 
-### 3. 制裁、反洗钱和禁止用途
+### 3. Sanctions, AML and Prohibited Use
 
-你声明并确认：
+You represent and confirm that:
 
-- 根据适用法律，你不是受制裁、受限制、被禁止或被冻结的人；
-- 你不位于、设立于、居住于或运营于禁止使用相关服务的任何司法辖区；
-- 你不是代表任何受制裁、受限制、被禁止或被冻结的人行事；
-- 你不会将 SubWallet 或任何质押、收益、验证者或相关服务用于洗钱、资助恐怖主义、规避制裁、欺诈或任何其他非法活动；
-- 据你所知，你使用的数字资产并非来源于非法活动。
+- You are not a sanctioned, restricted, prohibited, or blocked person under applicable laws;
+- You are not located, organized, resident, or operating in any jurisdiction where use of the relevant services is prohibited;
+- You are not acting on behalf of any sanctioned, restricted, prohibited, or blocked person;
+- You will not use SubWallet or any staking, earning, validator, or related services for money laundering, terrorist financing, sanctions evasion, fraud, or any other unlawful activity;
+- To the best of your knowledge, the digital assets you use are not derived from unlawful activities.
 
-如果上述任何声明变得不准确，你同意立即停止使用相关服务，直至问题得到解决。
+If any of the above representations become inaccurate, you agree to immediately stop using the relevant services until the issue has been resolved.
 
-### 4. 法律和税务责任
+### 4. Legal and Tax Responsibility
 
-你全权负责：
+You are solely responsible for:
 
-- 判断质押、委托、收益、奖励或相关交易在你的司法辖区是否合法；
-- 遵守所有适用于你的法律和法规；
-- 计算、申报并支付因你的数字资产、质押活动、奖励或相关交易产生的任何税费。
+- Determining whether staking, delegation, earning, rewards, or related transactions are lawful in your jurisdiction;
+- Complying with all laws and regulations applicable to you;
+- Calculating, reporting, and paying any taxes arising from your digital assets, staking activities, rewards, or related transactions.
 
-SubWallet 不提供法律、税务、会计、监管或合规建议。
+SubWallet does not provide legal, tax, accounting, regulatory, or compliance advice.
 
-### 5. 质押和区块链风险
+### 5. Staking and Blockchain Risks
 
-你理解并接受，质押和区块链活动涉及重大的技术、运营、财务和协议风险，包括但不限于：
+You understand and accept that staking and blockchain activities involve significant technical, operational, financial, and protocol risks, including but not limited to:
 
-- Slashing 或奖励损失；
-- 验证者停机或故障；
-- 协议漏洞、升级、分叉、治理变更或网络故障；
-- 智能合约漏洞；
-- 奖励波动或无奖励；
-- 奖励分发延迟、失败或错误；
-- 因你的钱包、设备、私钥、助记词或交易错误导致访问权限丧失；
-- 来自第三方验证者、协议、桥、基础设施提供商或服务提供商的风险。
+- Slashing or loss of rewards;
+- Validator downtime or failure;
+- Protocol bugs, upgrades, forks, governance changes, or network failures;
+- Smart contract vulnerabilities;
+- Reward fluctuation or no rewards;
+- Delayed, failed, or incorrect reward distribution;
+- Loss of access resulting from your wallet, device, private key, seed phrase, or transaction errors;
+- Risks arising from third-party validators, protocols, bridges, infrastructure providers, or service providers.
 
-奖励不作保证，过去表现不保证未来结果。
+Rewards are not guaranteed, and past performance does not guarantee future results.
 
-### 6. SubWallet 的非托管性质
+### 6. Non-Custodial Nature of SubWallet
 
-你知悉 SubWallet 是非托管钱包提供商。
+You acknowledge that SubWallet is a non-custodial wallet provider.
 
-SubWallet 不代表你持有、托管、管理、控制或转移你的数字资产。
+SubWallet does not hold, custody, manage, control, or transfer your digital assets on your behalf.
 
-你仍全权负责你的钱包、私钥、助记词、密码、交易、质押决定和数字资产安全。
+You remain solely responsible for your wallet, private keys, seed phrase, passwords, transactions, staking decisions, and digital asset security.
 
-SubWallet 无法恢复你的私钥、助记词或数字资产。
+SubWallet cannot recover your private keys, seed phrase, or digital assets.
 
-### 7. 第三方验证者和服务
+### 7. Third-Party Validators and Services
 
-验证者、质押提供商、区块链协议和收益服务由独立第三方运营。
+Validators, staking providers, blockchain protocols, and earning services are operated by independent third parties.
 
-SubWallet 不负责：
+SubWallet is not responsible for:
 
-- 验证者运营；
-- 验证者表现；
-- 奖励生成或分发；
-- 协议运营；
-- Slashing；
-- 停机；
-- 影响第三方的安全事件；
-- 任何验证者、协议、区块链或第三方服务提供商的作为或不作为。
+- Validator operations;
+- Validator performance;
+- Reward generation or distribution;
+- Protocol operation;
+- Slashing;
+- Downtime;
+- Security incidents affecting third parties;
+- Any act or omission of any validator, protocol, blockchain, or third-party service provider.
 
-除非另有明确说明，SubWallet 不认可、认证、推荐或保证任何验证者、协议或第三方服务提供商。
+Unless expressly stated otherwise, SubWallet does not endorse, certify, recommend, or guarantee any validator, protocol, or third-party service provider.
 
-如适用，你必须在使用相关服务之前查看并同意相关第三方服务提供商的条款。
+Where applicable, you must review and agree to the terms of the relevant third-party service provider before using its services.
 
-### 8. 非投资建议
+### 8. No Investment Advice
 
-SubWallet 中显示的任何内容均不构成财务、投资、法律、税务、会计、交易或其他专业建议。
+Nothing displayed within SubWallet constitutes financial, investment, legal, tax, accounting, trading, or other professional advice.
 
-通过 SubWallet 提供的任何内容均不得被解释为购买、出售、质押、委托或以其他方式交易任何数字资产的建议、招揽、认可或邀请。
+Nothing made available through SubWallet shall be interpreted as a recommendation, solicitation, endorsement, or invitation to purchase, sell, stake, delegate, or otherwise transact in any digital asset.
 
-SubWallet 不作为你的经纪人、交易商、投资顾问、资产管理人、受托人、代理人、信托受托人、托管人或法律代表。
+SubWallet does not act as your broker, dealer, investment adviser, asset manager, fiduciary, agent, trustee, custodian, or legal representative.
 
-你全权负责评估任何质押或收益活动的适合性和风险。
+You remain solely responsible for evaluating the suitability and risks of any staking or earning activity.
 
-### 9. 用户声明
+### 9. User Representations
 
-你提供的所有确认、知悉、声明、保证和信息均由你作为钱包用户自行作出。
+All confirmations, acknowledgements, representations, warranties, and information provided by you are made solely by you as the Wallet User.
 
-除非适用于 SubWallet 的法律要求，否则 SubWallet 有权在向你提供相关服务时依赖你的声明，而无需独立核实、调查、认证、保证或确保其准确性、完整性或持续有效性。
+SubWallet is entitled to rely upon your representations when making the relevant services available to you without independently verifying, investigating, certifying, guaranteeing, or ensuring their accuracy, completeness, or continuing validity, except where required by laws applicable to SubWallet.
 
-你同意保持你的声明准确并及时更新，并知悉只要你访问或使用相关服务，这些声明将持续适用。
+You agree to keep your representations accurate and up to date and acknowledge that they continue to apply for as long as you access or use the relevant services.
 
-### 10. 最终确认
+### 10. Final Confirmation
 
-选择“我同意并继续”即表示你确认：
+By selecting "I Agree & Continue", you confirm that:
 
-- 你已仔细阅读并理解这些完整合规条款；
-- 你作出的所有声明据你所知均真实、准确且完整；
-- 你自愿接受与质押、委托、收益、区块链协议和相关第三方服务有关的所有风险；
-- 你同意 SubWallet 可记录你的接受情况，包括你的钱包地址、时间戳、应用版本、合规条款版本、所使用的提供商或协议，以及用于合规、安全和审计目的的其他相关技术记录；
-- 如果你不同意这些完整合规条款，你不得访问或使用相关服务。
+- You have carefully read and understood these Full Compliance Terms;
+- All representations made by you are true, accurate, and complete to the best of your knowledge;
+- You voluntarily accept all risks associated with staking, delegation, earning, blockchain protocols, and related third-party services;
+- You agree that SubWallet may record your acceptance, including your wallet address, timestamp, application version, Compliance Terms version, provider or protocol used, and other relevant technical records for compliance, security, and audit purposes;
+- If you do not agree to these Full Compliance Terms, you must not access or use the relevant services.
 
-### 11. 服务暂停和限制
+### 11. Suspension and Restriction of Services
 
-SubWallet 可自行决定，并在合理必要时，临时或永久地、无需事先通知地暂停、限制、延迟或拒绝访问任何质押、委托、验证者、收益或相关第三方服务，前提是 SubWallet 合理认为该等行动对于以下目的属必要：
+SubWallet may, at its sole discretion and where reasonably necessary, suspend, restrict, delay, or refuse access to any staking, delegation, validator, earning, or related third-party services, temporarily or permanently, without prior notice, where SubWallet reasonably believes such action is necessary to:
 
-- 遵守适用法律、法规、制裁、法院命令或政府及监管机构的请求；
-- 遵守任何验证者、协议、区块链网络、基础设施提供商或第三方服务提供商的要求、政策或合理请求；
-- 保护 SubWallet、其用户或任何第三方服务的安全性、完整性、可用性或正常运行；
-- 调查或防止疑似欺诈、洗钱、资助恐怖主义、规避制裁、安全事件、滥用或其他非法活动；
-- 防止 SubWallet 或其用户面临重大法律、监管、运营或安全风险；或处理 SubWallet 合理认定继续访问相关服务可能使 SubWallet、其用户或第三方面临不可接受的法律、监管、运营或安全风险的任何情况。
+- Comply with applicable laws, regulations, sanctions, court orders, or requests from governmental or regulatory authorities;
+- Comply with the requirements, policies, or reasonable requests of any validator, protocol, blockchain network, infrastructure provider, or third-party service provider;
+- Protect the security, integrity, availability, or proper operation of SubWallet, its users, or any third-party services;
+- Investigate or prevent suspected fraud, money laundering, terrorist financing, sanctions evasion, security incidents, abuse, or other unlawful activities;
+- Prevent material legal, regulatory, operational, or security risks to SubWallet or its users; or address any circumstance where SubWallet reasonably determines that continued access to the relevant services may expose SubWallet, its users, or third parties to unacceptable legal, regulatory, operational, or security risks.
 
-在适用法律允许的范围内，对于根据本条实施的任何暂停、限制、延迟或拒绝访问所产生的任何损失、延迟、错过的奖励或其他损害，SubWallet 不承担责任。
+To the extent permitted by applicable law, SubWallet shall not be liable for any loss, delay, missed rewards, or other damages arising from any suspension, restriction, delay, or refusal of access implemented in accordance with this Section.
 
-### 12. 完整合规条款的更新
+### 12. Updates to these Full Compliance Terms
 
-SubWallet 可不时更新、修改、补充或替换这些完整合规条款，以反映适用法律、法规、合规要求、行业惯例、平台功能、安全要求或第三方服务提供商要求的变化。
+SubWallet may update, modify, supplement, or replace these Full Compliance Terms from time to time to reflect changes in applicable laws, regulations, compliance requirements, industry practices, platform functionality, security requirements, or third-party service provider requirements.
 
-在适用法律要求或 SubWallet 合理认为需要更新接受的情况下，SubWallet 可要求你在继续访问或使用相关质押、委托、收益、验证者或相关第三方服务之前，查看并接受更新后的完整合规条款。
+Where required by applicable law or where SubWallet reasonably determines that updated acceptance is appropriate, SubWallet may require you to review and accept the updated Full Compliance Terms before you continue to access or use the relevant staking, delegation, earning, validator, or related third-party services.
 
-如果你不同意更新后的完整合规条款，你必须停止使用相关服务。
+If you do not agree to the updated Full Compliance Terms, you must discontinue using the relevant services.
 
-在接受更新版本后继续访问或使用相关服务，即构成你同意当时有效的完整合规条款。
+Continued access to or use of the relevant services after acceptance of an updated version constitutes your agreement to the then-current Full Compliance Terms.
