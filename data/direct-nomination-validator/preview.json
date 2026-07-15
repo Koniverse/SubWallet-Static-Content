@@ -18,9 +18,5 @@
   "zkverify": {
     "maxCount": 2,
     "preSelectValidators": "ZKUBqvGeM1VPExvkH5rmMm6QUTcDhQDEd7cREejDUwVGCjWeh,ZKXfikQX8ammJPLAhdvVur5Sc1i6P7svyMLwq3gxbiVCjgbK5"
-  },
-  "bittensor": {
-    "maxCount": 1,
-    "preSelectValidators": "5DXdHixxtCvoa6GHKs2Jgrdzc61882Ftx1zN2sYFQuwgL1S1,5GWUX4i7dn6HjevxL9k1Gyezy4hb7pTTEgnbT5rpeabKDQy5,5CAAxTpdKUAkQ28aYAPABGXxSGpAkQ6u8jQPwmg5mMaKpQ1C,5GKyynoDyBwc9H6WXCGsa4B4gr8wcrML8Vyo8o3ScD2DPQHV,5D9gz4m6FJRAyiE2Ud4u2RHDffZaoKAQWeE4javYZBmXT1Zp"
   }
 }
