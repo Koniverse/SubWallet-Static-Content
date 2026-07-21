@@ -21,6 +21,6 @@
   },
   "bittensor": {
     "maxCount": 1,
-    "preSelectedValidators": "5DXdHixxtCvoa6GHKs2Jgrdzc61882Ftx1zN2sYFQuwgL1S1"
+    "preSelectValidators": "5DXdHixxtCvoa6GHKs2Jgrdzc61882Ftx1zN2sYFQuwgL1S1"
   }
 }
