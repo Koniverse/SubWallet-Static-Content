@@ -3464,5 +3464,23 @@
       "meme",
       "socialfi"
     ]
+  },
+  {
+    "id": 215,
+    "title": "Gavun's Grid Miner",
+    "description": "A free to play game on all devices, with or without a wallet. Break rock, open Mystery Boxes, collect skins that mint as real NFTs on Asset Hub. Hold $WUD or $DOT and your runs get stronger.",
+    "url": "https://gavunminer.xyz/",
+    "subtitle": "Mining game on Polkadot Asset Hub",
+    "is_substrate": true,
+    "is_evm": null,
+    "is_featured": false,
+    "ordinal": 9999,
+    "desktop_mode": null,
+    "icon": "https://static-data.subwallet.app/dapps/images/icon/wud_universe_f26182a61c.png",
+    "preview_image": null,
+    "chains": [],
+    "categories": [
+      "gaming"
+    ]
   }
 ]
