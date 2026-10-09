@@ -414,10 +414,10 @@
       "Dwellir": "wss://asset-hub-polkadot-rpc.n.dwellir.com",
       "Lucky Friday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
       "Parity": "wss://polkadot-asset-hub-rpc.polkadot.io",
-      "StakeWorld": "wss://dot-rpc.stakeworld.io/assethub",
-      "IBP2": "wss://asset-hub-polkadot.dotters.network",
+      "StakeWorld": "wss://rpc-asset-hub-polkadot.stakeworld.io",
       "OnFinality": "wss://statemint.api.onfinality.io/public-ws",
-      "Radiumblock": "wss://statemint.public.curie.radiumblock.co/ws"
+      "Gatotech": "wss://asset-hub-polkadot.gatotech.network",
+      "Rotko": "wss://asset-hub-polkadot.rotko.net"
     },
     "evmInfo": null,
     "substrateInfo": {
