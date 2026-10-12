@@ -431,6 +431,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcDOT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "xode-LOCAL-DOT"
       }
     ]
   },
@@ -1816,14 +1822,14 @@
     "slug": "bifrost_testnet-NATIVE-BFC",
     "name": "Bifrost Testnet",
     "symbol": "BFC",
-    "decimals": 12,
+    "decimals": 18,
     "priceId": null,
-    "minAmount": "10000000000",
+    "minAmount": "0",
     "assetType": "NATIVE",
     "metadata": null,
     "hasValue": false,
     "ordinal": 56,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bnc_b91a7d9eb5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_network_875d8fd8b4.png",
     "originChain": "bifrost_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -3098,22 +3104,6 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/phala_network_84a301ea7e.png",
     "originChain": "khala",
     "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
-    "slug": "kilt-NATIVE-KILT",
-    "name": "KILT Protocol",
-    "symbol": "KILT",
-    "decimals": 15,
-    "priceId": "kilt-protocol",
-    "minAmount": "10000000000000",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": true,
-    "ordinal": 113,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_f4e47d8ad2.png",
-    "originChain": "kilt",
-    "multiChainAsset": "KILT-KILTProtocol",
     "assetRefs": []
   },
   {
@@ -4822,6 +4812,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "xode-LOCAL-USDT"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-LOCAL-USDt"
       }
     ]
   },
@@ -6617,9 +6613,9 @@
     },
     "hasValue": true,
     "ordinal": 297,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jpyd_e2785817f2.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jpyc_81cedefdae.png",
     "originChain": "shidenEvm",
-    "multiChainAsset": null,
+    "multiChainAsset": "JPYC-JPYCoin",
     "assetRefs": []
   },
   {
@@ -8266,9 +8262,9 @@
     "assetRefs": []
   },
   {
-    "slug": "polygon-ERC20-USD₮0-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "slug": "polygon-ERC20-USDT0-0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
     "name": "USD₮0",
-    "symbol": "USD₮0",
+    "symbol": "USDT0",
     "decimals": 6,
     "priceId": "usdt0",
     "minAmount": "0",
@@ -9460,6 +9456,18 @@
         "metadata": null,
         "disable": false,
         "destAsset": "moonbeam-LOCAL-xcUSDC"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "energy_web_x-LOCAL-USDC"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemine-LOCAL-USDC"
       }
     ]
   },
@@ -9494,7 +9502,7 @@
     "ordinal": 441,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_f643972064.png",
     "originChain": "bittensor",
-    "multiChainAsset": "TAO-Bittensor",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -9987,22 +9995,6 @@
     ]
   },
   {
-    "slug": "polimec-NATIVE-PLMC",
-    "name": "Polimec",
-    "symbol": "PLMC",
-    "decimals": 10,
-    "priceId": "polimec",
-    "minAmount": "100000000",
-    "assetType": "NATIVE",
-    "metadata": null,
-    "hasValue": true,
-    "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polimec_ddd1a7c51d.png",
-    "originChain": "polimec",
-    "multiChainAsset": null,
-    "assetRefs": []
-  },
-  {
     "slug": "invarch-NATIVE-VARCH",
     "name": "InvArch Network",
     "symbol": "VARCH",
@@ -10348,7 +10340,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vmanta_321aaddf36.png",
     "originChain": "bifrost_dot",
-    "multiChainAsset": null,
+    "multiChainAsset": "vMANTA-VoucherMANTA",
     "assetRefs": []
   },
   {
@@ -11895,7 +11887,7 @@
     "metadata": null,
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_0eeb77cea7.png",
     "originChain": "availTuringTest",
     "multiChainAsset": "AVAIL-AvailTuringTestnet",
     "assetRefs": [
@@ -12122,7 +12114,7 @@
     "metadata": null,
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_0eeb77cea7.png",
     "originChain": "avail_mainnet",
     "multiChainAsset": "AVAIL-Avail",
     "assetRefs": [
@@ -12876,7 +12868,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_4aa551727c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_88c389eaa6.png",
     "originChain": "statemint",
     "multiChainAsset": "WUD-GavunWud",
     "assetRefs": []
@@ -12894,7 +12886,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_4aa551727c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_88c389eaa6.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "WUD-GavunWud",
     "assetRefs": []
@@ -13668,6 +13660,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "mythos-NATIVE-MYTH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "hydradx_main-LOCAL-MYTH"
       }
     ]
   },
@@ -13986,14 +13984,14 @@
         "type": "XCM",
         "metadata": null,
         "disable": false,
-        "destAsset": "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1"
+        "destAsset": "ethereum-ERC20-TONCOIN-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1"
       }
     ]
   },
   {
-    "slug": "ethereum-ERC20-TON-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+    "slug": "ethereum-ERC20-TONCOIN-0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
     "name": "TON Coin",
-    "symbol": "TON",
+    "symbol": "TONCOIN",
     "decimals": 9,
     "priceId": "the-open-network",
     "minAmount": "0",
@@ -14172,9 +14170,9 @@
     ]
   },
   {
-    "slug": "moonbeam-ERC20-USDC.axl-0xCa01a1D0993565291051daFF390892518ACfAD3A",
+    "slug": "moonbeam-ERC20-axlUSDC-0xCa01a1D0993565291051daFF390892518ACfAD3A",
     "name": "Axelar Wrapped USDC",
-    "symbol": "USDC.axl",
+    "symbol": "axlUSDC",
     "decimals": 6,
     "priceId": "axlusdc",
     "minAmount": null,
@@ -14778,6 +14776,12 @@
         "metadata": null,
         "disable": false,
         "destAsset": "mythos-NATIVE-MYTH"
+      },
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-LOCAL-MYTH"
       }
     ]
   },
@@ -15308,7 +15312,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_16bb040742.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_0eeb77cea7.png",
     "originChain": "ethereum",
     "multiChainAsset": "AVAIL-Avail",
     "assetRefs": [
@@ -16366,7 +16370,7 @@
     },
     "hasValue": false,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_3e7774cff6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/avail_0eeb77cea7.png",
     "originChain": "sepolia_ethereum",
     "multiChainAsset": "AVAIL-AvailTuringTestnet",
     "assetRefs": [
@@ -16673,9 +16677,9 @@
     "assetRefs": []
   },
   {
-    "slug": "gnosis-NATIVE-xDAI",
-    "name": "xDAI",
-    "symbol": "xDAI",
+    "slug": "gnosis-NATIVE-XDAI",
+    "name": "XDAI",
+    "symbol": "XDAI",
     "decimals": 18,
     "priceId": "xdai",
     "minAmount": "0",
@@ -18279,7 +18283,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_1_new_601b45c7ed.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_1_new_81872f8501.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18336,7 +18340,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_5_new_221de84a2c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_5_new_5fc079818a.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18374,7 +18378,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_15_new_00a58d9ba9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_15_new_9fab9fd3d5.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18393,7 +18397,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_48_new_921ce7192c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_48_new_c7bcd79a12.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18431,7 +18435,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_12_new_d9234090f9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_12_new_1ec3d6c901.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18450,7 +18454,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_10_new_87f09bffa8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_10_new_0845999063.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18469,7 +18473,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_13_new_c093600622.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_13_new_f714fc2f7a.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18507,7 +18511,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_22_new_831f7b50d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_22_new_7d8d9e5cc0.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18526,7 +18530,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_16_new_7d54db9a84.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_16_new_f39a97d4bb.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18564,7 +18568,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_9_new_bdc5a46544.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_9_new_1c46088932.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18621,7 +18625,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_35_new_bc20028aa5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_35_new_f2c591d351.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18640,7 +18644,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_43_new_2da3a115d9.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_43_new_51ebdfec3b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18659,7 +18663,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_39_new_3edf9d0d29.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_39_new_c2c904ee29.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18678,7 +18682,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_8_new_c78ebe2b24.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_8_new_75dc48bdb7.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18697,7 +18701,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_17_new_dcf7efb471.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_17_new_5107c843a3.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18735,7 +18739,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_51_new_07371191d3.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_51_new_2d8124fffb.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18830,7 +18834,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_45_new_1edf9f1e40.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_45_new_18562b555d.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18906,7 +18910,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_20_new_4955cae852.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_20_new_53a9236128.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -18925,7 +18929,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_26_new_8bf666df84.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_26_new_662513f7b0.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19001,7 +19005,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_42_new_f3003b7a87.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_42_new_8782e1c985.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19077,7 +19081,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_25_new_56dc4e665b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_25_new_7c26666e3b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19153,7 +19157,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_27_new_f321aa0b11.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_27_new_31c9208528.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19191,7 +19195,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_6_new_5028aa79cf.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_6_new_c22bd5e751.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19210,7 +19214,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_34_new_a21457e4fa.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_34_new_0176bd1f38.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19248,7 +19252,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_44_new_99a6ac602b.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_44_new_b428b05c49.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19324,7 +19328,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_37_new_1d04f2f9d6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_37_new_aae56e2c8a.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19343,7 +19347,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_46_new_b4f7c9b7cd.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_46_new_b411a23308.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19362,7 +19366,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_18_new_ce50811113.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_18_new_4b362b4228.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19400,7 +19404,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_79_new_623bf4ebab.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_79_new_257f668fb2.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19419,7 +19423,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_80_new_b9f86796d7.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_80_new_429381a25c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19457,7 +19461,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_59_new_740d3d36c3.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_59_new_05519202b2.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19552,7 +19556,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_77_new_8618101ea6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_77_new_6f62b11fb8.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19571,7 +19575,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_66_new_2ef59d5c00.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_66_new_fe0b555378.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19609,7 +19613,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_new_c9d5cb5968.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_new_08be7b2366.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19666,7 +19670,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_65_new_66467e0d50.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_65_new_75e7fdb0cf.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19685,7 +19689,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_73_new_7653e6b816.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_73_new_516a150718.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19704,7 +19708,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_76_new_3d538cf749.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_76_new_b0b86e4ac6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19723,7 +19727,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_67_new_83e71d01ea.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_67_new_986bea2561.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19742,7 +19746,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_72_new_b60e7e5ca6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_72_new_63edf446b8.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19761,7 +19765,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_74_new_58903bcdd6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_74_new_b7fc6060f0.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -19799,7 +19803,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_81_new_2b63521edb.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_81_new_80440b120d.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20578,7 +20582,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_4aa551727c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wud_88c389eaa6.png",
     "originChain": "jamton",
     "multiChainAsset": "WUD-GavunWud",
     "assetRefs": []
@@ -20647,7 +20651,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_91_32d74b37af.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_91_new_efb49e7b5b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20666,7 +20670,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_92_2227371529.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_92_new_cb3f084c56.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20723,7 +20727,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_90_f4d0132160.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_90_new_af58768139.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20761,7 +20765,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subnet_89_6584cfe704.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_89_new_1b6897b39e.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20780,7 +20784,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/subnet_86_c89880dd10.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_86_new_26a2528c4a.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -20799,7 +20803,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_95_f2dfdb72e5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_95_new_06d1bfa327.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21430,7 +21434,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_96_new_a69d6fe4e0.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_96_new_0ad69cad36.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21468,7 +21472,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_98_new_7a763e21bc.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_98_new_f40fd69271.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21506,7 +21510,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_100_new_54eecc7f3f.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_100_new_5927b23cb1.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21544,7 +21548,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_102_new_bbc211d636.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_102_new_9d41d42902.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21563,7 +21567,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_103_new_761722f919.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_103_new_52b7047a4f.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21620,7 +21624,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_106_new_dc910d3e42.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_106_new_135b721918.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21639,7 +21643,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_107_new_1c533beec1.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_107_new_cba8fec646.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21658,7 +21662,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_108_new_e8e373c52a.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_108_new_148c625681.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21677,7 +21681,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_109_new_6b4fe3aaa6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_109_new_332677fd11.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21696,7 +21700,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_110_new_2b3fd84cd6.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_110_new_f30bce3ea6.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21734,7 +21738,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_112_new_31a6cebb14.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_112_new_c9bb189f90.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21772,7 +21776,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_114_new_c4ad0e5040.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_114_new_ed7a3108b5.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21810,7 +21814,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_116_new_d135ee69ec.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_116_new_87763e379b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21829,7 +21833,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_117_new_f2a54768fa.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_117_new_c2460da692.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21848,7 +21852,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_118_new_bf76764ca7.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_118_new_56601cf432.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21867,7 +21871,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_119_new_275cee4a06.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_119_new_229cf99b6c.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21886,7 +21890,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_120_new_4473c3da62.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_120_new_6a3ece4674.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21905,7 +21909,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_121_new_4608cd00b5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_121_new_74974a884d.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21924,7 +21928,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_122_new_777d2acb40.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_122_new_d98b30a42b.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21962,7 +21966,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_124_new_5049b5fdc5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_124_new_db0f2c8bd0.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -21981,7 +21985,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_125_new_b51ebbe4e8.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_125_new_70032cf8c0.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22019,7 +22023,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_127_new_812f516c2c.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_127_new_b2abbcb7a8.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22038,7 +22042,7 @@
     },
     "hasValue": true,
     "ordinal": 9999,
-    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_128_new_731b8c9ad5.png",
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_128_new_7258770fbe.png",
     "originChain": "bittensor",
     "multiChainAsset": null,
     "assetRefs": []
@@ -22072,7 +22076,7 @@
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
     "originChain": "subtensor_evm",
-    "multiChainAsset": "TAO-Bittensor",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
@@ -22251,14 +22255,29 @@
     "minAmount": "10000000000",
     "assetType": "LOCAL",
     "metadata": {
-      "assetId": "100000000"
+      "assetId": "100000000",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "Here": null
+          }
+        }
+      }
     },
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dot_1c43fb461f.png",
     "originChain": "xode",
     "multiChainAsset": "DOT-Polkadot",
-    "assetRefs": []
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-NATIVE-DOT"
+      }
+    ]
   },
   {
     "slug": "xode-LOCAL-USDT",
@@ -22393,7 +22412,7 @@
     "symbol": "HOLLAR",
     "decimals": 18,
     "priceId": "hydrated-dollar",
-    "minAmount": "0",
+    "minAmount": "20000000000000000",
     "assetType": "LOCAL",
     "metadata": {
       "assetId": "222",
@@ -22690,6 +22709,1778 @@
     "icon": "https://static-data.subwallet.app/chain-assets/images/icon/analog_d9aa882625.png",
     "originChain": "base_mainnet",
     "multiChainAsset": "ANLOG-Analog",
+    "assetRefs": []
+  },
+  {
+    "slug": "acurast_mainnet-NATIVE-ACU",
+    "name": "Acurast",
+    "symbol": "ACU",
+    "decimals": 12,
+    "priceId": "acurast",
+    "minAmount": "1000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Logo_2_3b67bbf296.png",
+    "originChain": "acurast_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-TRAC-0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "priceId": "origintrail",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "TRAC-OriginTrail",
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-TRAC-0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "priceId": "origintrail",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": "TRAC-OriginTrail",
+    "assetRefs": []
+  },
+  {
+    "slug": "gnosis-ERC20-TRAC-0xEddd81E0792E764501AaE206EB432399a0268DB5",
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "priceId": "origintrail",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xEddd81E0792E764501AaE206EB432399a0268DB5"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/origintrail_a919cb3a65.png",
+    "originChain": "gnosis",
+    "multiChainAsset": "TRAC-OriginTrail",
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-vMANTA-0xf0b9889CDB70a716Bf72e37Ef626F08d9F14c180",
+    "name": "Bifrost Voucher MANTA",
+    "symbol": "vMANTA",
+    "decimals": 18,
+    "priceId": "bifrost-voucher-manta",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xf0b9889CDB70a716Bf72e37Ef626F08d9F14c180"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vmanta_321aaddf36.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "vMANTA-VoucherMANTA",
+    "assetRefs": []
+  },
+  {
+    "slug": "monad-NATIVE-MON",
+    "name": "Monad",
+    "symbol": "MON",
+    "decimals": 18,
+    "priceId": "monad",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/monad_fbb386b6c4.png",
+    "originChain": "monad",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "monad-ERC20-USDC-0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "monad",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "manta_network_evm-ERC20-vMANTA-0x7746ef546d562b443AE4B4145541a3b1a3D75717",
+    "name": "Bifrost Voucher MANTA",
+    "symbol": "vMANTA",
+    "decimals": 18,
+    "priceId": "bifrost-voucher-manta",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x7746ef546d562b443AE4B4145541a3b1a3D75717"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/vmanta_321aaddf36.png",
+    "originChain": "manta_network_evm",
+    "multiChainAsset": "vMANTA-VoucherMANTA",
+    "assetRefs": []
+  },
+  {
+    "slug": "stable-NATIVE-gUSDT",
+    "name": "gUSDT",
+    "symbol": "gUSDT",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/gusdt_d111721d1e.png",
+    "originChain": "stable",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "stable-ERC20-USDT0-0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "priceId": "usdt0",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/USD_0_5b8d42c38c.png",
+    "originChain": "stable",
+    "multiChainAsset": "USD₮0-USD₮0",
+    "assetRefs": []
+  },
+  {
+    "slug": "kilt-NATIVE-KILT",
+    "name": "KILT Protocol",
+    "symbol": "KILT",
+    "decimals": 15,
+    "priceId": "kilt-protocol",
+    "minAmount": "10000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/kilt_00b4f01b3e.png",
+    "originChain": "kilt",
+    "multiChainAsset": "KILT-KILTProtocol",
+    "assetRefs": []
+  },
+  {
+    "slug": "polimec-NATIVE-PLMC",
+    "name": "Polimec",
+    "symbol": "PLMC",
+    "decimals": 10,
+    "priceId": "polimec",
+    "minAmount": "100000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/polimec_487d8ec1e2.png",
+    "originChain": "polimec",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xTAO-0x5eD4103E0D58c8507EF03E227b6365ED98E6f518",
+    "name": "TAO",
+    "symbol": "xTAO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x5eD4103E0D58c8507EF03E227b6365ED98E6f518"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN4-0x3F2c5460bF575cFa8e3299f643645c91cAb6F565",
+    "name": "Subnet 4",
+    "symbol": "xSN4",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 4,
+      "contractAddress": "0x3F2c5460bF575cFa8e3299f643645c91cAb6F565"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_4_new_1f3cdcc808.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN8-0x30B5F838d479EC994793e576c9463B53B9a8E277",
+    "name": "SUBNET 8",
+    "symbol": "xSN8",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 8,
+      "contractAddress": "0x30B5F838d479EC994793e576c9463B53B9a8E277"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_8_new_75dc48bdb7.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN9-0x4E1f8793bb6d2a81337Eb3EaF1b6FBf4743716b3",
+    "name": "SUBNET 9",
+    "symbol": "xSN9",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 9,
+      "contractAddress": "0x4E1f8793bb6d2a81337Eb3EaF1b6FBf4743716b3"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_9_new_bdc5a46544.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN17-0x6b9c2DE3365635FFe8c8D95D318a3691ed827a49",
+    "name": "SUBNET 17",
+    "symbol": "xSN17",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 17,
+      "contractAddress": "0x6b9c2DE3365635FFe8c8D95D318a3691ed827a49"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_17_new_a6047025d5.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN33-0x93D38C4E984b134B48908641776d994f0Bf1a6dD",
+    "name": "SUBNET 33",
+    "symbol": "xSN33",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 33,
+      "contractAddress": "0x93D38C4E984b134B48908641776d994f0Bf1a6dD"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_33_new_c839e7c99f.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN34-0x807d4cf263a4e137d1E6Bea8324Ed85562e57c9b",
+    "name": "SUBNET 34",
+    "symbol": "xSN34",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 34,
+      "contractAddress": "0x807d4cf263a4e137d1E6Bea8324Ed85562e57c9b"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_34_new_a21457e4fa.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN35-0x2E19cFaEABdF7C738F59F704a1d209C0a146E521",
+    "name": "SUBNET 35",
+    "symbol": "xSN35",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 35,
+      "contractAddress": "0x2E19cFaEABdF7C738F59F704a1d209C0a146E521"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_35_new_f2c591d351.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN41-0x1Ad8e6e648f4F24259eE35Be796408DD18D0B0F6",
+    "name": "SUBNET 41",
+    "symbol": "xSN41",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 41,
+      "contractAddress": "0x1Ad8e6e648f4F24259eE35Be796408DD18D0B0F6"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_41_new_a610534abc.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN44-0xbbC063299D61ee6c5918633E3Bd30C42D2813b73",
+    "name": "SUBNET 44",
+    "symbol": "xSN44",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 44,
+      "contractAddress": "0xbbC063299D61ee6c5918633E3Bd30C42D2813b73"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_44_new_95018ec3f0.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN46-0xDDd14D0e433c5db4367e337e0928aD430c35bbF4",
+    "name": "SUBNET 46",
+    "symbol": "xSN46",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 46,
+      "contractAddress": "0xDDd14D0e433c5db4367e337e0928aD430c35bbF4"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_46_new_b411a23308.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN50-0xDa69E0fc33F6ddC13DC6Af2a3ea47198aEEFB927",
+    "name": "SUBNET 50",
+    "symbol": "xSN50",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 50,
+      "contractAddress": "0xDa69E0fc33F6ddC13DC6Af2a3ea47198aEEFB927"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_50_new_f0b2dbd530.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN51-0x36899fc109F970d3d1E94e24C962607484149CD9",
+    "name": "SUBNET 51",
+    "symbol": "xSN51",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 51,
+      "contractAddress": "0x36899fc109F970d3d1E94e24C962607484149CD9"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_51_new_2d8124fffb.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN56-0x3F18Bd7844492A6ED34738C4D2AD486E9299B997",
+    "name": "SUBNET 56",
+    "symbol": "xSN56",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 56,
+      "contractAddress": "0x3F18Bd7844492A6ED34738C4D2AD486E9299B997"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_56_new_410c507975.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN62-0x0Aea63F0f4A1DcC1d6641Bf393A0032c2C33f88B",
+    "name": "SUBNET 62",
+    "symbol": "xSN62",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 62,
+      "contractAddress": "0x0Aea63F0f4A1DcC1d6641Bf393A0032c2C33f88B"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_62_new_2fcbafb48c.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN64-0x3D44B9c5eBA6DE51f4Da3152341EBe591962e843",
+    "name": "SUBNET 64",
+    "symbol": "xSN64",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 64,
+      "contractAddress": "0x3D44B9c5eBA6DE51f4Da3152341EBe591962e843"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_64_new_8860a8b6b1.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN65-0x875D8b5D0dF57b234cA7bf1a6fA44e9Aa114f055",
+    "name": "SUBNET 65",
+    "symbol": "xSN65",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 65,
+      "contractAddress": "0x875D8b5D0dF57b234cA7bf1a6fA44e9Aa114f055"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_65_new_611ad70056.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN71-0x156e431cC96E0e3B70c97214d869C9bC4b5bbD21",
+    "name": "SUBNET 71",
+    "symbol": "xSN71",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 71,
+      "contractAddress": "0x156e431cC96E0e3B70c97214d869C9bC4b5bbD21"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_new_c6db09b81c.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-xSN120-0xbB6A51b990C116418033d3648B96C24e995E83A8",
+    "name": "SUBNET 120",
+    "symbol": "xSN120",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 120,
+      "contractAddress": "0xbB6A51b990C116418033d3648B96C24e995E83A8"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_120_new_d4df6878c7.png",
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xTAO-0xb99FBE68c8A0cC14bE8c1AF73DD4DfEA8a76aDD7",
+    "name": "TAO",
+    "symbol": "xTAO",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xb99FBE68c8A0cC14bE8c1AF73DD4DfEA8a76aDD7"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bittensor_7ebbcae9d6.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN4-0x96C3A43918d30a7ca4fc195c7E93A959016a7c26",
+    "name": "SUBNET 4",
+    "symbol": "xSN4",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 4,
+      "contractAddress": "0x96C3A43918d30a7ca4fc195c7E93A959016a7c26"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_4_new_1f3cdcc808.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN8-0xD321054982b8Aa84785c21E1e2371ebf2e00Eb47",
+    "name": "SUBNET 8",
+    "symbol": "xSN8",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 8,
+      "contractAddress": "0xD321054982b8Aa84785c21E1e2371ebf2e00Eb47"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_8_new_75dc48bdb7.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN9-0xc995C19aaDec7f9005b64e447baccdA46F413Ea1",
+    "name": "SUBNET 9",
+    "symbol": "xSN9",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 9,
+      "contractAddress": "0xc995C19aaDec7f9005b64e447baccdA46F413Ea1"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_9_new_bdc5a46544.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN17-0xe611E64Af6eFc07BD8697f95f6cF04341de91971",
+    "name": "SUBNET 17",
+    "symbol": "xSN17",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 17,
+      "contractAddress": "0xe611E64Af6eFc07BD8697f95f6cF04341de91971"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_17_new_27dd8317ec.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN33-0x5663179054538cAd0467db00B87d5650600A041E",
+    "name": "SUBNET 33",
+    "symbol": "xSN33",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 33,
+      "contractAddress": "0x5663179054538cAd0467db00B87d5650600A041E"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_33_new_c839e7c99f.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN34-0x150E673eC255e87A49cE0848216f07EBb107379e",
+    "name": "SUBNET 34",
+    "symbol": "xSN34",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 34,
+      "contractAddress": "0x150E673eC255e87A49cE0848216f07EBb107379e"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_34_new_a21457e4fa.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN35-0x38d50D6398dcBB03F334C4409f61117aD37c1A34",
+    "name": "SUBNET 35",
+    "symbol": "xSN35",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 35,
+      "contractAddress": "0x38d50D6398dcBB03F334C4409f61117aD37c1A34"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_35_new_3d675b21c7.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN41-0x3ABAB2E0A24A66C1841716A738964FF757327e87",
+    "name": "SUBNET 41",
+    "symbol": "xSN41",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 41,
+      "contractAddress": "0x3ABAB2E0A24A66C1841716A738964FF757327e87"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_41_new_a610534abc.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN44-0x2cd86CaBfdE8FfA81d7290bE026b74931C4d1ae4",
+    "name": "SUBNET 44",
+    "symbol": "xSN44",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 44,
+      "contractAddress": "0x2cd86CaBfdE8FfA81d7290bE026b74931C4d1ae4"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_44_new_710628aa76.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN46-0xDc338d54870BF0D93a3EF734b3b30D5ae0318a2e",
+    "name": "SUBNET 46",
+    "symbol": "xSN46",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 46,
+      "contractAddress": "0xDc338d54870BF0D93a3EF734b3b30D5ae0318a2e"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_46_new_b411a23308.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN50-0x6E352B77796857C01fAc416CC18413a9cD09C1b4",
+    "name": "SUBNET 50",
+    "symbol": "xSN50",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 50,
+      "contractAddress": "0x6E352B77796857C01fAc416CC18413a9cD09C1b4"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_50_new_f0b2dbd530.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN51-0x88C23896a91e7f21cba56f4090193730630D5F04",
+    "name": "SUBNET 51",
+    "symbol": "xSN51",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 51,
+      "contractAddress": "0x88C23896a91e7f21cba56f4090193730630D5F04"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_51_new_2d8124fffb.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN56-0xDb3Bc179aC3a78886e277cb83551ceF2fD3e8728",
+    "name": "SUBNET 56",
+    "symbol": "xSN56",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 56,
+      "contractAddress": "0xDb3Bc179aC3a78886e277cb83551ceF2fD3e8728"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_56_new_410c507975.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN62-0xA964973077675E7AeA71744B05C1111e1A51eE36",
+    "name": "SUBNET 62",
+    "symbol": "xSN62",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 62,
+      "contractAddress": "0xA964973077675E7AeA71744B05C1111e1A51eE36"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_62_new_2fcbafb48c.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN64-0xbAdd3F2d84605032C1B2AD8cBebb4700Dcd9D7dE",
+    "name": "SUBNET 64",
+    "symbol": "xSN64",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 64,
+      "contractAddress": "0xbAdd3F2d84605032C1B2AD8cBebb4700Dcd9D7dE"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_64_new_8860a8b6b1.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN65-0x2c799017D8B26ab2e50f317322BEc8CE68e322E9",
+    "name": "SUBNET 65",
+    "symbol": "xSN65",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 65,
+      "contractAddress": "0x2c799017D8B26ab2e50f317322BEc8CE68e322E9"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_65_new_611ad70056.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN71-0x31b85188F676125a66cBaDda8482FE52EBd2905a",
+    "name": "SUBNET 71",
+    "symbol": "xSN71",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 71,
+      "contractAddress": "0x31b85188F676125a66cBaDda8482FE52EBd2905a"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_71_new_c6db09b81c.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-xSN120-0xA3b335797BF5a2Cc2FC21Cc4286D2b3F40f0771e",
+    "name": "SUBNET 120",
+    "symbol": "xSN120",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 120,
+      "contractAddress": "0xA3b335797BF5a2Cc2FC21Cc4286D2b3F40f0771e"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_120_new_d4df6878c7.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-MUSD-0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+    "name": "Metamask USD",
+    "symbol": "MUSD",
+    "decimals": 6,
+    "priceId": "metamask-usd",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/musd_2b6472cd23.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "mosaic-NATIVE-MOS",
+    "name": "Mosaic Coin",
+    "symbol": "MOS",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "10000000000000000",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/mosaic_e8feed24d7.png",
+    "originChain": "mosaic",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "cardano-CIP26-NIGHT-0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854",
+    "name": "Midnight",
+    "symbol": "NIGHT",
+    "decimals": 6,
+    "priceId": "midnight-3",
+    "minAmount": "0",
+    "assetType": "CIP26",
+    "metadata": {
+      "cardanoId": "0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/midnight_a7e2f48395.png",
+    "originChain": "cardano",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "energy_web_x-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isSufficient": true,
+      "multilocation": {
+        "parents": 1,
+        "interior": {
+          "X3": [
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
+        }
+      },
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1337
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "energy_web_x",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDC"
+      }
+    ]
+  },
+  {
+    "slug": "energy_web_x-LOCAL-stEWT",
+    "name": "Liquid EWT",
+    "symbol": "stEWT",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "1",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isSufficient": true,
+      "multilocation": {
+        "parents": 0,
+        "interior": {
+          "X2": [
+            {
+              "PalletInstance": 60
+            },
+            {
+              "GeneralIndex": 1
+            }
+          ]
+        }
+      },
+      "isDisableTransfer": true
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/stewt_7c69dc6e62.png",
+    "originChain": "energy_web_x",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bittensor_testnet-LOCAL-α",
+    "name": "Apex",
+    "symbol": "α",
+    "decimals": 9,
+    "priceId": "apex-5",
+    "minAmount": "0",
+    "assetType": "LOCAL",
+    "metadata": {
+      "netuid": 1
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/netuid_1_new_81872f8501.png",
+    "originChain": "bittensor_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "bifrost_network-NATIVE-BFC",
+    "name": "Bifrost",
+    "symbol": "BFC",
+    "decimals": 18,
+    "priceId": "bifrost",
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/bifrost_network_875d8fd8b4.png",
+    "originChain": "bifrost_network",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "stable-ERC20-PYUSD0-0x99aF3EeA856556646C98c8B9b2548Fe815240750",
+    "name": "PayPal USD",
+    "symbol": "PYUSD0",
+    "decimals": 6,
+    "priceId": "paypal-usd",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x99aF3EeA856556646C98c8B9b2548Fe815240750"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/pyusdt_09f5c7dd99.png",
+    "originChain": "stable",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "statemine-LOCAL-USDC",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "priceId": "usd-coin",
+    "minAmount": "10000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "isBridged": true,
+      "multilocation": {
+        "parents": 2,
+        "interior": {
+          "X4": [
+            {
+              "GlobalConsensus": "Polkadot"
+            },
+            {
+              "Parachain": 1000
+            },
+            {
+              "PalletInstance": 50
+            },
+            {
+              "GeneralIndex": 1337
+            }
+          ]
+        }
+      },
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 2,
+          "interior": {
+            "X4": [
+              {
+                "GlobalConsensus": {
+                  "polkadot": null
+                }
+              },
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1337
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdc_1bb472cd12.png",
+    "originChain": "statemine",
+    "multiChainAsset": "USDC-USDCoin",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDC"
+      }
+    ]
+  },
+  {
+    "slug": "statemine-LOCAL-USDt",
+    "name": "Tether USD",
+    "symbol": "USDt",
+    "decimals": 6,
+    "priceId": "tether",
+    "minAmount": "100",
+    "assetType": "LOCAL",
+    "metadata": {
+      "assetId": "1984",
+      "paraSpellIdentifyV4": {
+        "location": {
+          "parents": 1,
+          "interior": {
+            "X3": [
+              {
+                "Parachain": 1000
+              },
+              {
+                "PalletInstance": 50
+              },
+              {
+                "GeneralIndex": 1984
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/usdt_c166c71805.png",
+    "originChain": "statemine",
+    "multiChainAsset": "USDT-Tether",
+    "assetRefs": [
+      {
+        "type": "XCM",
+        "metadata": null,
+        "disable": false,
+        "destAsset": "statemint-LOCAL-USDt"
+      }
+    ]
+  },
+  {
+    "slug": "cardano_preview-NATIVE-tADA",
+    "name": "Cardano Preview",
+    "symbol": "tADA",
+    "decimals": 6,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": {
+      "cardanoId": "lovelace"
+    },
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/cardano_preview_f5a6053898.png",
+    "originChain": "cardano_preview",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-JPYC-0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "priceId": "jpycoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jpyc_81cedefdae.png",
+    "originChain": "ethereum",
+    "multiChainAsset": "JPYC-JPYCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "avalanche_c-ERC20-JPYC-0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "priceId": "jpycoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jpyc_81cedefdae.png",
+    "originChain": "avalanche_c",
+    "multiChainAsset": "JPYC-JPYCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "polygon-ERC20-JPYC-0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "priceId": "jpycoin",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/jpyc_81cedefdae.png",
+    "originChain": "polygon",
+    "multiChainAsset": "JPYC-JPYCoin",
+    "assetRefs": []
+  },
+  {
+    "slug": "bifrost_dot-LOCAL-WAVE",
+    "name": "WAVE",
+    "symbol": "WAVE",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "100000000000000",
+    "assetType": "LOCAL",
+    "metadata": {
+      "onChainInfo": {
+        "Token2": "14"
+      }
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/wave_1535bb07a6.png",
+    "originChain": "bifrost_dot",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "base_mainnet-ERC20-PR-0x2357110F5F0c5344EEf75966500c75116A4aA153",
+    "name": "Primer",
+    "symbol": "PR",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x2357110F5F0c5344EEf75966500c75116A4aA153"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/primer_86bbe78dd3.png",
+    "originChain": "base_mainnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "datahaven_testnet-NATIVE-MOCK",
+    "name": "MOCK",
+    "symbol": "MOCK",
+    "decimals": 18,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "NATIVE",
+    "metadata": null,
+    "hasValue": false,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/dataheaven_bdbeb43115.png",
+    "originChain": "datahaven_testnet",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-TAO-0x0000000000000000000000000000000000000000",
+    "name": "TAO",
+    "symbol": "TAO",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN56-0x0000000000000000000000000000000000000000",
+    "name": "SN56",
+    "symbol": "SN56",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 56,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN50-0x0000000000000000000000000000000000000000",
+    "name": "SN50",
+    "symbol": "SN50",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 50,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN51-0x0000000000000000000000000000000000000000",
+    "name": "SN51",
+    "symbol": "SN51",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 51,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN17-0x0000000000000000000000000000000000000000",
+    "name": "SN17",
+    "symbol": "SN17",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 17,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN4-0x0000000000000000000000000000000000000000",
+    "name": "SN4",
+    "symbol": "SN4",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 4,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN65-0x0000000000000000000000000000000000000000",
+    "name": "SN65",
+    "symbol": "SN65",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 65,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN35-0x0000000000000000000000000000000000000000",
+    "name": "SN35",
+    "symbol": "SN35",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 35,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN44-0x0000000000000000000000000000000000000000",
+    "name": "SN44",
+    "symbol": "SN44",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 44,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN62-0x0000000000000000000000000000000000000000",
+    "name": "SN62",
+    "symbol": "SN62",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 62,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN46-0x0000000000000000000000000000000000000000",
+    "name": "SN46",
+    "symbol": "SN46",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 46,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN41-0x0000000000000000000000000000000000000000",
+    "name": "SN41",
+    "symbol": "SN41",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 41,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN9-0x0000000000000000000000000000000000000000",
+    "name": "SN9",
+    "symbol": "SN9",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 9,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN120-0x0000000000000000000000000000000000000000",
+    "name": "SN120",
+    "symbol": "SN120",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 120,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN8-0x0000000000000000000000000000000000000000",
+    "name": "SN8",
+    "symbol": "SN8",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 8,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN33-0x0000000000000000000000000000000000000000",
+    "name": "SN33",
+    "symbol": "SN33",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 33,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN34-0x0000000000000000000000000000000000000000",
+    "name": "SN34",
+    "symbol": "SN34",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 34,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN71-0x0000000000000000000000000000000000000000",
+    "name": "SN71",
+    "symbol": "SN71",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 71,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "subtensor_evm-ERC20-SN64-0x0000000000000000000000000000000000000000",
+    "name": "SN64",
+    "symbol": "SN64",
+    "decimals": 9,
+    "priceId": null,
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "netuid": 64,
+      "isAlphaToken": true,
+      "contractAddress": "0x0000000000000000000000000000000000000000"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": null,
+    "originChain": "subtensor_evm",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "ethereum-ERC20-ACU-0x216b3643ff8b7BB30d8A48E9F1BD550126202AdD",
+    "name": "Acurast",
+    "symbol": "ACU",
+    "decimals": 12,
+    "priceId": "acurast",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x216b3643ff8b7BB30d8A48E9F1BD550126202AdD"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Logo_2_1bf15b2215.png",
+    "originChain": "ethereum",
+    "multiChainAsset": null,
+    "assetRefs": []
+  },
+  {
+    "slug": "binance-ERC20-ACU-0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF",
+    "name": "Acurast",
+    "symbol": "ACU",
+    "decimals": 12,
+    "priceId": "acurast",
+    "minAmount": "0",
+    "assetType": "ERC20",
+    "metadata": {
+      "contractAddress": "0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF"
+    },
+    "hasValue": true,
+    "ordinal": 9999,
+    "icon": "https://static-data.subwallet.app/chain-assets/images/icon/Logo_2_1bf15b2215.png",
+    "originChain": "binance",
+    "multiChainAsset": null,
     "assetRefs": []
   },
   {
